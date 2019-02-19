@@ -1,0 +1,2381 @@
+Year,Price,Region
+Q1 1974,7743,North
+Q1 1974,9629,Yorks & Humber
+Q1 1974,8146,North West
+Q1 1974,8845,East Midlands
+Q1 1974,9647,West Midlands
+Q1 1974,10008,East Anglia
+Q1 1974,11007,Outer South East
+Q1 1974,12882,Outer Met
+Q1 1974,12973,London
+Q1 1974,9917,South West
+Q1 1974,9254,Wales
+Q1 1974,9083,Scotland
+Q1 1974,8397,Northern Ireland
+Q1 1974,9928,UK
+Q1 1975,8151,North
+Q1 1975,10301,Yorks & Humber
+Q1 1975,8504,North West
+Q1 1975,8960,East Midlands
+Q1 1975,10104,West Midlands
+Q1 1975,10494,East Anglia
+Q1 1975,11133,Outer South East
+Q1 1975,13278,Outer Met
+Q1 1975,13443,London
+Q1 1975,10738,South West
+Q1 1975,9878,Wales
+Q1 1975,9949,Scotland
+Q1 1975,9307,Northern Ireland
+Q1 1975,10388,UK
+Q1 1976,9524,North
+Q1 1976,11734,Yorks & Humber
+Q1 1976,9298,North West
+Q1 1976,9843,East Midlands
+Q1 1976,9975,West Midlands
+Q1 1976,11092,East Anglia
+Q1 1976,12026,Outer South East
+Q1 1976,14700,Outer Met
+Q1 1976,14685,London
+Q1 1976,11461,South West
+Q1 1976,11008,Wales
+Q1 1976,12365,Scotland
+Q1 1976,12068,Northern Ireland
+Q1 1976,11519,UK
+Q1 1977,10728,North
+Q1 1977,12805,Yorks & Humber
+Q1 1977,10306,North West
+Q1 1977,10550,East Midlands
+Q1 1977,11755,West Midlands
+Q1 1977,11679,East Anglia
+Q1 1977,12628,Outer South East
+Q1 1977,15629,Outer Met
+Q1 1977,15593,London
+Q1 1977,12155,South West
+Q1 1977,11826,Wales
+Q1 1977,13674,Scotland
+Q1 1977,14322,Northern Ireland
+Q1 1977,12409,UK
+Q1 1978,11893,North
+Q1 1978,14337,Yorks & Humber
+Q1 1978,11710,North West
+Q1 1978,11673,East Midlands
+Q1 1978,13158,West Midlands
+Q1 1978,13067,East Anglia
+Q1 1978,14054,Outer South East
+Q1 1978,17288,Outer Met
+Q1 1978,17315,London
+Q1 1978,13396,South West
+Q1 1978,12956,Wales
+Q1 1978,15074,Scotland
+Q1 1978,16659,Northern Ireland
+Q1 1978,13820,UK
+Q1 1979,14252,North
+Q1 1979,17115,Yorks & Humber
+Q1 1979,14906,North West
+Q1 1979,14448,East Midlands
+Q1 1979,16758,West Midlands
+Q1 1979,16511,East Anglia
+Q1 1979,18675,Outer South East
+Q1 1979,23404,Outer Met
+Q1 1979,23493,London
+Q1 1979,17470,South West
+Q1 1979,16485,Wales
+Q1 1979,18085,Scotland
+Q1 1979,20692,Northern Ireland
+Q1 1979,17793,UK
+Q1 1980,17675,North
+Q1 1980,21599,Yorks & Humber
+Q1 1980,18751,North West
+Q1 1980,18574,East Midlands
+Q1 1980,20984,West Midlands
+Q1 1980,22578,East Anglia
+Q1 1980,24780,Outer South East
+Q1 1980,29934,Outer Met
+Q1 1980,30047,London
+Q1 1980,22717,South West
+Q1 1980,20768,Wales
+Q1 1980,21508,Scotland
+Q1 1980,24766,Northern Ireland
+Q1 1980,22677,UK
+Q1 1981,18362,North
+Q1 1981,23742,Yorks & Humber
+Q1 1981,19982,North West
+Q1 1981,20456,East Midlands
+Q1 1981,21840,West Midlands
+Q1 1981,24159,East Anglia
+Q1 1981,25614,Outer South East
+Q1 1981,30961,Outer Met
+Q1 1981,30778,London
+Q1 1981,24026,South West
+Q1 1981,21844,Wales
+Q1 1981,22948,Scotland
+Q1 1981,23370,Northern Ireland
+Q1 1981,23730,UK
+Q1 1982,19257,North
+Q1 1982,24228,Yorks & Humber
+Q1 1982,19991,North West
+Q1 1982,20591,East Midlands
+Q1 1982,21551,West Midlands
+Q1 1982,23753,East Anglia
+Q1 1982,25896,Outer South East
+Q1 1982,31554,Outer Met
+Q1 1982,31404,London
+Q1 1982,24212,South West
+Q1 1982,22178,Wales
+Q1 1982,24388,Scotland
+Q1 1982,23080,Northern Ireland
+Q1 1982,24177,UK
+Q1 1983,20955,North
+Q1 1983,25839,Yorks & Humber
+Q1 1983,21517,North West
+Q1 1983,22521,East Midlands
+Q1 1983,23651,West Midlands
+Q1 1983,26768,East Anglia
+Q1 1983,29314,Outer South East
+Q1 1983,35744,Outer Met
+Q1 1983,34426,London
+Q1 1983,27009,South West
+Q1 1983,23849,Wales
+Q1 1983,26375,Scotland
+Q1 1983,23293,Northern Ireland
+Q1 1983,26307,UK
+Q1 1984,23540,North
+Q1 1984,28417,Yorks & Humber
+Q1 1984,23934,North West
+Q1 1984,24856,East Midlands
+Q1 1984,25830,West Midlands
+Q1 1984,30534,East Anglia
+Q1 1984,34342,Outer South East
+Q1 1984,42484,Outer Met
+Q1 1984,41237,London
+Q1 1984,30932,South West
+Q1 1984,26317,Wales
+Q1 1984,29333,Scotland
+Q1 1984,25008,Northern Ireland
+Q1 1984,29675,UK
+Q1 1985,25956,North
+Q1 1985,31770,Yorks & Humber
+Q1 1985,26592,North West
+Q1 1985,28256,East Midlands
+Q1 1985,28812,West Midlands
+Q1 1985,35108,East Anglia
+Q1 1985,39170,Outer South East
+Q1 1985,48762,Outer Met
+Q1 1985,48635,London
+Q1 1985,34721,South West
+Q1 1985,28713,Wales
+Q1 1985,32755,Scotland
+Q1 1985,27265,Northern Ireland
+Q1 1985,33200,UK
+Q1 1986,27082,North
+Q1 1986,33316,Yorks & Humber
+Q1 1986,27629,North West
+Q1 1986,30336,East Midlands
+Q1 1986,29616,West Midlands
+Q1 1986,38539,East Anglia
+Q1 1986,43605,Outer South East
+Q1 1986,54599,Outer Met
+Q1 1986,56657,London
+Q1 1986,38088,South West
+Q1 1986,30229,Wales
+Q1 1986,33637,Scotland
+Q1 1986,27588,Northern Ireland
+Q1 1986,35647,UK
+Q1 1987,28917,North
+Q1 1987,36587,Yorks & Humber
+Q1 1987,29772,North West
+Q1 1987,34488,East Midlands
+Q1 1987,33204,West Midlands
+Q1 1987,45793,East Anglia
+Q1 1987,52648,Outer South East
+Q1 1987,69736,Outer Met
+Q1 1987,72618,London
+Q1 1987,44225,South West
+Q1 1987,32386,Wales
+Q1 1987,35526,Scotland
+Q1 1987,27677,Northern Ireland
+Q1 1987,40882,UK
+Q1 1988,28349,North
+Q1 1988,37125,Yorks & Humber
+Q1 1988,30891,North West
+Q1 1988,37443,East Midlands
+Q1 1988,38398,West Midlands
+Q1 1988,59721,East Anglia
+Q1 1988,64562,Outer South East
+Q1 1988,81767,Outer Met
+Q1 1988,82886,London
+Q1 1988,52980,South West
+Q1 1988,33910,Wales
+Q1 1988,34356,Scotland
+Q1 1988,27626,Northern Ireland
+Q1 1988,45091,UK
+Q1 1989,37000,North
+Q1 1989,56649,Yorks & Humber
+Q1 1989,41786,North West
+Q1 1989,57812,East Midlands
+Q1 1989,56910,West Midlands
+Q1 1989,77891,East Anglia
+Q1 1989,82536,Outer South East
+Q1 1989,98425,Outer Met
+Q1 1989,95792,London
+Q1 1989,71086,South West
+Q1 1989,50694,Wales
+Q1 1989,40151,Scotland
+Q1 1989,27933,Northern Ireland
+Q1 1989,59534,UK
+Q1 1990,43781,North
+Q1 1990,60698,Yorks & Humber
+Q1 1990,52533,North West
+Q1 1990,58317,East Midlands
+Q1 1990,60373,West Midlands
+Q1 1990,63581,East Anglia
+Q1 1990,72356,Outer South East
+Q1 1990,86572,Outer Met
+Q1 1990,91089,London
+Q1 1990,65401,South West
+Q1 1990,54349,Wales
+Q1 1990,45172,Scotland
+Q1 1990,29985,Northern Ireland
+Q1 1990,59587,UK
+Q1 1991,46776,North
+Q1 1991,51577,Yorks & Humber
+Q1 1991,54837,North West
+Q1 1991,51787,East Midlands
+Q1 1991,56275,West Midlands
+Q1 1991,59305,East Anglia
+Q1 1991,62950,Outer South East
+Q1 1991,77775,Outer Met
+Q1 1991,77146,London
+Q1 1991,59768,South West
+Q1 1991,48768,Wales
+Q1 1991,47415,Scotland
+Q1 1991,30490,Northern Ireland
+Q1 1991,54547,UK
+Q1 1992,46796,North
+Q1 1992,53445,Yorks & Humber
+Q1 1992,53489,North West
+Q1 1992,49563,East Midlands
+Q1 1992,55899,West Midlands
+Q1 1992,55333,East Anglia
+Q1 1992,58463,Outer South East
+Q1 1992,74023,Outer Met
+Q1 1992,73029,London
+Q1 1992,56298,South West
+Q1 1992,48558,Wales
+Q1 1992,49836,Scotland
+Q1 1992,31054,Northern Ireland
+Q1 1992,52187,UK
+Q1 1993,45687,North
+Q1 1993,49095,Yorks & Humber
+Q1 1993,51673,North West
+Q1 1993,45341,East Midlands
+Q1 1993,52141,West Midlands
+Q1 1993,50609,East Anglia
+Q1 1993,54455,Outer South East
+Q1 1993,69297,Outer Met
+Q1 1993,66948,London
+Q1 1993,53954,South West
+Q1 1993,48422,Wales
+Q1 1993,52469,Scotland
+Q1 1993,34574,Northern Ireland
+Q1 1993,50128,UK
+Q1 1994,44423,North
+Q1 1994,50316,Yorks & Humber
+Q1 1994,52600,North West
+Q1 1994,47467,East Midlands
+Q1 1994,51144,West Midlands
+Q1 1994,52514,East Anglia
+Q1 1994,55963,Outer South East
+Q1 1994,71440,Outer Met
+Q1 1994,69332,London
+Q1 1994,55596,South West
+Q1 1994,48215,Wales
+Q1 1994,51970,Scotland
+Q1 1994,37942,Northern Ireland
+Q1 1994,51327,UK
+Q1 1995,45858,North
+Q1 1995,47664,Yorks & Humber
+Q1 1995,49155,North West
+Q1 1995,46955,East Midlands
+Q1 1995,52555,West Midlands
+Q1 1995,51560,East Anglia
+Q1 1995,56278,Outer South East
+Q1 1995,71906,Outer Met
+Q1 1995,69006,London
+Q1 1995,56350,South West
+Q1 1995,45355,Wales
+Q1 1995,53182,Scotland
+Q1 1995,37889,Northern Ireland
+Q1 1995,51084,UK
+Q1 1996,43402,North
+Q1 1996,46498,Yorks & Humber
+Q1 1996,49422,North West
+Q1 1996,46914,East Midlands
+Q1 1996,53802,West Midlands
+Q1 1996,52024,East Anglia
+Q1 1996,59862,Outer South East
+Q1 1996,70831,Outer Met
+Q1 1996,70773,London
+Q1 1996,56742,South West
+Q1 1996,45037,Wales
+Q1 1996,53178,Scotland
+Q1 1996,41610,Northern Ireland
+Q1 1996,51367,UK
+Q1 1997,44953,North
+Q1 1997,49598,Yorks & Humber
+Q1 1997,53215,North West
+Q1 1997,50645,East Midlands
+Q1 1997,57382,West Midlands
+Q1 1997,59804,East Anglia
+Q1 1997,65039,Outer South East
+Q1 1997,79502,Outer Met
+Q1 1997,85378,London
+Q1 1997,60539,South West
+Q1 1997,48969,Wales
+Q1 1997,52927,Scotland
+Q1 1997,48052,Northern Ireland
+Q1 1997,55810,UK
+Q1 1998,47274,North
+Q1 1998,53973,Yorks & Humber
+Q1 1998,56386,North West
+Q1 1998,54705,East Midlands
+Q1 1998,61885,West Midlands
+Q1 1998,62625,East Anglia
+Q1 1998,73261,Outer South East
+Q1 1998,96170,Outer Met
+Q1 1998,98387,London
+Q1 1998,66368,South West
+Q1 1998,51174,Wales
+Q1 1998,57694,Scotland
+Q1 1998,53456,Northern Ireland
+Q1 1998,62903,UK
+Q1 1999,48349,North
+Q1 1999,54523,Yorks & Humber
+Q1 1999,59053,North West
+Q1 1999,57854,East Midlands
+Q1 1999,64706,West Midlands
+Q1 1999,68018,East Anglia
+Q1 1999,79029,Outer South East
+Q1 1999,104271,Outer Met
+Q1 1999,111639,London
+Q1 1999,71518,South West
+Q1 1999,54146,Wales
+Q1 1999,60331,Scotland
+Q1 1999,59179,Northern Ireland
+Q1 1999,67478,UK
+Q1 2000,50606,North
+Q1 2000,57669,Yorks & Humber
+Q1 2000,63218,North West
+Q1 2000,64561,East Midlands
+Q1 2000,71331,West Midlands
+Q1 2000,79080,East Anglia
+Q1 2000,95475,Outer South East
+Q1 2000,126793,Outer Met
+Q1 2000,140148,London
+Q1 2000,86060,South West
+Q1 2000,59437,Wales
+Q1 2000,62829,Scotland
+Q1 2000,65462,Northern Ireland
+Q1 2000,77698,UK
+Q1 2001,54720,North
+Q1 2001,62725,Yorks & Humber
+Q1 2001,67903,North West
+Q1 2001,70637,East Midlands
+Q1 2001,79114,West Midlands
+Q1 2001,86797,East Anglia
+Q1 2001,104100,Outer South East
+Q1 2001,136245,Outer Met
+Q1 2001,147983,London
+Q1 2001,93877,South West
+Q1 2001,63432,Wales
+Q1 2001,64138,Scotland
+Q1 2001,72797,Northern Ireland
+Q1 2001,83976,UK
+Q1 2002,59504,North
+Q1 2002,70166,Yorks & Humber
+Q1 2002,76465,North West
+Q1 2002,82226,East Midlands
+Q1 2002,90632,West Midlands
+Q1 2002,102395,East Anglia
+Q1 2002,119896,Outer South East
+Q1 2002,154478,Outer Met
+Q1 2002,171692,London
+Q1 2002,110306,South West
+Q1 2002,70109,Wales
+Q1 2002,69591,Scotland
+Q1 2002,76074,Northern Ireland
+Q1 2002,95356,UK
+Q1 2003,81226,North
+Q1 2003,90877,Yorks & Humber
+Q1 2003,96147,North West
+Q1 2003,107748,East Midlands
+Q1 2003,117144,West Midlands
+Q1 2003,129735,East Anglia
+Q1 2003,156526,Outer South East
+Q1 2003,191090,Outer Met
+Q1 2003,211891,London
+Q1 2003,140709,South West
+Q1 2003,87741,Wales
+Q1 2003,77980,Scotland
+Q1 2003,86655,Northern Ireland
+Q1 2003,119938,UK
+Q1 2004,108255,North
+Q1 2004,116673,Yorks & Humber
+Q1 2004,122416,North West
+Q1 2004,128579,East Midlands
+Q1 2004,134771,West Midlands
+Q1 2004,146357,East Anglia
+Q1 2004,172364,Outer South East
+Q1 2004,206379,Outer Met
+Q1 2004,225156,London
+Q1 2004,159468,South West
+Q1 2004,119690,Wales
+Q1 2004,96637,Scotland
+Q1 2004,97303,Northern Ireland
+Q1 2004,139027,UK
+Q1 2005,122827,North
+Q1 2005,134728,Yorks & Humber
+Q1 2005,140700,North West
+Q1 2005,141756,East Midlands
+Q1 2005,149575,West Midlands
+Q1 2005,158621,East Anglia
+Q1 2005,181505,Outer South East
+Q1 2005,216435,Outer Met
+Q1 2005,233758,London
+Q1 2005,172774,South West
+Q1 2005,137256,Wales
+Q1 2005,111514,Scotland
+Q1 2005,109949,Northern Ireland
+Q1 2005,152790,UK
+Q1 2006,123483,North
+Q1 2006,142424,Yorks & Humber
+Q1 2006,147805,North West
+Q1 2006,143840,East Midlands
+Q1 2006,153063,West Midlands
+Q1 2006,162386,East Anglia
+Q1 2006,187716,Outer South East
+Q1 2006,222549,Outer Met
+Q1 2006,245755,London
+Q1 2006,180974,South West
+Q1 2006,141401,Wales
+Q1 2006,122363,Scotland
+Q1 2006,129321,Northern Ireland
+Q1 2006,160319,UK
+Q1 2007,129378,North
+Q1 2007,151530,Yorks & Humber
+Q1 2007,154417,North West
+Q1 2007,152560,East Midlands
+Q1 2007,160386,West Midlands
+Q1 2007,176753,East Anglia
+Q1 2007,204371,Outer South East
+Q1 2007,245010,Outer Met
+Q1 2007,280995,London
+Q1 2007,196103,South West
+Q1 2007,150017,Wales
+Q1 2007,140929,Scotland
+Q1 2007,203815,Northern Ireland
+Q1 2007,175554,UK
+Q1 2008,132349,North
+Q1 2008,151764,Yorks & Humber
+Q1 2008,154124,North West
+Q1 2008,153066,East Midlands
+Q1 2008,160715,West Midlands
+Q1 2008,179868,East Anglia
+Q1 2008,211119,Outer South East
+Q1 2008,253880,Outer Met
+Q1 2008,296772,London
+Q1 2008,196711,South West
+Q1 2008,151499,Wales
+Q1 2008,149834,Scotland
+Q1 2008,196892,Northern Ireland
+Q1 2008,179363,UK
+Q1 2009,112986,North
+Q1 2009,127412,Yorks & Humber
+Q1 2009,130572,North West
+Q1 2009,126673,East Midlands
+Q1 2009,136166,West Midlands
+Q1 2009,143987,East Anglia
+Q1 2009,172356,Outer South East
+Q1 2009,209667,Outer Met
+Q1 2009,242678,London
+Q1 2009,167470,South West
+Q1 2009,123990,Wales
+Q1 2009,130975,Scotland
+Q1 2009,138537,Northern Ireland
+Q1 2009,149709,UK
+Q1 2010,115545,North
+Q1 2010,136208,Yorks & Humber
+Q1 2010,136984,North West
+Q1 2010,138974,East Midlands
+Q1 2010,145181,West Midlands
+Q1 2010,162041,East Anglia
+Q1 2010,194621,Outer South East
+Q1 2010,235277,Outer Met
+Q1 2010,280791,London
+Q1 2010,182343,South West
+Q1 2010,137148,Wales
+Q1 2010,138352,Scotland
+Q1 2010,134435,Northern Ireland
+Q1 2010,162887,UK
+Q1 2011,113863,North
+Q1 2011,134967,Yorks & Humber
+Q1 2011,137618,North West
+Q1 2011,138611,East Midlands
+Q1 2011,144265,West Midlands
+Q1 2011,162277,East Anglia
+Q1 2011,192571,Outer South East
+Q1 2011,241573,Outer Met
+Q1 2011,286658,London
+Q1 2011,181540,South West
+Q1 2011,133569,Wales
+Q1 2011,135522,Scotland
+Q1 2011,119913,Northern Ireland
+Q1 2011,162379,UK
+Q1 2012,114828,North
+Q1 2012,132128,Yorks & Humber
+Q1 2012,134550,North West
+Q1 2012,139113,East Midlands
+Q1 2012,144130,West Midlands
+Q1 2012,164285,East Anglia
+Q1 2012,196097,Outer South East
+Q1 2012,243969,Outer Met
+Q1 2012,293375,London
+Q1 2012,182272,South West
+Q1 2012,129682,Wales
+Q1 2012,135242,Scotland
+Q1 2012,109562,Northern Ireland
+Q1 2012,162722,UK
+Q1 2013,112989,North
+Q1 2013,131470,Yorks & Humber
+Q1 2013,132159,North West
+Q1 2013,139718,East Midlands
+Q1 2013,144860,West Midlands
+Q1 2013,164191,East Anglia
+Q1 2013,197564,Outer South East
+Q1 2013,247830,Outer Met
+Q1 2013,306919,London
+Q1 2013,184591,South West
+Q1 2013,132971,Wales
+Q1 2013,128594,Scotland
+Q1 2013,108610,Northern Ireland
+Q1 2013,163056,UK
+Q1 2014,119702,North
+Q1 2014,139775,Yorks & Humber
+Q1 2014,141276,North West
+Q1 2014,149714,East Midlands
+Q1 2014,154690,West Midlands
+Q1 2014,179718,East Anglia
+Q1 2014,217534,Outer South East
+Q1 2014,273998,Outer Met
+Q1 2014,362699,London
+Q1 2014,198325,South West
+Q1 2014,139911,Wales
+Q1 2014,138386,Scotland
+Q1 2014,114495,Northern Ireland
+Q1 2014,178124,UK
+Q1 2015,125299,North
+Q1 2015,141647,Yorks & Humber
+Q1 2015,144145,North West
+Q1 2015,158575,East Midlands
+Q1 2015,161989,West Midlands
+Q1 2015,193772,East Anglia
+Q1 2015,235747,Outer South East
+Q1 2015,306931,Outer Met
+Q1 2015,408780,London
+Q1 2015,209585,South West
+Q1 2015,139171,Wales
+Q1 2015,140180,Scotland
+Q1 2015,121052,Northern Ireland
+Q1 2015,188566,UK
+Q1 2016,123864,North
+Q1 2016,144361,Yorks & Humber
+Q1 2016,144914,North West
+Q1 2016,162082,East Midlands
+Q1 2016,168585,West Midlands
+Q1 2016,204948,East Anglia
+Q1 2016,255325,Outer South East
+Q1 2016,344371,Outer Met
+Q1 2016,455984,London
+Q1 2016,221703,South West
+Q1 2016,141525,Wales
+Q1 2016,139911,Scotland
+Q1 2016,123225,Northern Ireland
+Q1 2016,198564,UK
+Q2 1974,7733,North
+Q2 1974,9803,Yorks & Humber
+Q2 1974,8213,North West
+Q2 1974,9001,East Midlands
+Q2 1974,9736,West Midlands
+Q2 1974,10079,East Anglia
+Q2 1974,10871,Outer South East
+Q2 1974,12981,Outer Met
+Q2 1974,13255,London
+Q2 1974,10073,South West
+Q2 1974,9416,Wales
+Q2 1974,9173,Scotland
+Q2 1974,8459,Northern Ireland
+Q2 1974,10027,UK
+Q2 1975,8569,North
+Q2 1975,10837,Yorks & Humber
+Q2 1975,8698,North West
+Q2 1975,9365,East Midlands
+Q2 1975,10353,West Midlands
+Q2 1975,10605,East Anglia
+Q2 1975,11414,Outer South East
+Q2 1975,13692,Outer Met
+Q2 1975,13818,London
+Q2 1975,10972,South West
+Q2 1975,10137,Wales
+Q2 1975,10543,Scotland
+Q2 1975,9855,Northern Ireland
+Q2 1975,10728,UK
+Q2 1976,9783,North
+Q2 1976,11971,Yorks & Humber
+Q2 1976,9473,North West
+Q2 1976,10051,East Midlands
+Q2 1976,11139,West Midlands
+Q2 1976,11234,East Anglia
+Q2 1976,12142,Outer South East
+Q2 1976,15016,Outer Met
+Q2 1976,14862,London
+Q2 1976,11617,South West
+Q2 1976,11266,Wales
+Q2 1976,12829,Scotland
+Q2 1976,12771,Northern Ireland
+Q2 1976,11739,UK
+Q2 1977,11097,North
+Q2 1977,13067,Yorks & Humber
+Q2 1977,10645,North West
+Q2 1977,10872,East Midlands
+Q2 1977,12093,West Midlands
+Q2 1977,11963,East Anglia
+Q2 1977,12861,Outer South East
+Q2 1977,15896,Outer Met
+Q2 1977,15728,London
+Q2 1977,12418,South West
+Q2 1977,11987,Wales
+Q2 1977,13966,Scotland
+Q2 1977,15066,Northern Ireland
+Q2 1977,12689,UK
+Q2 1978,12450,North
+Q2 1978,14898,Yorks & Humber
+Q2 1978,12146,North West
+Q2 1978,11964,East Midlands
+Q2 1978,13535,West Midlands
+Q2 1978,13492,East Anglia
+Q2 1978,14792,Outer South East
+Q2 1978,18504,Outer Met
+Q2 1978,18410,London
+Q2 1978,14206,South West
+Q2 1978,13451,Wales
+Q2 1978,15618,Scotland
+Q2 1978,17858,Northern Ireland
+Q2 1978,14491,UK
+Q2 1979,15038,North
+Q2 1979,18049,Yorks & Humber
+Q2 1979,15943,North West
+Q2 1979,15633,East Midlands
+Q2 1979,17553,West Midlands
+Q2 1979,17929,East Anglia
+Q2 1979,20082,Outer South East
+Q2 1979,24945,Outer Met
+Q2 1979,25914,London
+Q2 1979,18818,South West
+Q2 1979,17863,Wales
+Q2 1979,18830,Scotland
+Q2 1979,21715,Northern Ireland
+Q2 1979,19075,UK
+Q2 1980,18232,North
+Q2 1980,22770,Yorks & Humber
+Q2 1980,19633,North West
+Q2 1980,19437,East Midlands
+Q2 1980,21651,West Midlands
+Q2 1980,23672,East Anglia
+Q2 1980,25304,Outer South East
+Q2 1980,30438,Outer Met
+Q2 1980,30695,London
+Q2 1980,23215,South West
+Q2 1980,21489,Wales
+Q2 1980,22143,Scotland
+Q2 1980,24787,Northern Ireland
+Q2 1980,23348,UK
+Q2 1981,18481,North
+Q2 1981,24016,Yorks & Humber
+Q2 1981,20417,North West
+Q2 1981,20456,East Midlands
+Q2 1981,22277,West Midlands
+Q2 1981,24230,East Anglia
+Q2 1981,26071,Outer South East
+Q2 1981,31208,Outer Met
+Q2 1981,31143,London
+Q2 1981,24514,South West
+Q2 1981,21597,Wales
+Q2 1981,23774,Scotland
+Q2 1981,23163,Northern Ireland
+Q2 1981,24098,UK
+Q2 1982,19666,North
+Q2 1982,24402,Yorks & Humber
+Q2 1982,20495,North West
+Q2 1982,21204,East Midlands
+Q2 1982,22068,West Midlands
+Q2 1982,24584,East Anglia
+Q2 1982,26701,Outer South East
+Q2 1982,32246,Outer Met
+Q2 1982,32051,London
+Q2 1982,24798,South West
+Q2 1982,22285,Wales
+Q2 1982,25224,Scotland
+Q2 1982,23029,Northern Ireland
+Q2 1982,24679,UK
+Q2 1983,21784,North
+Q2 1983,26852,Yorks & Humber
+Q2 1983,22271,North West
+Q2 1983,23623,East Midlands
+Q2 1983,24082,West Midlands
+Q2 1983,27937,East Anglia
+Q2 1983,30749,Outer South East
+Q2 1983,37764,Outer Met
+Q2 1983,36410,London
+Q2 1983,28193,South West
+Q2 1983,24880,Wales
+Q2 1983,27511,Scotland
+Q2 1983,23755,Northern Ireland
+Q2 1983,27386,UK
+Q2 1984,24475,North
+Q2 1984,29492,Yorks & Humber
+Q2 1984,24882,North West
+Q2 1984,26104,East Midlands
+Q2 1984,26645,West Midlands
+Q2 1984,31915,East Anglia
+Q2 1984,35818,Outer South East
+Q2 1984,44306,Outer Met
+Q2 1984,43253,London
+Q2 1984,31564,South West
+Q2 1984,27546,Wales
+Q2 1984,30573,Scotland
+Q2 1984,25468,Northern Ireland
+Q2 1984,30833,UK
+Q2 1985,26719,North
+Q2 1985,32901,Yorks & Humber
+Q2 1985,27184,North West
+Q2 1985,28894,East Midlands
+Q2 1985,29137,West Midlands
+Q2 1985,36781,East Anglia
+Q2 1985,40528,Outer South East
+Q2 1985,50436,Outer Met
+Q2 1985,50565,London
+Q2 1985,35476,South West
+Q2 1985,29557,Wales
+Q2 1985,33391,Scotland
+Q2 1985,27066,Northern Ireland
+Q2 1985,34174,UK
+Q2 1986,28387,North
+Q2 1986,34244,Yorks & Humber
+Q2 1986,28247,North West
+Q2 1986,31427,East Midlands
+Q2 1986,30305,West Midlands
+Q2 1986,40474,East Anglia
+Q2 1986,45556,Outer South East
+Q2 1986,57122,Outer Met
+Q2 1986,59386,London
+Q2 1986,39644,South West
+Q2 1986,30843,Wales
+Q2 1986,34616,Scotland
+Q2 1986,28528,Northern Ireland
+Q2 1986,37015,UK
+Q2 1987,29434,North
+Q2 1987,38210,Yorks & Humber
+Q2 1987,30429,North West
+Q2 1987,35817,East Midlands
+Q2 1987,35128,West Midlands
+Q2 1987,50276,East Anglia
+Q2 1987,56405,Outer South East
+Q2 1987,74020,Outer Met
+Q2 1987,78015,London
+Q2 1987,46744,South West
+Q2 1987,33622,Wales
+Q2 1987,35790,Scotland
+Q2 1987,29494,Northern Ireland
+Q2 1987,42987,UK
+Q2 1988,29247,North
+Q2 1988,40497,Yorks & Humber
+Q2 1988,32455,North West
+Q2 1988,42258,East Midlands
+Q2 1988,43741,West Midlands
+Q2 1988,68178,East Anglia
+Q2 1988,70819,Outer South East
+Q2 1988,86556,Outer Met
+Q2 1988,87750,London
+Q2 1988,60169,South West
+Q2 1988,35591,Wales
+Q2 1988,35451,Scotland
+Q2 1988,28088,Northern Ireland
+Q2 1988,48932,UK
+Q2 1989,41963,North
+Q2 1989,60991,Yorks & Humber
+Q2 1989,46536,North West
+Q2 1989,59349,East Midlands
+Q2 1989,59226,West Midlands
+Q2 1989,78846,East Anglia
+Q2 1989,83901,Outer South East
+Q2 1989,99979,Outer Met
+Q2 1989,97667,London
+Q2 1989,73112,South West
+Q2 1989,54059,Wales
+Q2 1989,44028,Scotland
+Q2 1989,29093,Northern Ireland
+Q2 1989,62244,UK
+Q2 1990,45054,North
+Q2 1990,58915,Yorks & Humber
+Q2 1990,54631,North West
+Q2 1990,57294,East Midlands
+Q2 1990,60310,West Midlands
+Q2 1990,64190,East Anglia
+Q2 1990,70677,Outer South East
+Q2 1990,84392,Outer Met
+Q2 1990,86993,London
+Q2 1990,65200,South West
+Q2 1990,52897,Wales
+Q2 1990,46657,Scotland
+Q2 1990,29280,Northern Ireland
+Q2 1990,58982,UK
+Q2 1991,48794,North
+Q2 1991,52872,Yorks & Humber
+Q2 1991,55772,North West
+Q2 1991,52798,East Midlands
+Q2 1991,58755,West Midlands
+Q2 1991,59108,East Anglia
+Q2 1991,64255,Outer South East
+Q2 1991,79811,Outer Met
+Q2 1991,77901,London
+Q2 1991,60084,South West
+Q2 1991,50160,Wales
+Q2 1991,48784,Scotland
+Q2 1991,30626,Northern Ireland
+Q2 1991,55418,UK
+Q2 1992,47341,North
+Q2 1992,52284,Yorks & Humber
+Q2 1992,55345,North West
+Q2 1992,49592,East Midlands
+Q2 1992,56831,West Midlands
+Q2 1992,56617,East Anglia
+Q2 1992,58995,Outer South East
+Q2 1992,74436,Outer Met
+Q2 1992,73114,London
+Q2 1992,56251,South West
+Q2 1992,49408,Wales
+Q2 1992,52346,Scotland
+Q2 1992,32284,Northern Ireland
+Q2 1992,52663,UK
+Q2 1993,47141,North
+Q2 1993,51858,Yorks & Humber
+Q2 1993,52507,North West
+Q2 1993,48002,East Midlands
+Q2 1993,55185,West Midlands
+Q2 1993,51861,East Anglia
+Q2 1993,54750,Outer South East
+Q2 1993,70993,Outer Met
+Q2 1993,68536,London
+Q2 1993,55843,South West
+Q2 1993,48776,Wales
+Q2 1993,52407,Scotland
+Q2 1993,36328,Northern Ireland
+Q2 1993,51918,UK
+Q2 1994,44109,North
+Q2 1994,51095,Yorks & Humber
+Q2 1994,51803,North West
+Q2 1994,47773,East Midlands
+Q2 1994,52395,West Midlands
+Q2 1994,53540,East Anglia
+Q2 1994,57915,Outer South East
+Q2 1994,74130,Outer Met
+Q2 1994,69711,London
+Q2 1994,54939,South West
+Q2 1994,46603,Wales
+Q2 1994,53476,Scotland
+Q2 1994,37230,Northern Ireland
+Q2 1994,51362,UK
+Q2 1995,44871,North
+Q2 1995,48643,Yorks & Humber
+Q2 1995,49709,North West
+Q2 1995,46797,East Midlands
+Q2 1995,53923,West Midlands
+Q2 1995,54112,East Anglia
+Q2 1995,60231,Outer South East
+Q2 1995,71191,Outer Met
+Q2 1995,73397,London
+Q2 1995,57546,South West
+Q2 1995,48671,Wales
+Q2 1995,51775,Scotland
+Q2 1995,40789,Northern Ireland
+Q2 1995,51633,UK
+Q2 1996,45144,North
+Q2 1996,48845,Yorks & Humber
+Q2 1996,51066,North West
+Q2 1996,48443,East Midlands
+Q2 1996,53930,West Midlands
+Q2 1996,55228,East Anglia
+Q2 1996,62728,Outer South East
+Q2 1996,72552,Outer Met
+Q2 1996,76077,London
+Q2 1996,57360,South West
+Q2 1996,47242,Wales
+Q2 1996,53432,Scotland
+Q2 1996,45068,Northern Ireland
+Q2 1996,53032,UK
+Q2 1997,45634,North
+Q2 1997,52055,Yorks & Humber
+Q2 1997,53974,North West
+Q2 1997,50694,East Midlands
+Q2 1997,59895,West Midlands
+Q2 1997,59510,East Anglia
+Q2 1997,68780,Outer South East
+Q2 1997,84291,Outer Met
+Q2 1997,89369,London
+Q2 1997,62498,South West
+Q2 1997,50481,Wales
+Q2 1997,54598,Scotland
+Q2 1997,50732,Northern Ireland
+Q2 1997,58403,UK
+Q2 1998,49336,North
+Q2 1998,54266,Yorks & Humber
+Q2 1998,57404,North West
+Q2 1998,56168,East Midlands
+Q2 1998,62668,West Midlands
+Q2 1998,65948,East Anglia
+Q2 1998,76075,Outer South East
+Q2 1998,99509,Outer Met
+Q2 1998,103181,London
+Q2 1998,68488,South West
+Q2 1998,51715,Wales
+Q2 1998,58767,Scotland
+Q2 1998,57005,Northern Ireland
+Q2 1998,65221,UK
+Q2 1999,50184,North
+Q2 1999,56103,Yorks & Humber
+Q2 1999,60367,North West
+Q2 1999,59931,East Midlands
+Q2 1999,67014,West Midlands
+Q2 1999,68315,East Anglia
+Q2 1999,81023,Outer South East
+Q2 1999,108378,Outer Met
+Q2 1999,116170,London
+Q2 1999,74970,South West
+Q2 1999,55389,Wales
+Q2 1999,61565,Scotland
+Q2 1999,60972,Northern Ireland
+Q2 1999,70010,UK
+Q2 2000,53493,North
+Q2 2000,60754,Yorks & Humber
+Q2 2000,65969,North West
+Q2 2000,66855,East Midlands
+Q2 2000,74695,West Midlands
+Q2 2000,82282,East Anglia
+Q2 2000,100584,Outer South East
+Q2 2000,132583,Outer Met
+Q2 2000,145535,London
+Q2 2000,89600,South West
+Q2 2000,60524,Wales
+Q2 2000,64919,Scotland
+Q2 2000,70557,Northern Ireland
+Q2 2000,81202,UK
+Q2 2001,53951,North
+Q2 2001,64894,Yorks & Humber
+Q2 2001,69623,North West
+Q2 2001,73145,East Midlands
+Q2 2001,81812,West Midlands
+Q2 2001,90579,East Anglia
+Q2 2001,109302,Outer South East
+Q2 2001,145960,Outer Met
+Q2 2001,160387,London
+Q2 2001,97914,South West
+Q2 2001,65338,Wales
+Q2 2001,65041,Scotland
+Q2 2001,76376,Northern Ireland
+Q2 2001,87638,UK
+Q2 2002,65842,North
+Q2 2002,76498,Yorks & Humber
+Q2 2002,82711,North West
+Q2 2002,89898,East Midlands
+Q2 2002,96480,West Midlands
+Q2 2002,111698,East Anglia
+Q2 2002,131434,Outer South East
+Q2 2002,166744,Outer Met
+Q2 2002,184117,London
+Q2 2002,118958,South West
+Q2 2002,75702,Wales
+Q2 2002,73169,Scotland
+Q2 2002,82548,Northern Ireland
+Q2 2002,103501,UK
+Q2 2003,87082,North
+Q2 2003,100625,Yorks & Humber
+Q2 2003,102886,North West
+Q2 2003,115309,East Midlands
+Q2 2003,119674,West Midlands
+Q2 2003,135061,East Anglia
+Q2 2003,160609,Outer South East
+Q2 2003,196292,Outer Met
+Q2 2003,210958,London
+Q2 2003,144903,South West
+Q2 2003,96455,Wales
+Q2 2003,85086,Scotland
+Q2 2003,90265,Northern Ireland
+Q2 2003,125382,UK
+Q2 2004,115790,North
+Q2 2004,129018,Yorks & Humber
+Q2 2004,132046,North West
+Q2 2004,137684,East Midlands
+Q2 2004,143950,West Midlands
+Q2 2004,154494,East Anglia
+Q2 2004,180702,Outer South East
+Q2 2004,214531,Outer Met
+Q2 2004,233164,London
+Q2 2004,169435,South West
+Q2 2004,128267,Wales
+Q2 2004,105855,Scotland
+Q2 2004,103238,Northern Ireland
+Q2 2004,148462,UK
+Q2 2005,125374,North
+Q2 2005,139688,Yorks & Humber
+Q2 2005,144159,North West
+Q2 2005,143646,East Midlands
+Q2 2005,152671,West Midlands
+Q2 2005,160838,East Anglia
+Q2 2005,185245,Outer South East
+Q2 2005,221679,Outer Met
+Q2 2005,241344,London
+Q2 2005,177659,South West
+Q2 2005,137769,Wales
+Q2 2005,116943,Scotland
+Q2 2005,117149,Northern Ireland
+Q2 2005,157494,UK
+Q2 2006,126609,North
+Q2 2006,146209,Yorks & Humber
+Q2 2006,149896,North West
+Q2 2006,146521,East Midlands
+Q2 2006,155467,West Midlands
+Q2 2006,168398,East Anglia
+Q2 2006,192808,Outer South East
+Q2 2006,228938,Outer Met
+Q2 2006,252724,London
+Q2 2006,183904,South West
+Q2 2006,144323,Wales
+Q2 2006,129513,Scotland
+Q2 2006,146367,Northern Ireland
+Q2 2006,165035,UK
+Q2 2007,134523,North
+Q2 2007,155159,Yorks & Humber
+Q2 2007,158614,North West
+Q2 2007,156512,East Midlands
+Q2 2007,164679,West Midlands
+Q2 2007,181409,East Anglia
+Q2 2007,212811,Outer South East
+Q2 2007,253323,Outer Met
+Q2 2007,292409,London
+Q2 2007,200940,South West
+Q2 2007,154969,Wales
+Q2 2007,148593,Scotland
+Q2 2007,225447,Northern Ireland
+Q2 2007,181810,UK
+Q2 2008,129700,North
+Q2 2008,146074,Yorks & Humber
+Q2 2008,150162,North West
+Q2 2008,147413,East Midlands
+Q2 2008,156219,West Midlands
+Q2 2008,172164,East Anglia
+Q2 2008,204292,Outer South East
+Q2 2008,248263,Outer Met
+Q2 2008,285568,London
+Q2 2008,194714,South West
+Q2 2008,143147,Wales
+Q2 2008,149541,Scotland
+Q2 2008,183476,Northern Ireland
+Q2 2008,174514,UK
+Q2 2009,112348,North
+Q2 2009,131675,Yorks & Humber
+Q2 2009,131704,North West
+Q2 2009,130579,East Midlands
+Q2 2009,138254,West Midlands
+Q2 2009,153345,East Anglia
+Q2 2009,181552,Outer South East
+Q2 2009,217145,Outer Met
+Q2 2009,256496,London
+Q2 2009,169077,South West
+Q2 2009,134291,Wales
+Q2 2009,134391,Scotland
+Q2 2009,135862,Northern Ireland
+Q2 2009,154066,UK
+Q2 2010,119057,North
+Q2 2010,141093,Yorks & Humber
+Q2 2010,141716,North West
+Q2 2010,142093,East Midlands
+Q2 2010,150266,West Midlands
+Q2 2010,166944,East Anglia
+Q2 2010,201847,Outer South East
+Q2 2010,245140,Outer Met
+Q2 2010,290249,London
+Q2 2010,190219,South West
+Q2 2010,140564,Wales
+Q2 2010,144101,Scotland
+Q2 2010,128846,Northern Ireland
+Q2 2010,168719,UK
+Q2 2011,117691,North
+Q2 2011,138228,Yorks & Humber
+Q2 2011,140682,North West
+Q2 2011,140537,East Midlands
+Q2 2011,146146,West Midlands
+Q2 2011,164435,East Anglia
+Q2 2011,198991,Outer South East
+Q2 2011,244599,Outer Met
+Q2 2011,298729,London
+Q2 2011,186210,South West
+Q2 2011,139254,Wales
+Q2 2011,139447,Scotland
+Q2 2011,123547,Northern Ireland
+Q2 2011,166764,UK
+Q2 2012,114882,North
+Q2 2012,134362,Yorks & Humber
+Q2 2012,134905,North West
+Q2 2012,140278,East Midlands
+Q2 2012,147089,West Midlands
+Q2 2012,166527,East Anglia
+Q2 2012,198112,Outer South East
+Q2 2012,249067,Outer Met
+Q2 2012,302399,London
+Q2 2012,186172,South West
+Q2 2012,131840,Wales
+Q2 2012,136182,Scotland
+Q2 2012,110422,Northern Ireland
+Q2 2012,164955,UK
+Q2 2013,115763,North
+Q2 2013,133283,Yorks & Humber
+Q2 2013,135262,North West
+Q2 2013,142349,East Midlands
+Q2 2013,148220,West Midlands
+Q2 2013,172567,East Anglia
+Q2 2013,202132,Outer South East
+Q2 2013,253913,Outer Met
+Q2 2013,318214,London
+Q2 2013,188923,South West
+Q2 2013,133432,Wales
+Q2 2013,134611,Scotland
+Q2 2013,108116,Northern Ireland
+Q2 2013,167294,UK
+Q2 2014,125106,North
+Q2 2014,142661,Yorks & Humber
+Q2 2014,144851,North West
+Q2 2014,154145,East Midlands
+Q2 2014,160383,West Midlands
+Q2 2014,188960,East Anglia
+Q2 2014,230409,Outer South East
+Q2 2014,295543,Outer Met
+Q2 2014,400404,London
+Q2 2014,207420,South West
+Q2 2014,145812,Wales
+Q2 2014,141872,Scotland
+Q2 2014,117150,Northern Ireland
+Q2 2014,186544,UK
+Q2 2015,125189,North
+Q2 2015,147387,Yorks & Humber
+Q2 2015,146908,North West
+Q2 2015,160482,East Midlands
+Q2 2015,165873,West Midlands
+Q2 2015,198826,East Anglia
+Q2 2015,244119,Outer South East
+Q2 2015,315620,Outer Met
+Q2 2015,429711,London
+Q2 2015,215363,South West
+Q2 2015,144701,Wales
+Q2 2015,140512,Scotland
+Q2 2015,126525,Northern Ireland
+Q2 2015,194258,UK
+Q3 1974,7862,North
+Q3 1974,10077,Yorks & Humber
+Q3 1974,8175,North West
+Q3 1974,8908,East Midlands
+Q3 1974,9836,West Midlands
+Q3 1974,10180,East Anglia
+Q3 1974,11046,Outer South East
+Q3 1974,13159,Outer Met
+Q3 1974,13276,London
+Q3 1974,10357,South West
+Q3 1974,9523,Wales
+Q3 1974,9526,Scotland
+Q3 1974,8707,Northern Ireland
+Q3 1974,10148,UK
+Q3 1975,8957,North
+Q3 1975,11136,Yorks & Humber
+Q3 1975,8872,North West
+Q3 1975,9459,East Midlands
+Q3 1975,10582,West Midlands
+Q3 1975,10595,East Anglia
+Q3 1975,11628,Outer South East
+Q3 1975,14196,Outer Met
+Q3 1975,14027,London
+Q3 1975,11090,South West
+Q3 1975,10276,Wales
+Q3 1975,11117,Scotland
+Q3 1975,10578,Northern Ireland
+Q3 1975,10978,UK
+Q3 1976,10042,North
+Q3 1976,12357,Yorks & Humber
+Q3 1976,9715,North West
+Q3 1976,10217,East Midlands
+Q3 1976,11338,West Midlands
+Q3 1976,11436,East Anglia
+Q3 1976,12395,Outer South East
+Q3 1976,15402,Outer Met
+Q3 1976,15008,London
+Q3 1976,11862,South West
+Q3 1976,11406,Wales
+Q3 1976,13231,Scotland
+Q3 1976,13474,Northern Ireland
+Q3 1976,11999,UK
+Q3 1977,11336,North
+Q3 1977,13328,Yorks & Humber
+Q3 1977,10925,North West
+Q3 1977,11028,East Midlands
+Q3 1977,12422,West Midlands
+Q3 1977,12307,East Anglia
+Q3 1977,13171,Outer South East
+Q3 1977,16271,Outer Met
+Q3 1977,15906,London
+Q3 1977,12585,South West
+Q3 1977,12310,Wales
+Q3 1977,14420,Scotland
+Q3 1977,15656,Northern Ireland
+Q3 1977,12970,UK
+Q3 1978,13167,North
+Q3 1978,15882,Yorks & Humber
+Q3 1978,13076,North West
+Q3 1978,12951,East Midlands
+Q3 1978,15017,West Midlands
+Q3 1978,14819,East Anglia
+Q3 1978,16394,Outer South East
+Q3 1978,20894,Outer Met
+Q3 1978,20581,London
+Q3 1978,15516,South West
+Q3 1978,14817,Wales
+Q3 1978,16635,Scotland
+Q3 1978,19585,Northern Ireland
+Q3 1978,15912,UK
+Q3 1979,16133,North
+Q3 1979,19768,Yorks & Humber
+Q3 1979,16979,North West
+Q3 1979,16714,East Midlands
+Q3 1979,19075,West Midlands
+Q3 1979,19448,East Anglia
+Q3 1979,21984,Outer South East
+Q3 1979,26782,Outer Met
+Q3 1979,27553,London
+Q3 1979,20254,South West
+Q3 1979,19186,Wales
+Q3 1979,19847,Scotland
+Q3 1979,22677,Northern Ireland
+Q3 1979,20485,UK
+Q3 1980,18451,North
+Q3 1980,23405,Yorks & Humber
+Q3 1980,20214,North West
+Q3 1980,19832,East Midlands
+Q3 1980,21790,West Midlands
+Q3 1980,23602,East Anglia
+Q3 1980,25721,Outer South East
+Q3 1980,30744,Outer Met
+Q3 1980,30632,London
+Q3 1980,23616,South West
+Q3 1980,21457,Wales
+Q3 1980,22374,Scotland
+Q3 1980,24373,Northern Ireland
+Q3 1980,23628,UK
+Q3 1981,18660,North
+Q3 1981,24128,Yorks & Humber
+Q3 1981,20243,North West
+Q3 1981,21027,East Midlands
+Q3 1981,22168,West Midlands
+Q3 1981,24017,East Anglia
+Q3 1981,26187,Outer South East
+Q3 1981,31505,Outer Met
+Q3 1981,31456,London
+Q3 1981,24348,South West
+Q3 1981,21801,Wales
+Q3 1981,24006,Scotland
+Q3 1981,22760,Northern Ireland
+Q3 1981,24188,UK
+Q3 1982,20123,North
+Q3 1982,24327,Yorks & Humber
+Q3 1982,20534,North West
+Q3 1982,21058,East Midlands
+Q3 1982,22188,West Midlands
+Q3 1982,25384,East Anglia
+Q3 1982,27080,Outer South East
+Q3 1982,33164,Outer Met
+Q3 1982,32448,London
+Q3 1982,25257,South West
+Q3 1982,23092,Wales
+Q3 1982,25013,Scotland
+Q3 1982,22605,Northern Ireland
+Q3 1982,24969,UK
+Q3 1983,22916,North
+Q3 1983,27366,Yorks & Humber
+Q3 1983,22666,North West
+Q3 1983,23795,East Midlands
+Q3 1983,24689,West Midlands
+Q3 1983,28937,East Anglia
+Q3 1983,31943,Outer South East
+Q3 1983,38982,Outer Met
+Q3 1983,38133,London
+Q3 1983,29124,South West
+Q3 1983,25200,Wales
+Q3 1983,28185,Scotland
+Q3 1983,24062,Northern Ireland
+Q3 1983,28175,UK
+Q3 1984,24794,North
+Q3 1984,29524,Yorks & Humber
+Q3 1984,24822,North West
+Q3 1984,26204,East Midlands
+Q3 1984,26791,West Midlands
+Q3 1984,32643,East Anglia
+Q3 1984,36537,Outer South East
+Q3 1984,45574,Outer Met
+Q3 1984,44173,London
+Q3 1984,32525,South West
+Q3 1984,27945,Wales
+Q3 1984,30828,Scotland
+Q3 1984,25924,Northern Ireland
+Q3 1984,31254,UK
+Q3 1985,26961,North
+Q3 1985,32826,Yorks & Humber
+Q3 1985,27377,North West
+Q3 1985,29082,East Midlands
+Q3 1985,29545,West Midlands
+Q3 1985,37132,East Anglia
+Q3 1985,41314,Outer South East
+Q3 1985,52123,Outer Met
+Q3 1985,52301,London
+Q3 1985,36481,South West
+Q3 1985,29433,Wales
+Q3 1985,33499,Scotland
+Q3 1985,27899,Northern Ireland
+Q3 1985,34700,UK
+Q3 1986,27400,North
+Q3 1986,34591,Yorks & Humber
+Q3 1986,28727,North West
+Q3 1986,31982,East Midlands
+Q3 1986,30831,West Midlands
+Q3 1986,41610,East Anglia
+Q3 1986,47610,Outer South East
+Q3 1986,60744,Outer Met
+Q3 1986,63798,London
+Q3 1986,41390,South West
+Q3 1986,31196,Wales
+Q3 1986,34894,Scotland
+Q3 1986,28835,Northern Ireland
+Q3 1986,38251,UK
+Q3 1987,29589,North
+Q3 1987,38091,Yorks & Humber
+Q3 1987,30881,North West
+Q3 1987,35842,East Midlands
+Q3 1987,36673,West Midlands
+Q3 1987,53236,East Anglia
+Q3 1987,59877,Outer South East
+Q3 1987,78375,Outer Met
+Q3 1987,82330,London
+Q3 1987,49100,South West
+Q3 1987,33574,Wales
+Q3 1987,35943,Scotland
+Q3 1987,28960,Northern Ireland
+Q3 1987,44434,UK
+Q3 1988,30987,North
+Q3 1988,45312,Yorks & Humber
+Q3 1988,34912,North West
+Q3 1988,49364,East Midlands
+Q3 1988,51617,West Midlands
+Q3 1988,78359,East Anglia
+Q3 1988,78935,Outer South East
+Q3 1988,94013,Outer Met
+Q3 1988,93681,London
+Q3 1988,69928,South West
+Q3 1988,40208,Wales
+Q3 1988,36988,Scotland
+Q3 1988,27279,Northern Ireland
+Q3 1988,54352,UK
+Q3 1989,43195,North
+Q3 1989,64936,Yorks & Humber
+Q3 1989,51467,North West
+Q3 1989,57840,East Midlands
+Q3 1989,61290,West Midlands
+Q3 1989,74340,East Anglia
+Q3 1989,80891,Outer South East
+Q3 1989,97295,Outer Met
+Q3 1989,96065,London
+Q3 1989,72465,South West
+Q3 1989,54188,Wales
+Q3 1989,47181,Scotland
+Q3 1989,28539,Northern Ireland
+Q3 1989,62782,UK
+Q3 1990,46728,North
+Q3 1990,54364,Yorks & Humber
+Q3 1990,53844,North West
+Q3 1990,55222,East Midlands
+Q3 1990,58443,West Midlands
+Q3 1990,61940,East Anglia
+Q3 1990,66748,Outer South East
+Q3 1990,82089,Outer Met
+Q3 1990,82483,London
+Q3 1990,65563,South West
+Q3 1990,50046,Wales
+Q3 1990,47915,Scotland
+Q3 1990,27668,Northern Ireland
+Q3 1990,57245,UK
+Q3 1991,47992,North
+Q3 1991,53249,Yorks & Humber
+Q3 1991,55795,North West
+Q3 1991,52041,East Midlands
+Q3 1991,58103,West Midlands
+Q3 1991,58530,East Anglia
+Q3 1991,63133,Outer South East
+Q3 1991,79286,Outer Met
+Q3 1991,77767,London
+Q3 1991,60967,South West
+Q3 1991,50066,Wales
+Q3 1991,49310,Scotland
+Q3 1991,31669,Northern Ireland
+Q3 1991,54903,UK
+Q3 1992,45641,North
+Q3 1992,52443,Yorks & Humber
+Q3 1992,54457,North West
+Q3 1992,49365,East Midlands
+Q3 1992,55255,West Midlands
+Q3 1992,54418,East Anglia
+Q3 1992,57280,Outer South East
+Q3 1992,72286,Outer Met
+Q3 1992,70974,London
+Q3 1992,56275,South West
+Q3 1992,49960,Wales
+Q3 1992,51079,Scotland
+Q3 1992,33280,Northern Ireland
+Q3 1992,52243,UK
+Q3 1993,45384,North
+Q3 1993,51806,Yorks & Humber
+Q3 1993,53621,North West
+Q3 1993,47460,East Midlands
+Q3 1993,53288,West Midlands
+Q3 1993,54151,East Anglia
+Q3 1993,55807,Outer South East
+Q3 1993,70730,Outer Met
+Q3 1993,68039,London
+Q3 1993,55280,South West
+Q3 1993,47398,Wales
+Q3 1993,52157,Scotland
+Q3 1993,36564,Northern Ireland
+Q3 1993,51746,UK
+Q3 1994,43080,North
+Q3 1994,49341,Yorks & Humber
+Q3 1994,51827,North West
+Q3 1994,47343,East Midlands
+Q3 1994,52558,West Midlands
+Q3 1994,54566,East Anglia
+Q3 1994,56969,Outer South East
+Q3 1994,73311,Outer Met
+Q3 1994,68696,London
+Q3 1994,55918,South West
+Q3 1994,47027,Wales
+Q3 1994,55463,Scotland
+Q3 1994,39858,Northern Ireland
+Q3 1994,51731,UK
+Q3 1995,42305,North
+Q3 1995,48832,Yorks & Humber
+Q3 1995,49125,North West
+Q3 1995,47552,East Midlands
+Q3 1995,53116,West Midlands
+Q3 1995,53474,East Anglia
+Q3 1995,58846,Outer South East
+Q3 1995,71003,Outer Met
+Q3 1995,73766,London
+Q3 1995,56963,South West
+Q3 1995,46653,Wales
+Q3 1995,51777,Scotland
+Q3 1995,40808,Northern Ireland
+Q3 1995,51334,UK
+Q3 1996,43838,North
+Q3 1996,49547,Yorks & Humber
+Q3 1996,51372,North West
+Q3 1996,48779,East Midlands
+Q3 1996,56112,West Midlands
+Q3 1996,55521,East Anglia
+Q3 1996,62758,Outer South East
+Q3 1996,74861,Outer Met
+Q3 1996,77743,London
+Q3 1996,59518,South West
+Q3 1996,49047,Wales
+Q3 1996,52966,Scotland
+Q3 1996,46222,Northern Ireland
+Q3 1996,54008,UK
+Q3 1997,47048,North
+Q3 1997,53382,Yorks & Humber
+Q3 1997,55053,North West
+Q3 1997,54796,East Midlands
+Q3 1997,60617,West Midlands
+Q3 1997,62683,East Anglia
+Q3 1997,70531,Outer South East
+Q3 1997,89152,Outer Met
+Q3 1997,95481,London
+Q3 1997,64270,South West
+Q3 1997,51524,Wales
+Q3 1997,57101,Scotland
+Q3 1997,51962,Northern Ireland
+Q3 1997,60754,UK
+Q3 1998,49211,North
+Q3 1998,54091,Yorks & Humber
+Q3 1998,57739,North West
+Q3 1998,56819,East Midlands
+Q3 1998,63671,West Midlands
+Q3 1998,68028,East Anglia
+Q3 1998,76070,Outer South East
+Q3 1998,102035,Outer Met
+Q3 1998,106290,London
+Q3 1998,70900,South West
+Q3 1998,54285,Wales
+Q3 1998,61678,Scotland
+Q3 1998,54869,Northern Ireland
+Q3 1998,66366,UK
+Q3 1999,51026,North
+Q3 1999,56824,Yorks & Humber
+Q3 1999,61344,North West
+Q3 1999,61413,East Midlands
+Q3 1999,68532,West Midlands
+Q3 1999,71979,East Anglia
+Q3 1999,85231,Outer South East
+Q3 1999,112671,Outer Met
+Q3 1999,122331,London
+Q3 1999,77804,South West
+Q3 1999,55860,Wales
+Q3 1999,62183,Scotland
+Q3 1999,64369,Northern Ireland
+Q3 1999,72362,UK
+Q3 2000,52757,North
+Q3 2000,58942,Yorks & Humber
+Q3 2000,64579,North West
+Q3 2000,67659,East Midlands
+Q3 2000,76607,West Midlands
+Q3 2000,82952,East Anglia
+Q3 2000,101174,Outer South East
+Q3 2000,133921,Outer Met
+Q3 2000,144205,London
+Q3 2000,91476,South West
+Q3 2000,60778,Wales
+Q3 2000,64760,Scotland
+Q3 2000,70056,Northern Ireland
+Q3 2000,80935,UK
+Q3 2001,59752,North
+Q3 2001,65754,Yorks & Humber
+Q3 2001,73662,North West
+Q3 2001,76250,East Midlands
+Q3 2001,85011,West Midlands
+Q3 2001,98408,East Anglia
+Q3 2001,114586,Outer South East
+Q3 2001,148546,Outer Met
+Q3 2001,165414,London
+Q3 2001,102276,South West
+Q3 2001,66455,Wales
+Q3 2001,68046,Scotland
+Q3 2001,76635,Northern Ireland
+Q3 2001,91049,UK
+Q3 2002,70928,North
+Q3 2002,82357,Yorks & Humber
+Q3 2002,88192,North West
+Q3 2002,97632,East Midlands
+Q3 2002,104468,West Midlands
+Q3 2002,119751,East Anglia
+Q3 2002,141914,Outer South East
+Q3 2002,176441,Outer Met
+Q3 2002,197470,London
+Q3 2002,130208,South West
+Q3 2002,80392,Wales
+Q3 2002,77916,Scotland
+Q3 2002,83152,Northern Ireland
+Q3 2002,110830,UK
+Q3 2003,93334,North
+Q3 2003,106016,Yorks & Humber
+Q3 2003,109027,North West
+Q3 2003,118028,East Midlands
+Q3 2003,126888,West Midlands
+Q3 2003,137454,East Anglia
+Q3 2003,163011,Outer South East
+Q3 2003,198785,Outer Met
+Q3 2003,213419,London
+Q3 2003,148944,South West
+Q3 2003,101266,Wales
+Q3 2003,88820,Scotland
+Q3 2003,92999,Northern Ireland
+Q3 2003,129761,UK
+Q3 2004,121378,North
+Q3 2004,133494,Yorks & Humber
+Q3 2004,139407,North West
+Q3 2004,141625,East Midlands
+Q3 2004,150770,West Midlands
+Q3 2004,159466,East Anglia
+Q3 2004,186295,Outer South East
+Q3 2004,219065,Outer Met
+Q3 2004,237818,London
+Q3 2004,176181,South West
+Q3 2004,135206,Wales
+Q3 2004,110118,Scotland
+Q3 2004,107509,Northern Ireland
+Q3 2004,153482,UK
+Q3 2005,124488,North
+Q3 2005,139585,Yorks & Humber
+Q3 2005,146045,North West
+Q3 2005,144764,East Midlands
+Q3 2005,152666,West Midlands
+Q3 2005,161258,East Anglia
+Q3 2005,185965,Outer South East
+Q3 2005,220037,Outer Met
+Q3 2005,241898,London
+Q3 2005,176909,South West
+Q3 2005,139212,Wales
+Q3 2005,117915,Scotland
+Q3 2005,119795,Northern Ireland
+Q3 2005,157627,UK
+Q3 2006,125495,North
+Q3 2006,148585,Yorks & Humber
+Q3 2006,151198,North West
+Q3 2006,149783,East Midlands
+Q3 2006,157896,West Midlands
+Q3 2006,172002,East Anglia
+Q3 2006,195555,Outer South East
+Q3 2006,232894,Outer Met
+Q3 2006,259646,London
+Q3 2006,186824,South West
+Q3 2006,145672,Wales
+Q3 2006,135846,Scotland
+Q3 2006,159859,Northern Ireland
+Q3 2006,168460,UK
+Q3 2007,134534,North
+Q3 2007,156429,Yorks & Humber
+Q3 2007,159052,North West
+Q3 2007,156924,East Midlands
+Q3 2007,165094,West Midlands
+Q3 2007,183815,East Anglia
+Q3 2007,215375,Outer South East
+Q3 2007,258620,Outer Met
+Q3 2007,302486,London
+Q3 2007,204447,South West
+Q3 2007,153655,Wales
+Q3 2007,152479,Scotland
+Q3 2007,227970,Northern Ireland
+Q3 2007,184131,UK
+Q3 2008,123019,North
+Q3 2008,140634,Yorks & Humber
+Q3 2008,144513,North West
+Q3 2008,141572,East Midlands
+Q3 2008,150046,West Midlands
+Q3 2008,162872,East Anglia
+Q3 2008,191898,Outer South East
+Q3 2008,231998,Outer Met
+Q3 2008,274124,London
+Q3 2008,181074,South West
+Q3 2008,139583,Wales
+Q3 2008,141657,Scotland
+Q3 2008,159970,Northern Ireland
+Q3 2008,165188,UK
+Q3 2009,116051,North
+Q3 2009,134584,Yorks & Humber
+Q3 2009,137890,North West
+Q3 2009,133973,East Midlands
+Q3 2009,142969,West Midlands
+Q3 2009,159223,East Anglia
+Q3 2009,188701,Outer South East
+Q3 2009,227208,Outer Met
+Q3 2009,268847,London
+Q3 2009,178208,South West
+Q3 2009,134690,Wales
+Q3 2009,140175,Scotland
+Q3 2009,147204,Northern Ireland
+Q3 2009,160159,UK
+Q3 2010,117234,North
+Q3 2010,136906,Yorks & Humber
+Q3 2010,140217,North West
+Q3 2010,141804,East Midlands
+Q3 2010,149778,West Midlands
+Q3 2010,165706,East Anglia
+Q3 2010,201999,Outer South East
+Q3 2010,246538,Outer Met
+Q3 2010,293582,London
+Q3 2010,189603,South West
+Q3 2010,138603,Wales
+Q3 2010,139313,Scotland
+Q3 2010,130877,Northern Ireland
+Q3 2010,167354,UK
+Q3 2011,116610,North
+Q3 2011,137340,Yorks & Humber
+Q3 2011,136824,North West
+Q3 2011,140761,East Midlands
+Q3 2011,147566,West Midlands
+Q3 2011,167014,East Anglia
+Q3 2011,198854,Outer South East
+Q3 2011,249630,Outer Met
+Q3 2011,295024,London
+Q3 2011,188063,South West
+Q3 2011,138849,Wales
+Q3 2011,137846,Scotland
+Q3 2011,118723,Northern Ireland
+Q3 2011,166597,UK
+Q3 2012,116624,North
+Q3 2012,134633,Yorks & Humber
+Q3 2012,134076,North West
+Q3 2012,138977,East Midlands
+Q3 2012,146346,West Midlands
+Q3 2012,164528,East Anglia
+Q3 2012,200276,Outer South East
+Q3 2012,247386,Outer Met
+Q3 2012,301168,London
+Q3 2012,186366,South West
+Q3 2012,132385,Wales
+Q3 2012,132273,Scotland
+Q3 2012,107719,Northern Ireland
+Q3 2012,163910,UK
+Q3 2013,116909,North
+Q3 2013,137634,Yorks & Humber
+Q3 2013,138375,North West
+Q3 2013,145930,East Midlands
+Q3 2013,151035,West Midlands
+Q3 2013,175323,East Anglia
+Q3 2013,207129,Outer South East
+Q3 2013,261090,Outer Met
+Q3 2013,331338,London
+Q3 2013,191422,South West
+Q3 2013,137169,Wales
+Q3 2013,135192,Scotland
+Q3 2013,108671,Northern Ireland
+Q3 2013,170918,UK
+Q3 2014,121990,North
+Q3 2014,145265,Yorks & Humber
+Q3 2014,146760,North West
+Q3 2014,157293,East Midlands
+Q3 2014,164067,West Midlands
+Q3 2014,194680,East Anglia
+Q3 2014,234370,Outer South East
+Q3 2014,298558,Outer Met
+Q3 2014,401072,London
+Q3 2014,209121,South West
+Q3 2014,144096,Wales
+Q3 2014,142288,Scotland
+Q3 2014,119782,Northern Ireland
+Q3 2014,188810,UK
+Q3 2015,124345,North
+Q3 2015,145673,Yorks & Humber
+Q3 2015,145816,North West
+Q3 2015,160525,East Midlands
+Q3 2015,167185,West Midlands
+Q3 2015,199334,East Anglia
+Q3 2015,247286,Outer South East
+Q3 2015,326785,Outer Met
+Q3 2015,443399,London
+Q3 2015,219781,South West
+Q3 2015,146854,Wales
+Q3 2015,140402,Scotland
+Q3 2015,127562,Northern Ireland
+Q3 2015,195733,UK
+Q4 1973,7713,North
+Q4 1973,9517,Yorks & Humber
+Q4 1973,8020,North West
+Q4 1973,8637,East Midlands
+Q4 1973,9388,West Midlands
+Q4 1973,9998,East Anglia
+Q4 1973,10910,Outer South East
+Q4 1973,12863,Outer Met
+Q4 1973,12848,London
+Q4 1973,9605,South West
+Q4 1973,8953,Wales
+Q4 1973,8972,Scotland
+Q4 1973,7952,Northern Ireland
+Q4 1973,9767,UK
+Q4 1974,7932,North
+Q4 1974,10102,Yorks & Humber
+Q4 1974,8330,North West
+Q4 1974,8897,East Midlands
+Q4 1974,9836,West Midlands
+Q4 1974,10413,East Anglia
+Q4 1974,11036,Outer South East
+Q4 1974,13090,Outer Met
+Q4 1974,13223,London
+Q4 1974,10591,South West
+Q4 1974,9771,Wales
+Q4 1974,9707,Scotland
+Q4 1974,9100,Northern Ireland
+Q4 1974,10208,UK
+Q4 1975,9305,North
+Q4 1975,11472,Yorks & Humber
+Q4 1975,9124,North West
+Q4 1975,9729,East Midlands
+Q4 1975,10840,West Midlands
+Q4 1975,10940,East Anglia
+Q4 1975,11822,Outer South East
+Q4 1975,14532,Outer Met
+Q4 1975,14351,London
+Q4 1975,11324,South West
+Q4 1975,10632,Wales
+Q4 1975,11721,Scotland
+Q4 1975,11530,Northern Ireland
+Q4 1975,11288,UK
+Q4 1976,10500,North
+Q4 1976,12643,Yorks & Humber
+Q4 1976,10005,North West
+Q4 1976,10446,East Midlands
+Q4 1976,11576,West Midlands
+Q4 1976,11669,East Anglia
+Q4 1976,12453,Outer South East
+Q4 1976,15540,Outer Met
+Q4 1976,15196,London
+Q4 1976,11920,South West
+Q4 1976,11643,Wales
+Q4 1976,13493,Scotland
+Q4 1976,13887,Northern Ireland
+Q4 1976,12209,UK
+Q4 1977,11435,North
+Q4 1977,13889,Yorks & Humber
+Q4 1977,11090,North West
+Q4 1977,11122,East Midlands
+Q4 1977,12451,West Midlands
+Q4 1977,12530,East Anglia
+Q4 1977,13443,Outer South East
+Q4 1977,16380,Outer Met
+Q4 1977,16281,London
+Q4 1977,12760,South West
+Q4 1977,12386,Wales
+Q4 1977,14399,Scotland
+Q4 1977,15749,Northern Ireland
+Q4 1977,13150,UK
+Q4 1978,13694,North
+Q4 1978,16455,Yorks & Humber
+Q4 1978,13986,North West
+Q4 1978,13762,East Midlands
+Q4 1978,16012,West Midlands
+Q4 1978,15468,East Anglia
+Q4 1978,17500,Outer South East
+Q4 1978,22386,Outer Met
+Q4 1978,21729,London
+Q4 1978,16454,South West
+Q4 1978,15538,Wales
+Q4 1978,17199,Scotland
+Q4 1978,19792,Northern Ireland
+Q4 1978,16823,UK
+Q4 1979,16899,North
+Q4 1979,20964,Yorks & Humber
+Q4 1979,17928,North West
+Q4 1979,17587,East Midlands
+Q4 1979,20328,West Midlands
+Q4 1979,21535,East Anglia
+Q4 1979,23867,Outer South East
+Q4 1979,28679,Outer Met
+Q4 1979,29661,London
+Q4 1979,22170,South West
+Q4 1979,20531,Wales
+Q4 1979,21569,Scotland
+Q4 1979,23349,Northern Ireland
+Q4 1979,21966,UK
+Q4 1980,18382,North
+Q4 1980,23281,Yorks & Humber
+Q4 1980,19933,North West
+Q4 1980,19894,East Midlands
+Q4 1980,21492,West Midlands
+Q4 1980,23946,East Anglia
+Q4 1980,25275,Outer South East
+Q4 1980,30349,Outer Met
+Q4 1980,30538,London
+Q4 1980,23674,South West
+Q4 1980,21640,Wales
+Q4 1980,22646,Scotland
+Q4 1980,23649,Northern Ireland
+Q4 1980,23497,UK
+Q4 1981,18680,North
+Q4 1981,23655,Yorks & Humber
+Q4 1981,19807,North West
+Q4 1981,20830,East Midlands
+Q4 1981,21551,West Midlands
+Q4 1981,24412,East Anglia
+Q4 1981,25857,Outer South East
+Q4 1981,31208,Outer Met
+Q4 1981,30559,London
+Q4 1981,23782,South West
+Q4 1981,21328,Wales
+Q4 1981,24036,Scotland
+Q4 1981,22636,Northern Ireland
+Q4 1981,23798,UK
+Q4 1982,21268,North
+Q4 1982,25149,Yorks & Humber
+Q4 1982,20989,North West
+Q4 1982,21776,East Midlands
+Q4 1982,22596,West Midlands
+Q4 1982,25992,East Anglia
+Q4 1982,27769,Outer South East
+Q4 1982,34034,Outer Met
+Q4 1982,33325,London
+Q4 1982,25492,South West
+Q4 1982,23469,Wales
+Q4 1982,25506,Scotland
+Q4 1982,22967,Northern Ireland
+Q4 1982,25580,UK
+Q4 1983,22895,North
+Q4 1983,27611,Yorks & Humber
+Q4 1983,22881,North West
+Q4 1983,24295,East Midlands
+Q4 1983,24848,West Midlands
+Q4 1983,29418,East Anglia
+Q4 1983,32537,Outer South East
+Q4 1983,40438,Outer Met
+Q4 1983,38889,London
+Q4 1983,29780,South West
+Q4 1983,25374,Wales
+Q4 1983,28731,Scotland
+Q4 1983,24449,Northern Ireland
+Q4 1983,28623,UK
+Q4 1984,25616,North
+Q4 1984,31542,Yorks & Humber
+Q4 1984,25869,North West
+Q4 1984,27422,East Midlands
+Q4 1984,27916,West Midlands
+Q4 1984,34004,East Anglia
+Q4 1984,37865,Outer South East
+Q4 1984,46761,Outer Met
+Q4 1984,46131,London
+Q4 1984,33888,South West
+Q4 1984,28239,Wales
+Q4 1984,32108,Scotland
+Q4 1984,26500,Northern Ireland
+Q4 1984,32543,UK
+Q4 1985,27450,North
+Q4 1985,33710,Yorks & Humber
+Q4 1985,27447,North West
+Q4 1985,29489,East Midlands
+Q4 1985,29674,West Midlands
+Q4 1985,38215,East Anglia
+Q4 1985,42349,Outer South East
+Q4 1985,53712,Outer Met
+Q4 1985,54428,London
+Q4 1985,37058,South West
+Q4 1985,30221,Wales
+Q4 1985,33766,Scotland
+Q4 1985,27883,Northern Ireland
+Q4 1985,35436,UK
+Q4 1986,28671,North
+Q4 1986,35127,Yorks & Humber
+Q4 1986,28954,North West
+Q4 1986,33193,East Midlands
+Q4 1986,31856,West Midlands
+Q4 1986,43958,East Anglia
+Q4 1986,49956,Outer South East
+Q4 1986,64506,Outer Met
+Q4 1986,68073,London
+Q4 1986,42579,South West
+Q4 1986,32137,Wales
+Q4 1986,35059,Scotland
+Q4 1986,28343,Northern Ireland
+Q4 1986,39593,UK
+Q4 1987,28388,North
+Q4 1987,37537,Yorks & Humber
+Q4 1987,30331,North West
+Q4 1987,36364,East Midlands
+Q4 1987,36810,West Midlands
+Q4 1987,54875,East Anglia
+Q4 1987,60525,Outer South East
+Q4 1987,78463,Outer Met
+Q4 1987,81452,London
+Q4 1987,49630,South West
+Q4 1987,32569,Wales
+Q4 1987,35224,Scotland
+Q4 1987,27538,Northern Ireland
+Q4 1987,44355,UK
+Q4 1988,33469,North
+Q4 1988,51634,Yorks & Humber
+Q4 1988,38154,North West
+Q4 1988,54639,East Midlands
+Q4 1988,54753,West Midlands
+Q4 1988,76492,East Anglia
+Q4 1988,81637,Outer South East
+Q4 1988,96121,Outer Met
+Q4 1988,94565,London
+Q4 1988,71761,South West
+Q4 1988,46400,Wales
+Q4 1988,38388,Scotland
+Q4 1988,28085,Northern Ireland
+Q4 1988,57245,UK
+Q4 1989,47014,North
+Q4 1989,63464,Yorks & Humber
+Q4 1989,50731,North West
+Q4 1989,60538,East Midlands
+Q4 1989,60109,West Midlands
+Q4 1989,70431,East Anglia
+Q4 1989,76155,Outer South East
+Q4 1989,92333,Outer Met
+Q4 1989,93541,London
+Q4 1989,67781,South West
+Q4 1989,53981,Wales
+Q4 1989,48478,Scotland
+Q4 1989,28803,Northern Ireland
+Q4 1989,61495,UK
+Q4 1990,47304,North
+Q4 1990,50553,Yorks & Humber
+Q4 1990,53755,North West
+Q4 1990,52422,East Midlands
+Q4 1990,57436,West Midlands
+Q4 1990,59800,East Anglia
+Q4 1990,63631,Outer South East
+Q4 1990,77613,Outer Met
+Q4 1990,77884,London
+Q4 1990,60845,South West
+Q4 1990,48287,Wales
+Q4 1990,46581,Scotland
+Q4 1990,29674,Northern Ireland
+Q4 1990,54919,UK
+Q4 1991,48353,North
+Q4 1991,51785,Yorks & Humber
+Q4 1991,55650,North West
+Q4 1991,50785,East Midlands
+Q4 1991,56404,West Midlands
+Q4 1991,57148,East Anglia
+Q4 1991,60940,Outer South East
+Q4 1991,76604,Outer Met
+Q4 1991,75322,London
+Q4 1991,58403,South West
+Q4 1991,49992,Wales
+Q4 1991,49674,Scotland
+Q4 1991,30808,Northern Ireland
+Q4 1991,53635,UK
+Q4 1992,43517,North
+Q4 1992,49705,Yorks & Humber
+Q4 1992,53075,North West
+Q4 1992,46787,East Midlands
+Q4 1992,52869,West Midlands
+Q4 1992,51681,East Anglia
+Q4 1992,53820,Outer South East
+Q4 1992,69042,Outer Met
+Q4 1992,66573,London
+Q4 1992,52545,South West
+Q4 1992,48824,Wales
+Q4 1992,50519,Scotland
+Q4 1992,33603,Northern Ireland
+Q4 1992,50168,UK
+Q4 1993,46383,North
+Q4 1993,52255,Yorks & Humber
+Q4 1993,52496,North West
+Q4 1993,48098,East Midlands
+Q4 1993,52847,West Midlands
+Q4 1993,54540,East Anglia
+Q4 1993,54995,Outer South East
+Q4 1993,72065,Outer Met
+Q4 1993,67780,London
+Q4 1993,53880,South West
+Q4 1993,47708,Wales
+Q4 1993,51855,Scotland
+Q4 1993,35837,Northern Ireland
+Q4 1993,51050,UK
+Q4 1994,41884,North
+Q4 1994,47929,Yorks & Humber
+Q4 1994,52109,North West
+Q4 1994,48454,East Midlands
+Q4 1994,52547,West Midlands
+Q4 1994,53403,East Anglia
+Q4 1994,57339,Outer South East
+Q4 1994,72663,Outer Met
+Q4 1994,70121,London
+Q4 1994,55955,South West
+Q4 1994,48206,Wales
+Q4 1994,52048,Scotland
+Q4 1994,38773,Northern Ireland
+Q4 1994,52114,UK
+Q4 1995,43119,North
+Q4 1995,47560,Yorks & Humber
+Q4 1995,48840,North West
+Q4 1995,47370,East Midlands
+Q4 1995,52899,West Midlands
+Q4 1995,53781,East Anglia
+Q4 1995,57956,Outer South East
+Q4 1995,70068,Outer Met
+Q4 1995,74161,London
+Q4 1995,55405,South West
+Q4 1995,47657,Wales
+Q4 1995,51893,Scotland
+Q4 1995,42082,Northern Ireland
+Q4 1995,50930,UK
+Q4 1996,45552,North
+Q4 1996,50804,Yorks & Humber
+Q4 1996,52218,North West
+Q4 1996,50946,East Midlands
+Q4 1996,57059,West Midlands
+Q4 1996,56806,East Anglia
+Q4 1996,64169,Outer South East
+Q4 1996,77316,Outer Met
+Q4 1996,80433,London
+Q4 1996,59671,South West
+Q4 1996,48111,Wales
+Q4 1996,52969,Scotland
+Q4 1996,47321,Northern Ireland
+Q4 1996,55169,UK
+Q4 1997,47519,North
+Q4 1997,53040,Yorks & Humber
+Q4 1997,55769,North West
+Q4 1997,54305,East Midlands
+Q4 1997,60901,West Midlands
+Q4 1997,63011,East Anglia
+Q4 1997,71133,Outer South East
+Q4 1997,92682,Outer Met
+Q4 1997,94055,London
+Q4 1997,64797,South West
+Q4 1997,51152,Wales
+Q4 1997,57297,Scotland
+Q4 1997,52447,Northern Ireland
+Q4 1997,61830,UK
+Q4 1998,48532,North
+Q4 1998,52641,Yorks & Humber
+Q4 1998,57271,North West
+Q4 1998,56485,East Midlands
+Q4 1998,64135,West Midlands
+Q4 1998,66387,East Anglia
+Q4 1998,77318,Outer South East
+Q4 1998,103322,Outer Met
+Q4 1998,107464,London
+Q4 1998,70179,South West
+Q4 1998,53218,Wales
+Q4 1998,59115,Scotland
+Q4 1998,57984,Northern Ireland
+Q4 1998,66313,UK
+Q4 1999,51127,North
+Q4 1999,57863,Yorks & Humber
+Q4 1999,62467,North West
+Q4 1999,62103,East Midlands
+Q4 1999,69748,West Midlands
+Q4 1999,74430,East Anglia
+Q4 1999,89603,Outer South East
+Q4 1999,119235,Outer Met
+Q4 1999,130598,London
+Q4 1999,80952,South West
+Q4 1999,57697,Wales
+Q4 1999,61831,Scotland
+Q4 1999,61946,Northern Ireland
+Q4 1999,74638,UK
+Q4 2000,53492,North
+Q4 2000,61037,Yorks & Humber
+Q4 2000,65050,North West
+Q4 2000,68859,East Midlands
+Q4 2000,76246,West Midlands
+Q4 2000,82415,East Anglia
+Q4 2000,101522,Outer South East
+Q4 2000,135059,Outer Met
+Q4 2000,147704,London
+Q4 2000,88804,South West
+Q4 2000,60916,Wales
+Q4 2000,64666,Scotland
+Q4 2000,71238,Northern Ireland
+Q4 2000,81628,UK
+Q4 2001,59510,North
+Q4 2001,67591,Yorks & Humber
+Q4 2001,74687,North West
+Q4 2001,79186,East Midlands
+Q4 2001,85976,West Midlands
+Q4 2001,97371,East Anglia
+Q4 2001,117566,Outer South East
+Q4 2001,150813,Outer Met
+Q4 2001,168783,London
+Q4 2001,104355,South West
+Q4 2001,68191,Wales
+Q4 2001,67731,Scotland
+Q4 2001,73697,Northern Ireland
+Q4 2001,92533,UK
+Q4 2002,75657,North
+Q4 2002,91480,Yorks & Humber
+Q4 2002,92067,North West
+Q4 2002,101030,East Midlands
+Q4 2002,111855,West Midlands
+Q4 2002,125645,East Anglia
+Q4 2002,150505,Outer South East
+Q4 2002,189738,Outer Met
+Q4 2002,204939,London
+Q4 2002,136698,South West
+Q4 2002,87049,Wales
+Q4 2002,78618,Scotland
+Q4 2002,85289,Northern Ireland
+Q4 2002,115940,UK
+Q4 2003,98448,North
+Q4 2003,110961,Yorks & Humber
+Q4 2003,112686,North West
+Q4 2003,123422,East Midlands
+Q4 2003,130743,West Midlands
+Q4 2003,139109,East Anglia
+Q4 2003,166295,Outer South East
+Q4 2003,201203,Outer Met
+Q4 2003,219678,London
+Q4 2003,153966,South West
+Q4 2003,109824,Wales
+Q4 2003,91707,Scotland
+Q4 2003,94028,Northern Ireland
+Q4 2003,133903,UK
+Q4 2004,120859,North
+Q4 2004,133494,Yorks & Humber
+Q4 2004,140407,North West
+Q4 2004,141966,East Midlands
+Q4 2004,147969,West Midlands
+Q4 2004,158564,East Anglia
+Q4 2004,183731,Outer South East
+Q4 2004,217287,Outer Met
+Q4 2004,236268,London
+Q4 2004,174025,South West
+Q4 2004,136653,Wales
+Q4 2004,108326,Scotland
+Q4 2004,110925,Northern Ireland
+Q4 2004,152464,UK
+Q4 2005,118357,North
+Q4 2005,140549,Yorks & Humber
+Q4 2005,144792,North West
+Q4 2005,141983,East Midlands
+Q4 2005,149200,West Midlands
+Q4 2005,161596,East Anglia
+Q4 2005,185890,Outer South East
+Q4 2005,219311,Outer Met
+Q4 2005,241897,London
+Q4 2005,178072,South West
+Q4 2005,136519,Wales
+Q4 2005,118414,Scotland
+Q4 2005,125585,Northern Ireland
+Q4 2005,157387,UK
+Q4 2006,128510,North
+Q4 2006,150785,Yorks & Humber
+Q4 2006,153741,North West
+Q4 2006,150921,East Midlands
+Q4 2006,157836,West Midlands
+Q4 2006,173635,East Anglia
+Q4 2006,200236,Outer South East
+Q4 2006,238759,Outer Met
+Q4 2006,269327,London
+Q4 2006,190776,South West
+Q4 2006,148632,Wales
+Q4 2006,137317,Scotland
+Q4 2006,181031,Northern Ireland
+Q4 2006,172065,UK
+Q4 2007,133202,North
+Q4 2007,154695,Yorks & Humber
+Q4 2007,159062,North West
+Q4 2007,155141,East Midlands
+Q4 2007,164855,West Midlands
+Q4 2007,183598,East Anglia
+Q4 2007,214634,Outer South East
+Q4 2007,259160,Outer Met
+Q4 2007,303739,London
+Q4 2007,203049,South West
+Q4 2007,154947,Wales
+Q4 2007,151178,Scotland
+Q4 2007,224816,Northern Ireland
+Q4 2007,183959,UK
+Q4 2008,118525,North
+Q4 2008,133632,Yorks & Humber
+Q4 2008,136090,North West
+Q4 2008,133102,East Midlands
+Q4 2008,141783,West Midlands
+Q4 2008,153080,East Anglia
+Q4 2008,181477,Outer South East
+Q4 2008,218150,Outer Met
+Q4 2008,257963,London
+Q4 2008,172789,South West
+Q4 2008,136174,Wales
+Q4 2008,138941,Scotland
+Q4 2008,147833,Northern Ireland
+Q4 2008,156828,UK
+Q4 2009,116154,North
+Q4 2009,137275,Yorks & Humber
+Q4 2009,139811,North West
+Q4 2009,136492,East Midlands
+Q4 2009,144748,West Midlands
+Q4 2009,159989,East Anglia
+Q4 2009,191397,Outer South East
+Q4 2009,232198,Outer Met
+Q4 2009,276088,London
+Q4 2009,179425,South West
+Q4 2009,135776,Wales
+Q4 2009,140352,Scotland
+Q4 2009,137949,Northern Ireland
+Q4 2009,162116,UK
+Q4 2010,116836,North
+Q4 2010,132302,Yorks & Humber
+Q4 2010,137133,North West
+Q4 2010,138769,East Midlands
+Q4 2010,145652,West Midlands
+Q4 2010,165465,East Anglia
+Q4 2010,195236,Outer South East
+Q4 2010,238532,Outer Met
+Q4 2010,282948,London
+Q4 2010,183151,South West
+Q4 2010,133252,Wales
+Q4 2010,137393,Scotland
+Q4 2010,124780,Northern Ireland
+Q4 2010,162971,UK
+Q4 2011,115716,North
+Q4 2011,134467,Yorks & Humber
+Q4 2011,135427,North West
+Q4 2011,139669,East Midlands
+Q4 2011,146109,West Midlands
+Q4 2011,167900,East Anglia
+Q4 2011,198363,Outer South East
+Q4 2011,247058,Outer Met
+Q4 2011,298216,London
+Q4 2011,184316,South West
+Q4 2011,135308,Wales
+Q4 2011,136347,Scotland
+Q4 2011,113614,Northern Ireland
+Q4 2011,164785,UK
+Q4 2012,114264,North
+Q4 2012,131046,Yorks & Humber
+Q4 2012,133253,North West
+Q4 2012,138486,East Midlands
+Q4 2012,144972,West Midlands
+Q4 2012,164701,East Anglia
+Q4 2012,198009,Outer South East
+Q4 2012,246453,Outer Met
+Q4 2012,300361,London
+Q4 2012,184625,South West
+Q4 2012,131630,Wales
+Q4 2012,131795,Scotland
+Q4 2012,104282,Northern Ireland
+Q4 2012,162924,UK
+Q4 2013,116417,North
+Q4 2013,140684,Yorks & Humber
+Q4 2013,139916,North West
+Q4 2013,146964,East Midlands
+Q4 2013,153965,West Midlands
+Q4 2013,176939,East Anglia
+Q4 2013,213007,Outer South East
+Q4 2013,267682,Outer Met
+Q4 2013,345186,London
+Q4 2013,195196,South West
+Q4 2013,139722,Wales
+Q4 2013,136729,Scotland
+Q4 2013,111612,Northern Ireland
+Q4 2013,174444,UK
+Q4 2014,121486,North
+Q4 2014,142816,Yorks & Humber
+Q4 2014,145212,North West
+Q4 2014,155747,East Midlands
+Q4 2014,164406,West Midlands
+Q4 2014,194212,East Anglia
+Q4 2014,235538,Outer South East
+Q4 2014,301612,Outer Met
+Q4 2014,406730,London
+Q4 2014,210847,South West
+Q4 2014,141631,Wales
+Q4 2014,142527,Scotland
+Q4 2014,120685,Northern Ireland
+Q4 2014,189002,UK
+Q4 2015,124167,North
+Q4 2015,143390,Yorks & Humber
+Q4 2015,146086,North West
+Q4 2015,161398,East Midlands
+Q4 2015,166988,West Midlands
+Q4 2015,198512,East Anglia
+Q4 2015,251296,Outer South East
+Q4 2015,334532,Outer Met
+Q4 2015,456229,London
+Q4 2015,218905,South West
+Q4 2015,142622,Wales
+Q4 2015,139801,Scotland
+Q4 2015,128481,Northern Ireland
+Q4 2015,197044,UK

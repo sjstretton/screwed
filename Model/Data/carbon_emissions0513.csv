@@ -1,0 +1,185 @@
+Year,co2,Category
+2005,110579.1,i_c_electric
+2006,116665.8,i_c_electric
+2007,113343.8,i_c_electric
+2008,112510.3,i_c_electric
+2009,96459.6,i_c_electric
+2010,99383.2,i_c_electric
+2011,90567.9,i_c_electric
+2012,100331.2,i_c_electric
+2013,92818.3,i_c_electric
+2005,46769.4,i_c_gas
+2006,42661.2,i_c_gas
+2007,40216.6,i_c_gas
+2008,40577.6,i_c_gas
+2009,36515.4,i_c_gas
+2010,41794.8,i_c_gas
+2011,34908,i_c_gas
+2012,38207.2,i_c_gas
+2013,39256.1,i_c_gas
+2005,57404.6,large_industry
+2006,56889.4,large_industry
+2007,57750.2,large_industry
+2008,53433.5,large_industry
+2009,42813.3,large_industry
+2010,41866.6,large_industry
+2011,40576.1,large_industry
+2012,40294.1,large_industry
+2013,42307.5,large_industry
+2005,24326.8,i_c_other_fuel
+2006,22482.3,i_c_other_fuel
+2007,22279.2,i_c_other_fuel
+2008,19930.9,i_c_other_fuel
+2009,18970.6,i_c_other_fuel
+2010,21248.1,i_c_other_fuel
+2011,18246.8,i_c_other_fuel
+2012,17187.5,i_c_other_fuel
+2013,17401.3,i_c_other_fuel
+2005,5641,agriculture
+2006,5439.5,agriculture
+2007,5360.1,agriculture
+2008,5088,agriculture
+2009,5359.5,agriculture
+2010,5381.3,agriculture
+2011,5575.7,agriculture
+2012,5330.6,agriculture
+2013,5112.1,agriculture
+2005,244720.9,Total Industrial and Commercial Emissions
+2006,244138.2,Total Industrial and Commercial Emissions
+2007,238949.9,Total Industrial and Commercial Emissions
+2008,231540.3,Total Industrial and Commercial Emissions
+2009,200118.5,Total Industrial and Commercial Emissions
+2010,209674,Total Industrial and Commercial Emissions
+2011,189874.6,Total Industrial and Commercial Emissions
+2012,201350.7,Total Industrial and Commercial Emissions
+2013,196895.3,Total Industrial and Commercial Emissions
+2005,63972.9,dom_electric
+2006,66797.4,dom_electric
+2007,66520.8,dom_electric
+2008,64073.1,dom_electric
+2009,57825.2,dom_electric
+2010,59296.5,dom_electric
+2011,56310.7,dom_electric
+2012,59767.1,dom_electric
+2013,54418.9,dom_electric
+2005,76478.4,dom_gas
+2006,73719.6,dom_gas
+2007,70174.3,dom_gas
+2008,72678,dom_gas
+2009,65518.2,dom_gas
+2010,72555.4,dom_gas
+2011,59299,dom_gas
+2012,65345.2,dom_gas
+2013,67082.9,dom_gas
+2005,13261.7,dom_other_fuel
+2006,13410.4,dom_other_fuel
+2007,12354.4,dom_other_fuel
+2008,13174.7,dom_other_fuel
+2009,12593.4,dom_other_fuel
+2010,14096,dom_other_fuel
+2011,11624.8,dom_other_fuel
+2012,11542,dom_other_fuel
+2013,11767.8,dom_other_fuel
+2005,153712.9,Total Domestic Emissions
+2006,153927.5,Total Domestic Emissions
+2007,149049.5,Total Domestic Emissions
+2008,149925.8,Total Domestic Emissions
+2009,135936.8,Total Domestic Emissions
+2010,145947.8,Total Domestic Emissions
+2011,127234.5,Total Domestic Emissions
+2012,136654.3,Total Domestic Emissions
+2013,133269.6,Total Domestic Emissions
+2005,61009.6,a_road
+2006,60298.8,a_road
+2007,59847.6,a_road
+2008,56364.9,a_road
+2009,54648.6,a_road
+2010,53931,a_road
+2011,53454,a_road
+2012,53239.7,a_road
+2013,52084.5,a_road
+2005,30245.6,motorways
+2006,30034.3,motorways
+2007,30160.2,motorways
+2008,28375.9,motorways
+2009,27491.6,motorways
+2010,27624.4,motorways
+2011,27374.4,motorways
+2012,27687.3,motorways
+2013,27641.4,motorways
+2005,42021.1,minor_road
+2006,41855.1,minor_road
+2007,43135.8,minor_road
+2008,42405.6,minor_road
+2009,41017.1,minor_road
+2010,40315.9,minor_road
+2011,39007,minor_road
+2012,38035.3,minor_road
+2013,37822.6,minor_road
+2005,2098.7,diesel_rail
+2006,2070.2,diesel_rail
+2007,2161.1,diesel_rail
+2008,2143.3,diesel_rail
+2009,2143.7,diesel_rail
+2010,2160.9,diesel_rail
+2011,2132.6,diesel_rail
+2012,2191.8,diesel_rail
+2013,2125.6,diesel_rail
+2005,1961,other_transport
+2006,2092.4,other_transport
+2007,2117.6,other_transport
+2008,2109.7,other_transport
+2009,2031.9,other_transport
+2010,2064,other_transport
+2011,2041.4,other_transport
+2012,2038.9,other_transport
+2013,2077.7,other_transport
+2005,137336,Total Transport Emissions
+2006,136350.8,Total Transport Emissions
+2007,137422.4,Total Transport Emissions
+2008,131399.5,Total Transport Emissions
+2009,127332.9,Total Transport Emissions
+2010,126096.2,Total Transport Emissions
+2011,124009.3,Total Transport Emissions
+2012,123193,Total Transport Emissions
+2013,121751.8,Total Transport Emissions
+2005,-3821.7,lulucf
+2006,-4373.2,lulucf
+2007,-4789.1,lulucf
+2008,-4927.4,lulucf
+2009,-4880.6,lulucf
+2010,-5070.5,lulucf
+2011,-5610.2,lulucf
+2012,-5770.4,lulucf
+2013,-5987.9,lulucf
+2005,531948.2,Total Emissions
+2006,530043.2,Total Emissions
+2007,520632.7,Total Emissions
+2008,507938.2,Total Emissions
+2009,458507.7,Total Emissions
+2010,476647.5,Total Emissions
+2011,435508.2,Total Emissions
+2012,455427.5,Total Emissions
+2013,445928.8,Total Emissions
+2005,60413.7,population_est
+2006,60827.3,population_est
+2007,61319.1,population_est
+2008,61824.5,population_est
+2009,62260.9,population_est
+2010,62759.8,population_est
+2011,63285.3,population_est
+2012,63705,population_est
+2013,64105.7,population_est
+2005,8.8,pc_emission
+2006,8.7,pc_emission
+2007,8.5,pc_emission
+2008,8.2,pc_emission
+2009,7.4,pc_emission
+2010,7.6,pc_emission
+2011,6.9,pc_emission
+2012,7.1,pc_emission
+2013,7,pc_emission
+2012,603600,UK Carbon Budget Target
+2017,556400,UK Carbon Budget Target
+2022,508800,UK Carbon Budget Target
+2027,39000,UK Carbon Budget Target

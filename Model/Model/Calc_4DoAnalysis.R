@@ -1,0 +1,71 @@
+AllAnalytics0=AllAnalytics(Population0,ExistingTaxSystem)
+AllAnalytics0Inc=AllAnalytics(Population0,TaxSystem0Inc)
+
+AllAnalytics1=AllAnalytics(Population0,TaxSystem1)
+AllAnalytics2=AllAnalytics(Population0,TaxSystem2)
+AllAnalytics3=AllAnalytics(Population0,TaxSystem3)
+NewDirectTaxSystemsAnalysis=list(AllAnalytics0,AllAnalytics1,AllAnalytics2,AllAnalytics3)
+names(NewDirectTaxSystemsAnalysis)=c("Existing Tax System", "Simplified Tax System", "Flat Tax", "Stepped System")
+RevenueRaisedByDirectTaxSystems=(ExtractElement("RevenueRaisedByTax",NewDirectTaxSystemsAnalysis))
+PreTaxGiniOfDirectTaxSystems=ExtractElement("PreTaxGini",NewDirectTaxSystemsAnalysis)
+PreTaxShareOfIncomePerQs=ExtractElement("PreTaxShareOfIncomePerQs",NewDirectTaxSystemsAnalysis)
+PostTaxGiniOfDirectTaxSystems=ExtractElement("PostTaxGini",NewDirectTaxSystemsAnalysis)
+PostTaxShareOfDirectTaxSystems=ExtractElement("PostTaxShareOfIncomePerQs",NewDirectTaxSystemsAnalysis)
+
+AllAnalytics0NI=AllAnalytics(Population0,TaxSystem0NI)
+NewNISystemsAnalysis=list(AllAnalytics0,AllAnalytics0NI)
+RevenueRaisedByNewNISystems=ExtractElement("RevenueRaisedByTax",NewNISystemsAnalysis,c("EmployeeNI","EmployerNI"))
+PostTaxGiniOfNewNISystems=ExtractElement("PostTaxGini",NewNISystemsAnalysis)
+PostTaxShareOfNewNISystems=ExtractElement("PostTaxShareOfIncomePerQs",NewNISystemsAnalysis)
+
+
+AllAnalyticsInd0=AllAnalytics(Population0,TaxSystemInd0)
+AllAnalyticsInd1=AllAnalytics(Population0,TaxSystemInd1)
+AllAnalyticsInd2=AllAnalytics(Population0,TaxSystemInd2)
+AllAnalyticsInd3=AllAnalytics(Population0,TaxSystemInd3)
+AllAnalyticsInd4=AllAnalytics(Population0,TaxSystemInd4)
+AllAnalyticsInd5=AllAnalytics(Population0,TaxSystemInd5)
+
+
+NewIndirectTaxSystemsAnalysis=list(AllAnalyticsInd0,AllAnalyticsInd1,AllAnalyticsInd2,AllAnalyticsInd3,AllAnalyticsInd4,AllAnalyticsInd5)
+names(NewIndirectTaxSystemsAnalysis)=c("New IT and NI Only","Increased VAT","Increased Carbon Tax","Increased Property Tax","Increased Carbon and Property Taxes")
+RevenueRaisedByIndirectTaxSystems=ExtractElement("RevenueRaisedByTax",NewIndirectTaxSystemsAnalysis)
+PostTaxGiniOfIndirectTaxSystems=ExtractElement("PostTaxGini",NewIndirectTaxSystemsAnalysis)
+PostTaxShareOfIndirectTaxSystems=ExtractElement("PostTaxShareOfIncomePerQs",NewIndirectTaxSystemsAnalysis)
+
+
+AllAnalyticsFull1=AllAnalytics(Population0,ExistingTaxSystem)
+AllAnalyticsFull2=AllAnalytics(Population0,TaxSystemFull2)
+AllAnalyticsFull3=AllAnalytics(Population0,TaxSystemFull3)
+AllAnalyticsFull4=AllAnalytics(Population0,TaxSystemFull4)
+AllAnalyticsFull5=AllAnalytics(Population0,TaxSystemFull5) #proposals + 0 cit div
+AllAnalyticsFull6=AllAnalytics(Population0,TaxSystemFull6) # proposals + 4k cit div
+FullTaxSystemsAnalysis=list(AllAnalytics0,AllAnalyticsFull1,AllAnalyticsFull2,AllAnalyticsFull3,AllAnalyticsFull4
+                            ,AllAnalyticsFull5,AllAnalyticsFull6)
+names(FullTaxSystemsAnalysis)=c("Existing System", "Proposal One", "Proposal Two", "Proposal Three", "Proposal Four", "Proposal Five", "Proposal Six")
+
+RevenueRaisedByNewFullTaxSystems=ExtractElement("RevenueRaisedByTax",FullTaxSystemsAnalysis)
+PostTaxGiniOfFullTaxSystems=ExtractElement("PostTaxGini",FullTaxSystemsAnalysis)
+PostTaxShareOfFullTaxSystems=ExtractElement("PostTaxShareOfIncomePerQs",FullTaxSystemsAnalysis)
+
+Analytics0a=AllAnalytics(Individual1,ExistingTaxSystem)
+Analytics0b=AllAnalytics(Individual2,ExistingTaxSystem)
+Analytics0c=AllAnalytics(Individual3,ExistingTaxSystem)
+Analytics1a=AllAnalytics(Individual1,TaxSystemFull1)
+Analytics1b=AllAnalytics(Individual2,TaxSystemFull1)
+Analytics1c=AllAnalytics(Individual3,TaxSystemFull1)
+Analytics2a=AllAnalytics(Individual1,TaxSystemFull2)
+Analytics2b=AllAnalytics(Individual2,TaxSystemFull2)
+Analytics2c=AllAnalytics(Individual3,TaxSystemFull2)
+Analytics3a=AllAnalytics(Individual1,TaxSystemFull3)
+Analytics3b=AllAnalytics(Individual2,TaxSystemFull3)
+Analytics3c=AllAnalytics(Individual3,TaxSystemFull3)
+Analytics4a=AllAnalytics(Individual1,TaxSystemFull4)
+Analytics4b=AllAnalytics(Individual2,TaxSystemFull4)
+Analytics4c=AllAnalytics(Individual3,TaxSystemFull4)
+Analytics5a=AllAnalytics(Individual1,TaxSystemFull5)
+Analytics5b=AllAnalytics(Individual2,TaxSystemFull5)
+Analytics5c=AllAnalytics(Individual3,TaxSystemFull5)
+Analytics6a=AllAnalytics(Individual1,TaxSystemFull6)
+Analytics6b=AllAnalytics(Individual2,TaxSystemFull6)
+Analytics6c=AllAnalytics(Individual3,TaxSystemFull6)

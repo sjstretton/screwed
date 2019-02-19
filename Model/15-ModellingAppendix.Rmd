@@ -1,0 +1,550 @@
+---
+title: "The Operating System of Capitalism"
+subtitle: "Revolutionising Tax and Welfare in the Pre-Singularity Era"
+date: "`r Sys.Date()`"
+output: 
+  tufte::tufte_html: default
+  tufte::tufte_handout: default 
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r, echo=FALSE}
+setwd("~/Google Drive/Tax Heaven Book/Model")
+source("Model/LibrariesNeeded.R")
+source("Model/Calc_1SimplifiedTaxFunctions.R")
+source("Model/Calc_2DefineTaxSystems.R")
+source("Model/Calc_3ConstructPopulation.R")
+source("Model/Calc_4DoAnalysis.R")
+```
+
+
+
+# Part 15: Modelling the Proposals
+
+# 15.1 A New System
+
+`r tufte::newthought('In the previous sections,')`  we set out our proposed new tax system. These included a land value tax, introduced incrementally; a new concept, land value mortgages; a carbon tax in which the funds were used for a direct rebate to households in the form of a citizen's dividend, a simplified income tax system, and deductibility of income tax. These updates are intended to address the issues that have been highlighted in the previous chapters. We see such a comprehensive reform as necessary to help move us towards the heavenly state of affairs laid out in in our proposals. Improving critical issues such as housing, environmental impact, and inequality through the improvement of our tax and welfare systems is of fundamental importance to creating a system that is beneficial and fair. The need to tackle avoidance and evasion is also paramount. 
+
+However, we cannot forget the third tenet of a successful taxation system: that it is practical. Unsustainable would the system be if it bankrupted the country with an unfunded, poorly administered system. We therefore have tried to evidence our proposals and their potential impacts to the economy by applying these proposals to a representative study of the UK's population. Initially conducted as an internal experiment, this was followed up through the testing of our proposals with a European Multi-simulation model called EUROMOD. 
+
+We model the proposals in a number of different ways. As an initial offering, we presented the summary impacts of the proposals. The impacts are measured with a few metrics - namely their impact on the total revenues raised,  and the distributary effects of our proposals on our modelled population.
+
+The overall revenue raised from central government UK taxes was ?518bn, according to the HMRC accounts in 2014-15. 22% of this originated from VAT, 21% from National insurance contributions, and 32% from Income tax [(Link)](https://www.nao.org.uk/wp-content/uploads/2015/07/HMRC-Standard-Report.pdf). The UK's total pre-tax income, according to the ONS report for Incomes and Deductions 2014-15, was £977bn [(Link)](https://www.gov.uk/government/collections/personal-income-by-tax-year).
+
+This chapter attempts to explore the impact of changes to the UK tax system, primarily through the use of two metrics: the revenue raised, and the distribution of post-tax income. We propose to explore this in a number of ways, like shifting the focus of tax away from earned wealth and onto unearned endowments, like land, and by incorporating a citizens dividend into the system. 
+
+The aim of this chapter is to therefore help you, the reader, visualise the impact that our proposals would have on the tax-paying population of the UK. Through creating a dynamic tool that could be used to applied to a representative population, we were able to simulate the distributive impacts of different tax systems. A 42,000 ^[See Methodology section for why this number was chosen] data-point distribution was modelled from the pre-tax incomes of UK taxpayers, based on 2014/15 ONS census data. This allowed us to build up a representative population to which our new tax proposal could be applied. These  were evaluated on the basis of revenue raised from, and distributory impacts on, the population. Case studies of normal, representative individuals are then shown to make the impacts of these changes tangible. 
+
+\newpage
+
+
+
+```{r, echo=FALSE}
+# The exact figures for the revenue raised by each category of taxation are outlined in table following:
+
+par(mar=c(10,4,2,4)+.1, srt=90)
+TotalTaxReceiptsGovernment <- read.csv("data/SummaryTotalGovernmentTaxReceipts20142015.csv")
+TaxGov<- round(t(as.data.frame(TotalTaxReceiptsGovernment[c(2:27)]))/1000,1)
+LabelsGov <- c("Total Income Tax" ,"NICs" ,"VAT" ,"Customs" ,"Tobacco" ,"Spirits", "Beer", "Wines" ,"Cider" ,"Betting and Gambling" ,"Air Passenger Duty", "Insurance Premium Tax", "Landfill Tax" ,"Climate Change Levy", "Petroleum Revenue Tax", "Fuel Duties" ,"Stamp Duty Land Tax", "Envelope Duty" ,"Inheritance Tax","Shares" ,"Capital Gains Tax" ,"Total Corporation Tax" ,"Bank Levy", "Aggregates Levy" ,"Swiss Capital Tax" ,"Misc")
+colsGov <- rainbow(length(TaxGov))
+BarplotGov<- barplot(TaxGov,width = 4,xlim=c(0,90), beside = TRUE, names.arg=LabelsGov,col=colsGov,las=2, ylim = c(0,max(TaxGov)+50) ,main="Total Tax Revenue raised 2014/15", ylab = "Revenue Raised (£bns)")
+text(x=BarplotGov,y=as.numeric(TaxGov),label =as.numeric(TaxGov),pos=4,cex=1.1,col="black",las=1)
+
+```
+
+
+\newpage
+
+
+## Assumptions and Limitations
+
+In order to build the model we needed to evaluate our proposals, a number of assumptions about the dataset were made. The 2014/15 ONS census data for household tax revenue data was used as the base for the majority of our analysis, and where possible, rates from the same time period were used to maintain consistency.
+
+We assumed that the distribution of household income was identical to personal income distribution, and so household gross income, or 'pre-tax income', was used to represent pre-tax income for the individual. This was because we assumed a 1:1 ratio of households to taxpayers, meaning that every household's tax-burden was taken to represent the tax-burden of one tax-paying individual. The household data we use actually defines the average household as representative of 2.4 people overall, consisting of 0.4 retired people, 0.5 children, 0.3 economically inactive adults, and 1.2 economically active adults. We assume that these 1.2 economically active adults are our taxpaying sample. We also assumed that the distribution of these pre-tax incomes for the population was lognormal ^[Check this assumption] when we modelled our population of 42,000 datapoints. 
+
+The tax base for each 'individual' data-point in our population was established by cross-referencing the income associated with that individual with the decile income bracket it fell into, and assigning the associated consumption base to this individual. Here we assumed that consumption of the goods was uniform within each income decile bracket. 
+
+To assign property wealth, a similar method was used. Using 2014/15 ONS wealth data, we assumed an identical distribution of property wealth to that of income^[Again, research Income/Property wealth Distribution], so that the lowest income decile corresponds with the lowest decile for property wealth. This is obviously a limitation for the data-set, as this assumption does not hold in reality, but we used this as a working assumption so that we could evaluate the impact of a land value tax (LVT) on our population.  
+
+ We also used 2014/15 tax rates for all the categories of taxable goods evaluated. Our method of building the tax base was to divide the tax bills for each decile for each category of indirectly taxable goods by the relevant tax rate for each, so as to build our tax base to which our proposals could be applied. We assume that the tax rates remain constant. The rates for the wine/spirit category were simplified to represent just wine. 
+
+The data for carbon consumption was found separately and combined with the household data to build our indirect tax base.The total emissions for 2015 of 404 million tonnes CO[2]
+ [(Link)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/589602/2015_Final_Emissions_Statistics_one_page_summary.pdf) was divided by the total number of taxpayers (30.7 million  according to the 2014/15 ONS report^[Probably want to change this number based on our assumption of 42,000 Taxpayers]). This flat distribution was then assigned to the household tax-base deciles in direct alignment with the distribution of VAT. This assumption was made so as to approximate a realistic carbon consumption for each taxpayer per decile.
+
+## Further work
+
+There are a number of ways in which we could develop our work. For example, the tax base for the current data set could be expanded to include other taxes i.e. the other forms of wealth. We could also, instead of using property wealth as a 1:1 proxy for land-value, we could run a regression against council tax values to find the amount of 'land value' embodied within each decile's property endowment. Moreover, to evaluate the impact of changing benefit allowances on the existing system more fully than currently achieved by incorporating a simple Citizen's Dividend, we could use a much similar method to the one above used when building the full tax system. Either the household data per decile could be used again to cross reference a sample's income with the average benefit endowment per decile per household, or the total benefit payments for the UK in 2014/15 could be divided by the tax-paying population to find the average endowment across the whole population. Either or could be built into our model for the existing tax system, so as to more fully contrast it with alternative proposals. 
+
+It is evident that the proposals and issues highlighted in this book need to be substantiated fully. The potential impacts of these changes are immense, and it is the responsibility of policy makers to ensure that they are fully investigated and implemented so as to avoid overly disruptive outcomes. We must not throw the baby out with the bathwater! Our initial work aimed to build a static model in R that would give some indication as to the fiscal and distributional impacts on the UK from such major changes to our taxation system. However, the depth of our model is inherently limited by the complexity of the data and program available. We have therefore attempted to bolster these findings through the use of an EU tax-benefit microsimulation tool called EUROMOD.  
+
+This tool  has painstakingly replicated the different tax systems in the European union and is a key resource when it comes to looking at the demographic and economic impacts of changes to taxation. In evaluating our proposals above, and our initial work in modelling the impacts of such drastic changes to the UK taxes, we utilise EUROMOD to test our proposals. We have begun the process of evidencing our proposals with another form of modelling previously mentioned, the EUROMOD software. This process is ongoing, and when complete should offer a much more full picture of the interrelated behavioural and economic consequences of such shifts to the UK tax system.
+
+\newpage
+
+# 15.2 Methodology
+
+This project was split up into a number of stages in order to create a model that was representative of the existing UK taxation system. These stages are outlined here in brief, and are expanded upon in the relevant sections below. Our analysis is organised under the four main categories of taxation. These are income taxes, national insurance, consumption taxes, and property 'wealth' taxes. The summary of our methodology is outlined below.
+
+1. *First it was necessary to build a population to which we could apply our tax proposals.*
+
+- We used the 2014/15 distribution of household income data report from the ONS as the base for this modelling. By assuming that every household is representative of one tax-paying individual, the pre-tax income in this dataset was used to create a lognormal distribution, from which we sampled 42,000 data points to create a population ^[These numbers are chosen arbitarily at present; the income distribution is an approximate one, excluding non-income earners, and thus 42,000 data points represents a notional 42 million taxpayers in the population (the remaining c.20million people are assumed not to be tax payers). This can be considered the first 'fudge factor' to ensure the results fit with reality].
+- This taxpayer population is calibrated to ensure the overall Income tax figure is the same as that observed. Further work will ensure a more accurate income distribution including non-taxpayers.
+
+1. *Next we built a formula to replicate the current tax income tax system.* 
+
+- The formula works by cross-referencing a sample's pre-tax income with the income tax thresholds of the existing UK tax system. The relevant tax rates of each threshold bucket were then applied to the component of the income which fell within each respective 'bucket' of the thresholds scale. New income tax proposals were then evaluated by changing the levels of each systems' threshold and rate scales. This calculated the amount of income tax due on a sample's pre-tax income. The post-tax income was then calculated by subtracting the income tax paid from the sample's pre-tax income.
+- Using the post-tax incomes for the population, the distribution of post-income tax incomes amongst the population was found. This was achieved by building a formula to find the quartile points of the post-tax income distribution. The incomes of all samples falling into each quartile bracket were summed, and respectively divided by the total sum of all the post-tax incomes of our population. These values were then converted into percentages to find the ratio of income falling into each quartile. This created a measurement of the progressivity of any income tax system evaluated.
+- It was then possible to evaluate new taxation systems by manipulating the income tax thresholds and rates. The different tax systems were compared by revenue raised and the distributive impacts of the tax proposals. 
+
+1. *National Insurance was incorporated by creating a formula that replicated the current national insurance system. This was split under two categories: employer  and employee national insurance. *
+
+- For employers in 2014/15, this is a single rate of 13.8% applied above the income threshold of £663/month (0% charged on incomes below this level). For employees, the national insurance tax starts at 12% on incomes above the lower threshold of £663/month, with a rate of 2% charged above the upper threshold of £3489/month [(Link)](https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2014-to-2015). 
+- To find the individual's tax burden under the existing system, the employee's national insurance contribution was applied to a sample's pre-tax income. This was then summed with the income tax contribution to find post-tax income for a sample under the existing system. The employer's national insurance tax burden was also found. This was added to the final population's tax-revenue raised, but was excluded from the calculation of post-tax income as it has no impact on an individual's tax-burden. 
+- Similar to the methodology used in the income tax section, new national insurance proposals can be evaluated by changing the thresholds and rates input into the model. The total revenue raised for our population under the various tax system was calculated by summing national insurance-paid by each individual data-point. Post-NI tax income was calculated by subtracting national insurance paid from post income tax income. 
+- Employers national insurance was added into the full tax base for the existing tax system. This allowed us to calculate the impact of any changes to the national insurance on revenue raised. ^[A further 'fudge factor' of 0.5 was applied, representing the ratio of all income to the earned income on which NI is charged. It also represents any taxpayers who don't pay NI but should do so. Again, this is a fudge factor so that the total NI paid equals that observed, roughly.]
+
+1. *The full tax system was then built by adding in the consumption tax base, using the consumption tax burdens given by the ONS household data.*
+
+- The consumption tax base for each 'individual' data-point in our population was established by cross-referencing their pre-tax income with the decile points of the household income data, i.e. the uppermost value of income for each decile. We could then assign the individual to an income bracket, and by assuming that the consumption of taxable goods was uniform across each income-decile bracket, build their full tax base. 
+- Once we had assigned each sample to its corresponding income bracket, we could associate with them the average tax-paid per category of consumption goods. We then divided each of these by the existing tax rates per category to find the 'amount' of each of the goods consumed. 
+- A model of the existing tax system was built by creating a vector of tax rates that corresponded to existing tax policies for the 2014/15 period. This vector was cross multiplied with a vector of the 'consumed amount' values for each consumption tax category to establish the existing consumption tax paid for an individual sample tax burden. The vector of rates was then manipulated to account for different tax policies allowed us to apply different tax rates to evaluate the impact of various tax policies. 
+- This consumption tax base was augmented by adding in values for non-vehicular carbon consumed per taxpayer (found by dividing the total carbon emitted by the UK per year, by the number of taxpayers, and matching the use-of-carbon distribution with that of VAT burden per decile). Values for property wealth were also added. 
+  Property wealth was incorporated by building in a separate data-set from the ONS that outlined the distribution of different forms of wealth in 2014/15 [(Link)](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/adhocs/007203distributionoftotalhouseholdwealthbypercentilepointstotalfinancialwealthnettotalpropertywealthnettotalphysicalwealthandtotalprivatepensionwealthgreatbritainjuly2012tojune2014).				
+- We assumed an identical distribution of income to wealth i.e. that the lowest income decile would correspond with the lowest property wealth endowment, and thus assigned each pre-tax income decile to the same property wealth decile. We then cross-referenced the pre-tax income of our population to the income buckets of our tax base, and assigned each individual a property wealth as part of their full tax base. 
+- Different tax rates were then applied to these property values to calculate the impact of different tax proposals to the population's tax-burden. 
+- The formula for our full tax system was then adapted to allow for the input of different income and property wealth values. This allowed us to evaluate the impact of our tax proposals for any individual (combination of income and property wealth).
+- Using a similar method, further work can be done to add in other forms of wealth for an individual, such as financial wealth
+- The full tax system was also augmented by a value for Citizen' Dividend. This Value could also be varied.
+
+1. *This process was then used to establish the impact of various tax proposals on the following areas: revenue raised, income distribution, and individual tax burden.*
+
+- The basic model for the existing tax system was then manipulated to represent our new tax proposals. For the population, the methods used to evaluate these proposals were the the distribution of post-tax income, and total tax revenue raised. 
+
+- The impact of these proposals on sample individuals was also outlined. 
+
+  
+
+  *As mentioned, these findings were then tested through the use of alternative modelling software. EUROMOD was used to replicate our proposals and vet the findings of the previous modelling work that was conducted.*
+
+## Building Our Population
+
+Initially, we built a 42,000 data-point distribution which modelled the pre-tax incomes of UK Taxpayers, based on 2014/15 ONS census data for gross income. This allowed us to build up a representative 'population' on which we could apply our new tax proposals. 
+
+We assumed a lognormal distribution of income, using our data for household gross incomes broken down by decile. We used this to build our population because our analysis assumes that each household is representative of 1 taxpaying adult. 
+
+This pre-tax income distribution is displayed below, and is used as the basis for all modelling proposals. 
+
+```{r, echo=FALSE}
+# barplot.default(PreTaxIncomeModelled, main = "Income Distribution", xlab = "Percentile", ylab ="Pre Tax Income ", axis(1, at=seq(1, 10, by=1), labels = FALSE)
+```
+
+\newpage
+
+# 15.3 Results: Income Tax System
+## Existing Income Tax System
+
+The first step in this process was to create a model that replicated the current income tax system. The aim was to set up a representative model of the existing taxation system, as a base on which to compare our proposals.  
+
+The current taxation model operates as a tiered system, set up with series of increasing threshhold levels to which each is applied a series of increasing marginal rates.  
+
+A summary of the existing Income tax system is outlined in the table below.  
+
+```{r, echo=FALSE}
+kable(data.frame(Threshold=accounting(ExistingTaxSystem$IncTax[,"LowerLimit"],digits=0),Rate=percent(ExistingTaxSystem$IncTax[,"Rate"],digits=0)) ,row.names=NA, col.names = c("Existing Thresholds (£)","Existing Rates"), caption = "Summary of Existing Tax System")
+```
+
+## New Income Tax Proposals
+
+We modelled our new alternative income tax scenario so as to test the models flexibility and give us an idea of the impact of our changes. 
+
+This new system is broadly similar in set-up to the existing system, albeit simplifed with a single rate of 40% on any income, with no personal allowance. No additional rates or thresholds are applied beyond this beyond this. There is potential to combine this with a citizens dividend to make it less regressive for the lower income deciles, and this is explored later in this chapter. 
+
+```{r, echo=FALSE}
+
+kable(data.frame(Threshold= currency(TaxSystem1$IncTax[,"LowerLimit"],"£",digits=0),Rate=percent(TaxSystem1$IncTax[,"Rate"],digits=0)), row.names=NA, col.names = c("New Thresholds (£)","New Rates"), caption = "Summary of Proposed Income Tax System")
+```
+
+## Revenue raised
+
+After creating a code which could incorporate various threshold-and-rate combinatons, the revenue raised from our population was totalled to show the impact of this change to Government receipts collected. This is to ensure that any changes would not drastically and negatively impact the Government's budget. 
+
+This is shown in the summary table below. 
+
+As can be seen, the flat tax proposal of 40% raises the greatest amount of revenue, leaving scope to combine the policy with a citizens dividend. If this citizens dividend was set at around £4000 per taxpaying person per year, there would be a roughly revenue neutral outcome for our population of 42,000,000 'taxpayers' 
+
+Further work can be done to evaluate the impact of other income tax proposals. However, for the sake of simplicity and clarity we have limited ourselves to modelling the impact of the only proposal scenario discussed. 
+
+
+```{r, echo=FALSE}
+
+RRByDirectTaxes=paste0(currency(RevenueRaisedByDirectTaxSystems["IncTax",]/1e6,"£",digits=0),"bn")[c(1,3)]
+kable(data.frame(System=names(RevenueRaisedByDirectTaxSystems["IncTax",])[c(1,3)],Revenue=RRByDirectTaxes), caption = "Total Tax Revenue from Income Taxes (£ billion)")
+# kable(round(SummaryIncomeTaxRevenueRaised/1e6,1), caption = "Total Tax Revenue from Income Taxes (£Millions)")
+
+
+```
+
+
+```{r, echo=FALSE}
+## Can change lets try
+# Trying to input shiny bit here
+# selectInput(NewThresholds, Thresholds, c("NewThreshholds1","NewThresholds2"),                                                             tableOutput(NewTaxSys))
+
+ #  server = function(input, output) {output$NewTaxSys <- renderTable({   c(input$NewThresholds,input$NewRates)  })}
+
+```
+
+## Inequality
+
+The distributory impacts of the changes are another important consideration when evaluating any tax proposals we put forward. The Gini coefficient, and the more explicit 'Share of income per quartile' table demonstrate the impacts of the ones set out in this brief document. 
+
+The first table below shows the Gini coefficient for each of these proposals. 
+```{r, echo=FALSE}
+library(knitr)
+GiniCoefficentIT=data.frame(Gini=c(PreTax=PreTaxGiniOfDirectTaxSystems[[1]],PostTaxGiniOfDirectTaxSystems[c(1,3)]))
+
+kable(round(GiniCoefficentIT,2), caption = "Gini coefficient")
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The impact on income distribution is shown more explicitly by the table below. The share of post-income-tax income per quartile has been calculated for each tax system.  
+
+```{r, echo=FALSE}
+library(knitr)
+ShareOfIncIT=(data.frame(PreTax=percent(PreTaxShareOfIncomePerQs[,1],digits=0L),Existing=percent(PostTaxShareOfDirectTaxSystems[,1],digits=0L),Simplified=percent(PostTaxShareOfDirectTaxSystems[,2],digits=0L),Flat=percent(PostTaxShareOfDirectTaxSystems[,3],digits=0L),Stepped=percent(PostTaxShareOfDirectTaxSystems[,4],digits=0L)))[,(c(1,2,4))]
+rownames(ShareOfIncIT)=c("First quartile: 0-25%","Second quartile:25-50%","Third quartile: 50-75%","First quartile: 75-100%")
+kable(ShareOfIncIT, caption = "Share of Income per Quartile after Income Tax Schedule(%)"   )
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Lorenz curve
+
+The Lorenz Curve is basically a plot of inequality. It allows us to visually map the distribution of income within a population. The closer the lines approach a 45 degree line (i.e. where the percentage of total income that a quantile of the population holds is directly proportional to the percentage of the population that quantile represents) the more 'fair' a societies wealth distrbution is. 
+
+As we can see below, the existing tax system improves the distribution of income but falls short of achieving 'true equality'. The flat tax system has no progressive impact.
+
+```{r LorenzCurve, echo=FALSE}
+
+plot(Lc(AllAnalytics0$SummaryResult[,"GrossIncome"], n = rep(1,SimPopulation), plot =F),   col="black",    lty=1,    lwd=3,    main="Lorenz Curve for Tax Systems")
+lines(Lc(AllAnalytics0Inc$SummaryResult[,"PostAllTaxAndBen"], n = rep(1,SimPopulation), plot=F), col="red", lty=2, lwd=3)
+#lines(Lc(AllAnalytics1$SummaryResult[,"PostAllTaxAndBen"], n = rep(1,SimPopulation), plot=F), col="purple",lty=5, lwd=3)
+lines(Lc(AllAnalytics2$SummaryResult[,"PostAllTaxAndBen"], n = rep(1,SimPopulation), plot=F), col="green",lty=5, lwd=3)
+#lines(Lc(AllAnalytics3$SummaryResult[,"PostAllTaxAndBen"], n = rep(1,SimPopulation), plot=F), col="blue",lty=5, lwd=3)
+legend("topleft",  c("PreTax", "Existing", "Simplifed","Flat Tax","Stepped No Pers Al")[c(1,2,4)],  col=c("black","red","purple","green","blue")[c(1,2,4)],  lty=c(1,2,3,4,5),       lwd=3)
+
+
+```
+
+
+As we can see from these simplified examples, our model is able to calculate the impact to both revenue raised and distribution of income on our modelled population. This paves the way for the evaluation of more complex proposals, as explored later in this paper. The next few sections shall therefore remain fairly barebone, and limited to discussing the process of building the model. 
+
+\newpage
+
+# 15.4: National Insurance 
+
+## Existing National Insurance system
+
+National insurance contributions act as an additional form of income tax. The NI system is split into two parts: employee contribution and employer contribution.  We add these in as their own section so that the effects of different, or even non-existent national insurance proposals, can be explored.  
+
+In the 2014/15 period, employers faced a single NI rate of 13.8% applied above the income threshold of £663/month (0% charged on incomes below this level).   
+
+For employees, the national insurance tax starts at 12% on incomes above the lower income threshold of £663 per month, with a decrease in rate to 2% charged on any income above the upper threshold of £3489/month
+[(Link)](https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions).
+We outline this schedule of rates in the table below.
+
+```{r, echo=FALSE}
+
+#kable(ExistingTaxSystem$EmployeeNI[,1:3], caption = "Employees NI System"  )
+
+kable(data.frame(Band=ExistingTaxSystem$EmployeeNI[,1],Rate=percent(ExistingTaxSystem$EmployeeNI[,2],digits=0),Threshold=currency(ExistingTaxSystem$EmployeeNI[,3],"£",digits=0)), caption = "Employees NI System"  )
+
+kable(data.frame(Band=ExistingTaxSystem$EmployerNI[,1],Rate=percent(ExistingTaxSystem$EmployerNI[,2],digits=0),Threshold=currency(ExistingTaxSystem$EmployerNI[,3],"£",digits=0)), caption = "Employers NI System"  )
+
+```
+
+
+```{r, echo=FALSE}
+
+## New National Insurance Proposals
+#To demonstrate the possibities of modelling changes to the NI system, we update the national insurance system with a simplified threshold-and-rate schedule.
+
+#These national insurance proposals are combined here with the existing income-tax system so as to isolate the impact of changes to the NI system. Obviously, both systems can be subject to variation. 
+#kable(data.frame(Band=TaxSystem0NI$EmployeeNI[,1],Rate=percent(TaxSystem0NI$EmployeeNI[,2],digits=0),Threshold=currency(TaxSystem0NI$EmployeeNI[,3],"£",digits=0)), caption = "New Employees NI System"  )
+
+
+```
+
+## Revenue raised
+
+The revenue raised by the existing national insurance system is shown below. The new proposals are to keep eliminate these rates, and apply a new rate of 0%.
+
+```{r, echo=FALSE}
+kable(data.frame(Tax=names(RevenueRaisedByNewNISystems[,1]),ExistingSystem=paste0(currency(RevenueRaisedByNewNISystems[,1]/1e6,"£",digits=0),"bn"),NewSystem=paste0(currency(RevenueRaisedByNewNISystems[,2]/1e6,"£",digits=0),"bn")),caption = "Summary Tax Revenue Raised by NI (£ Billions)")
+
+```
+
+## Inequality 
+The impact of addings national insurance to the income tax system is shown below. As a greater proportion of post NI and income tax now goes to the the lowest population quartiles,it seems that the inclusion of a tiered system of national insurance on top of income tax appears to be progressive. This also holds true for the simplified NI proposals. 
+
+```{r, echo=FALSE}
+#kable((percent(PostTaxShareOfNewNISystems)), caption = "Share of Income per Quartile after National Insurance" )
+PostNIIncomeShares=data.frame(ExistingSystem=percent(PostTaxShareOfNewNISystems[,1],digits=0L),NewSystem=percent(PostTaxShareOfNewNISystems[,2],digits=0L))
+kable(PostNIIncomeShares, caption = "Share of Income per Quartile after National Insurance (%)" )
+
+```
+
+
+```{r, echo=FALSE}
+#The Gini coefficients, found below, confirm that national insurance can act as both a revenue source for the government, and a distributory mechanism amongst the population.
+
+
+#Further work can be done to model different proposals for national insurance. 
+
+#kable(percent(PostTaxGiniOfNewNISystems), caption = "Gini coefficient")
+
+#knitr::opts_chunk$set(echo = TRUE)
+```
+
+\newpage
+
+# 15.5: Indirect Taxes & Wealth 
+## Existing Tax System
+The next stage evaluated the total tax revenue raised under each system. Building in an interactive input format will allow us to evaluate the impact on tax receipts from any proposals we issue. 
+
+The table below outlines the existing nominal tax rates for 2014/15 for each of the indirect tax-categories used in this analysis.    
+
+
+```{r, echo=FALSE}
+
+library(knitr)
+
+kable(t(as.matrix(round(as.numeric((ExistingIndirectTaxes[1:6])),2))), col.names = (c("VAT","Tobacco","Beer","Wine","Hydrocarbons","Customs Goods")), caption = "Consumption Tax Rates (1)")
+kable(t(as.matrix(round(as.numeric((ExistingIndirectTaxes[7:13])),2))),col.names = (c("Betting","Insurance","Lottery","Air Travel","Tv Licence","Carbon", "Property")), caption = "Consumption Tax Rates (2)")
+
+```
+
+
+The indirect tax base for our population was found from the 2014/15 ONS Household census data. This data provided the average tax paid per decile for each sub-category of taxable consumption good.
+
+By matching the income of an 'individual' in our population to an income decile bucket, we were then able to assign the individual with an average 'tax paid per category' for the variety of taxable goods shown. The base was calculated by dividing the amount per decile spent in tax on these goods by the given tax rates for 2014/15.  This tax base then could include items like money spent on beer, or carbon emitted per person.
+
+We could then apply different tax rates to each of these categories. Any resulting changes to revenue raised and income distribution could be used to analyse the progressivity of various tax systems.
+
+
+```{r, echo=FALSE}
+
+TaxBaseTable <- round((HouseholdConsumptionTaxBaseLookup[-(1:3)]),2)
+kable(round(TaxBaseTable[1:5],2), caption= "Tax Base per decile (Part 1)")
+kable(TaxBaseTable[6:10], caption= "Tax Base per decile (Part 2)")
+kable(TaxBaseTable[11:13], caption= "Tax Base per decile (Part 3)")
+```
+
+By applying a vector that replicates the existing tax system, as illustrated above, we can find the total tax paid per category for our entire population. This is done by multiplying the tax base with the appropriate rate to find tax paid per category for an individual.
+
+## New Indirect Tax Proposals
+
+Here our model evaluates the following three indirect tax proposals:  
+
+1. VAT is reduced to 0% 
+
+2. Carbon Tax is raised to £200/Tonne emitted 
+
+3. Property Tax is set at 1% of total property wealth.   
+
+
+By applying these changes to the modelled population, and summing the taxes paid under each category, we can find the total indirect tax revenue raised per category by the whole population. 
+
+
+
+```{r, echo=FALSE}
+
+colnames(RevenueRaisedByIndirectTaxSystems) <- c("Existing Tax System","VAT up","Carbon Tax up","Property Tax up" ,"C + Prop Tax up","New Proposals")
+kable(round(RevenueRaisedByIndirectTaxSystems/1e6,1)[,c(1,6)], caption = "Total Tax Revenue raised ")
+
+```
+
+
+We can also find the distributory impact by evaluating the ratio of post-tax income share after these policies are applied. We do this here by applying these different policies to the post-tax income under our new income and new NI systems (with a flat rate of 40% charged on all incomes).
+
+Incorporating additional forms of wealth into our tax base would allow us to explore the possibilities of additional kinds of wealth tax. We can also update the assumptions behind the tax-base to make the values more realistic. 
+
+```{r, echo=FALSE}
+# include
+# library(knitr)
+#colnames(PostTaxShareOfIndirectTaxSystems)=c("Base","VAT Up","C-Tax Up","Prop Tax Up","Prop and C-Tax Up","New Proposals")
+NewIndTax = percent(PostTaxShareOfIndirectTaxSystems)
+kable(NewIndTax, caption = "Share of Income per Quartile after different indirect tax policies (%)")
+
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+We assume that these consumption tax rate changes are always applied to the new income tax and new NI schedule, so as to fully contrast them with the existing tax system. The model is also able to be manipulated to test different combinations of these tax systems.
+
+```{r, echo=FALSE}
+## Option for a Lorenz Curve to be shown here
+# We also drew a Lorenz curve to visibly illustrate the impact of including these indirect taxes on the distribution of post-tax income.
+
+# plot(Distr4,   col="black",    lty=4,    lwd=3,    main="Lorenz curve illustrating the impact of incremental changes to indirect taxes")
+# lines(Distr5, col="red", lty=2, lwd=5)
+# lines(Distr6, col="purple",lty=5, lwd=5)
+# lines(Distr7, col="green",lty=5, lwd=6)
+# legend("topleft",  c("Existing", "VAT increase", "Carbon Tax Increase","Property Tax Increase"),  col=c("black","red","purple","green"),  lty=c(4,5,5,6),       lwd=3)
+
+```
+
+\newpage
+
+# 15.6: Full Tax System
+
+## Population
+Here we pull together the previous work to find the full impact of the tax system on our modelled population. We look at the tax burden of the population under the tax system proposals being evaluated. This gives a big-picture idea of the impacts of any changes to the tax system.
+
+These systems are outlined above, but a brief summary can be found here. The simplified income tax system is a flat rate of 40% applied to all incomes. The new NI proposals harmonise the employee and employer obligations, and now apply a rate of 0%. We also chose to model the indirect tax assumptions outlined in the section above.
+
+## Revenue  
+
+The total tax revenue raised under our proposals is outlined in the table below. 
+
+```{r, echo=FALSE}
+
+kable(colSums(RevenueRaisedByNewFullTaxSystems[,c(1,6,7)]/1e6), caption = "Total Tax Revenue raised (£Millions) ")
+
+
+```
+
+The total tax revenue, broken down into the total tax raised per sub-category, raised from each of these proposals is illustrated in the table below.   
+
+
+```{r, echo=FALSE}
+
+kable(round(RevenueRaisedByNewFullTaxSystems/1e6)[,c(1,6,7)], caption = "Tax Revenue by category  (£Millions)")
+
+
+
+```
+
+## Inequality  
+
+The distributory impacts of incorporating these indirect tax proposals outlined are outlined in the table below.
+
+```{r, echo=FALSE}
+library(knitr)
+
+kable(((PostTaxShareOfFullTaxSystems))[,c(1,6,7)],  caption = "Share of Income per Quartile after Full Tax Schedule (%)" )
+
+```
+
+We also calculated the Gini coefficient for these proposals.
+
+```{r, echo=FALSE}
+library(knitr)
+kable(round(PostTaxGiniOfFullTaxSystems,2)[c(1,6,7)], caption = "Gini coefficient")
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+\newpage
+
+# 15.7 Case Studies 
+
+Here we present the impact of these tax changes in a more tangible format, using three examples to illustrate the differences.
+
+Fred, a nurse, has an annual income of £20,000 and no property wealth to speak of.  Rebecca earns £50,000 working as a GP, and has a house on the outskirts of Manchester worth £357,000. Nick has worked as a stockbroker for the past 10 years and has recently bought a property worth £1.5million in London. He earns £200,000 a year. 
+
+We focus here on the change to income tax and VAT rate, but other scenarios can be explored later.  We evaluate the impact on these three individuals of a variety of changes. 
+
+We assume that Fred, Rebecca and Nick consume the same amounts of taxable goods as the other people in their respective income deciles. This lets us build a tax base for each of the individuals that is broadly representative of an average British citizen. 
+
+\newpage
+
+## Proposal One
+
+*Flat Income Tax system  + New NI system + New Indirect Tax System*
+
+## Fred 
+```{r, echo=FALSE,fig.height=4, fig.width=7}
+GraphsAndTables(Analytics0a,Analytics5a)
+```
+
+\newpage
+
+## Rebecca
+```{r, echo=FALSE,fig.height=4, fig.width=7}
+GraphsAndTables(Analytics0b,Analytics5b)
+```
+
+\newpage
+
+## Nick
+```{r, echo=FALSE,fig.height=4, fig.width=7}
+GraphsAndTables(Analytics0c,Analytics5c)
+```
+
+\newpage
+
+## Proposal Two
+
+*Flat Income Tax system  + New NI system + New Indirect Tax System + Citizens Dividend*
+
+## Fred 
+
+```{r, echo=FALSE,fig.height=4, fig.width=7}
+GraphsAndTables(Analytics0a,Analytics6a)
+```
+
+\newpage
+
+## Rebecca
+```{r, echo=FALSE,fig.height=4, fig.width=7}
+GraphsAndTables(Analytics0b,Analytics6b)
+```
+
+\newpage
+
+## Nick
+```{r, echo=FALSE,fig.height=4, fig.width=7}
+GraphsAndTables(Analytics0c,Analytics6c)
+```
+
+
+
+
+```{r LorenzCurve1, echo=FALSE}
+
+plot(Lc(AllAnalyticsFull1$SummaryResult[,"GrossIncome"], n = rep(1,SimPopulation), plot =F),   col="black",    lty=1,    lwd=3,    main="Lorenz Curve for Full Tax Systems")
+lines(Lc(AllAnalyticsFull5$SummaryResult[,"PostAllTaxAndBen"], n = rep(1,SimPopulation), plot=F), col="red", lty=2, lwd=3)
+#lines(Lc(AllAnalytics1$SummaryResult[,"PostAllTaxAndBen"], n = rep(1,SimPopulation), plot=F), col="purple",lty=5, lwd=3)
+lines(Lc(AllAnalyticsFull6$SummaryResult[,"PostAllTaxAndBen"], n = rep(1,SimPopulation), plot=F), col="green",lty=5, lwd=3)
+#lines(Lc(AllAnalytics3$SummaryResult[,"PostAllTaxAndBen"], n = rep(1,SimPopulation), plot=F), col="blue",lty=5, lwd=3)
+legend("topleft",  c("Existing", "Flat Tax", "Simplifed","Flat Tax and CitDiv","Stepped No Pers Al")[c(1,2,4)],  col=c("black","red","purple","green","blue")[c(1,2,4)],  lty=c(1,2,3,4,5),       lwd=3)
+
+
+```
+
+
+# 15.8 Conclusions
+
+We started with a sense of what we need a good system to be. Broadly, it needs to be fair, effective and beneficial.
+
+We have defined the benefits that a tax system can give: it rations those things that are limited; prevents environmental bads; and makes sure that persistent profits or high wages pay their fair contribution to society. In short, the tax system is a vital tool to be used in tackling our urgent societal problems. In the proposed system, taxes will usually have at least one other purpose apart from raising revenue, unless they are extremely efficient at raising revenue so as to fund public services. In that way, we make the tax system much simpler and more elegant. Our approach is a combination of evolutionary and revolutionary reforms. We take the evolutionary reforms that are inspired by the Mirrlees review, and incorporate our revolutionary approach to decisively fix serious problems facing our society. 
+
+We propose a shift in taxation from productive activity to unproductive and destructive activity. By productive activity we mean activities that increase the wealth of our society, such as investments and exports. By destructive activity, we mean activities that decrease the wealth of our society, or of the world. Such activites may include overfishing, pollution or greenhouse emissions which lead to environmental destruction. Other examples might include people engaging in unhealthy activities such as smoking or consumption of high levels of sugar or salt. Finally, by unproductive activities we also can mean ownership of existing assets such as land, houses or natural resources, and the collection of rent and capital gains on those assets. We therefore propose a number of taxes to properly capture economic rent ^[Defined here as the return of unproductive activity] and to force private agents to pay the full social cost of their activities. 
+
+The above reforms present an opportunity to upgrade the UK tax and benefits system decisively for the future. They aim to benefit a large proportion of the population. This is partly because of the emphasis on simplication of the system, and making the tax system simple and automatic. 
+
+Our overall plan is to move to a tax system where damaging consumption habits and unproductive wealth are all taxed. We also see a case for income taxation to achieve redistributive purposes. Transition to the new system needs to be accomplished in a way that seems fair to taxpayers and does not cause too much disruption to the economy, to taxpayers, or to the administration of the system. Some consideration needs to be taken of the likely winners and losers of the new system so that the tax and benefits proposals are introduced smoothly.  That being said, the advantage of radical reform is that whilst many groups lose out, many also gain and we believe that there will be tangible gains to everyone in a simplification of the system.
+
+We can therefore see from the above work that the following can be held to be true: 
+
+Imposing a flat income tax system with an income tax ensures that the system remains *fair*, as the redistributive impacts of such a system are greater. This is shown in the last chart above, which demonstrates that inequality under the second new proposal falls.
+
+We can also see that such a system remains *beneficial* in that the total revenue raised is maintained at a sustainable level, allowing for redistributive policies such as a citizens dividend, alongside funding the rest of the public services that tax revenue is predominately used for. 
+
+Whether this is *practical* remains to be seen. However, we echo the Mirlees review in advocating for increased simplicity in the tax system, which is indeed provided for within the flat tax proposals. Moreover, by removing the link between increased earnngs adn increasing tax rates, you remove the disincentive on increasing earnings that exists in the current system. On the flip side, the citizens dividend, applied universally without conditionality, removes the link between earnings and receipt of benefits, which is also a practical policy for ensuring that work is rewarded, people are provided for, and the operating system of the economy runs much more efficiently.  
+
+We also notice with the case studies that the new policies do not negatively impact our example individuals, with the poorest among them actually increasing their post-tax income in the second set of policies. This is a promising signal that our new tax proposals could be politically palatable. This tool we have created also demonstrates that we can change the tax system, and benefit incentives, without sacrificing funding our essential services. There are a lot of possibilities for change in the UK tax system, and we believe that there is a lot of scope to modify these tools to achieve our goals.

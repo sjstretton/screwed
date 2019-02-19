@@ -1,0 +1,39 @@
+tax,revenue,model
+Income Tax,265,Old
+Income Tax,226.4,New
+Cashflow Tax,39.3,Old
+Cashflow Tax,80,New
+VAT,120.3,Old
+VAT,0,New
+CGT,3.9,Old
+CGT,0,New
+Land Value Tax,67.1,Old
+Land Value Tax,120,New
+Resource Extraction Tax,1.1,Old
+Resource Extraction Tax,1.1,New
+Monetary Base Tax,0,Old
+Monetary Base Tax,50,New
+Financial Stability Tax,2.3,Old
+Financial Stability Tax,2.3,New
+Monopoly Tax,3.1,Old
+Monopoly Tax,3.1,New
+Carbon Tax,4.6,Old
+Carbon Tax,93.1,New
+Resource Consumption Tax,26.9,Old
+Resource Consumption Tax,26.9,New
+Congestion Tax,6.1,Old
+Congestion Tax,6.1,New
+Other Environmental Levies,3.1,Old
+Other Environmental Levies,3.1,New
+Health Tax,19.9,Old
+Health Tax,11,New
+Risk Tax,3,Old
+Risk Tax,3,New
+Other Taxes,16.9,Old
+Other Taxes,16.9,New
+Revenue before deferrals,582.6,Old
+Revenue before deferrals,643,New
+Deferred Land Tax and Cashflow Tax,0,Old
+Deferred Land Tax and Cashflow Tax,-43,New
+Total Revenues,582.6,Old
+Total Revenues,600,New
