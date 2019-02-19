@@ -1,0 +1,102 @@
+---
+title: "Tax Heaven: Revolutionising Taxation and Welfare"
+author: "Gordon Styles and Stephen Stretton (Editors)"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_handout: default
+toc: false
+toc_depth: 1
+bibliography: Library/Mac/library.bib
+link-citations: yes
+---
+ 
+\newpage
+
+```{r setup, include=FALSE}
+setwd("~/Google Drive/Tax Heaven Book")
+
+options(htmltools.dir.version = FALSE)
+options(scipen=999)
+
+library("tufte")
+library("bookdown")
+library("knitr")
+
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](OtherPictures/RTW.png) 
+
+# Acknowledgments
+
+The editors would like to extend their gratitude to the authors and to all who have helped in the writing of this draft book, in particular to Heather McKay, Angela Dennis, Chris Crompton, Jiama, Selvin Kwong, Neale Upstone, John McCone, Jasper Sky, Thibault Laurentjoye, Mike Reiss, Sacha Anthony, Mat Sayer, Mark Wadsworth, Tom Ward, Dirk Heine, Drew Jackson, Sarah Hafner, Ian Cook, Jo Wheeler and Christopher Downing for assistance, comments, conversations, support and work. Remembering Adrian Wrigley for introducing Stephen to many of the ideas herein.
+
+\newpage
+
+```{r child = '1-Introduction.md'}
+```
+
+\newpage
+
+```{r child = '2-Concepts.md'}
+```
+
+\newpage
+
+```{r child = '3-EconomicTheory.md'}
+```
+
+\newpage
+
+```{r child = '5-TaxInPrinciple.md'}
+```
+
+\newpage
+
+```{r child = '6-TaxInPractice.Rmd'}
+```
+
+\newpage
+
+```{r child = '7-Inequality.md'}
+```
+
+\newpage
+
+```{r child = '8-WelfareAndWork.Rmd'}
+```
+
+\newpage
+
+```{r child = '9-Corporations.md'}
+```
+
+\newpage
+
+```{r child = '10-LandAndProperty.md'}
+```
+
+\newpage
+
+```{r child = '11-MoneyDebtAndFinance.md'}
+```
+
+\newpage
+
+```{r child = '12-EnvironmentAndResources.md'}
+```
+
+\newpage
+
+```{r child = '13-Proposals.md'}
+```
+
+\newpage
+
+```{r child = '14-FAQsAndConclusions.md'}
+```
+
+
+# BIBLIOGRAPHY

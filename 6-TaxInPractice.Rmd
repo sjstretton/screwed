@@ -1,0 +1,200 @@
+---
+title: "The Operating System of Capitalism"
+date: "`r Sys.Date()`"
+link-citations: yes
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+subtitle: Revolutionising Tax and Welfare
+bibliography: Library/Mac/library.bib
+---
+# PART 6: TAX IN PRACTICE
+# 6.1: The Existing Tax System
+
+`r tufte::newthought('The UK tax system')` is made up of approximately 26 different taxes, which when combined raised ?515.3bn [Link](https://www.statista.com/statistics/284298/total-united-kingdom-hmrc-tax-receipts/#0) in fiscal year 2014-15. This supplied just under 79% of the total revenues that were raised by Her Majesty's Revenue & Customs that year [@HMRC2018a]. 
+
+The UK tax burden is currently 27.3% of the UK's GDP, which was ?1.89 Trillion in 2015. [@Statista2016]. The majority of this revenue is accounted for by three taxes: Income Tax (32%), National Insurance Contributions (21.4%), and VAT (21.6%).  The chart below illustrates the a summary of the amounts raised by each tax for the past few years.
+
+````{r, echo=FALSE}
+setwd("~/Google Drive/Tax Heaven Book")
+library(knitr)
+
+par(mar=c(10,4,2,4)+.1, srt=90)
+TotalTaxReceiptsGovernment1 <- read.csv("Model/Data/SummaryReceipts20072021.csv")
+TaxGov1 <- round(as.data.frame(TotalTaxReceiptsGovernment1[c(2:10)]),1)
+rownames(TaxGov1) <- c("Income Tax" ,"VAT","NICs" , "Hydrocarbon Oils" ,"Corporation Tax" ,"Stamp Duty", "Other","Total ")
+colnames(TaxGov1) <- c("2007-08", "2008-09","2009-10", "2010-11","2011-12","2012-13","2013-14","2014-15","2015-16")
+kable(TaxGov1, caption = "Summary of Tax Revenues raised")
+#colsGov <- rainbow(length(TaxGov))
+#BarplotGov<- barplot(TaxGov,width = 4,xlim=c(0,90), beside = TRUE, names.arg=LabelsGov,col=colsGov,las=2, ylim = c(0,max(TaxGov)+50) ,main="Tax Revenue raised by Category 2014/15", ylab = "Revenue Raised (?bns)")
+#text(x=BarplotGov,y=as.numeric(TaxGov),label =as.numeric(TaxGov),pos=4,cex=1.1,col="black",las=1)
+
+``````
+
+The proportion of revenue that has been raised by each tax has been mainly stable since 1978. Their percentage contribution to HMRC's tax revenue is shown in the table below. 
+
+These proportions have been remarkably stable since 1978 the main change being an increase in the proportion contributed by VAT and a reduction in other indirect taxes.  The UK is relatively median in regards to other OECD members, both in terms of the types of tax and how much those taxes raise.^[See: https://www.nao.org.uk/wp-content/uploads/2015/07/HMRC-Standard-Report.pdf]
+
+But the UK tax system is extremely complex. The UK tax code is now 12 times the size of the King James Bible, standing at 22,000 pages when it was last measured, with a rapidly increasing trend [@Martin]. This is due in part to the Tax re-write project, which converted previously previously archaic and disorganised laws into plain and comprehensible english. Length isn't everything, as in many ways, the 'shorter' US tax system is regarded as more complicated than the UK's. However, the fact remains that, despite substantial political support for simplification, the situation is getting worse. 
+
+Part of the problem is the sheer number of taxes that are in place. The HMRC collects around 26 taxes, each of which are aimed at a number of functions. The administrative burden alone is extensive, not to mention that within each tax is an addition level of complexity.
+
+# 6.2: Functions of the Existing Tax System
+
+We can identify three main purposes of the existing tax system: to Fund, to Redistribute, and to Nudge. Below, there is a summary of the UK tax system, with the authors' classification of its primary functions. We designate these funds with an 'F' if their main function is to fund government activity; an R if they redistribute income or wealth, and an N if they aim to Nudge / effect Environmental or Health behaviour. 
+
+```{r, echo=FALSE}
+
+par(mar=c(10,4,2,4)+.1, srt=90)
+Taxreceipts20142015 <- read.csv("Model/Data/Taxreceipts20142015.csv")
+TaxGov20142015B<-as.data.frame(Taxreceipts20142015[c(1:26),(16)])
+colnames(TaxGov20142015B) <- c("Function")
+rownames(TaxGov20142015B) <- Taxreceipts20142015[c(1:26),1]
+kable(TaxGov20142015B, caption = "Functions of each tax: subjective classification by the authors")
+
+``````
+
+## 1: To raise revenue to fund the government
+
+*16 out of 26 (62%) taxes have this primary focus.*
+
+Firstly, the tax system should raise resources to pay for the provision of government services. Taxation is the primary means for funding the government. Government issued credit (usually known as 'government borrowing and/or money issuance') is another way of governments raising resources. Since government expenditure is around 40% of national income, and borrowing through money or bond issuance can cover at most around 5% of GDP in normal times, the tax system must raise at least 35% of GDP. Our goal here is not to increase or reduce the size of the state.
+
+## 2: To redistribute income and wealth
+
+*Around 6 taxes (23%) seem to have this purpose.*
+
+The tax system redistributes income from rich to poor (individuals and regions); it should correct for the mal-distribution which would exist without it. Taxation and benefits are the primary means of affecting the distribution of income and wealth in a society, although there are some other options. Most people accept that we need to pay taxes and most people accept that the rich should pay more. Given that money has to be raised anyway, it seems rational to fulfil redistributive functions at the same time as raising revenue. The political question is how much redistribution there should be.
+
+The purpose of the benefit system is to assist individuals in particular circumstances to ensure they have sufficient resources to meet their basic needs and have a basic quality of life. In particular, it assists certain demographic groups such as the poor, unemployed, children and their parents, the chronically unwell, disabled, the elderly and their carers.
+
+The tax and benefit system is therefore an appropriate way to redistribute income. The benefits and tax systems are already significantly redistributive, although there are major loopholes for the wealthy.
+
+## 3: To affect environmental or health-related behaviour
+
+*Around 11 taxes (42%) do this function. Nudging behaviour is also created through use of tax exemptions. These taxes are not a main revenue source, as they raise only a sixth of total revenue.*
+
+Thirdly, the tax and welfare system can be used to attempt to change behaviour of individuals or companies, especially where an activity is harmful to others or is addictive and harmful to oneself. Taxation and benefits can be used to change behaviour especially where there are effects on others, but culture and laws are perhaps more significant. The question as to whether the tax system _should_ be used to influence behaviour is more complex. In general, increasing the price of something will reduce demand if demand is responsive to price, especially if there are alternatives not covered by the tax. Tax can be helpful primarily because it is a very general incentive across the whole economy, and therefore will incentivise producers as well as consumers. In addition, there are some advantages of taxes over mandatory bans, since it seems that bans can create very high profits for criminal providers (e.g. of drugs), whereas taxes only cause smuggling which is generally less serious. We will discuss this question in detail depending on the specific cases.
+
+
+# 6.3: Contribution of Taxes
+
+The tax system contributes significantly to meet these three goals. Taxes already pay for the majority of government spending. Taxes already redistribute income significantly. Taxes on activities that are harmful to the environment and to health could discourage those activities (especially when there are less harmful but otherwise more expensive alternatives). 
+
+The tax system is not the only way to meet those goals. The government can issue bonds or money or impose user charges to fund public services. Better education, trade union power, changes to property rights and workfare schemes can redistribute income. Cultural change can reduce smoking or alcohol consumption and outright legal prohibition is already applied to other harmful drugs. Enterprise schemes and apprenticeships may increase employment. Government investment or guarantees can increase investment in clean energy. Better monetary and financial policy can promote economic stability. 
+
+So we don't argue that the tax system is the only way to solve these problems, only that it can contribute positively.
+
+# 6.4: The Existing Benefits System
+
+
+```{r, echo=FALSE}
+
+library(knitr)
+par(mar=c(10,4,2,4)+.1, srt=90)
+PublicSpending2016 <- read.csv("Model/Data/UKPublicSpending2016.csv")
+PS2016<-as.data.frame(PublicSpending2016[,c(2)])
+colnames(PS2016) <- c("?bn")
+rownames(PS2016) <- c("Social Security and Tax Credits", "Health", "Education", "Personal Social Service", "Housing", "Total" )
+kable(PS2016, colnames=c("?bn"), caption = "Public Spending by Category (2016-17)")
+
+``````
+
+
+The government spent, in total, around ?217 billion pounds in 2016/17 in providing social security and pension payments to those in need [Link](http://obr.uk/docs/dlm_uploads/An-OBR-guide-to-welfare-spending-March-2018.pdf). In other numbers, this is ?8,000 per household or 11% of GDP [@OBR2018]. The majority of these payments went towards pensioners, but this is not to say that these are the only beneficiaries. 
+
+These are the major recipients of UK benefits:
+
+- Families with children
+- Unemployed people
+- People on low incomes
+- Elderly people
+- Sick and disabled people
+- Bereaved people
+
+Elderly people account for 40% of total expenditure, low income 20%, the sick and disabled 16%, families 18% and the unemployed only 2.6%. There is a rising contribution of benefit payments going to pensioners, due to a rising number of individuals receiving the state pension (despite increases in the female state pension age that have been phased in since 2010). 
+
+Benefits can be contributory (depending on the NI contributions) or non-contributory; they can be means tested or non means tested, and they can sometimes be taxable.^[http://obr.uk/forecasts-in-depth/brief-guides-and-explainers/an-obr-guide-to-welfare-spending/]. Benefits pay out around ?217 billion per year in total.^[Numbers taken from IFS Green Budget 'Options for cutting spending on social security' http://www.ifs.org.uk/budgets/gb2013/GB2013_Ch8.pdf)] 
+
+\newpage
+The breakdown of these payments are outlined in the table below. 
+
+```{r, echo=FALSE}
+
+library(knitr)
+par(mar=c(10,4,2,4)+.1, srt=90)
+WelfareSpending2016 <- read.csv("Model/Data/UKWelfareSpending2016.csv")
+WelfSpending2016<- as.data.frame(WelfareSpending2016[c(2)])
+categories <- c("Other","Jobseekers allowance" ,"Child benefit","Housing benefit","Tax credits","Incapacity benefits","Disability benefits","Pension credit ","State pension ","Total")
+rownames(WelfSpending2016) <- c("Other","Jobseekers allowance
+","Child benefit","Housing benefit","Tax credits","Incapacity benefits","Disability benefits","Pension credit ","State pension ","Total")
+kable(WelfareSpending2016, col.names=c("Benefit","?bn"), caption = "Social Security spending (2016-17)")
+
+``````
+
+
+People receiving the state pension, or pension credits, receive 44% of the total social security spend. This, rather obviously, is focused towards the retired and the elderly. The rest of the payments are split between those who are sick and disabled (17%), those on low incomes (27%) the incapacitated (15%) and disabled (16%), families (12%) and the unemployed (1.9%). 
+
+There is a rising contribution of benefit payments going to pensioners, due to the increasing number of individuals receiving the state pension. This is despite the 2010 introduction of a policy to increase the female state pension age.
+
+Benefits can be contributory or non-contributory (depending on the National Insurance contributions made by an individial); they can be means tested or non means tested, and they can sometimes be taxable [Link](http://obr.uk/forecasts-in-depth/brief-guides-and-explainers/an-obr-guide-to-welfare-spending/).
+
+
+\newpage
+## Functions of the Existing Benefit System
+
+We can identify three main purposes of the existing benefits system:
+
+1. To provide a 'safety net' to ensure that everyone is guaranteed a minimum standard of living, regardless of their personal circumstances or earning potential.
+2. To ensure that people with specific needs (e.g. the disabled and their carers) have sufficient resources to support themselves.
+3. To pay a state pension to those over state retirement age.
+
+It could also be added that a secondary function of the benefits / welfare / education system should be used to help 
+people gain skills and enter into productive and fulfilling work. This is something that the current system fails to achieve, with a system that penalises and shames those who are not currently employed. 
+
+# 6.5: Bugs in the System
+
+There are a number of problems with the existing tax-benefit system. It's extremely complex, it's progressive at first sight but exemptions and reductions mean that is not the case for many people. It's economically distorting. It's extremely complex to administer (especially for benefits) and highly complex to understand. It's not transparent, and it is based on honesty. The rich can pay to be less honest. 
+
+## Problems with the Tax System
+
+The major problems with the tax system are:
+
+1. **It's complex:** The system is full of loopholes and exemptions. No one in the UK understands the whole tax system, and it requires professionals such as accountants and lawyers to comprehend its details. Citizens cannot hold politicians to account when they don't understand the system. The system is so byzantine that it seems that only politically influential groups can shape it.
+2. **It distorts incentives:** Due to its complexity, there are many interplays between different taxes that distort behaviour in an economically inefficient way. The entire existence of 'tax advice' firms shows that there are economic resources engaged in avoiding tax instead of producing goods and services, and therefore there is a loss of value to society.
+3. **It's an honesty scheme:** It relies upon people declaring what money they've earned. Occasional audits and marketing are used to 'scare' people into being honest, but ultimately the more you earn, the more you can pay experts to help you be 'less honest'.
+4. **It's expensive to administer:** The complexity and reliance on manual processing of claims and tax returns cause 
+5. **It encourages avoidance and does not usually punish evasion:** The subjectivity of the system means that the dishonest can illegally evade tax, usually without being caught. Richer individuals and companies are incentivised to pay advisers to avoid tax legally (or even illegally).
+6. **Large companies can take advantages of variations in tax treatments between different countries ('tax arbitrages').** Changes in a single country's tax policies cannot prevent this alone; however we can ensure the UK tax system is so simple that it does not have holes and that the nature of UK taxes minimise any chance of avoidance.
+7. **It doesn't take enough advantage of opportunities to change behaviour.** Only about one sixth of existing tax revenue is collected from taxes with any intentional design to change behaviour. More use could be made of that tool, especially when taxes can be used as a fundamental across-the-board measure to affect quantitative problems like climate change. On the other hand, there are multiple tax exemptions and loopholes which are really expenditures dressed up as tax rebates. These mainly serve to complicate the system and should usually be removed.
+8. **It's unfair and regressive** (taxes the poor more than the rich). Taxes like VAT, National Insurance, Vehicle Excise Duty and council tax fall more heavily as a percentage of income on those with low incomes than high income or high wealth individuals.
+
+## Problems With The UK Welfare (Benefits) System
+The main problems of the welfare system are:
+
+1. **Complexity:** Again, complexity in the UK benefits system is endemic [@Torry2013]
+2. **Costly to administer:** The administration of the current benefits system is even more complex (and requires even more civil servants) than the tax system. 
+3. **Costly to claim:** Benefits claimants have to go through bureaucratic procedures to get their benefits.
+4. **Inflexibility:** The circumstances of individuals can change rapidly, but the benefits system cannot react quickly enough, leading to gaps in benefits payments that can cause serious financial difficulties. Therefore people often don't report changes in circumstances (which means they're effectively committing a crime).
+5. **Benefits traps:** The current benefits system provides major disincentives to work. Those who find extra work can find that up to 86% of their additional earnings are swallowed up in the withdrawral of benefits due to means testing (i.e. they can end up going from 0 hours to 40 hours a week working, and yet only end up ~?20 better off at the end of the week).
+6. **Stigmatising:** There is also a stigma associated with claiming benefits.
+7. **Archaic:** It does not suit a world of increasingly temporary and informal work.
+8. **Incoherent:** The present benefit system is a mixture of unconditional, conditional, means-tested, taxable and non-taxable payments.
+9. **Taxes dressed as benefits:** Different means-tested benefits are means tested in different ways, though this is often unnecessary, as means testing is just an income tax in disguise (it takes away money from people as wages increase).
+10. **And more...** There are many additional problems with the current system [@Torry2013]
+
+# 6.6: Desirable Features of a Reformed System
+Thus, we can define the following principles of a reformed system:
+- _Objectivity_:  What is taxed should be concrete and objective. It should not depend on the honesty of those declaring the tax and it should not penalize the honest relative to the dishonest. The tax system should not contain 'tax arbitrages'. Taxes shouldn't be avoidable through dishonesty.
+- _Simplicity_: Tax should be simple. There should be few taxes and few benefits, few tax rates and few exemptions.
+- _Easily understandable_: The tax and benefit system should be capable of being easily understood by the public.
+- _Low administrative cost_: The amount of administration needed to run the tax and benefits system should be as small as possible.
+- _Inelasticity_: Tax should either fall on things that don't go away when you tax them (e.g. land) or things that you want to go away when you tax them (e.g. fossil fuel use, sugar consumption).
+
+# 6.7 Conclusions
+It is important that the tax and benefit system works. What do we mean by work? As the key mechanisms by which the system operates, with Taxes raising revenue, redistributing income, and nudging people towards the right choices, and benefits providing a safety net for those most in need in our society, it seems strange that these tools can have been left so rusting and unchanged. There is no shortage of popular support for reform. Indeed, consensus seems to be on the side of the need for improving and simplifying the current tax and welfare system. 
+
+Proposals are being put in motion towards moving to a universal credit system, which will be a welcome improvement on the current mess of benefit entitlements. However, it remains to be seen how effectively this will be implemented, and we discuss these improvements in later chapters. 
