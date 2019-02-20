@@ -20,6 +20,7 @@ This document contains the overarching material for 'Tax Heaven'. It contains:
 - To read the latest version of the whole book go to: [Book (PDF)](https://github.com/sjstretton/taxheaven/blob/master/000-TaxHeaven.pdf)
 
 # Overview of Book
+This is some pieces of text that don't fully fit together but form the basis of the introductory chapter. The presentation (next section below) is a bit more structured.
 
 ## Audience
 
@@ -114,6 +115,8 @@ In more detail:
    1. Change happens when desire overcomes resistance
    2. Resistance is associated with perceived concentrated financial losses
    3. Instead minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
+
+
 
 # Outlines of Book
 
@@ -260,9 +263,52 @@ V. CAKE ECONOMICS
 - 4 TAXATION IN PRINCIPLE	*Defining the Problem*: What are the general principles of tax? Why/Who/Where/What/How and how much should we tax?
   - VI. ON THE SHOULDERS OF GIANTS: PRINCIPLES OF GOOD TAXES
 
-# Specifications (to be updated)
+# Specifications 
 
-## Writing
+## Delivery 1 (by Friday 22nd Feb) v0.5
+- Book contains all chapters that have been written already, including finance. (SJS) NB Not included: new writing in separate chapter
+- Initial scoping of WB work (SJS)
+- Add pieces together and knit, submit to git (SJS)
+
+- Initial Progress on ‘Pyramid’ Presentation. (HM)
+  - Basic evidence for Carbon Tax proposition: High carbon tax, pays strong attention to possible loser groups, (almost rev neutral): Electricity Feebates and CTax&Div.  
+  - Effectiveness of different levels of carbon price:
+  - Marginal Abatement cost curves
+  - Estimates of price elasticity of fuel use over different timescales
+  - UK & Sweden & British Columbia as Case Studies
+  - Popularity of C-tax and related matters. Evidence?
+  - Other parts scoped out
+
+## Delivery 2 (by Fri 1st Mar) v0.6
+- New Writing That Stephen’s Done
+- Book Abstract ‘Pyramid’
+- New Intros
+- Four wealth levels and frameworks
+- Basic income ideas
+- Other Policy Work
+- Book Read-through
+- Clear Gap Analysis Table
+
+Finish Explicit Evidence Gathering: Presentation with key data
+- Basic evidence for Land Tax propositions: Land Value Public ownership (incl LVT) can work and 
+- Theory of Change /Change Equation (assumptions in the book)
+- Scoping of Elasticity Modelling (Response Function): Initial estimate of effects (can include gaps, this is just scoping)
+
+## Delivery 3 (by Thursday 7th March) v0.7 
+- Gordon’s Work in! Note this needs to be written, it’s a set of ideas at present.
+- Euromod Modelling that we’ve already done (basic income)
+- Initial estimate of effects of our modelling using elasticities.
+- Every part of the book reviewed and baseline edited with at least one with the worst parts edited to be better
+- Incorporation of the Pyramid into the book
+
+## Delivery 4 (14th March) v0.8
+- More smoothly edited version of the same. 
+- Clear policy proposals, clear basic modelling.
+- Pre-existing comments dealt with
+- Send parts out for peer review
+
+
+## Earlier Versions
 
 ### V0.1 (End January 2018)
 
@@ -318,29 +364,6 @@ V. CAKE ECONOMICS
 - Add Multiple Tax System Levels
 - Better Modelling of Income Distribution
 
-## SPECIFICATION AND SCOPE FOR BOOK
-
-Book should contain
-
-- New Introductory Sections
-- Modelling
-
-It should be well written, researched and competent.
-
-Question: how can economic reform help fix our problems?
-
-## SPECIFICATION AND SCOPE FOR 'IDEA TOOLKIT'
-
-- It should contain the core ideas in the book.
-- It should be 15,000-20,000 words
-- It should contain the 'pyramid'
-
-## SPECIFICATION AND SCOPE FOR RESEARCH
-
-1. Define General Research Question - done
-2. Define research tools - Mendeley, -done
-3. Further research tools
-4. Put specific daily research questions in top of this document
 
 # Fast facts about Tax Heaven
 
