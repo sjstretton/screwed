@@ -859,7 +859,7 @@ Climat change will be fixed by level 7 (individual systemic thinkers), level 6 (
 
 The Shared Narrative
 
-### The Castes
+### Broad Value Systems (Sage, Military, Merchant, Peasant) (Priestland's 'Castes')
 
 ### The Power of Majorities
 
