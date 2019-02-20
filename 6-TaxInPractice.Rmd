@@ -19,7 +19,7 @@ bibliography: Library/Mac/library.bib
 The UK tax burden is currently 27.3% of the UK's GDP, which was ?1.89 Trillion in 2015. [@Statista2016]. The majority of this revenue is accounted for by three taxes: Income Tax (32%), National Insurance Contributions (21.4%), and VAT (21.6%).  The chart below illustrates the a summary of the amounts raised by each tax for the past few years.
 
 ````{r, echo=FALSE}
-setwd("~/Google Drive/Tax Heaven Book")
+
 library(knitr)
 
 par(mar=c(10,4,2,4)+.1, srt=90)

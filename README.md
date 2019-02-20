@@ -1,715 +1,1067 @@
-# I. INTRODUCTION (Early draft)
+# This Document
 
-## Turning around the Ship of Earth
+This document contains the overarching material for 'Tax Heaven'. It contains:
+- Table of Contents for the book as a whole so you can reference the actual chapters
+- Overview of Book 
+- Presentation of Book
+- Different Levels of Outlines for the Book
+- Specification of Different Releases of the Book (to be updated)
+- Fast facts for Publishers
+- About the team 
+- A 5000 word Summary
+- Notes on Thought Toolkits (Conceptual Ideas behind book)
+- Chapter Summaries of some of the core chapters
 
-The film 'A Perfect Storm' describes a true story of a fishing trawler facing a particularly wicked storm. A ship's captain and his fellow New England fishermen had fallen on hard times after poor catches. The captain, played by George Clooney, had assembled a crew and hired a boat to go out for one last fishing trip before the season was out. They sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish and turned for home, hoping to get the catch back whilst still fresh. 
+# Table of Contents
 
-Unfortunately a storm was brewing, and not just any storm. Three separate weather systems had merged to create a 'weather bomb'. Meteorologists warned of a serious threat to any fishing boats that braved what would become an epic storm. The fishermen faced the difficult question:  whether to attempt to land their catch whilst still fresh by heading home straight through the storm, or avoid the storm by staying in the mid-Atlantic until the weather system passed and risk the fish being no longer fresh enough to sell once back. Added to this dilemma were communications and leadership difficulties. Communications between the weather forecasters and the boat were interrupted by the degradation of the communications systems. The captain, whilst charismatic, also betrayed hubris and poor judgment.
+(to be added)
 
-It is odd, after all, that Clooney and his men felt they needed to take such a severe risk. Why were they in that situation in the first place? Whilst we cannot read other people's minds (let alone the minds of the dead) we can say that there are two main reasons for the original plight of the fishermen which led them to take such extreme risks: environmental damage and economic insecurity. 
 
-First, the seas were no longer as plentiful as they once were. In the past [when?] the Grand Banks off Newfoundland teemed with fish. But overfishing led to a collapse in fish stocks. Similarly, the fishermen whilst having a valuable profession, do not own exclusive rights to fish. 
 
-Second, the fishermen lacked economic security in their lives. They had to fish or go bust. Beyond their own homes, they owned little. Their boats were owned by investor who expected a return and did nothing so dangerous as to actually head out to sea. An absentee landlord, he simply rented out the boat and lived off the surplus. We never meet him but his presence makes himself felt. The fishermen were economically expendable, a bit like low value fish that are disposed off the side.
+# Overview of Book
 
-We on Earth are perhaps facing a similar situation to Clooney's character and his crew. There are warnings of a dangerous climactic and environmental future for the world on the path currently taken. Clever people disagree over whether to take the environmental warning seriously or not: some of us think it's all a hoax others say its just natural variability.  We need to decide how to interpret these warnings -- whether to ignore them, like the fateful crew, or to take them seriously. 
+## Audience
 
-But even if we don't ignore the warnings, we have another problem. You and I don't control the direction of the world economy. There is no single captain of spaceship earth. 
+This book is addressed to those who are looking for a new economic model for rich and poor countries across the world. This includes in particular, movers and shakers in political parties, economists, scientists and other professionals, and interested members of the general public. It’s central topic is the use of the tax system to solve the critical challenges facing our societies, including challenges specific to the tax system itself.
 
-Also we have little idea how the controls of Spaceship work. And there is little focus on the practicalities of what to do next. This book attempts to use the tax and financial system to change the incentives of the private sector to do the right thing. And it deals with the question of how to make the change.
+## Proposition
 
-## About This Book
+The book is concerned with how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent', tax avoidance with international flows of wealth and assets, and, in the UK, a dysfunctional social security system. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without governance systems to constrain them. Generalised rent is a permanent financial surplus received both by the owners of properties in valuable locations and the shareholders of large companies, leading to expensive housing, stagnating wages and wealth gains for the already rich. International tax avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep.  In the UK, a dysfunctional social security system leads to insecure and interrupted benefits payments with poor incentives to take productive employment.  This book suggests a simple and effective tax and social security system to solve these problems and to enhance genuine wealth at the level of the individual, community, nation state and planet.
 
-This book is addressed to those who are looking for a new economic model for rich and poor countries across the world. The intended audience includes economists, scientists, politicians, businesspeople, other professionals and interested members of the general public.
+## Scope
 
-it is concerned with how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent',  international flows of money and assets. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without governance systems to constrain them. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies, leading to expensive housing, stagnating wages and wealth gains for the already rich. International tax  avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep. 
+The scope of this book is how to pay for public services and social protection. In particular, we are concerned with the question of how to reform the tax system for public benefit. We are interested in two other systems in particular that overlap with the tax system: the financial and monetary system, the social security (also known as welfare or ‘benefits') system including skills training.  The examples given relate to the reform of the UK tax and welfare system,  but the ideas herein are intended to be applicable to most societies around the world.
 
-The central concern of the book is the use of the tax system for public benefit: to solve the critical challenges facing our societies including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems. The book proposes a simple and effective tax and social security system to solve these problems and to enhance genuine wealth at the level of the individual, community, nation state and planet.
+Out of scope is the detail of the benefits system. Also out of scope is the detailed technicalities of how some taxes work at the moment. We keep it to the broad scale big picture more than the accounting of taxes, although we do cover some implementation choices.
 
-We are interested in two other systems in particular that overlap with the tax system: the financial and monetary system, the social security (also known as welfare or 'benefits') system including skills training. The examples given relate to the reform of the UK tax and welfare system, but the ideas herein are intended to be applicable to most societies around the world. Out of scope is the detail of the benefits system and the detailed technicalities of how some taxes  work at the moment. We keep it to the broad scale big picture more than the accounting of taxes, although we do cover some implementation choices.
+## An Economy Fit For Our Children
 
-## Economics, Opportunity And Hope
+What would an economy fit for our children look like? I think it would have two important aspects. Firstly the beautiful things that require care, like the natural environment, would be preserved. Second, the limited things would not be 
 
-This book provides hope that our societies can fix our big problems. Many people, across the west, whether they are rich are poor, are starting to lose hope. The poor are losing hope because their economic situation is often precarious. The well informed are starting to lose hope that our society can fix its critical issues, primarily climate change. The super rich on the other hand are building bunkers and preparing for the worst. This book gives us justified hope. Justified hope that humanity can continue to solve our problems.
+This book is about economics for a certain type of world. In this world there are some goods that can be added to, either in quantity or quality; there are some goods that are fundamentally fixed; and there some goods that can be degraded or destroyed.By 'goods' I mean broadly useful natural or artificial things. These positive, limited or negative things can apply to both public and private goods. 
 
-Tax is the means by which we pay for government services. But this book isn't really about government. This book is about how the private sector can contribute to the well being and the good of society. Therefore it is a book about economics. That is not to say that the government can't do good and important things. But if the private sector is not to do bad things for our general well being then the right tax system needs to be in place. Such a tax system taxes bad things not good things, and taxes unearned wealth rather than the median wage 'just about getting by' income that most people have.
+Environmental economists distinguish between goods that are *excludible* and those that are *rival*. Related to rivalness is *subtractiblity*. So pure public goods are non-rival and non-excludable. Club goods (for example watching a pay-per-view sports match) are non-rival (it doesn't cost anything for someone extra to watch it) but excludible. Common pool resources are rival but non-excludible. They are also subtractable.
 
-An economy that is good for people and for the planet is also one that is functioning well. Whilst there are things for us all to do, there are opportunities for development and growth, including in rich countries. But that growth, where it is in relation to consumption, needs to be dematerialised or physically circular: it needs to minimise the impact that the growth has on the natural world. We will come to how to achieve that a little later. The main point is that physical use of natural resources should be taxed; and the circular use of those resources is thereby encouraged.
+There has been tremendous technological progress and economic growth. But we still have problems. Those problems can perhaps be described as on one hand economic insecurity and on the other hand damaging our ecological environment. Thus we need an economics that not only considers the parts of the economy that are additive (growth economics), but also those that are fixed (distribution economics) and those that are subtractable (environmental economics).
 
-A good society promotes the wealth and happiness of its citizens. Thus we argue for a society and economy that defines, preserves or creates, and fairly distributes  natural and humanly-created wealth. Happiness implies a different metric than mere activity: humans need both security and purpose. The challenges of the future give us our purpose and will undermine our security if we do not face them with full commitment. 
+## Opportunity and Hope
 
-Our vision of the tax system interacts with the benefits and training system, the finance system, the energy system and the housing system. In short our vision is for a new tax and welfare system that taxes the right things and thus leads to the production and preservation of wealth rather than the extraction and enclosure of wealth by those with more power. In other words, it leads to the private sector having new purpose to grow opportunity in our society. We do this through a transformation of the incentives.
+This is a story of opportunity and hope. This book provides hope that our societies can fix our big problems.
 
-## Historical Case Studies
+Many people, across the west, whether they are rich are poor, are starting to lose hope. The poor are losing hope because their economic situation is often precarious. The well informed are starting to lose hope that our society can fix its critical issues, primarily climate change. Those in the know are concerned that the super rich can squirrel away their money without paying tax. The super rich on the other hand are building bunkers and preparing for the worst.
 
-We wish not just to minimise the costs of taxation, but rather to aim for taxes, where possible, that are actively beneficial. Good taxes would shape the profit motive towards the needs of people, communities, and the living planet on which we all depend. Here we seek a tax and social security system that is not only fair and practical, but also beneficial to everyday people, our country and our world. Our argument would be more concrete if we could point to situations around the world where this might happen.
+This book gives us hope. But more than that, it gives us justified hope. Hope that humanity can continue to solve our problems. 
 
-**Welfare and Work -- Beveridge and the UK in the late 1940s**
+Tax is the means by which we pay for government services. But this book isn't really about government. This book is about how the private sector can contribute to the well being and the good of society.
 
-As we discuss in chapter 3, the Beveridge report shows a possible way forward for welfare. Before the second world war, the five social evils of Want, Squalor, Idleness, Disease and Ignorance ravaged the poor in Britain. the second world war destroyed many buildings, homes and businesses alike, and increased the government and external debt. But yet the post war government managed to create a comprehensive welfare state where none existed before: a health service, It also managed its debt.
+Therefore it is a book about economics. That is not to say that the government can't do good and important things. But if the private sector is not to do bad things for our general well being then the right tax system needs to be in place. Such a tax system taxes bad things not good things, and taxes unearned wealth rather than the median wage 'just about getting by' income that most people have.
 
-**Finance: Financial 'Repression' in the UK in the period 1945-1980**
-
-One great anxiety is about *debt*. There are basically two forms of debt that concern people: public (or government) debt and private debt. High public debt pressures governments to 'cut the deficit' through 'austerity'. Yet in the past, the best way to reduce the burden of public debt has been not to worry about it: or rather to use different strategies. In the three decades after the second world war, the UK reduced its public debt to GDP ratio from over 250% of GDP to 70% of GDP. It did this not through austerity, but rather through growth, inflation, monetisation of some debt, and low interest rates. We consider the fiscal benefits of such strategies later in this book.
-
-**Income and Corporation Tax: USA in the period 1945-1980**
-
-The United States in the post war showed the advantage of redistributive income taxation, including high tax rates on companies. The top rate of income tax was often over 70% in that period, and taxes on companies were also higher than at present. Because everyone's incomes were not widely different, this meant that normal people could not only afford consumer goods, but also everyone had a chance to buy the limited positional goods such as land. Since the top rate of tax was high, and since income tax is the largest and most important tax, this meant that the average tax rate paid by people on average earnings was lower. We discuss this is parts 6 and 7.
-
-**Land Value Capture: Singapore and Hong Kong since independence**
-
-Singapore shows what has been termed the 'property state' [@Haila2015]: it shows what is possible when there is a 'prosperity loop' between investment in public infrastructure and public rent collection. In short, as the government makes infrastructure improvements, those increase the rental value of the land, and those land value increases then accrue to the government. Hong Kong also shows the advantages of this approach: before a new metro line is built, land near the new stations is purchased at pre-announcement cost and so society captures the land value benefit of the new infrastructure [Purves. We discuss this is part 8.
-
-**Environmental Taxes: Scandinavia, Switzerland and the UK **
-
-Three European countries show that a carbon tax can work exactly as planned. Sweden, Switzerland and the UK all have a carbon tax. Sweden was one of the first to introduce its carbon tax and the per capita $CO_2$ emissions of Sweden are now amongst the lowest in Europe. Similarly Switzerland has also introduced such a tax. The UK introduced its carbon price floor more recently, and it has seen a large fall in emissions. Most notably we have seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags. 
-
-## A Theory of Change
-
-The way that we need to set up this tax system needs to maximize the effect whilst minimizing the resistance. It's this sort of system that can maximize the good that can be achieved. In two areas in particular: in environmental/energy policy and in housing policy. If you want to have a big effect you need a big incentive, but big incentives cause big losers and therefore political resistance. In other words we use financial incentives to promote wider forms of entrepreneurship for public benefit.
-
-We suggest four forms of entrepreneurship. Firstly public good entrepreneurship: we suggest that the private sector be turned over to public good provision. the obvious example is green entrepreneurship, but we also suggest ways that companies can tackle other global issues such as the lack of good antibiotics. The second issue is state capitalism entrepreneurship. This involves both the state and capitalists. The third is municipal land value entrepreneurship, as has been seen in Singapore and Hong Kong. The fourth is skill based personal and social entrepreneurship. There's a fifth overarching concept too, which we term policy entrepreneurship. That is, we should break out of the monopoly of thought imposed on us by neoclassical economics and neoliberal economic ideas. These forms of entrepreneurship imply a new growth model for everyone, one that is not based on increasing financialization and debt issued on limited assets but rather the development of productive industries solving our collective problems
-
-What can individuals and groups do to promote a better tax and welfare system? Economic justice campaigners seek to eliminate the evident unfairness of the current taxation and benefits system. Environmental and housing tax campaigners seek to use the tax system to make the private sector work for greater public good. Simplicity campaigners seek a simpler, more usable system. Tax Heaven combines these motivations to argue for a fair, good and simple tax and social security system. It provides a rallying point of key ideas that could be implemented immediately. 
-
-## Proposals
-
-We will set out how, on a consumption basis, \*taxing\* the environmental damage that people cause is sensible, that we should tax unproductive and unearned wealth, and finally we should tax luxury consumption using the income tax system to ensure it is progressive.
+We will set out how on a consumption basis the environmental damage that people cause is sensible, that we should tax unproductive and unearned wealth, and finally we should tax luxury consumption using the income tax system to ensure it is progressive.
 
 We also have some reforms for the benefits and training system. We suggest a dividend for everyone, a cheque in the post -- and to integrate the tax and benefits system, replacing means testing with taxation (since it achieves the same thing, taking money away from people as they earn more). We also suggest an active benefits system for training people up in high skills. We suggest the accumulation of wealth across the poor, rather than the government having the responsibility to support them. Then, when people pay their tax, some of that tax would be set aside as a contribution that will fund the purchase of assets, a return to a contributory tax system.
 
 Finally we suggest changes to the financial system. Allied to our tax on wealth is a tax on lending on unproductive wealth. Thus we encourage investment across the economy. We use the financial system to actively promote the capture of land rent for public purposes. We suggest particularly low cost loans for the building a new cost infrastructure, in this country and around the world. Finance is particularly international and lending can ensure that everyone gets enough energy.
 
-## Four Crucial Benefits of Good Taxes
+Our vision of the tax system thus interacts with the benefits and training system, the finance system, the energy system and the housing system. In short our vision is for a new tax and welfare system that taxes the right things and thus leads to the production and preservation of wealth rather than the extraction and enclosure of wealth by those with more power.
 
-There are four crucial benefits of a better taxation system to wider society:
+In other words, it leads to the private sector having new purpose to grow opportunity in our society. We do this through a transformation of the incentives. If you want to have a big effect you need a big incentive, but big incentives cause big losers and therefore political resistance.
 
-1) *A clean and safe global environment:* The first priority is the environment. Starting with the most important part of the tax system, the system of environmental taxation. There are a number of major environmental problems facing us, most notably climate change and ocean acidification, but also including the prevalence of plastics in the ocean, habitat destruction, road congestion, overfishing, rare resource consumption and conventional air, water and land pollution. Using environmental taxes faces a few challenges: they can be unpopular, hard to design, encourage 'offshoring' of dirty forms of manufacture and bureaucratic. Finally, because sometimes demand for damaging products can be unresponsive to price, a high environmental tax may be necessary, but high environmental taxes may be unpopular, disruptive or unrealistic. Also, individual country actions are not enough. Instead we need action that is global. But there are not functioning global institutions. Thus, we look for solutions that can be implemented at a national level, which *and* which encourage other countries to follow the lead. Such solutions should be within international laws as rules as well. We show how those potential issues can be overcome.
+The way that we need to set up this tax system needs to maximize the effect whilst minimizing the resistance. It's this sort of system that can maximize the good that can be achieved. In two areas in particular: in environmental/energy policy and in housing
 
-Because it is so important, we do not intend to raise additional revenue with this taxation source, but we do intend to ensure that the private sector has the correct incentives. To accomplish that we start with a higher carbon tax on electricity production. Electricity production should have an incentive to be carbon neutral. We achieve this with a tax on carbon inputs with a subsidy on electricity production.  Simultaneously we also provide low cost loans from the public loan board. There will be prizes for rapid rollout of new technologies and national targets for the roll out of low-carbon electricity. We have a CARBON TAX.
+An economy that is good for people and for the planet is also one that is functioning well. Whilst there are things for us all to do, there are opportunities for development and growth, including in rich countries. But that growth, where it is in relation to consumption, needs to be dematerialized or physically circular: it needs to minimize the impact that the growth has on the natural world.
 
-2) *A prosperous and wealthy country:* The second priority is a prosperous and wealthy country. The current taxation system does not encourage productive wealth formation. In fact it encourages those sorts of companies that *extract* wealth from the country and discourages those who wish to invest in the society. A better system would encourage people who invest in *real assets*, but discourage purely financial investment/ In short, a good tax system encourages a balance of trade. It discourages foreign investment in a financial sense whilst encouraging investment in a real sense. An optimal taxation system would involve a collaboration between state and the private sector, so the gains of research and development investment are shared between both. And an optimal social security system would involve some funding from sovereign wealth funds, including personal accounts, so that the people and state accumulate assets to support them in hard times.
+We will come to how to achieve that a little later. The main point is that physical use of natural resources should be taxed; and the circular use of those resources is thereby encouraged.
 
-For this we need to provide an incentive for companies like Dyson to locate into the UK. We suggest the following: a *higher* corporate tax but calculated as follows: Sales - UK Wages - UK Investment. In other words, the tax should *encourage* uk companies to invest in the UK. We call this a DYSON TAX.The financial system should be encouraged to lend to real businesses.
+We suggest four forms of entrepreneurship. Firstly public good entrepreneurship: we suggest that the private sector be turned over to public good provision. the obvious example is green entrepreneurship, but we also suggest ways that companies can tackle other global issues such as the lack of good antibiotics.
 
-3) *An affordable home in a prosperous community*. The third priority is an affordable home for all. British governments have massively mismanaged the taxation of housing and business properties. By appropriately taxing the value of the location (land), in a way that is convenient and fair for all, we make it possible for most people to have the economic benefits of owning their own home. An optimal tax system would encourage community action, so that 'community entrepreneurship' allows communities to develop their value and capture the fruits of this development. How do we achieve this, given how expensive homes already are in South East England?  How do we achieve this, given how expensive homes already are in South East England? 
+The second issue is state capitalism entrepreneurship. This involves both the state and capitalists. 
 
-Well the first thing is to capture location rent increases for public causes. What does this mean? That means that the property taxes: council taxes, business rates and stamp duty should be rolled up into a single tax. This should be a tax on property with the *value* of tangible investment deductible. So that means that a house is a value, so you shouldn't be charged on this. The residual should be allocated between the local community, the municipal authority and the central government. Taxing property values rather than property per se would stabilise the current property values. We have a LAND VALUE TAX payable in cash or deferred until sale or death.
+The third is municipal land value entrepreneurship, as has been seen in Singapore and Hong Kong. 
 
-4) *Secure incomes, productive jobs and economic power:* The current social security system is highly insecure: benefits are taken away from people when their conditions change, leading them often to go into arrears with their rent or other payments, and often leading them into debt. The current social security system also discourages work, as benefits are withdrawn as income increases (in the Universal Credit system at a rate of 61% for every £ increase in income). A better benefit would not be withdrawn so rapidly as income increases, would encourage people to increase their skill level, would be well integrated with the taxation system and would also support those who enhance their communities in ways other than simply earning money (for example by caring or raising a child). It would also allow division of labour with minimal taxation between individuals in communities (so eliminating the tax advantages of being a company relative to an everyday citizen).
+The fourth is skill based personal and social entrepreneurship.
 
-The fourth priority is secure incomes, productive jobs and economic power. For this, we need to simplify the existing income and means-tested benefit system. Rather than the current system of means testing benefits, there would be a single system of basic income and taxation. A 'simplifying' basic income payable to everyone in society would be combined with a simplification of the system of income taxation, so that a standard rate of 40% is applied to all income up to the point when someone reaches the top 1% of incomes. Furthermore there would be citizen wealth funds, and assets would be granted to individuals based on how much tax they paid. There would be a 'target minimum level' of wealth and individual's tax would build up this minimum level of wealth. We have a SIMPLIFIED INCOME TAX, BASIC INCOME and WEALTH FUND.
+There's an overarching concept too, which we term policy entrepreneurship. That is, we should break out of the monopoly of thought imposed on us by neoclassical economics and neoliberal economic ideas. There are some great solutions out there. there are plenty of alternatives!
 
-## Tax Theories of Change
+These forms of entrepreneurship imply a new growth model for everyone, one that is not based on increasing financialization and debt on limited assets but rather the development of productive industries solving our collective problems.
 
-How do we change a system like tax? This book deals with tax reform in two approaches. The first is a 'blank slate' approach. This considers how we would define a tax and welfare system in an ideal world where both efficiency and fairness are achieved easily. 
+# Presentation
 
-The second approach takes into account issues of improvement and transition. In other words, what practical politically feasible changes could be made right now to make the system more beneficial and fair?
+- Situation: We have a market economy with competition, growth and technological progress.
+- Complication: But we have poverty and pollution
+- Question: How do we fix these issues of poverty and pollution?
+- Answer: Carbon Tax and LVT but tailored for a change management political evolutionary landscape
 
-So what does practicality look like? Often in policy, it is synonymous with political feasibility. Previously, we mentioned the idea of political realism and transitional justice. Changes must not seem both unfair and have obvious losers. Fairness will be often perceived to be a matter of *transition* as opposed to the sort of a perspective we might have when trying to create a tax system from a 'blank state' (as we do within this book). 
+The core theses of this book are:
 
-The tax system seems to change through top down directives, through the intervention of the chancellor of the exchequer of the time. This approach means that the tax system often changes with the agenda of 'budget day' announcements. Of course,the secrecy around these announcements is to a degree necessary: if agents know how the tax system is going to change, then they may be able to take steps to avoid the taxes. A better approach would be to conduct a strategic tax review, much in a similar way to the strategic defence review.
+1. The cause of environmental destruction is failure of regulation, specifically the lack of appropriate pricing of environmental damage
+2. The cause of inequality is non-degrading private property in limited things such as land and corporations with market power.
+3. The cause of failure to implement appropriate policy is a lack of an appropriate theory of change.
 
-Any discussion of taxation and welfare needs to consider *political realism*. What is political realism? It's recognising that some policies are politically easier to implement than others. In the context of taxation and welfare, we need to consider *transitional justice* and in particular not make any major groups worse off (except those that had previously benefitted unfairly). So, for example, it might be argued that a 100% land value tax is appropriate in certain locations, but to impose such a tax immediately would be unfair on those people who had recently purchased a house in the last year in a high land value area.
+In more detail:
 
-So what would it take to make change happen? I argue here that we need:
+1. Wicked Externalities
+   1. There are externalities and they are significant (descriptive point)
+   2. If there are external effects they should be accounted for in the tax system (theoretical point)
+   3. Carbon Tax will have desired effect (functional point)
+   4. if we make those tax changes we should have a certain response (responsive point)
+2. Monopoly and Poverty
+   1. There are non-productive (monopoly) assets (descriptive point)
+   2. If there are monopoly assets, then it's efficient and equitable to tax them (theoretical point)
+   3. LVT, cashflow-deductible-investment and corporate wealth tax will have desired effect (functional point)
+   4. If we tax them, then their price will fall; also wealth will be transferred to productive activities increasing human wealth (responsive point).
+3. Theory of Change
+   1. Change happens when desire overcomes resistance
+   2. Resistance is associated with perceived concentrated financial losses
+   3. Instead minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
 
-1. Political desire for change, a broad public consensus that there is a wrong that needs to be righted.
-2. A shared narrative understanding of the principles on which any new plan might be based
-3. Proposals that people could rally around
-4. Communication of this plan 
-5. An opportunity
-6. People ready to take advantage of this opportunity when it does arise.
+## Evidence About Tax
 
-How do we create that narrative? Well, this book is a contribution to it. It is very important to build a narrative that works for everyone in society and caters to the different ways that people live in the world and contribute to their economic lives.
+Point 1) can be evidenced as a) There are external effects and they are significant (descriptive point) b) If there are external effects they should be accounted for in the tax system (theoretical point) c) if we make those tax changes we should have a certain response (responsive point)
 
-The first principle of the Beveridge report was that 'revolutionary times need revolutions not patching'. We do not at present have the luxury of a fresh start. But we are starting to live in revolutionary times. Tax and welfare justice and simplification and their benefits in tackling great challenges facing us are, we suggest, good places to start. This book aims to provide some policies to help escape from a possible hell of environmental destruction and inequality. It gives us the means to complete Smith's goal of widely shared prosperity in a beautiful and secure planetary home. And it shows that our responsibility to our nation and our planet is not only personal but also political. We seek a Tax Heaven to preserve what we have, and to ensure a more heavenly future. Our quest is to search for tax heaven, that is a tax and social security system that is beneficial, practical and fair.  In order to achieve that, In order to predict the effects of the tax system, we will need to expostulate a theory of how the economy works. We will need to define in turn the benefits as well as the costs that could come from a tax system. We will need to work the a system that is practical, and just.  In order to actually change the tax system, we will need to develop a theory of how political change might happen. Finally we will need to work out how realistically how we can get from where we are today to where we wish to be.**
+ 2) a) There are non-productive (monopoly) assets (descriptive point), b) If there are monopoly assets, then it's efficient and equitable to tax them (theoretical point) c) If we tax them, then their price will fall; also wealth will be transferred to productive activities increasing human wealth (responsive point).
 
-We must reclaim our minds and awaken to the story we have been told about how the economy works. We must see the evidence of the consequences, and realise that there are alternatives. We must start to tell a new story. 
+3) a) Change happens when desire overcomes resistance b) Resistance is associated with perceived concentrated financial losses c) Instead minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
 
-## Previous Frameworks and Guidelines for Successful Reform
+# Outlines of Book
 
-According to Bird and Oldman [-@BirdAndOldman] there are eleven main aspects that need to be considered for a successful tax reform. In this section we take Bird and Oldman's categories, and specify them for this particular book, in the order that they are covered in this book:     
+This contains various outlines of the prescriptive outlines and the actual ones
 
-1. *Taxation theory*: Taxing rent and externalities, taking account of the theory of optimal taxation (both its classical formulation and the recent additions).   
-2. Macroeconomic situation*: Balance of payments, trade deficit.   
-3. *Attractiveness of proposals to politicians and voters*: A reform should be attractive to voters and to specific politician types. There should also be feasible policy pathways to achieving the reform. 
-4. *Political realities*: Interest of voter groups, popular notions justice, Interest of powerful groups.
-5. *Institutional inertia*: Capture proposals for overcoming this.     
-6. *Administrative realities*: Including the existing tax system, making taxes easily calculable, and making the system as automatic as possible.     
-7. *Empirical evidence*, for example: effect of incentives at work; Interaction between work, experience, education and salary; effect of environmental taxes on damage; effect of health taxes on health outcomes; effect of taxes on finance.   
-8. *Robustness to changing times*: We look at the changing nature of work, and consider the dynamic effects of our tax proposals. 
-9. Local knowledge*: Legal nature of tax system; specific problems of UK system tax and economy (regional balances, dysfunctional house prices etc.).      
-10. Produce beneficial results: See modelling chapter.
+## Short Outline
 
-## **Feasibility of proposals**
+- 1 TAX HEAVEN	*Overarching Question* What taxation and welfare system (and property rights) should exist to ensure that our economy produces social well being?
+- 2 CONCEPTS OF THE BOOK	*Defining Heaven* What sort of society do we want to live in? What is the purpose of our economy? What is a fair system of taxation and property rights (individual and collective)?
+- 3 ECONOMICS	*Economics* How should we do economics? What is the purpose of our economy? What are the goals of the economy? How do we understand that the economy works? Outline theories of growth, distribution and allocation of resources. What predictions do those theories make? Are they born out by the evidence? How is growth, distribution of income and allocation affected by tax and social security systems?
+- 4 TAXATION IN PRINCIPLE *Defining the Problem*: What are the general principles of tax? Why/Who/Where/What/How and how much should we tax?
+- 5 TAXATION IN PRACTICE; TAX AVOIDANCE & EVASION	*Avoidance and Fraud*: How does the tax and welfare system work? Does it work well?Can a tax system be designed that is simple and yet difficult to avoid? How do we set up a tax and welfare system that is simple and not subject to avoidance, evasion and fraud?
+- 6 POLITICS *Transition*: How can we transition from the existing system in a fair and politically feasible manner?
+- 7 (INDIVIDUALS) Inequality Wealth*: Do the rich get richer? If so, why? Can anything be done about it? What are the causes and consequences of inequality? Can tax and social security help and how?
+- 8 (INDIVIDUALS) Welfare and Work	*Automation and the Future* What system of social security would suit the future?
+- 9 (COMMUNITY) Land and Property	*Rent*: Why is housing so expensive in South East England, California and some other places? Why is the rent so high and why can't normal people can't afford to buy property? What are policy responses to this? Can the tax system mitigate the unfairness this causes?
+- 10 (COUNTRY) Profit and Value Added	*Corporate tax and tarrifs* How much tax should companies and their owners pay? How can we prevent them from avoiding tax?
+- 11 (COUNTRY) Money, Debt, Finance and Tax	*Finance and Balance*: Why is there so much debt? Can economies be trade balanced? What is the purpose of the financial system? Can we encourage the finance system to contribute more effectively to society?
+- 12 WORLD Environment, Resource Rent	*Nature*: Can taxes prevent environmental damage?  How do we cooperate over public good provision? Can taxation help collective action on climate change? Can we design a good policy to tackle climate change?
+- 13 PROPOSALS &TRANSITION	*Proposals*: What tax and social security changes do we propose?
+- 14: MODELLING	*Modelling* What effects will these changes have? Modelling of proposals: economic and other effects
+- 15: CONCLUSIONS	*Conclusions* What conclusions can we draw?
 
-Malcolm Torry in his recent book 'The feasibility of citizen's income' [@Torry2016], considers desirability of an unconditional per capita payment to all citizens and then distinguishes between, and analyses, seven different types of 'feasibility':
+## Longer Outline Including Key Lessons
 
-1. Fiscal
-2. Household financial
-3. Psychological
-4. Administrative
-5. Behavioural
-6. Political
-7. Policy process
-   We cover these notions of feasibility in our evaluation of these proposals in part 14.
+1: TAX HEAVEN: WHAT IS THIS BOOK ABOUT?
+*Overarching Question* What taxation and welfare system (and property rights) should exist to ensure that our economy produces social well being?
 
-## Plan of the Book
+- Lesson 1: Tax should be Beneficial, Practical and Fair
+- Lesson 2: Tax justice is an important as a driver of history
+- Lesson 3: If we tax things in the right way, good things happen
+- Lesson 4: We Need a Social Contract
+- Lesson 5: Public goods are as or more important than private goods.
 
-This chapter considers the core questions and theses of the book, emphasizing where our ideas are new or innovative. . 
+2 CONCEPTS OF THE BOOK
+*Defining Heaven* What sort of society do we want to live in? What is the purpose of our economy? What is a fair system of taxation and property rights (individual and collective)?
 
-Chapter 2 considers economic reform and economic justice in history, starting with Adam Smith.
+- Lesson 6: Use wealth as well as taxation to fund government. Use society and companies as well as government to provide public goods.
+- Lesson 7: Rent	Tax rent; tax externalities; tax consumption. We should tax those things that won’t go away when we tax them, and those things we want to go away
+- Lesson 8: Tax to pay for public goods. Difference between tax and spending for demand managment
+- Lesson 9: Vary the amount of tax over the financial cycle
+- Lesson 10: Already existing taxes are allowed under WTO law.
+  Externality	 Consumption
 
-Chapter 3 outlines the principles of the Beveridge report. Like Beveridge, we want to produce a *radical, comprehensive* analysis of tax and welfare that provides the basis of a new *social contract* between individuals and the state.
+3 THE PROBLEMS OF ECONOMICS AND RELATION TO TAX
+*Economics* How should we do economics? What is the purpose of our economy? What are the goals of the economy? How do we understand that the economy works? Outline theories of growth, distribution and allocation of resources. What predictions do those theories make? Are they born out by the evidence? How is growth, distribution of income and allocation affected by tax and social security systems?
 
-Chapters 4 and 5 build a conceptual model of the economy. To assess any policy proposal we need a model of the world accurate for the purposes to which we put it. No model of the world is completely accurate. But we do need a model that deals with the major important economic, social and environmental phenomena in it. Without that, our advice will be askew. We set out key ideas and how they make our picture of the world richer and more realistic. [To Be Implemented: Empirically we should ask the hypothetical question: *how would the world be different if this or that assumption were true*. We then use quantitative data to see which assumption is appropriate.]
+- Lesson 11: Define a model, see what would be the case if it were true, see if those things are in fact the case. Test between countries or times with similar conditions
+- Lesson 12: Growth, Demand, Allocation and Distribution
+- Lesson 13: Profit seeking Competition sometimes leads to good outcomes sometimes bad outcomes. Economic Model: 1) With Monopoly; 2) Without Monopoly
+- Lesson 14: The price of things depends on how the elasticity of supply.
+- Lesson 15: The economic model needs to be modified in two ways: first rent and permanent profit should be taxed; second, damage to others or to the environment should be taxed
+- Lesson 16: Economic Power Matters
+- Lesson 17: Acting Collectively is not easy: Planet; Collective Action; Wealth Formation; Unfair Accumulation; International Treaties
+- Lesson 18: Reforming Economics: Time, Space and Life are the key features that are essential. 
+- Lesson 19: Narrow interests have a greater incentive to change government
 
-Chapter 6 considers the work of great economists and other thinkers on these topics. *Beneficial, fair,* and *practical* are three general categories which provide us with a framework for assessing any tax or system of taxation. Each covers various elements and includes areas where people may reasonably hold differing opinions. It defines 'Tax Heaven' as a fair, good and practical tax system. 
+4 TAXATION IN PRINCIPLE
+*Defining the Problem*: What are the general principles of tax? Why/Who/Where/What/How and how much should we tax?
 
-Chapter 7 builds a conceptual model of politics. We mention briefly some simple ideas in power politics, the economics of collective action and the legal and political institutions available to us to fix global problems. Sometimes seem to lack the capacity to tackle international issues such climate change and tax evasion. We define a better way forward, consistent with the requirements of the future and the institutional tools available to us. We consider what is realistically needed to fairly transition to a better system in a popular fashion.
+- Lesson 20: Use wealth as well as taxation to fund government. Use society and companies as well as government to provide public goods.
 
-Chapter 8-14, consider the sectors of the economy and their challenges. Inequality seems to be driven not only by difference in merit but also by tax evasion and avoidance, and by unfair processes of asset price appreciation.  Housing is increasingly unaffordable in many cities. Climate change and other environmental issues threaten the future of our living planet. Automation and artificial intelligence question the future of work. This section considers these sector, their problems and some tax and benefit solutions to them. We then apply these ideas to the sectors of the economy.
+5 TAXATION IN PRACTICE; TAX AVOIDANCE & EVASION	
+*Avoidance and Fraud*: How does the tax and welfare system work? Does it work well?Can a tax system be designed that is simple and yet difficult to avoid? How do we set up a tax and welfare system that is simple and not subject to avoidance, evasion and fraud?
 
-Chapter 15 and 16, contain our proposals and the quantitative modelling work on them. We use computer models to suggest the likely outcome if a recommended set of policies is implemented.  We outline our proposals model them and conclude the book in part 14. We consider any implementation challenges and how they can be overcome. We conclude the book with a rallying cry and a practical way forward.
+- Lesson 21: Use an inelastic base of tax
 
-# II. REVOLUTIONS IN THE MINDS OF MEN (Late draft)
+6 POLITICS OF CHANGE
+*Transition*: How can we transition from the existing system in a fair and politically feasible manner?
 
-## The Wealth of Nations
+- Lesson 22: Change equation
 
-UNDER THE STARRY SKIES, far away from the everyday hustling and bustling of the commercial metropolis, sits a professor, beavering away at his manuscript. The year is 1773; the location Kirkaldy, a small town in Scotland; the author, Adam Smith. The full title of Smith's great work would be "An Inquiry into the Nature and Causes of the Wealth of Nations".
+7 (INDIVIDUALS) Inequality
+*Wealth*: Do the rich get richer? If so, why? Can anything be done about it? What are the causes and consequences of inequality? Can tax and social security help and how?
 
-On this cool and starry night, Smith was writing the fifth and final book of the "Wealth of Nations", entitled "On the Revenue of the Sovereign or Commonwealth". Smith asked: How should the activity of government be funded? Which taxes should a state impose? 
+- Lesson 23: Capitalism can be a system of making the poor richer or the rich richer. It depends on the treatment of monopoly. Monopolies can and do exist both because of fixed supply of underlying factors (like land: heterogeneous, limited and with property rights), through economies of scale, and through cartels. All forms of monopoly need to be taxed or regalated in order to prevent and regulate the unfair distribution of wealth.
+- Lesson 24: Top rate of tax should be 60%
 
-This book is devoted to similar questions: how should we fund the state? Which taxes should be levied and why? And related, what would make a better welfare system? We use taxation and welfare firstly as tools to preserve and enhance the wealth of the planet, of nations, of communities and of individuals. By wealth we mean the stock of valuable things, including the environment and individuals. And we are concerned also to distribute wealth fairly, partly by ensuring that wealth does not beget more wealth unless it is productively invested, and partly by ensuring that the transition to a fairer system is itself fair to all. Our immediate scope is the UK, but our ideas could be applied anywhere. 
+8 (INDIVIDUALS) Welfare and Work
+*Automation and the Future* What system of social security would suit the future?
 
-So let's get back to our story. Tax is not just a matter of theoretical interest but has also been a driver of history.  Smith himself was agreed with the American revolutionaries that the colonies should be represented in the British parliament in proportion to the tax they paid. If Smith's book contributed to a revolution of ideas, in other parts of the world a more hot and imminent political revolution was brewing.
-![](../Google%20Drive/Tax%20Heaven%20Book/ChapterPictures/AdamSmithSmall.png)
-*Plaque marking the site of Adam Smith's mother's house in Kirkcaldy, where Smith lived*
+- Lesson 25: Wealth forms an alternative method to support the population.
 
-WHILST SMITH WORKED by candlelight, far across the oceans, in what was then the British colony of North America, some demonstrators were heaping tea into the sea. The demonstrators' objection: the British state was collecting taxation without giving them representation in the British parliament. And so the American Revolution was born.
+9 (COMMUNITY) Land and Property
+*Rent*: Why is housing so expensive in South East England, California and some other places? Why is the rent so high and why can't normal people can't afford to buy property? What are policy responses to this? Can the tax system mitigate the unfairness this causes?
 
-Revolution was also imminent in France. A century earlier, Jean-Baptist Colbert, minister of Finance to the King of France, had said that 'The art of taxation consists in so plucking the goose as to procure the largest quantity of feathers with the least possible amount of squawking.' By 1789, the geese had not only squawked, they had overthrown the farmer and taken control of the farm. The French Revolution had arrived. 
+- Lesson 26: Land is expensive because it is a monopoly
 
-## Rural Land and Urban Location
+10 (COUNTRY) Profit and Value Added
+*Corporate tax and tarrifs* How much tax should companies and their owners pay? How can we prevent them from avoiding tax?
 
-In France, one of the first economists, Francois Quesnay, had argued for a single tax on the value of land to replace all other taxes. The tax never happened, indeed Adam Smith commented both on its economic benefit and its political challenges when he said, with dry irony 'The single tax on land is the tax that does not threaten to discourage industry anywhere'
+- Lesson 27:  Untax capital expenditure and let the original ownership of firms exponentially decay
 
-Let's take our magic carpet to cross the Atlantic and forward a century in time. A journalist in San Francisco is learning his craft. He is fascinated by a subject which was then still called 'political economy'. And he was interested in one question in particular: why was there so much poverty in the midst of so much technological progress? George looked out at the world, and he noted that it was in the biggest, most advanced cities, with the most technological advancement, which also had the worst, most grinding, poverty. The journalist's name was Henry George and his book was called Progress and Poverty. 
+11 (COUNTRY) Money, Debt, Finance and Tax
+*Finance and Balance*: Why is there so much debt? Can economies be trade balanced? What is the purpose of the financial system? Can we encourage the finance system to contribute more effectively to society?
 
-George's work echoed the more turgid prose of banker and great economic theorist David Ricardo. Ricardo had argued that an agricultural landlord contributed nothing to the well being of society: he merely extracted the surplus from the land once the costs of labour and tools had been paid. This surplus is known as rent. As had been previously argued by Adam Smith, the best tax therefore was a tax on rent. Whilst Ricardo modelled a rural economy, Henry George was concerned also with urban land. The ownership of urban plots allowed the landowners to benefit as society developed. George popularised the message that the remedy was to tax urban landlords. He used beautiful words that everyday folk could understand. 
+- Lesson 28: Tax unproductive debt.
 
-Inspired by Henry George, a woman by the name of Elizabeth Magie, invented a game called the Landlords' game. It illustrated that without a tax on urban land, property tended to get 'monopolized' and those who owned it extracted rent from those who did not.Change this If however the people who owned land were taxed on the value of that land, then a stable and fair (if rather boring) outcome ensued. Later the game was shorn of the beneficial, but boring, rules, leaving only the case where an unstable and unfair (if at times fun) ruleset remained. Therefore the original political implications of the game name were lost and the new game was marketed as 'Monopoly'. The goal of Monopoly is of course to own the whole board and to drive all the other players bankrupt. This might make an exciting game but it was far from a system of widely spread prosperity. The case for a land value tax is considered later in this book.
+12 WORLD Environment, Resource Rent
+*Nature*: Can taxes prevent environmental damage?  How do we cooperate over public good provision? Can taxation help collective action on climate change? Can we design a good policy to tackle climate change?
 
-## War and Progress
+- Lesson 29: We can overcome the 'tragedy of the commons' in global climate change policy through a well designed consumption based upstream carbon tax.
 
-Henry George inspired many of his readers, including the young Winston Churchill and British first world wartime prime minister Lloyd George. Towards the end of the first world war, there was even a budget which implemented a Land Value Tax, the 'People's Budget'. But due to the resistance of land owners and the difficulties of valuation, the budget was never implemented. Nevertheless, from the late 19th century through the whole of the twentieth century, and particularly after the second world war, the conditions of the poor improved. The curse of slum landlords and destitution was almost banished.
+13 PROPOSALS & TRANSITION
+*Proposals*: What tax and social security changes do we propose?
 
-One great milestone in this history of progress was the Beveridge report. Released in 1942 and chaired by Liberal economist Lord Beveridge, it laid the basis for the post-war welfare state. Its aim was to banish the five great evils: 'want, ignorance, squalor, disease and idleness'. OrderAfter the war, Beveridge's report inspired an improved social security (benefits) system, public education, public housing, a national health service and macroeconomic management aimed at ensuring full employment. 
+- Lesson 30:  A simple, feasible and beneficial tax system can be developed
 
-The reforms inspired by Beveridge and other social reformers helped to reduce the prevalence of these five great evils, and transformed the previously hellish conditions of the poor. But we have not achieved heaven on earth. There are great evils facing us: the destruction of the environment, the lack of affordable housing in many towns, great inequalities of wealth and the risks of automation. This book will explain why these evils arise and how they can be fixed.
+14: MODELLING
+*Modelling* What effects will these changes have? Modelling of proposals: economic and other effects
 
-## The Global Machine and the Global Mission
+- Lesson 31: Our proposals will make things better by this degree
 
-We are now in the present day. The subject then called political economy is now called economics.  Great container ships cross the oceans. Aircraft zig-zag the skies. Massive machines in far off lands churn out phones and other devices which everyone is looking at. Many people live lives with more consumer comforts than the past. But some things are very expensive: it is expensive to buy a flat in London for example; but it is relatively cheap to fly off to sun-kissed beaches on foreign shores.
+15: CONCLUSIONS
+*Conclusions* What conclusions can we draw?
 
-This great machinery of commerce is devoted to two purposes: to give people what they desire (or at least what they can be encouraged to buy); and to make a profit in so doing. The commercial machine is in many ways smooth. But there are rumblings of discontent.  In 1848 the 'spectre of communism' overshadowed the world, according to Marx. Today the danger of environmental destruction, runaway technology and a state run by and for the superrich to enrich themselves still further, overshadows this machine for happy fulfilment of our consumer desires.
+- Lesson 32: Tax rent and externalities!
 
-In America, a man promises to 'drain the swamp'. It would be natural to take these words to mean that the army of smart-suited lobbyists, that aim to direct the ship of state to favour their interests, would be sent packing. Nothing of the sort happened. Indeed the swamp got ever marshier. The poor, who had seen nothing much of forty years of economic growth in US were increasingly addicted to prescription painkillers. In the United Kingdom and the United States people stopped living longer.
+## Reverse Outline of Intro Sections
 
-This was by now a truly global civilisation. And scientists were warning that something truly global was wrong. In a conference room, a group of scientists called out for the radical shifts to stop burning fossil fuels in a couple of decades. The great machinery of commerce, which had since the end of the second world war been devoted to giving us more and more stuff, would need to be turned around to a new purpose.  
+**(Based on What I've Actually Written; just first few chapters)**
 
-To turn around this great global machine, this supertanker of consumer commerce, we need to apply not only the great resources of the state, but also the dynamism and capacity of the private sector. We need to harness the profit motive for the good of the planet. And for that we need to tax the damages that individuals and companies cause to the living planet. In this book we seek to use the tax system to do so, not only by changing the incentives of the private sector in one country, but also by ensuring that other countries have a reason to follow that lead. 
+I. TURNING THE SHIP AROUND
 
-Yes. The reforms that we are proposing will transform the prospects of the first to adopt them that others will have no choice but to follow that lead.
+II. REVOLUTIONS OF MIND AND MATTER
 
-## The Prices of Flats and of Flights
+III. BEVERIDGE: THE SOCIAL CONTRACT 
 
-It's now a wet November evening. Let me introduce Peter and his wife Lucy, who are shivering in their North London flat, pressing refresh on their email program and looking at their phones. They are waiting to see whether their offer on a two bedroom flat in a rundown neighbourhood of the city has been accepted or not.
+IV. DESERT ISLAND ECONOMICS
 
-An advert flicks up for a getaway flight to somewhere sunnier. If they can take the time off, then they can get away to a nice sunny island for a week. The small flat they are purchasing is, by any normal standards, inordinately expensive. They will be paying off their mortgage until they reach retirement age. And the flight to the sun is cheap, they can book it for less than one day's wages each.
+V. CAKE ECONOMICS
 
-To Peter and Lucy this is the usual way of things, although they don't like it much. Their friend Mel pointed out to them that the world is running out of time to tackle one of the major environmental problems facing it, climate change. Lucy feels a certain amount of guilt in the back of her mind for taking a holiday and the associated carbon emissions but is convinced by the low cost of the flights. When buying a roof over their heads is so expensive and so stressful, any normal person would need a little relief. They book the flight.
+### How Reverse Outline Fits In
 
-This book is about the prices of things, and how the prices of things is influenced by the taxation system. Houses and flights already have some taxes on them. If you live in a house, you pay Council Tax. And if you take a flight you pay Air Passenger Duty. Putting a higher tax on houses may actually reduce the purchase price of the house. That's because the value of the house depends in part on the obligations associated with it, taxation included. 
+- 1 TAX HEAVEN	*Overarching Question* What taxation and welfare system (and property rights) should exist to ensure that our economy produces social well being? and 2 CONCEPTS OF THE BOOK	*Defining Heaven* What sort of society do we want to live in? What is the purpose of our economy? What is a fair system of taxation and property rights (individual and collective)?
+  - I. TURNING THE SHIP AROUND
+  - II. ADAM SMITH: REVOLUTIONS OF MIND AND MATTER
+  - III. BEVERIDGE: THE SOCIAL CONTRACT 
 
-This book does not argue for environmental taxes primarily to change the behaviour of consumers. Rather it seeks to change the economy to provide goods in ways that do not damage the living planet. Sometimes this will be difficult. It's hard to design aeroplanes that do not burn oil products. But technological change adapts to market need. And if zero carbon planes cannot be designed, then perhaps those who fly should pay for the capture of Carbon Dioxide from the air elsewhere. In other words, the tax on flying, and other activities that produce warming greenhouse gases, should be enough to encourage people to capture those gases from the air if they cannot be eliminated directly.
+- 3 ECONOMICS	*Economics* How should we do economics? What is the purpose of our economy? What are the goals of the economy? How do we understand that the economy works? Outline theories of growth, distribution and allocation of resources. What predictions do those theories make? Are they born out by the evidence? How is growth, distribution of income and allocation affected by tax and social security systems?
+  - IV. DESERT ISLAND ECONOMICS
+  - V. CAKE ECONOMICS (delete?)
 
-The price of things in short needs to be just. And a just price of things requires a just tax system. And a just tax system will cause people to pay for the damage they cause to the environment. And a just system will also ensure that nobody gets rich merely by owning some of the limited things of life, such as land. In short, justice and benefit are the same, fairness and efficiency merely two sides of the same coin. That is Tax Heaven. And it is to such a tax system that this book is devoted.  
+- 4 TAXATION IN PRINCIPLE	*Defining the Problem*: What are the general principles of tax? Why/Who/Where/What/How and how much should we tax?
+  - VI. ON THE SHOULDERS OF GIANTS: PRINCIPLES OF GOOD TAXES
 
-There's a corny old joke about the man that asks for directions and gets the response "Well if I was going there I wouldn't start from here". So it's not just the final state of affairs that must be just, but also the approach of getting from here to there. In the later parts of the book, we show how to transition in a fair way to a just tax system.
+# Specifications (to be updated)
 
-# III. BEVERIDGE'S SOCIAL CONTRACT (Early Draft)
+## Writing
 
-Further down the street from Peter and Lucy lives Fred. Fred is on benefits. He once took a job, but he found that once this happened his benefits were cut off. There was a gap between his new wage and the benefits coming in. Thanks to this he didn't have the money for the rent. The UK has rolled out a reform known as 'Universal Credit', which integrates four income-related benefits into one. The 'benefits withdrawal' rate (in effect the income tax on additional income) on Universal Credit is 'only' 63%, which means that you only lose two thirds of the extra income you got.
+### V0.1 (End January 2018)
 
-It does not have to be this way. One great milestone in the history of progress in the UK was the Beveridge report.  Seventy-five years ago liberal economist William Beveridge presented his report concerning a new welfare state in the UK to parliament. Commissioned in 1942 and chaired by liberal economist Lord Beveridge, it laid the basis for the post war welfare state to banish 'want, ignorance, squalor, disease and idleness'. It[-@Beveridge1942], laid the basis of the British postwar welfare state.Crucially, he argued for universal benefits, as of right, rasther than the system of means testing that has since developed. His report was guided by the following three principles [@Beveridge1942: Part 1, paragraphs 6-9].
+- Draft  Corporation Tax Chapter
+- Write-up of Modelling
 
-First, he argued that World War II and its aftermath was 'a time for revolutions not patching'. He offered a radical approach, informed by the experience of the past, without being restricted by the interests of one group or another. In short, his report would be *radical* (working from first principles) and prioritise the common interest.
+### V0.2 (End February 2018)
 
-Second, he argued for a *comprehensive* solution to the five 'giant' social problems of the poor. His report dealt primarily with want (poverty) and disease (poor health). The other three 'giants' were ignorance (lack of education), squalor (poor housing), and idleness (unemployment). Accordingly his report laid the basis not only for the UK's postwar welfare (or social security) system, but also the National Health Service, public education, housing policy, and a system of macroeconomic management aiming for full employment. 
+- Short Introduction,  	
+- Research Questions defined
+- Economics 	(chapter structure only)
+- Proposals Chapter (rough draft)
+- Modelling Chapter (rough draft)
 
-Finally, Beveridge argued that there should be reward for contribution and service. The social contract of the mixed economy involves *cooperation* between the State and the individual. The welfare system should not stifle incentive, opportunity or responsibility. It would be an insurance system, i.e. a system of *giving* in return for *subsistence* benefits as a universal *right* and *without* means-testing. The state would offer the security of a subsistence standard of living in exchange for *service* and *contribution*. Welfare benefits would not preclude individuals from employment or self-employment, and benefits would not be withdrawn as people earned more. The outcome of this in reality has been very different to what Beveridge intended.
+### V0.3 (End March 2018)
 
-In short, we could say that the Beveridge principles are as follows:
+- Introduction
+- Economic Vision
+- Existing Material
+- Corporation Tax material
+- Proposals
+- Distributive Modelling of Proposals
+- Conclusions
 
-- *Radical*: From first principles, without fear or favour to social class or other interest groups.
-- *Comprehensive*: Dealing with poverty, disease, bad housing, unemployment and a lack of education.
-- *A liberal social contract*: No means-testing and so no stifling of incentives, but also cooperation between the state and individuals/firms.
+## Communication
 
-World War II had almost bankrupted Britain. Britain had initially financed the war through borrowing both domestically and internationally, especially from the United States. However, despite a public debt ratio which peaked at 238% of GDP in 1947, and the gradual loss of its prewar Empire, postwar Britain soon rebuilt itself and managed to provide for its people a standard of living greater than that before the war. Pursuing a policy of low interest rates, moderate inflation and high growth, the burden of debt was cut to 70% of GDP in 30 years. These accomplishments are in themselves remarkable, and we will touch on how they were achieved later on in this book.
+### V0.2 (End February 2018)
 
-Beveridge was largely successful in his mission to lay the foundation for a comprehensive welfare state. However, some of his principles, especially the third, were unevenly applied. 
+- New website
+- Twitter
+- Pitches
+- Business Cards?  	
 
-## **Principle 1: A Fundamental Review**
+## Model
 
-The premise of this book is to look at tax and welfare from first principles, and then to apply those first principles without fear and favour.
+### V0.1 (End January 2018)
 
-But are we at a revolutionary time? Can we change a complex system like tax and welfare from first principles, or is 'patching' the only realistic possibility? We will assert that change is possible only if it is beneficial, fair and smooth, and communicated well so that these aspects are evident.
+ Effect for individual
 
-One does not make fundamental progress without thinking fundamentally about what a system should do and what it should be. We also need to consider the motivation for, and the barriers to change. One barrier is undoubtedly the worry that some people will be made worse off by any changes. Therefore, we need to ensure not only that the final state is fair, but also fairness is upheld the transition between the current system and the new is also fair.
+### V0.2 (End February 2018)
 
-## **Principle 2: The New Five Great Challenges**
+- Basic whole-population analytics
+- Tax  effect on example individuals
 
-We still have Beveridge's giant social issues to some degree, but we are also faced with new problems. This book, like Beveridge's report, is devoted to five great societal challenges which face us now:
+### V0.3 (End March 2018)
 
-- *Wealth*: Inequality of income and wealth, and especially that caused by arguably unfair means; tax avoidance and evasion; dominance of large mega-corporations with market power enriching the rich and wielding political power. Dealing with the challenge of increasing automation of work so that everyone has an adequate income and plenty of free time.
-- *High Rent on Land and Resources*: Unaffordability of renting or purchasing homes, and the cost of importing fossil fuels.
-- *Pollution and other environmental damage*: Climate change, ocean acidification, plastics, overfishing and habitat loss which all threaten the future.
-- *Debt and Economic imbalance*: Rebalancing the economy away from borrowing and asset inflation, and towards balanced growth and wealth formation.
-- *Tax Evasion and Avoidance*: Can a tax system be designed that is simple and yet difficult to avoid?
+- More accurate whole-population analysis than we have at the moment
 
-## **Principle 3: A Social Contract Aligning Reward and Contribution**
+### V0.4 (End April 2018)
 
-Our new welfare system should not disincentivise work and should encourage service and contribution. We will study in detail Beveridge's third principle to see if, and how, a better welfare system can be created. 
+- Add Effects on Whole Population
+- Add Effects (Graphs) on Example Individuals
+- Add Multiple Tax System Levels
+- Better Modelling of Income Distribution
 
-This involves the *integration* of the tax system with the benefits system so there is not a separate system of 'means testing': this function can be carried out through the tax system. This suggests the case for a system with a universal component: we call this a 'citizen's dividend' (a form of basic income). Furthermore, we argue for an integrated skills training and work experience system. These two proposals are outlined in part 11.
+## SPECIFICATION AND SCOPE FOR BOOK
 
-## **From 'Universal Credit' to truly Universal Benefits**
+Book should contain
 
-Many voices have called not for Universal Credit but instead a basic income. The big difference with a basic income is that the benefits are paid whether you work or not. But is a Basic Income politically feasible. A 'simplifying' basic income scheme would increase income tax, including eliminating personal allowances, in order to pay for it. But is a basic income politically feasible? Most well functioning benefits systems do take benefits away from them if they do not work or pay taxes. But instead of the current system of conditionality we argue here for a system that degrades very slightly over time if the person does not pay taxes or do any other sort of worthwhile activity. Over time, this would transform into a sovereign wealth fund basic income, with individuals building up assets to fund the welfare payments.
+- New Introductory Sections
+- Modelling
 
-# IV. DESERT ISLAND POLITICAL ECONOMY (Early Draft)
+It should be well written, researched and competent.
 
-The purpose of this section is to take you on a whirlwind tour of some important ideas in economics and the history of economic ideas. We shall introduce these ideas through stories on a set of islands, which we will call The Economic Archipelago (the 'Tea Islands'). (In the subsequent chapter we will introduce these same ideas more formally using a different analogy: the cake.)
+Question: how can economic reform help fix our problems?
 
-## IV-1 Growth on Great Island: Adam Smith's Model
+## SPECIFICATION AND SCOPE FOR 'IDEA TOOLKIT'
 
-The largest island in the Tea Islands is called 'Great Island'. On Great Island live a few hundred people. Everyone does the same thing, a bit of everything. Half the day is spent fishing (including maintenance of the boats and nets) and half the day is spent gathering nuts and berries. This yields 250g of fish and 250g of nuts and berries. In total, 0.5kg of food which is equal to their dietary needs. In this economic fable we will demonstrate Adam Smith's model of growth through specialisation.
+- It should contain the core ideas in the book.
+- It should be 15,000-20,000 words
+- It should contain the 'pyramid'
 
-**Specialization and Trade**
+## SPECIFICATION AND SCOPE FOR RESEARCH
 
-Then a small group of fishermen discover something. They decide firstly, that they are *only* going to fish, and not worry about gathering berries. Whilst they enjoy nuts and berries, they argue that they can catch enough fish and *trade* some of the fish they gather for nuts and berries. They also split up tasks between themselves. Some of them make nets, others build bigger boats. They can catch more fish by splitting up tasks in this way. By collaborating and specializing they can double their productivity. Where before they could only make 500g of food per day, now they, collectively, can produce 1kg of food per day. 
+1. Define General Research Question - done
+2. Define research tools - Mendeley, -done
+3. Further research tools
+4. Put specific daily research questions in top of this document
 
-They now have choices. The first option is to work all day (8 hours) and sell the surplus, either saving the excess or spending it on some luxuries. The second option is to cut down working hours by working only 4 hours per day. In the shorter working day they can still produce enough food to live on. In both cases the fishermen in the firm have higher hourly wages than before - twice what they were making before. These higher wages reflect the higher productivity. 
+# Fast facts about Tax Heaven
 
-So the improvement was generated by the fishermen and their initiative, and they are the beneficiaries of the new ways of working. The economy has grown, but at present the new prosperity has gone entirely to the fisherman that initiated the improved ways of working. The price of fish relative to berries is unchanged. One kg of fish still sells for one kg of berries.
+## Tax Heaven (Blurb)
 
-## Competition
+This book represents a revolution, not just in how we think about tax and welfare, but in finding the ways that these tools can be applied to build a better society for us all. Poor design of the UK's Tax and Welfare system has left a vast chasm between the standards of living of rich and poor, a damaged and degraded environment, and has ignored questions of value and ownership. It has neglected the rights of citizens to share in the richness of the earth's resources and to prosper fairly from their labour.  This book shines a light on why these problems occur and highlights the myriad of ways in which these policy tools can be adapted to fix our society. It boldly challenges the inevitability of the status quo and presents a vision of a new world, where we are helped into making better choices, improving the quality of life for ourselves, the people around us and the wider environment we live in. Above all it asks, and answers, what this country might be like if, instead of its people serving the economy, the economy served the people.
 
-So at first, the benefit of improvements are captured by those that made the improvement. They get to live a life of luxury. And everyone else is pretty much as before, except that they notice the specialised-fishermen getting richer and richer. 
+## Who we are
 
-Soon some other folks notice what the fisherman have done and give it a try. And then some more fishermen pile in. Fortunately the seas are plentiful. Once each has replicated the new improved double-productivity setup, they can each sell fish. But something strange happens. Given the people only want to buy a certain quantity of fish, the fishermen undercut each other in order to win market share. The price of fish in terms of berries starts to fall. 
+The team behind the Revolutionising Taxation &amp; Welfare Project and the Tax Heaven (title tbc) book was founded by engineering entrepreneur Gordon Styles and economist Stephen Stretton to take a fresh look at the UK tax and welfare system and the roles it plays in our society.
 
-## The Labour Theory of Value
+Gordon had written to the Financial Times in early 2007 warning of an impending crash and had been dismissed out of hand for being too negative. In 2012 he published a 10 point plan in the Financial Times to promote a recovery in the UK economy. As expected, this was met by derision by most that explicitly commented on it. Fortunately he met a number of like-minded people and this led in turn to writing a book that would propose a much more detailed plan for the regeneration of the UK economy.
 
-To what price should the price of fish fall to? It continues to fall until the point at which, in the new circumstances, it only just makes sense for workers to go fishing in the new fishing-conglomerates. In short when the wages from fishing in the new improved setup equilibrate to the wages just going gathering. In other words, the price of fish relative to berries will fall until it makes the same sense for someone to fish as to go collecting berries. This assumes of course that there is some value in eating some berries, perhaps for a varied diet. 
+## What is the aim of the book and who is it for?
 
-So now, the cost of fishing is expected to fall. In the new circumstance perhaps, 1kg of fish (taking one day to collect) buys 0.5kg of berries (also taking one day to collet). Given the new cheaper price of fish relative to berries.
+The aim of our book is to propose a simpler and more effective tax and welfare system for the UK.  It lays out the problems with our current system and presents a series of solutions. We are formulating key proposals for a reformed system that would address many of the issues with the status quo and provide a fairer and more effective tax and welfare structure with a wide range of social and economic benefits.
 
-## Widely Shared Prosperity?
+The book is intended to be a living, breathing resource that will be updated, rewritten and republished each year.  We intend that over time this ongoing project will attract more and more contributors and writers and hopefully one day live a life completely of its own.
 
-So at the end, people fish for a day to get 1kg of fish and perhaps go collecting for a day for 0.5 kg of berries. 2/3 of the people fish, and 1/3 of the people collect berries (a change from half-half before the imrpovement in capabilities.) The total average food production is 2/3+1/6=5/6 or about 0.82kg. Thus the real wages per day have increased as 0.5kg per 8=hour day to 0.82kg of food per 8 hour day.
+Although this is a UK-centred project, the hope is that both the principles of effective design and the core policy proposals will have a high degree of international transferability.
 
-This is shall we say the basic model of division of labour and competition. Let's now extend this model to the situation where there is scarce land which is privately owned.
+We hope that the book will be accessible to a wide audience.  It is aimed at the educated layperson, who is interested in tax and welfare issues.
 
-## IV-2 Rent on Private Property Island
+## Our View and Solutions
 
-Our fisherman is considering a change of direction. He has heard that there are two new islands, only recently discovered, which sounds like a paradise. Rabbits run free and are easy to hunt. Fishing is rather laborious whereas hunting rabbits sounds much easier. Our fisherman sets out to visit the first island. The first island is one of private property.
+Our contention is that the current tax system fails to distinguish between productive, unproductive and destructive activities. We argue that taxing unproductive private wealth can reduce economic instability and inequality. We also support the taxation of activities that cause harm to the environment or human health.
 
-On this island, there is a man, lets call him 'Man Friday' living on it. He is well abrest of the laws of property. He defines himself the owner of the property. He arms himself to make sure that nobody else can take any of the property. He prepares to charge rent to anyone who turns up. Thus we will call this island 'private land island'.
+These introductions would allow government to cut taxes on productive activities such as labour and investment, whilst distinguishing placements and monopoly rights from real investment, meaning we could focus on building a stronger economy and a fairer society.
 
-Then a new man turns up, we can call him Robinson Crusoe. This man has been used to living at sea in a fishing boat. Every day he fishes, he catches 1kg of fish, which, we can assume are very nutritious. 
+The welfare system is also very complex and often frustrating. Benefits are distributed on inconsistent bases and there is stigma associated with claiming them. The system is not effective at helping people into work.
 
-Crusoe arrives at the island which is full of rabits which are easy to hunt. If he is to work a whole 8-hour day, he can now catch 8kg of rabbits. Let's say that a rabbit is just as nutritious as a fish, and the work is just as pleasant. In fact, he only needs 1kg of food to live on, so he can work one hour per day and relax reading books the rest of the time.
+We propose a suite of new taxes, including a land value tax, a tax on money balances, environmental and health-related taxes, and an additional suite of taxes on the super-rich individuals and corporations. We wish to see the income tax system significantly simplified.
 
-After the second day of fruitful hunting, Man Friday turns up to say hello. Fortunately through a twist of fate, they all speak the same language. Friday is very happy that Crusoe has turned up. He invites Crusoe round to dinner. It's a very beautiful dinner: rabbit en croute. Friday has many beautiful items on the wall, won from many years of selling rabbits to passing tradespeople. He even has a beautiful gun and half way through the meal, he gets it out of the gun holster to show Crusoe, places it on the table to show him, and then puts it back in its holster.
+We propose that the citizens of the UK should receive a per capita payment or &quot;Citizen'Dividend&quot;. Such a payment would allow us to simplify the welfare system, reduce bureaucracy and ensure everyone has a minimum level of income, while a guaranteed jobs scheme would mean that all who wish to find work can do so.
 
-Dessert is served. Friday has a family of servants who help him. Friday is saying how he is glad that crusoe has joined the island. Half way through the desert, Friday gets to the point. "Oh about the rent" he says. "Would seven per day be ok?"
+For more information, including an overview of our analysis of the existing system and our working proposals for reform, see our [position paper](http://www.rtaw.co.uk/Position%20Paper.pdf).
 
-In a moment, the pleasant world of Crusoe disappears. He had not even considered that Friday would charge him rent. There was space enough on the island for all. But Crusoe had few options. The best profession he had found up to now, a fisherman, earned 1 kg of food for a full days work. Living on dry land seemed attractive (at least he was not subject to the storms). He had thought that he could work only one hour per day. But now he realised that his working hours would not change. The eight hour shift of fishing to get one unit of fish is the same as the eight hours he would have to work to get eight kg of food in the new situation, of which seven would go to his landlord! He would still work the same hours, and get the same pay. Admittedly the new situation was a little better as he was not subject to the storms and salt-corrosion of his boat, but it was not the bliss that he previously envisioned.
+## When should it be published for best effect?
 
-It's interesting to note that the net wage after rent of our new arrival depends actually not on the conditions of the island, but rather on the conditions in his next best option, which is to go fishing. Suppose that fishing made 2kg of fish per 8 hour day (0.25 kg per hour). The landlord, observing this, would need to charge only 6kg of rabbit per day in rent, since Robinson Crusoe could always do better fishing otherwise. This is odd and worth repeating: the well being of someone here depends on the options that they have available elsewhere.
+The book makes reference to current national and international political  instability, and ways in which we can harness the appetite for change, to make radical reforms to our tax system, and bring in a brighter future.  Thus the book should be published as soon as it is ready.
 
-Thus we could see perhaps that the abolition of traditional peasant rights in England during the enclosure acts could be the fundamental cause of poverty in big cities thereafter. Without the option to be a peasant, there was no options for workers to earn any sort of wage. Therefore the wages paid by industrial capitalists need be enough to keep them alive, but no more - subsistence wages.
+How should the point of the book be framed to make it obvious and appealing?
 
-The landlord can extract *rent* constituting the surplus over wages (in this case the net resoirces kept by Robinson once he has paid his rent).
+Brexit has been a shock to many, but it offers Britain the opportunity to make some changes to the tax and welfare system, which would have been difficult within the EU.  The book could thus be framed in terms of a path to a positive future, a new vision for the country.  It is a call to harness the current appetite for change, which is evident in Britain.
 
-**Differential Rent**
+Another possible frame is to emphasise the power of tax policy - as a tool, a lever for creating  society we want.  Tax is often thought of as a necessary evil, an inconvenience, an imposition and to many - a boring topic.  We would like to show that tax can be powerful, interesting and useful.
 
-Imagine the island is split in two, one half is owned, the other is not. On one side of the island, rabbits are plentiful, and 8kg of rabbits per day can be hunted. On the other side, rabbits are less plentiful and only 4kg per day can be hunted. The landlord rents out both plots, but the rent charged on each can differ. Assuming for now that the wage that an unemployed person can make is still 1kg per day when fishing. Thus the landlord can charge 3kg of rabbits for residence on the less productive plot and still 7kg of rabbits per day for residence on the more productive plot.
+## Does the title match the aims of the book and the market?
 
-**Absolute Rent**
+Our current title 'Tax Heaven' is an apt description of what we aim to convey.  We wish to make a more perfect tax system as a step towards a more perfect country and world.
 
-Let's say that for some reason there's a series of storms the people on the islands find it hard to catch fish. The landlords however have some spare resource - stored dried food - that they have accumulated over many years. They sell this food to the fishermen. In exchange the fishermen sell their boats to the landlords and rent them back. Now there is no rent-free way of earning a living. In this situation, land and other ways of earning a living are absolutely scarce. They have been bought up by the wealthy landlords.
+## Are the introduction and conclusions clear (and matched)?
 
-We can consider two possibilities: the first is that there is a shortage of workers. In this case, there will be some level of scarcity in labour and therefore wages will be kept up. The split between the revenue going to the landlords for renting a boat and labour will depend on the 
+Our introduction is clear.  As we are in the process of adding some chapters, the conclusion is being revised.
 
-Now of the 1kg of fish, only half a kg is retained, the other half is paid as rent for the boats. The residual wages are not now set at what the fishermen can earn in a rent-free existence, but rather the minimum that will keep them alive.
+## Should the book be presented as authored or edited?
 
-**Capital**
+The book should be presented as authored by several co-authors.
 
-Let's say that Robinson sets aside some of his wages not to live but to invest for the future. He works for a bit and then creates some rabbit traps. He has to invest his time in the traps but after making the traps, his productivity is doubled from 1 rabbit per hour to two; or from 8 rabbits per day to 16. 
+## What format should it be in to suit the target market and be cost-effective?
 
-It takes him one day to build the traps. The traps double his daily productivity to 16 rabbits per day: it increases his productivity by 8 rabbits. And the traps, when in use  themselves last 10 working days (80 hours) before they have to be completely replaced. 
+The book should be a paperback - mass market (A) or trade (B)
 
-Does this investment make sense? Let's work it out. Basically there's an investment of 8 hours of time, and this leads to 8 extra rabits per day for 10 days, in other words 80 extra rabbits. I give up 8 rabbits in the day to construct my trap, and I get back 80 rabbits. Let's say that I borrow the resources to make the traps, so I borrow 8 rabbits to pay the rent and feed myself the day I make the traps.
+## How will you reach international markets?
 
-Thus my profit is 72 rabbits (assuming I continue to work a full day) per 10 day cycle, just over 7 rabbits profit per day, once the cost of my investment is taken into account.
+Our book is aimed towards a domestic audience, though it covers issues which are of interest internationally.  Our priority, however, is to reach a domestic audience as far as possible.
 
-At last Robinson Crusoe is happy! He is a great believer in hard work. He is working full days to pay the rent. He will continue to work full days. He can invest his time and create the traps and then after having paid back the time invested, there will be a surplus too! He can sell the spare rabbits to passing trades people or to Man Friday. And he can build up assets.
+## What copyright and permissions issues might there be?
 
-We are assuming that Crusoe has some financial buffer, some wealth to tide him over for the day that he is building his trap and therefore not hunting. If rent is payable daily, he  might be able to delay paying rent, he might be able to borrow some rabbits or other resources to pay rent, or he might invest his own stock of wealth until the investment pays back. 
+There may be issues over image copyright for the use of cartoons, graphs and photographs which are in the book.  Those issues are currently being worked through.
 
-So everything is going swimmingly well, he invests the time and he makes a surplus and soon enough he's selling the spare rabbits to passing trades people and building up a store of value. 
+## How should the book be priced?
 
-But there's a catch. Friday comes round, observes what is going on. He takes some photos. And soon enough some adverts go up in the Archipelago Gazette, the local newspaper for the islands. It's only with a passing ship that Crusoe sees them. The adverts say the following: make a fortune hunting rabbits! Earn 16 rabbits per day. He also reads the small print: requires 8 rabbits investment to make traps. Rent: 14 rabbits per day.
+The price should be comparable to similar books in the field - approximately £10 as a paperback.
 
-14 Rabbits! He's only paying 7 at the moment! What's coming? Sure enough there are some visitors at the island and they come around, friendly enough. The next day Man Friday invites Crusoe round for dinner again.... "About the rent"... he says. "I know you are enjoying staying here". He continues. " But the market is changing. Market rents are going up. I had an offer the other day for someone to pay double what you are paying. Of course, I prefer to go with you so I won't chuck you out as long as you pay what the market is saying. It's only 16 rabbits per day. You still make a healthy 2 rabbits profit (actually one after paying for your investments but let's skip that).
+# About RTW Project/Team
 
-Note that it seems that *property* is the fundamental problem here. That is true. But as we will see, abolishing property causes its own problems....
+## Who We Are
 
-## IV-3 Overhunting on Open Access Island
+- The team behind the Revolutionising Taxation &amp; Welfare Project was founded by engineering entrepreneur Gordon Styles and economist Stephen Stretton to take a fresh look at the UK tax and welfare system and the roles it plays in our society.
+- Gordon had written to the Financial Times in early 2007 warning of an impending crash and had been dismissed out of hand for being too negative. In 2012 he published a 10 point plan in the Financial Times to promote a recovery in the UK economy; as expected he was derided by most that explicitly commented on it. Fortunately he met a number of like-minded people and this led in turn to writing a book that would propose a much more detailed plan for the regeneration of the UK economy.
+- The founders are aided in this independent project by a core team of researchers and writers, plus a growing circle of expert advisors and collaborators.
 
-Let's now imagine another island. On this island there is no property rights. Anyone can hunt for rabbits anywhere. And like the island just mentioned, there is no landowner! Everyone comes to the island. 
+## Our Vision
 
-In the beginning, everyone was happy. Wages, 8 rabbits per day, or one per hour, made everyone happy. The problem this time was that too many people came. Since land was not owned by anyone, everyone hunted the rabbits, and in the end too many rabbits were taken from the natural environment. 
+- It has now become clear that current system has many shortcomings that we believe can only be addressed through bold but pragmatic redesign and well-considered policy.
+- We believe a reformed tax and welfare system could be instrumental in meeting a raft of social and economic issues faced by the UK and the world, including through adapting to new opportunities arising from the changing policy context of Brexit, and navigating global challenges such as climate change, existential risk and international tax avoidance.
+- These policies would become part of a shift from a debt-led basis of economic growth to national wealth generation based on exports and investment in the real economy.
+- The Beveridge report was the foundation of the modern welfare state, with the aim to solve the problems of squalor, ignorance want, idleness and disease. We are overdue to review how we have progressed since, and to propose policy solutions to resolve our current and future challenges.
 
-Because everyone cared for themselves and not for other people many more people came to the island. And those people started to deplete the common pool of rabbits on which everyone relied.
+## The Project
 
-One person hunting for rabbits depletes the stock of rabbits that everyone relies on.  There is an ecological collapse. Soon there are many fewer rabbits left. People start to have less food to eat. Those that can, leave.
+- The aim of our project is to propose a simpler and more effective tax and welfare system for the UK, formalised in a book to be launched on April 6th 2017.  The book is intended to be a living, breathing resource that will be updated, rewritten and republished on April 6th each year.  We intend that over time this ongoing project will attract more and more contributors and writers and hopefully one day live a life completely of its own.
+- We are formulating key proposals for a reformed system that would address many of the issues with the status quo and provide a fairer and more effective tax and welfare structure with a wide range of social and economic benefits. Although this is a UK-centred project, the hope is that both the principles of effective design and the core policy proposals will have a high degree of international transferability. Our end-goal is to release a book in 2017 that lays out the problems and presents a series of solutions.
 
-Whereas on the island with private property, people are poor, but there's no mismanagement. People do work too hard however!
+## Our View
 
-## IV-4 Inequality on Special Island
+- Our contention is that the current tax system fails to distinguish between productive, unproductive and destructive activities. We argue that taxing unproductive private wealth can reduce economic instability and inequality. We also support the taxation of activities that cause harm to the environment or human health.
+- These introductions would allow government to cut taxes on productive activities such as labour and investment, whilst distinguishing placements and monopoly rights from real investment, meaning we could focus on building a stronger economy and a fairer society.
+- The welfare system is also very complex and often frustrating. Benefits are distributed on inconsistent bases and there is stigma associated with claiming them. The system is not effective at helping people into work.
 
-Let's say now that hunters vary significantly in their skill level. There's still a limited quantity of land, and a limited quantity of rabbits. It's just that some people are much better than others. If there had been unlimited rabbits or unlimited land, this doesn't seem to be much of a problem. But if there's limitations it seems to be more of an issue. The successful hunters increase the price of land, and they also pressure the rabbit population squeezing out more of the rabbits for themselves so there are fewer for others. The taxes we imposed do help a bit. They mean hunters need to get rich by hunting ability rather than by merely owning land. But in a limited environment, the good hunters don't just benefit from their own hunting, they also impact on the others. They raise the marginal price of land, and so make it more difficult for large families. And they hunt rabbits so that there is less to go around for the others. This justifies what we call progressive taxation.  Progressive taxation means taxing people that make more, more heavily.
+## Initial Ideas
 
-## IV-5 Economic Justice on Dream Island
+- We propose a suite of new taxes, including a land value tax, a tax on money balances, environmental and health-related taxes, and an additional suite of taxes on the super-rich individuals and corporations. We wish to see the income tax system significantly simplified.
+- We propose that the citizens of the UK should receive a per capita payment or &quot;Citizen'Dividend&quot;. Such a payment would allow us to simplify the welfare system, reduce bureaucracy and ensure everyone has a minimum level of income, while a guaranteed jobs scheme would mean that all who wish to find work can do so.
+- For more information, including an overview of our analysis of the existing system and our working proposals for reform, see our [position paper](http://www.rtaw.co.uk/Position%20Paper.pdf).
 
-What good are we aiming at? One of the islands on our archipelago is an island of our dreams. The fruit is bountiful, the water is clean, the people are happy. Everyone has a house or can build one with their own money. Fisheries and forests are managed well. Some people are richer than others, but the difference isn't huge, and the people are rich or high status are those that have contributed the most to society. The community collaborates to ensure that the political system is not corrupt and governs the society well, the citizens trade with other islands and each other. There is work for all, but no-one has to work very long hours. The financial system supports beneficial activities, for example clean power and a recharging system for electric cars. Financially, people are secure with investments in the local factory, which, whilst its mostly robotised, provides everyone with a dividend to spend on the products that it and other factories produce.
+## We Are Seeking Advice
 
-What has this fantasy island got to do with our life here and now, and in particular our taxation system? Tax, we claim, can encourage the private sector towards this heavenly state. And it is not only tax and the social security system which we propose to reform, but also some elements of the financial, education and pensions systems. We do not however consider these systems in full: that we must leave to others to consider.
+We have a working understanding of key issues and potential solutions, which is summarised in our precis below and explained more fully in our position paper, but we are very open to improvement. We are in the process of reaching out to experts to collaborate with us in developing pragmatic solutions to solve large, entrenched issues. We would be very interested to hear your ideas and perspectives to help us on our quest to imagine what a fairer and more effective tax system might look like.
 
-Now what can we say about tax on this island? Well, in simple terms, tax is fair and fairly simple and straightforward for everyone to understand. But the tax system in important ways, supports the rest of the economy, not only in how the revenue can be spent but also in the ways that the tax system creates the incentives for the economy to function correctly. The two main ways that the taxation system can be used are generally *redistributive* and *environmental taxes*.  We will get to our dream island again but let's go back to the other islands in our archipelago.
+Broadly, we need help to establish the following:
 
-**Getting to Dream Island**
+- What are the biggest issues that need to be tackled within the tax and welfare system and why?
+- How might these issues best be tackled?
+- What are the key criticisms that our suggested changes may face, and which ideas or areas for reform have we missed?
 
-Let's now work out our solutions to the problems that we have encountered. It's easiest to solve the problems before they get started: to set things up right from the start.
+## Specific Questions
 
-The first solution is a land value tax: a tax on rent. The landlord is taxed according to the surplus of each piece of land. He makes no money. There's no such thing as the landlord any more, really. Land becomes free to buy but the person that occupies it has to pay rent to the central authority.
+All comments, ideas and suggestions are welcome, but we are particularly seeking input in the following areas:
 
-What does the central authority do with the rabbits? There's two options: firstly the government could provide public services. Secondly, they could give the rabbits back to everyone, per person.
+1. 1)Principles of tax – In what ways do Adam Smith'four maxims need to be updated?
+2. 2)Modelling effects of policy proposals on key economic indicators using real-world data
+3. 3)Land Value Tax and Citizen'Dividend/Universal Basic Income
+4. 4)Carbon Tax &amp; Pigouvian levies; consumption taxes.
+5. 5)Health inequality &amp; fiscal possibilities
+6. 6)Identifying further socio-economic and fiscal issues that could be addressed by reform
 
-What about over-hunting? Well if rabbit hunting is a concern then a limited number of permits could be issued. Hunting rabbits could be constrained. Or put another way, a tax could be levied on hunting rabbits. 
+## How To Engage with Us
 
-On the propertied land, If the rabbits don't run freely between then it can be expected that the landowners/renters will themselves look after the rabbits on their own plots. Therefore a land value tax plus property solution with the taxes paying for service.
+- You can reach us by email at [engage@rtaw.co.uk](mailto:engage@rtaw.co.uk)
+- Our website is [rtaw.co.uk](http://www.rtaw.co.uk)
+- If you are interested in sharing expertise or otherwise collaborating to help us make the best possible recommendations, [we would love to hear from you](http://www.rtaw.co.uk/engage.html).
+- We also have various events that we'd like to get involved with, please get in touch if you are interested.
 
-Alternatively, if the rabbits do run freely between plots, there will need to be a solution that constrains hunting.
+## Book Names
 
-## IV-6 Appendix: Further Issues
+1. The Tax Toolkit
+2. The Rules of the Game
+3. The Good Tax
+4. Tax is our Friend
+5. Purposive Tax
+6. Justice By Tax
+7. Equitax
+8. Rent
+9. The Economy of Purpose
+10. Tax Heaven
 
-- Monopoly (could add to example earlier)
-- Urban Land and Urban Land Rent
+**Subheading (tbc): Transforming the future through taxation and welfare reform??**
 
-# V. THE ECONOMIC CAKE (Late draft)
+# 5K Summary
 
-In the last chapter we introduced an archipelago of islands and showed the different economic issues that come about. In this section we formalise these arguments in another way, in relation to the analogy of making a cake.
+## 1: Introduction
 
-To illustrate clearly the issues that our society faces, we often use the analogy of the economy as a cake. 
+The tax and social security system we have at the moment in the UK is not fit for purpose. The tax code is one of the longest in the world. Our social security system gives no-one respect, and creates a ‘welfare trap’, whilst being difficult and unpredictable to deal with. It doesn’t benefit the country or the world and it creates unnecessary costs for business and bureaucracy. We wish to reform the tax system based on a critique of the assumptions on which it is based, neoclassical economics.
 
-We can generally classify the big economic problems into six main groups:
+## 3: Enlightened Economics 
 
-1. How big is the cake? The questions of *growth*.
-2. How big a slice of the cake does each economic actor get? The problem of *distribution* of income and wealth between classes and individuals.
-3. From what is the cake made? The problem of *allocation* of real resources to make the economic cake.
-4. Does the cake as a whole rise to its full potential? -- The problem of achieving full employment and sufficient *demand*.
-5. How much can we charge for our cake slices? The *price of goods*.
-6. How much is the cake shop worth? The *price of assets*.
+### Who is the economy for? 
 
-Tax policy intersects all six of these issues. We want to design tax and welfare policy that leads to a successful economy in the long and in the short term, that allocates resources appropriately, and that leads to a just and appropriate distribution of income.
+At present it seems that there is a tendency for the economy to suit the super rich. We want to suggest that at route there needs to be a shift from an economy that favours specific groups to the following targets:  
 
-## V-1 Growth: How big is the cake?
+1. The population in general, and particularly those who provide collective benefits 
+2. The local community
+3. The UK, and specifically its overall net wealth position
+4. The world, and particularly the critical environmental and other risks faced.
 
-Growth is the problem of 'how big' the economy is, how much wealth and prosperity there is. First we have to define the problem. What should we measure? Francois Quesnay defined the 'tableau economique' which was the originator of the modern concept of Gross Domestic Product, which is the total value of goods and services produced in an economy. We will stick to real income as a measure of economic success, following Adam Smith in his Wealth of Nations, perhaps the first systematic approach to working out what makes the economic pie bigger. Whilst Smith's perspective (and that of growth theory generally) is about increasing the income of an economy, we might also consider the question of the stock of wealth in an economy. By wealth in this context, we don't just mean financial claims, but rather the wealth of the whole country or world. 
+### Public Value Creation
 
-There are, broadly, three proposed solutions to the problem of growth: accumulation, division of labour, and capability more generally.
+Economists often talk of private value. That is the benefit generated by someone  producing goods and services; and the benefit the consumer receives from buying them. Economists also speak of 'public goods' as those which have various characteristics. The first is that we can't avoid consuming them for better or worse. Often also, our consumption of them does not preclude others from doing so (they are non-exclusive). Some goods have neither of these characteristics, yet are still provided publicly. For example in the case of health care it could be argued:  
 
-Growth can be driven by accumulation: more capital; more people (population growth); or more nature ie the extraction of more material energy or other materials from the earth. In each of these cases, we are explaining more 'output' from more 'input'. How much of economic growth can be explained by more input? Solow defined his famous growth model where he considered how much of economic growth could be explained by capital and labour accumulation. His result: accumulation could only explain a small amount of economic growth. He named the residual 'technology'; but in fact this residual consists of a number of factors which we now consider.
+- That the profit motive would have detrimental effects on overmedicating rich people and under medicating the poor  
+- That it is a mark of civilisation that basic health care is provided for all     and  
+- - That publicly provided health care is cost-effective.  All these reasons provide justification for public goods to be created and shared. Taxation is a way of funding those public goods.  Tax and spend is not the only way of providing public goods. Charities, civic society, individuals and culture can all provide public goods. And the provision of private goods and services as whole can also be seen as a public good. For example, a locality where there are lots of easily available shops and other services, is a sort of public good, because those private goods assist each other.
 
-Adam Smith made  use of the principle of division of labour in his Wealth of Nations [@smith1776wealth]. By dividing up the manufacture of pins into many steps, each step could be more productive. Smith's competitive approach could be contrasted with earlier Arab economist Ibn Khaldun, considered the division of labour as a way for cooperation to enhance the goods provided in a society  [@Olah2018]. Division of labour makes each step of the production process more efficient, requiring less labour for a given level of output. 
+### Reforming Economics: Time, Space and Life
 
-Whilst a 'labour theory of value' cannot explain all the differences in prices between goods, labour is generally the most important element in the prices of goods. As Samuelson, quoted in Blaug [@blaug1997economic] puts it "The operational significance of a one factor model is the importance it gives to technology". Translating this into simple English, as labour is the most important factor, using less of it can raise real incomes. When we divide labour, we increase efficiency. Two people doing separate parts of a more finely divided production process is more efficient than one person doing both tasks. We can also say, therefore, following Smith, that increasing the *size* of a market can also increase wealth, because a larger market, with lower transportation and exchange costs, can divide labour more finely. This is also an argument for free trade.
+What's wrong with economics as taught these days in universities? Clearly, a
+lot. Here we focus on three aspects: time, space and life.
 
-We can also say that technology is a public good, created by R&D and science. Finally, we should talk about capability more generally. Charles Babbage argued that the economic success of a society was dependent on a 'capability triad': production capabilities, business organisation and economic governance [@Hilton2017]. Therefore success requires a certain amount of activism by government: to promote capability in industry, good management and good governance.
+Time is important because much economic activity is about storing value for the future. In simple terms, an individual stores financial assets (such as money) in a bank and the economic system apply these funds in investment opportunities that ensures that society as a whole increases its stock of wealth. That's the theory anyhow. One important factor in economics is ensuring that all this works effectively.
 
-**Implications for the Tax and Welfare System**
+Space is important for two reasons. Firstly, each square metre of earth's surface is unique, it cannot be replicated. Thus ownership of such a piece of land represents a monopoly, in that it cannot be replicated.Secondly, we all share in space. This means we all share in generating public goods in the space around us, including those created by the public and private sectors. There are also public bads in the space around us, such as pollution.
 
-What are the implications of all this for taxation policy? Smith himself argued that a good tax system should minimise the discouragement that a tax causes to economic activity.
+Time and space interact with real estate. Since land is an infinitely lived monopoly (each piece of earth’s surface is unique and lasts for practical purpose forever), it has special features in times of low interest rates. In order words, land is a long-lived asset and it becomes very valuable in low-interest rate environments, as we've seen following the financial crisis.
 
-We can say ourselves the following things:
+Life is the third class of missing elements to economics. Living systems are fundamentally different from non-living systems. Living systems are typically in a state of homeostasis, rather than equilibrium. This is a steady state which requires active maintenance and energy input.  
+For example,it takes energy to maintain a constant body temperature of 36.7 Celsius. Biological systems also require certain environmental conditions and cannot exist beyond certain ecological limits. Ecological economics considers that human economy is embedded in nature and it argues for a sustainable economy that would also exist in a steady state. [This section was unfinished but eludes to an ecological / steady state economics approach.
+<http://www.steadystate.org/discover/definition/>]
 
-1. Tax should minimise the barriers to division of labour; and should not discriminate in favour of companies over markets between individuals;
-2. Tax should encourage the accumumation of skill and physical capital investment^[this latter point is not uncontroversial given increasing automation, and depends on wide ownership of capital]
-3. Tax should encourage the development of capability.
+### Reforming the British economy 
 
-## V-2 Distribution: How big a slice does each person get?
+The British government does not have responsibility only for the security of the realm and for public services, but also for setting the British economy as a guide for others to follow? How well are we doing? Well, there are aspects that
+are going well, and those that are less well. Some aspects that are going less
+well include the trade position. Britain typically importsmore goods and
+services that it exports. It finances this by selling assets in the British
+economy: land and property, shares, money, government bonds. Is this
+sustainable?
 
-The final big question that we consider is that of distribution. Distribution typically refers classically to the distribution of the economic cake between those that own land (landowners), those that own companies or other non-land wealth (capitalists) and those that only own their own working time (labour). We covered this in Chapter 1.6, so we will only make a few more comments here.
+Furthermore, increases in the price of housing in particular do not correspond
+to an increase in housing itself. We have the most expensive railway system in
+Europe but is it the best quality? Much of the craft and beauty in the everyday
+life is that from the past; new things at least when they are permanent are
+often ugly. As I am writing this, I look out at housing of recent generations.
+None of it is is catastrophically ugly but it is all fairly uniform in style and
+it lacks a certain amount of personality.
 
-It is important to distinguish between justified and unjustified Wealth. Justified wealth consists in wealth that is derived from work, the creation of some product of value (or at least wanted) in society - the provision of goods and services. Unjustified wealth consists in effectively extracting the wealth of others. Such wealth is not acquired by the addition of anything valuable to the economy, but rather is gained from endowments or second-hand value creation. 
+We have a responsibility to ensure that time, place and living society each have
+their place in our economy. Time means that we build for the long term, not the
+short term. Combined with with space and land, we can ensure that we save enough
+to ensure our asset position improves as a country for the prosperity of life
+and living systems
 
-**Who Really Pays A Tax? Economic Incidence of Tax and Spending**
+### Economic corrections: Market Power and Externalities
 
-Another important aspect of distribution is who pays a tax. Taxes are not always paid by those who are the immediate tax payer. In general the theory of incidence suggests that taxes are paid by the most inflexible factor: e.g land, other monopolies.
+Our tax system can be improved considerably so long as we create a principled
+approach. It is one that considers and corrects two economic phenomena: market
+power and externalities. Market power suggests that some people get a higher
+economic return than the value they create because they ‘corner the market’.
+Externalities are that some economic agents damage others without paying for
+what they do. .
 
-But public spending also does not always benefit economically the initial recipient. If public services are shared over some area where high quality land is scarce, then it will be the landowner who benefits, not the direct individuals who are tenants. Whilst the advantages of living in an area may go up with better public services, if landlords can charge higher rents in so doing, then the benefit of increased spending may go on increased rent. The Henry George theorem states, that under certain conditions, the beneficiary of all public spending is the landowners. This effect can be seen in practice with a new railway link. In fact, in Hong Kong, new links on the metro are financed by purchase of land near new stations. This provides another justification for taxing the unearned increment on land value.
+## 4: Taxing Questions: Tax In Principle
 
-**Persistent Profit from Companies**
+Why tax at all? The simple answer is that tax is needed to pay for common
+services - it’s the compulsory component of that which we send to government.
+More broadly, taxes also have a macroeconomic basis, they can stabilise the
+economy, and they validate the money we use.
 
-We have already discussed land in some detail. But we should also consider taxing other forms of profit, from companies. Some situations are natural monopolies; others are government created types of monopoly, and finally the dynamics of some production and sales processes naturally favours larger firms.
+Do we need to tax at all? Why? On some level it's obvious: of course if we want
+to benefit from government spendings we need to tax. But that misses another
+option: we could borrow or print the money. In some sense, if some agents are
+saving, others are borrowing. What determines the correct proportion of taxing
+as opposed to borrowing and printing? We'll deal with this inthe section when
+we consider what is money and under finance and financial repression. For now we
+keep things simple: we need to tax roughly as much as the government spends.
+There could be a fiscal deficit, but it should be of moderate level in normal
+times.
 
-All situations where an individual or company has some non-replicable advantage can make something similar to rent. Profits can be competed away, rents are permanent. So we sometimes see the phrase 'rent' used in other situations than land, to mean the permanent component of profit. Warren Buffett makes this explicitly: he seeks companies that have a 'moat' to their 'castle', the castle being the profits made and the moat being the barriers to other companies competing away their profit. 
+Taxes are needed because there exist two classes of goods in society: private
+and public. Private goods are those that people can buy when they want. Public
+goods are those that benefit us all, like a secure country and public
+infrastructure. We need taxes to pay for public goods, which are typically
+inclusive of all people (like the air we breath we can’t prevent people from
+breathing it).
 
-Taxes on profits, especially persistent profits, therefore make a lot of sense. We need to find a way that these profits taxes can't be taxed away.  Finally some firms such as Amazon make a return without making profit at all, by capturing market share they force out the opposition creating a global form of monopoly. So we will need to find a way to tax corporate wealth independent of profit. We cover these these topics in Part 7 on Corporations and in our proposals (Part 12).
+Those goods are of value and useful for us. If society gets unbalanced, we can
+have too many private goods and not enough public goods. That is dangerous,
+because some public goods are essential for our system of government. Without
+that, society will get corroded. It will become increasingly oligarchic with the
+rich controlling the arms of government, or worse, the military industrial
+complex creating unnecessary wars in order to spend more money on defence and
+weapons.
 
-## V-3 Allocation: From What Should the Economic Cake Be Made?
+## 5: Tax in Practice
 
-Governments influence the allocation of economic activity two main ways:
+### Tackling tax avoidance
 
-- First, governments spend money, therefore directly allocating what is done. They can also lend themselves or direct lending of the financial sector.
-- Second, governments create the systems of tax and regulations which guide and directs the private sector.
+There are many ways to avoid tax in the current system. This is a product of the
+complexity of the system. A complex system has many loopholes and many ways to
+avoid tax. There are three groups that are particularly susceptible: small
+traders, big businesses, and the super rich. Each has their particular forms of
+tax avoidance and evasion from 'cash in hand' fraud, to the double Irish to
+offshore tax havens and 'non dom' status. In sum, the current system pretty much
+encourage those who are rich and savvy enough to minimise their tax bill, at a
+cost to everyone else.
 
-In both senses, it's important that public goods are taken into account.
+### International aspects and Brexit
 
-Economists often talk of value, by which they usually mean *private value*, which is the benefit generated by someone producing goods and services; and the benefit the consumer receives from buying them. Economists also speak of 'public goods' as those which have various characteristics. The first is that we can't avoid consuming them for better or worse. Also, consuming them does not preclude others from doing so (they are non-exclusive). Some public goods have neither of these characteristics, yet are still provided publicly.
+Tax is an international matter. Tax is subject to various international
+agreements, such as bilateral treaties and the taxation of dividends. In
+addition, if a country is a member of the EU or the European Economic Area, then
+there are further requirements specified by the World Trade Organisation. For
+example, taxes that discriminate against non-domestic production are prohibited.
+Existing well understood taxes (e.g. VAT and excise duties) are however not
+prohibited. Additionally, there are general reductions in tariffs that are
+agreed as part of trade liberalisation negotiations.
 
-All these reasons provide justification for public goods to be created and shared. Taxation is a way of funding those public goods. However, tax and spending is not the only way of providing public goods. Charities, civic society, individuals and culture can all provide public goods, and the provision of private goods and services as a whole can also be seen as a public good. For example, a locality where there are lots of easily available shops and other services is a kind of public good, because those private goods assist each other in benefiting the people who live there.
+Alongside our legal responsibilities, Britain is also constrained by other
+agreements and norms. Britain's closest trading partner is the 'rest of EU', and
+even with Brexit going ahead as planned, for reasons of geography, this will
+remain the closest trading relationship. Strong implications for taxes such as
+VAT will result. If our taxes are too different from our neighbours this may
+causes trouble.
 
-**Implications for the Tax and Welfare System**
+### Opportunities for Taxation Reform
 
-Creating the right incentives is key to influencing people to behave in a beneficial manner, and the tax system is largely a system of incentives and disincentives. Strangely, the current system incentivises activities we don't want and disincentives activities we do want. To improve people's choices, we have to change these incentives.  We should tax activities that are harmful to others or to the natural environment. This will both reduce/discourage the negative activity and make the actor 'internalise' the harm done by the activities. It will help create a fair playing field for less harmful competitors. There are two types of harmful activity which could be taxed:
+So what are our objectives for a reform of the tax and welfare system?
 
-- Activities that harm others or the environment: in these cases activities should either be banned (now or in a forward-looking sense) or taxed;
-- Activities that harm the individuals themselves such as smoking or excessive sugar and meat consumption: here we need to create a benevolent environment for the individual that does not encourage the harmful activities. This includes having the right incentives especially for the corporate sector (e.g. a sugar tax impacting the composition of breakfast cereals).
+We argue that there are options for improving our tax and welfare system in ways
+that lead to greater wealth, happiness, success and fewer problems. Those
+options are what we wish to explore here. In short we think that a good system
+is one that is concrete, not an 'honesty scheme', and that has much less evasion
+and avoidance. Furthermore we think that we should promote two fundamental
+economic ideas: first the tax system should tax externalities; second it should
+tax monopolies.
 
-## V-4 Demand: Does the cake rise to its full potential?
+First, we have to reduce the risk of oligarchy. What is oligarchy? It is 'rule
+by the few', specifically the rich. Why is this a problem? Well, the problem is
+that when the rich controls society, there is little that the rest of us can do.
+They can distort the tax code so that it suits their interests. This is a
+massive problem, for the majority.
 
-Tax and Welfare are important. They are the principal tools by which governments raise revenue to provide public goods and support the poor.  However, taxes must be justified on some basis, if they are to exist at all. The common answer is that tax is needed to pay for common services. 
+Another area where the tax system could be used to benefit society is the
+environment. Environmental taxes can help to ensure that the global environment
+is not damaged by our economic activities. Pollution is often considered a
+negative environmental externality. It's good for society to reduce these costs;
+taxing 'bads' helps to reduce them.
 
-More generally, taxes are needed because two classes of goods exist in society: private and public. Private goods are those provided by the market economy: i.e. by individuals and companies when acting in a commercial capacity. Public goods are those that benefit us all, like a secure country and public infrastructure. We need taxes to pay for and regulate public goods. The tax system is intended to raise revenue for the provision of public services. 
+At present the current benefit system involves various 'benefit traps' and
+'poverty traps'. A 'benefit trap' is a situation where it is better to stay on
+benefits than to take work, due to the perverse incentives built into the
+system. Because benefits are 'means tested', when you gain work, you often lose
+benefits. Furthermore, poor people are often trapped in cycles of dependency.
+They have low skills and don't have the time and money to invest in themselves
+to improve matters. There may be children involved and high childcare cost bring
+in another factor. Drugs or abusive relationships or crime are other factors.
+When all of this is taken into account, it results in a dysfunctional benefit
+system that is confusing,unwieldy, unpredictable, and does not support people
+into work.
 
-But this is not the only viewpoint on the primary purpose of taxation. 
+## 6: Politics: How Does Change Happen?
 
-**MMT** 
+### Principles of Transition & Political Feasibility
 
-Modern monetary theory (MMT) argues that the purpose of taxation is slightly different. The purpose of taxation according to MMT is to mop up money that is created by public spending. This is an unusual perspective because most people believe that the government needs to tax or borrow money before they can spend it. From the perspective of MMT by contrast, money is simply a collection of tokens acceptable in the payment of taxes and created by public spending in the first place. 
+This book deals with tax reform in two approaches. The first is a 'blank slate' approach: how we would definea tax and welfare system in an ideal world where both efficiency and fairness are achieved easily. The second approach takes into account issues of improvement and transition: what practical changes could be made now that would be seen as beneficial and fair?
 
-The purpose of taxation within MMT is to control inflation. If more money is issued than there is demand for, the value of that money will degrade relative to the real economy. This means, that even with an MMT perspective, there presumably needs to be some taxation. MMT supporters generally believe that the government can and should run a fiscal deficit but that this deficit is limited by the effect on inflation rather than some requirement for 'austerity' to keep the public debt down. 
+So what does political feasibility look like? Previously, we mentioned the idea of political realism and transitional justice. Changes must not seem both unfair and have obvious losers. Fairness will be often perceived to be a matter of \*transition\* as opposed to the sort of a perspective we might have when trying to create a tax system from a 'blank state' (as we do within this book).
 
-So, even proponents of MMT believe we need taxation. But taxation is not the only way to fund the government. There are many options, including fees for govt services, charging rent etc. But the usual options are taxation, issuing bonds, or printing money. On a basic level, we need to tax roughly as much as the government spends. There could be a fiscal deficit, but it should be of a moderate level in normal times.
+And how do we change a system like tax? The tax system seems to change through top down directives, through the intervention of the chancellor of the exchequer of the time. This approach means that the tax system often changes with the agenda of 'budget day' announcements. Of course, the secrecy around these
+announcements is to a degree necessary: if agents know how the tax system is going to change then they may be able to take steps to avoid the taxes. A better approach would be a strategic tax review; in the same way that there is a strategic defence review.
 
-**Fiscal Deficits**
+Any discussion of taxation and welfare needs to consider \*political realism\*. What is political realism? It's recognising that some policies are politically easier to implement than others. In the context of taxation and welfare, we need to consider \*transitional justice\* and in particular not making any major
+groups worse off (except those that had previously benefited unfairly). So for example, it might be argued that a 100% land value tax is appropriate in certain locations, but to impose such a tax immediately would be unfair on those people who had just bought a house in the last year in a high land value area.
 
-The MMT perspective is similar to thar of 'functional finance' as described by Abba Lerner. According to this perspective, the purpose of the government deficit is to keep the economy running at full capacity [@Lerner1943]. Government debt will take care care of itself as long as the economy is growing. This is a perspective born out by the post-war experience. (See part 10)
+### Discussion of transition to new system
 
-What we are dealing with here is the problem of the correct amount of (effective) demand. Effective demand is really the amount of spending power that agents have in the economy. The government can influence this in two ways: through fiscal and monetary policy. Fiscal policy is the overall budget balance of the government. When governments borrow more than they spend, this increases the budget deficit, which also increases the spending power of those in the economy. 
+Transition to the new system needs to account for a number of effects. First the transition must be simple to understand. Second the transition should be fair. Third the transition should be seen to be beneficial in the short term as well as the long term.
 
-Monetary policy involves changes to interest rates, which effects asset values. It also effects the exchange rate. In low-interest rate environments, fiscal policy is particularly effective and monetary policy less so ('pushing on a string' in Keynes's vivid phrase).
+Asset value effects are important in this. It is important, both from the perspective of fairness and from the perspective of economic benefit. Both asset value rises and falls are arguably unfair. Asset value rises are unfair because the people who receive these rises have not necessarily deserved it. And likewise for asset value falls. Both can be adapted by government policy. For example, two major government policies: not revaluing Council tax and reductions
+in long term interest rates have caused house price increases.
 
-Thus these two forms of macroeconomic policy (fiscal policy and monetary policy) can both be used to help guide the economy, and solve the short term problem of effective demand i.e., 'how much does the cake rise'.
+### Making Change Happen
 
-Our goal here is not to discuss fiscal policy specifically: we assume here that the overall fiscal balance (the difference between spending and taxation) will be determined correctly. Our scope here is the long term matter of *how* to tax, not the short term matter of *how much* to tax.
+So what would it take to make change happen? A clear sense of fairness, proposals that people could rally around, an opportunity and people ready to take advantage of this opportunity when it does arise. There's an old phase:'you can take a horse to water but you can't make it drink'. It's equally true that a horse can be thirsty but not know or be able to reach somewhere to drink.
 
-**Implications for the Tax and Welfare System**
+This shows that we need a) political desire for change - a wrong that needs to be righted - that is shared by the decision maker - that's the desire to drink
 
-So what are the implications of the macroeconomics of effective demand for tax policy? Firstly, tax policy, in redistributing income and wealth, can increase effective demand and growth. Second, management of the public debt is vital and should be considered in more detail, both from a fiscal perspective and from the point of view of the effects of interest rates on other asset classes (and therefore the interaction with taxes in these areas). In short, low interest rates increase the asset prices in other areas, and that effect can be mitigated by taxes in these areas. So reducing interest rates can be combined with a land value tax and higher taxes on companies.
+- b) to get a plan for making a change to the decision maker - that's the   directing of the horse to water. In terms of directing public response -  communicating the change in a ways that people would understand.
 
-## V-5 Selling Cake Slices: The Price of Goods
+How do we create that narrative? Well, this book is a contribution to it. It's very important to build a narrative that works for different people in society and the different ways that they think about the world. These different ways of thinking about the world are captured well in Clare Graves' theory that human beings act on different 'levels' of consciousness. Each level shares a perspective on the world that is important.
 
-Modern economics as taught tends to consist at an elementary and intermediate level of the marginalist analysis of Alfred Marshall. (At an advanced level it also includes the more complicated and mathematic treatment of Leon Walras's 'General Equilibrium' analysis. Here we focus on partial equilibrium)
+## 7: Inequality, Income and Wealth
 
-What does this analysis consist of? And what is the relation to classical analysis? Let us consider John Stewart Mill's writing (as mentioned in Mark Blaug's book) because his theory shows that the later classical and neoclassical theory of price determination are equivalent. The classical theory is in some sense just bringing out special cases of the neoclassical theory. But those special cases are important. They are the distinctions that really make a difference.
+Income tax and the related National Insurance contributions form the largest part of our tax system. They collect the most money, around 40% of total revenue.
 
-OK, so let's first describe the neoclassical (Marshallian) theory. he neoclassical theory is very simple to describe: price is set at the intersection between supply and demand. 
+Income tax is an extremely cost effective tax in that it raises a lot of money
+and also does a lot of redistribution at low administrative cost.
 
-As the price goes up, the amount demanded will, in general, fall. It goes down because fewer people are willing to pay.
+There are two separate systems for Income tax: pay as you earn (PAYE) and self assessment. In the PAYE system, tax is deducted from each person at source using a tax code which represents the proportion of tax that should be deducted. In the self assessment system, it is deducted at the end of the year. It's possible
+to use both systems in a combined way. For example, one's employment income is taxed at source and then adjustments are made at the end of the year. Note that PAYE is an 'invisible' system (you might not notice the tax as it is deducted before the pay reaches you), whereas self assessment is visible and payments on account take place quarterly (check).
 
-The supply curve represents the amount of a particular good that will be supplied by firms at different price levels. So as the price of the good increases, it is in general assumed that there will be more firms able and willing to supply the good, and more of that good can be supplied.
+## 8: Welfare and Work: Citizens Dividend; Guaranteed Work and Training
 
-**Classical Theory in Neoclassical terms**
+We propose for a citizen's dividend in conjunction with environmental taxation.A basic income is a payment made to every citizen in a society. It would be dependent only on citizenship and age. There is much discussion of how to finance a basic income. Our opinion here is that a basic income can be funded
+in the following ways:
 
-The classical theorists also had a theory of price and they focussed mostly on the supply side of the coin. Mill suggests three separate possible outcomes: the first when supply is in inelastic, the second when there's a completely competitive market and finally the last, when there's some diminishing returns, i.e. that the cost of production increases when the amount required increases.
+- First, environmental taxes. Environmental taxes beat income taxes because   they are paid by all, independent as to whether that person is working or   not. So they are ideal taxes to fund a citizen's dividend.
+- Second, the 'tax and dividend' model [ADD TO THIS] has been promoted by a   few, especially in the United States. New migrants could contribute by doing   social goods that improve the local environment. [WORK AND TRAINING MODEL]
+- Third, a sovereign wealth fund. The state can buy assets that yield a  return, for example equities. The dividends could then be returned to  individuals as a dividend. Individuals could contribute to this 'ongoing   pension fund' as they work, ie some of the tax paid would get assets in   return. This would also give a way for migrants to buy in, through the   normal tax system.
 
-The first case is the easiest. Imagine there is a completely fixed supply of something. For example, there's some plot of land in a desirable location. None of the locations around it are quite the same, and in any case, they are in limited supply also. Since the supply is fixed, the demand for that land is determined by the price that the market is willing to pay, and not by any cost of production (since there is no production: it's fixed in supply)
+## 9: Corporate Profit (Corporation Tax), VAT 
 
-The second case is also straightforward. Imagine that there is a product that has a fixed cost of production and is made by a large number of competitive producers.
+Corporation tax is the tax on the profits from companies. Profits are the remainder of revenue after deduction of all costs, including wages.
 
-The final case is of diminishing returns. Imagine that there's some good, let's say oil, that is easy to produce in some places (say Saudi Arabia), but hard to produce in others (deep water drilling and oil shale). In the easy places, the cost of production is low, in the hard places the cost of production is high. In this case, the price of the good will be determined by the cost of production of the marginal producer, which is in turn determined by the demand schedule.
+A limited company is a legal structure set up for business activities (broadly construed). It's possible to conduct business activities without a company, and it's also possible that the legal structure of a company is used for such activities which are not really business (e.g. redefining wages as profit by 'contracting').
 
-So the price of oil is determined by the cost of producing a marginal extra barrel of the market-demanded amount of oil. Of course the market demanded price of oil is itself dependent on price. That's why we intersect the demand and supply curve to see what's the price of oil. [Maybe change the above to grain instead??]
+Companies can be seen to be the agents of their owners. Ownership can be concentrated or distributed. In general, wealth has become increasingly concentrated of late, meaning that a smaller proportion of people control a large portion of the wealth/capital in the economy.
 
-**Implications for Oil**
+The concentration of economic activity is important as it carries implications for market power. Some industries e.g. construction have a large number of small firms; others e.g. aircraft manufacture a small number of large firms. In this book, we are interested in the degree of market power, because this determines the return that can be made by its owners. Corporation tax levied with consideration to market power is important because it returns commensurate funds to the government, funding public circles, and closing the loop of social investment that could have helped the companies in the first place.
 
-Imagine we had a closed economy with a single government. The oil market shows the two types of taxes that could be imposed. A land value tax would be a tax on the surplus profit from owning some piece of land when oil is on. It does not shift the point of intersection but rather merely taxes the net profit of producing oil.
+## 10: Land & Property
 
-## V-6 Selling Cake Shops: The Price of Assets
+Economics as taught makes little of the difference between land and capital goods. Despite both being significant stores of wealth, the economics of land is special, because land (in a specific place) is fixed in supply. This means that as the price goes up, there is no process for finding more land in a particular place.
 
-Now we mentioned that ownership of land gives rise to a surplus. But what about the value of the land? What would that be? We can consider therefore ownership of land as conferring that surplus. What should the value of that set of surplus flows be?
+Land tax also is a matter of positive externalities. That is, there are
+buildings that really add to local land value. So for example, a traditional pub adds more to the area than a shopping arcade with a fast food outlet. This is harder to measure than the benefit received by the land from others.
 
-One method for analysing this is known as discounted cashflow analysis. This computes the value of a set of cashflows according to interest rates seen in the economy. So for example the value of a piece of land that pays £5000 per annum might be computed as 5000/r, where r is the long term interest rate. So for an interest rate of 0.05, the total value would be 5000/0.05 or £100,000. At a lower interest rate of 0.02, the value wold be 250,000.
+Economists (for example, Martin Wolf -see youtube) present three general arguments for the economic advantages of a land tax:
 
-What about if the value increases in time? Let's say that the rent goes up by 1% per year. In this case, the formula again wold be very simple a/(r-g) where g is the growth rate and r is the long term interest rate
+- First it is efficient: LVT does not distort the economy. Because LVT only affects the price of land and not the amount in supply, it is an extremely efficient tax.
+- Second, it encourages local municipalities to develop their local areas. If LVT is used as a local tax, this means that as the land is developed and local infrastructure is enhanced, local authorities should get a return from that development.
+- Third, it will encourage efficient use of land. This means that 'land
+  banking' will no longer be economically optimal. It should force overseas owners of property to sell or to instead invest in the 'real' economy.
 
-## V-7 Beyond the Cake: A New Economics
+It should be noted that these three effects are actually different, and on the face of it, slightly conflicting. So the core efficiency idea is that land is
+fixed in supply and so taxing it (from the perspective of profit maximisation, has no effect on land use). Whereas point three takes a different perspective: a land tax is better than efficient.
 
-In order to understand why the system is working the way it is, we need to take a look at the the tool-kit used to build it: mainstream neoclassical economics. 
+Similarly, the local benefit might conflict with the efficient tax. There's a
+geographical issue - should the tax go to the locality or to the nation state? Georgist theory provide some insights into this issue. In particular Georgist doctrine separates the 'land value' from the value of improvements to the land. If we define a certain baseline, we can say that a municipality should get the value of any improvements. So some effort should be made to distinguish between improvements associated with the municipality. In practice, once a suitable baseline has been established, future increase in land value tax would go to the municipality.
 
-Mainstream economics treats the world as being full of rational people, all looking to best maximise their own personal utility. This utility maximising tendency is the engine behind the flows of demand and supply that interact in efficient markets and influence price levels that then help distribute scarce goods in a  manner. However, people are not always rational, and markets are not always efficient. 
+Does total land value depend on plot size? Land value is what is left when a bomb hits the building. But there are different land values according to how big the bomb is. The value of a small plot of land depends on the value of the land around it. So if more of the buildings around a plot are removed, the value would fall. This could be illustrated by the rise in land value following the
+creation of supermarkets.
 
-What does that mean for this brand of economics then? Clearly, a lot is missing.
+Council tax in the UK is highly outdated. The valuation on which it is based were last updated in 1991, sixteen years ago. Different parts of the country have radically different tax rates as a portion of property value. Empty properties are not taxed. This combination of features increases house price volatility. In general, it is also very unfair and does nothing to reduce the differences in house prices between different parts of the UK.
+The Barnett formula describes the level of public spending and block grants made from central governments to local governments. Land value tax provides a useful way to reform this formula. The level of taxes and government spending allocated to each municipality would be determined according to the land value of the area minus the population living there, multiplied by some constant factor.
 
-Here we highlight three missing aspects: time, space and life.
+## Proposals
+We propose a council tax replacement with the following characteristics. It would be assessed regularly, rather than based on outdated valuations. It would be based on land value for first homes owned by UK residents (i.e.. total property value less assessed bricks and mortar replacement value). Total property value for other classes of residential property (second homes, investment properties) would be treated differently, along with commercial properties, which would be taxed purely on a land value tax basis. Since the current rates of council tax are lower than those of business rates, a certain amount of convergence over time would be necessary. This alone might be sufficient to stabilise house
+prices. 
 
-## Time
+A land value stabilisation tax would put in the hands of the central bank an additional tool to ensure house price stability in nominal terms (and
+mean-reverting house prices in real terms). So the objective might be 0% capital growth or 2% total return on property in general. The advantage of this is that it sends a clear signal to other market participants that one cannot make money off property. If you want o make a real return, invest in the real economy.
 
-Time is important because much economic activity is about storing value for the future. An example in simple terms would be when an individual stores financial assets (such as money) in a bank and the economic system grows these funds in investment opportunities and ensures that society, as a whole, increases its stock of wealth. That's the theory anyhow. One important factor in economics is ensuring that all this works effectively.
+One place that land value tax could be really helpful is in replacing mortgages. Mortgages have a number of undesirable characteristics. They pump up the value of property, making it hard for people to borrow. They also make the economic system more financially fragile, that is, they make the economic system very sensitive to interest rate changes. Land value mortgages is a combination of monetary reform with tax reform. The basic idea is that the central bank 'prints' money - it extends credit - to individuals in exchange for payments that are linked to the land value rent on a property. In this way, the system is deleveraged, and the government gets a good source of revenue.
+Combined with a council tax replacement, we suggest capability to borrow
+directly from the Central Bank. This would take the form of sale and leaseback of a stake in the land underlying your house. You would essentially pay a all 100% land value tax (or government rent) on that portion of your land that had been sold off. This arrangement would be able to replace mortgages. You would pay off mortgage to selling the land to government. Over time, this rent would then be indexed to assessed local land values. This scheme has a number of advantages. It allows people to opt into a land value tax, eliminating indebtedness at the same time as encouraging land value tax payments. It is optional, and thus does not compel people to pay very high taxes. It also gives people the capability to delay payments of other taxes such as the council tax payments just mentioned. This means that whilst the taxes on property could  increase, the cash payment would not, because individuals could delay payments until they sell the house.
 
-## Space
+## 12: Environment
 
-Space is important for two reasons. Firstly, each square metre of earth's surface is unique. It cannot be replicated. Thus, ownership of such a piece of land represents a monopoly in that it cannot be replicated.  Secondly, we all share in space. This means we all share in generating public goods in the space around us. This includes those created by the public and private sectors. We also share in creating public bads in the space around us, such as pollution.
+Taxes are critical to the environment too. Environmental taxes allow the market economy to solve the collective problems, easily, efficiently and without hassle. They work by creating the incentives to favour the things that we want over the things we don't want. For example the minimum charge on plastic bags has reduced significantly the number of plastic bags used, and therefore resource use and rubbish creation. Congestion charges ration road space and so free up the road and make traffic run more easily.
 
-Time and space interact with real estate. Since land is an infinitely lived monopoly (each piece of earth's surface is unique and lasts forever, for all practical purposes anyway), it has special features in terms of low interest rates. In other words, land is a long-lived asset and it becomes very valuable in low-interest rate environments. This was demonstrated in the follow up to the financial crisis.
+Similarly, a carbon tax can reduce the consumption of energy and encourage forms of energy consumption that don't burn fossil fuels. It does so by rationing
+fossil fuels based on carbon content. Almost all of the carbon in fossil fuels
+that are burnt ends up being put into the atmosphere as CO2. That which does not fully combust is even more damaging. And even carbon that is used from fossil fuels for purposes other than combustion - primarily plastics but also lubricants - is arguably more damaging because of the potential for
+environmental pollution. Therefore, as a simplification, we can say that the
+damage cost of using fossil fuels is greater than the damage from the CO2 that the carbon embodied in the fossil fuels involves. Therefore a carbon tax has a significant role to play in tax reform.
 
-## Living Systems
+Taxes and tax incentives could also be useful in health. Food taxes for example (say a sugar tax) are useful in three principle ways:
 
-Life is the third class of elements missing in mainstream economic thought. Living systems are fundamentally different from non-living systems. Living systems are typically in a state of homeostasis rather than equilibrium. This is a steady state which requires active maintenance and energy input.  For example,  it takes energy to maintain a constant body temperature of 36.7 Celsius. Biological systems also require certain environmental conditions and cannot exist beyond certain ecological limits. Ecological economics considers that human economy is embedded in nature and it argues for a sustainable economy that would also exist in a steady state ^[This alludes to an ecological / steady state economics approach. See: http://www.steadystate.org/discover/definition/]. So life is not only a crucial element to our planet that we need to preserve, but also a rich set of understandings of the fundamental nature of things. So just like 19th century and 20th century economics often uses analogies from the physical and engineering worlds, we need a new set of understandings based on the nature of life itself.
+- Firstly, they alter producer behaviour, for example the composition of   breakfast cereals.
+- Second they could influence distribution behaviour, in particular the   relative availability of fast food
+- Third, they could influence consumer behaviour: if sugary coca-cola is more expensive than other drinks, then people might buy less of it.
 
-Human systems develop *capability*, and this capability is embodied in individuals, companies, networks and whole societies. Understanding capability both for private and public ends can allow us to progress further.
+The third of these mechanisms is typically what people think of when they talk ,about health taxes, but it could be argued that the other two are more important. Why? Because bad behaviours are often addictive behaviours and therefore not responsive to price; whereas producers are simply doing what
+maximise profit; and availability really influences day-to-day choices - one can only buy what is available in the shop, and what is visible and easily accessible will influence decisions. Henry George put it well when he said that the axiom of economic behaviour is that people will satisfy their desires with minimum effort. This has health implications if private companies \*create\* desire for purchase by making food more psychologically satisfying (but less physiologically satisfying). The process of satisfying wants at less cost usually involve higher calories, making people, in short, fat.
 
-# VI. TAX ECONOMICS ON THE SHOULDERS OF GIANTS
+## 13: Proposals and Modelling: economic and other effects
 
-## VI-1 Great Economists on Taxation
+We suggest: a land value tax, introduced incrementally; a new concept, land
+value mortgages; carbon tax funding a citizen’s dividend, a simple income tax system, and deductibility of income tax. Such a system would tackle our critical  issues such as housing, environmental impact, and inequality. By creating a more simple and targeted system, we can also tackle the avoidance and evasion that bedevils the system.
 
-So how should we apply economics to tax? Many economists have considered what an ideal tax system should look like and much has been written about how practically to implement these principles. Adam Smith is perhaps the most famous economist of them all. Smith's four axioms of taxation are that taxes should be convenient, objective, low cost both in terms of direct costs and the discouragement the cause to others, proportional to ability to pay. Smith [-@smith1776wealth, Book V, Chapter I] argued that:
+We model the proposals in a number of different ways. The most basic modelling
+is of the revenue raised and the demographic effect of our proposals. For the
+purpose of our discussion, we define a simplified set of changes:
 
-> "Good taxes meet four major criteria. They are (1) proportionate to incomes or abilities to pay (2) certain rather than arbitrary (3) payable at times and in ways convenient to the taxpayers and (4) cheap to administer and collect."
+- Switch of Council tax to land value tax: No revenue effect
+- Slow introduction of a land value tax: gradually more income over time.
+- Means testing through the tax rather than benefit system: some negative effects.
+- Environmental taxes plus citizen's dividend: no net revenue effect.
+- Simplification of income tax: some effects.
 
-We consider these canons of tax further in part 5 of this book. A tax on land rents is mentioned by Smith as amongst the optimal tax:
+## 14: Conclusion
 
-> "Both ground-rents and the ordinary rent of land are a species of revenue which the owner, in many cases, enjoys without any care or attention of his own. Though a part of this revenue should be taken from him in order to defray the expenses of the state, no discouragement will thereby be given to any sort of industry. The annual produce of the land and labour of the society, the real wealth of the great body of the people, might be the same after such a tax as before. Ground rents and the ordinary rent of land are, therefore, perhaps, the species of revenue which can best bear to have a peculiar tax upon them"
+We started with a sense of what we need a good system to be. Broadly it needs to
+be fair, effective and beneficial. We have defined the benefit that a tax system
+can give: it rations those things that are limited, prevents environmental bads
+and makes sure that persistent profits or high wages pay the contribution to the
+society. In short, the tax system is vital for tackling our urgent problems.
 
-David Ricardo [-@ricardo1821principles], Henry George [-@George1879], John Stewart Mill [-@mill1848principles], and Alfred Marshall [-@marshall1890principles] have also argued for the advantages of taxing land rent. Frank Ramsey [-@Ramsey1927] extended the argument to commodities in general, developing a formula for optimal taxation such that those commodities most inelastic in supply or in demand should be taxed the most. 
+# Thought Toolkits
 
-Meanwhile Arthur Cecil Pigou [-@Pigou1924] developed the idea of taxing externalities - situations, as pollution, when an economic activity damages others not involved in a transaction. Keynes's Polish contemporary Kalecki argued that taxation of wealth would increase effective demand and therefore economic growth without stifling incentives [@Kalecki1937]. And more recently Piketty [-@Piketty2014a] has shown the consequences for the growth in inequality if wealth and high income are not sufficiently taxed.
+## Economics Toolkit
 
-There have also been a number of comprehensive reports into practical taxation. In the UK there was the Meade Review into direct taxation [@Meade1977] and the Mirrlees Review into taxation in general [@Mirrlees2010d], [@Mirrlees2011]. There have also been similar reviews in Canada [@Carter1966], the United States [@Bradford1977] and, more recently, in Australia [@Henry2010] and New Zealand [@evans2011reflections].
+- The Law of rent
+- The Law of wages
+- Open Access Common Pool Resources
+- Finding a balance
+- Exchange and Accumulation
+- Division of Labour: Economic and Political
+- Relevance of these ideas to now
+- The Price of Goods
+- Bringing it all together with Oil
+- Interest Rates and the Price of Assets
+- Reforming Econ
+  - Time
+  - Space
+  - Time
 
-Standing on the shoulders of these giants, we argue for two general principles. First, that the allocation of capital needs to account for costs and benefits to society as a whole, rather than just private profit within the system of property rights that we have at present. Second, that the ownership of assets and the return from the ownership of assets needs to be distributed widely. 
+## Political Toolkit
 
-Turning more specifically to tax, economists would say that we should tax *externalities* and *economic rent*. In simple language, if an individual or company pollutes the environment, they should be prosecuted or should pay a tax. Landlords put up rent as wages grow and should also be subject to higher taxation. Finally, as companies get bigger and bigger, they often can set high prices and cut costs at the same time, buying up or forcing out the competition and gaining market power at the cost of everyday people. This is a further possible base for tax.
+### The Change Equation
 
-## VI-2 A Tripartite Framework for Taxes
+The first concept that we add into the mix is the change equation. The change equation shows that . The change equation was posited by [WHO???]
 
-What are taxes really for? What makes a good tax system? Is there such a thing? These questions remain unexplored for many people for whom taxes are just an inevitability, a necessary evil, and a yearly burden. As the old saying goes - there is nothing so certain in life as death and taxes.
+### Differing Perspectives
 
-There are those, of course, for whom the very concept of tax raises strong passions. Staunch libertarians claim that taxation is the blatant theft of private property, while social democrats often consider taxation to be a moral matter in the redressing of the unfairness of the free market. Emotions can therefore run high in debates on the purposes of taxation, and there often appears to be little common ground. This can make discussions of the philosophical basis of taxation somewhat difficult. But it is into this fraught debate that we are attempting to venture, with a hope to outline principles on which all (or most) will agree.
+Clare Graves in his paper described the differing perspectives of different members of the community.
 
-So if we assume, for now, that taxes are a necessary evil, then we must establish some guiding principles on how they should be applied. As our starting point, we have chosen three core characteristics which we suggest that all and every tax should possess. Taxes should be *beneficial*, *practical* and *fair*.
+Climat change will be fixed by level 7 (individual systemic thinkers), level 6 (collectivist environmentalists) and level 5 ()
 
-**Beneficial (Not Harmful)**
+### The Social Contract
 
-To be beneficial is to do good overall. There are multiple ways in which different taxes might be said to 'do good', and people may fairly disagree on what 'good' means. However all taxes must have some legitimate claim to be beneficial. Most would agree that a tax is beneficial if it pays for valued public services. For example, taxation that pays for our National Health Service, our emergency services, our roads, schools and public transport, is generally considered necessary and beneficial. This is evidenced by a recent survey of British citizens [@PWC2017] which found that the majority would be willing to pay more tax if it lead to improvements in the quality of the NHS. 
+The Shared Narrative
 
-More contentiously, taxation may be said to be doing good by redistributing income (or at least ensuring that the rich contribute more), helping to alleviate poverty, and reducing large wealth disparities. Tax may be used to ensure a minimum standard of living by providing an income 'safety net'. 
+### The Castes
 
-Taxes can also be used to discourage antisocial and harmful behaviour by individuals and companies. They may do this by compelling those who cause harm to society through their economic activity to pay for that harm. A contemporary example is a carbon tax, which might be imposed on companies whose actions damage our natural environment, and health, by polluting the atmosphere with carbon dioxide. Such a tax would encourage companies to find less polluting ways of doing business. Taxes which operate in this way are often said to 'internalise' social costs by forcing economic actors to pay for harms they cause. So by taxing harm, it encourage companies to include these costs in their decision making process. The taxes gathered could also be used to undo some of the harm caused, such as by subsidising non-polluting sources of energy or investing to alleviate the problems caused by pollution.
+### The Power of Majorities
 
-Related to these other purposes, taxes might also serve the purpose of rationing scarce resources. One oft-used definition of economics is 'a science which studies human behaviour as a relationship between ends and scarce means' [@robbins1932]. Taxation can be used to fairly ration resources which are inherently limited, such land. Of course, if tax is not used for this purpose, land will still be limited. Instead the private sector, specifically, the existing owners will ration the resources through increasingly higher prices (rents), and in so doing provide unearned value or income to those who control them. Taxation can be used to fairly ration economic rents from resources which are common or publicly enhanced, so that the country benefits as a whole.
+Brexit shows the power of majorities to make big changes. 
 
-Taxes can also be used to discourage antisocial and harmful behaviour by individuals and companies. They may do this by compelling those who cause harm to society through their economic activity to pay for that harm. A contemporary example is a carbon tax, which might be imposed on companies whose actions damage the natural environment and health of all citizens by polluting the atmosphere on which we all depend. Such a tax would encourage companies to find less polluting ways of doing business. Taxes which operate in this way are often said to 'internalise' social costs by forcing economic actors to pay for harms they cause. So by taxing harm, it encourage companies to include these costs in their decision-making process. The taxes gathered could also be used to undo some of the harm caused, such as by subsidising non-polluting sources of energy or by creating pools of investment to alleviate the problems caused by pollution.
+### Positive sum games and Zero sum games
 
-Related to these other purposes, taxes might also serve the purpose of rationing scarce resources. One oft-used definition of economics is 'a science which studies human behaviour as a relationship between ends and scarce means' [@robbins1932]. Taxation can be used to fairly ration resources which are inherently limited, such as land. Of course, if taxes are not used for this purpose, land will still be limited. Lacking this, the private sector, specifically the existing ownership class, will ration these resources through increasingly higher rents, and as the rents go up, so will the sale price. In this way unearned income and capital gains will accrue to those who control the scarce resources. Taxation can be used to fairly ration economic rents from resources which are common or publicly enhanced, so that the country benefits as a whole.
+We argue here that economics and capitalism contain both positive sum games and zero sum games. A zero sum game is one where one person is gain is another person loss. Where as a positive sum game is where cooperation can yield positive benefits relative to the non-cooperative result.
 
-**Fair (Just)**
+Both phenomena are present in modern capitalism. When civilisation improves for example where peace breaks out where the worse war before or where technology improves peoples lives such as becoming of the washing machine or laboursaving devices, in these cases technological development improves the human a lot. On the other hand they chemist buying up the opposition in the High Street or a Shumate a shoe repairer monopolising this particular service Benefits one group at the cost of another. Finally we can describe a third group of activities which are actually uneconomic. In these cases because the tax system and the system of property rights is inappropriate activity can actually reduce the well-being of the world. Similarly, if some human virtues are eliminated by the commercialisation of some place, then in fact we will be going backwards.
 
-There are three ways in which we think taxes must be fair: consistency, progressivity, and justice in transition. 
+Let's explain the zero sum situation in a couple of contexts. One particularly important one is the use of buy to let landlords. Here, there's a limited number of houses, the supply of which are pretty unresponsive
 
-The first is that they must be fair in the sense of being consistent. Identical persons, companies and situations should be treated identically. There should be no special exemptions or 'sweetheart deals' for favoured individuals or companies. As we shall see in the section on corporation tax, this principle can be flouted by particularly big or powerful companies.
+## National-International Approach
 
-Related to this idea of fairness are concepts of accountability and transparency. Taxes must not just be fair, but must be seen to be fair. Thus taxes should be clear and transparent, such that it is apparent to everyone what the proper tax burden should be for each income bracket. These issues are particularly topical in Britain today. In early 2017, the Parliamentary Public Accounts Committee expressed concern that HMRC's 'lack of transparency' concerning high net worth individuals 'has eroded public trust in a fair tax system' [@HoC2017].
+We can classify into four categories the approaches to international problems facing us according to whether they favour the world's problems and the national interest. In sector one you have the ineffective approach which favours neither the national interest or the global interest. For example regulations to favour the financial sector enrich professionals in this sector. Then we have those actions that favour the nation state but at the expense of others. For example, running a large trade surplus is one such policy. It's arguably good for the nation state itself in terms of building wealth, but it does so at the cost of others losing wealth.
 
-Another, perhaps more controversial, kind of fairness concerns *progressivity*. A progressive tax is a tax in which those who have more, pay more. UK income tax is thus a progressive tax as richer citizens pay more proportionally than poorer citizens. We think that this is fair and thus we believe that taxes should be fair in the sense of being progressive. However, this viewpoint is not without controversy.
+A third sector is action that is good for the world as a whole but not for the country concerned. If for example a European country subsidised the Chinese production of solar panels, this would be an example of this process.
 
-Fairness is also relevant to our discussion of economic rents and land values. When land values increase because of work performed by society as a whole by our definition it would be fair if all citizens benefit. It would seem unfair for only some people to benefit. Similarly, it would seem unfair if only a few people benefited from the country's natural resources - resources which were not created by any person, but which form part of the wealth of the nation as a whole. 
+The final sector is where it's good both for the world as a whole and for the country concerned. This approach is what we are arguing for here. We want policy that is effective for the country concerned and helps the world as a whole.
 
-Finally, fairness is necessary in the transition from the existing system to the new system. This is necessary not only for reasons of justice, but also the political feasibility of the reforms: if they are seen as unfair to people here and now, they would be unpopular.
+## Accounting Toolkit
 
-**Practical (Functions Smoothly)**
+Tax either what we want to go away or what will not go away when we tax it. So one example of something that we want to go away is pollution or smoking, one example of something that will not go away is land.
 
-If a tax was fair and intended to do good, but couldn't be implemented without requiring masses of paperwork, or prohibitive costs, or extreme social controls, then no matter the benefit, it would not be justifiable. Taxes must be practical to implement. There are many aspects to practicality and we cover them here. When considering whether a tax is practical, we might consider how close it is to a theoretical ideal. 
+### Wealth Accounting
 
-Ideally, a tax should be simple to implement and administer. It also should have low collection and compliance costs. This means that it should not cost the government huge sums to collect, and it should also be very easy for taxpayers to comply with. The less paperwork, time-consuming research and confusing the rules involved, the better. Taxes which are automatically collected are more practical in this regard than those which require large amounts of form-filling and record-keeping. 
+Wealth is a useful concept in two senses: we can measure the stock of valuable things. And the stock of claims over wealth has exchange value. 
 
-Another aspect of practicality is predictability. Individuals and companies must be able to predict future expenses in order to arrange financial matters. 
+### Four Levels of Wealth
 
-In a similar vein, taxes must be clearly defined so that taxpayers can plan their affairs while knowing exactly how much tax they can expect to pay. One example which has been a particularly hot topic in recent years concerns tax evasion. Tax avoidance is the *legal* dodging of tax; tax evasion is the *illegal* dodging of tax. It is clear that a tax which is easily evadable or avoidable will not be practical because it will not function to increase public funds, and may require significant resources to be wasted chasing up non-complying 'tax cheats'. 
+We frame the book in terms of four levels of wealth creation: the world as a whole, the nation state, the community, and the individual.  These correspond respectively to the sage, warrior, peasant and merchant levels in Priestland's classification.
 
-## VI-3 Appendix: More detail
+We call the exchange value of assets 'Private Wealth' and the social accounting measure of wealth 'Social Wealth'. 
 
-David Ricardo was one of the great economic theorists. To distribution of the economic pie he put together a model of different land qualities and their respective qualities and thus rents. He recommended a tax on landowners rent.
+Capital Confusions and the Value of Monopoly Assets
 
-Henry George also recommended a tax on land rent. He extended Ricardo's reasoning to urban land. He noted that the speculators always would win, at the expense of everyday people.
+The *duration* of a cash flow determines its sensitivity to interest rates. A long-duration asset appreciates more than a short duration one. The formula for the price of a bond is a(1-r^n)/r
 
-**Tax theory**
-Frank Ramsey, a mathematician and economic limits polymath, wrote a paper on commodity taxation. His paper argued for the inverse elasticity rule: the amount of taxation payable on a commodity would be proportional to the sum of the reciprocal of the demand and supply elasticity for that good.
+### What Is Capital?
 
-Arthur Cecil Pigou argued for taxes on externalities; that is, when one actor affects another without paying the price.
+The word capital is used in at least a couple of senses. Firstly it can mean funds that can be invested. So a man has capital if he has wealth, and that wealth can be liquidated and invested.  Secondly it can mean funds that *have been* invested. The second meaning we can talk about factories as capital goods, and the fund of wages that have been paid prior to a good having been completed as working capital.
 
-After WW2, progressive income tax systems. Lord Beveridge argued for a 'cradle to grave' system of social welfare.
+Third, we can define capital as meaning the ownership of companies that are there to generate a surplus, profit. In this case there may or may not have been investment to generate the value of the monopoly rights. This is what we here do not include in capital. 
 
-In 'how to pay for the war' Keynes argues for sone practical measures. In the end, he got his wish for the 'euthanasia of the renter', as startling bonds and money lost a lot of their real value as the massive national debt was deflated and grown away.
+Here we define capital to be that part of the investment that does not include market power. In our definition, a company's premises are capital, but their rights to their brands are not. This confusion has caused lots of problems.  
 
-Keynes's contemporary polish economist Kalecki argues for a tax on 'capital' (wealth) on similar grounds. He argued it would be macroeconomically stimulating to the economy to do so.
+### The Two Meanings of the Word 'Investment'
 
-More recently, Piketty argues for a wealth tax both to provide useful information on the wealth endowment of rich people and to reduce the inherent advantages that wealth brings.  
+Investment really means two things. Firstly, it can mean physical creation of buildings and infrastructure, skills and research. Secondly it can mean the purchase of pre-existing claims over assets. Because the two meanings of this word can often get mixed up, this causes severe consequences. In a sense it is related to the topic of the meaning of the word 'capital'.
 
-Great reviews of taxation and benefits 
+### Interest rates affect the prices of assets
 
-From time to time there have been major studies on taxation reform commissioned by various governments or learned think tanks. The most famous was perhaps not one in tax at all but rather welfare: the Beveridge review.
+## Tax Theory Toolkit
 
-But apart from that, there have been a number of reports. One is the Meade review into direct taxation.. it recommends a so called cash flow taxation system of taxing consumption. This idea has been followed up more recently in the contributors to the Mirrlees review.
+### Elasticity
 
-The Mirrlees review recommended something on similar lines but less radical: a deduction for the normal cost of capital. It also recommended a land value tax to replace business rates, a proportional property tax to replace council tax and stamp duty,
+Elasticity is the economist's word for the responsiveness to something. For example, the price elasticity of demand is a measure of the amount that demand will alter in response to a change in price.
 
-There were also tax reviews in Canada and Australia and New Zealand.
+### Optimal Tax Theory
 
-In Canada, the review argued for income tax on the basis of discretionary economic power. This meant that Subsistence would not be taxed.
+We might say there are four major contributions to optimal taxation, focused on land value taxation, commodities taxation, externalities taxation and optimal income taxation. Going further back we might say that land value taxation is close to the Islamic tradition of the Zakat, whereas Optimal Income Taxation could be seen to reference the income tax system. Mirrlees original paper is here http://lib.cufe.edu.cn/upload_files/other/4_20140523032122_39%20Mirrlees%201971.pdf
 
-There have also be economists who have considered the utility basis of taxes: to what extent does income make is happy? Thornstein(???) Veblen notes the phenomenon of 'conspicuous consumption'. More recently, Fred Hirsch's 'the social limits to growth' indicated how many of the things we value are so called 'positional' goods: being the best ballerina for example. 
+### Shareholders versus stakeholders.
 
-Robert Frank's 'the Darwin Economy' notes that utility inniological terms is often positional and relative. This he argues has strong implications for taxation: we should tax luxury consumption.
+The current tax system is setup as if tax payers are the customers of government services and therefore should pay a fee for that privilege. This is of Course true. But it's not the only thing going on. Monopolists also benefit from Government services and the protection of the law. A corporate structure for example is a way of benefit from government legal protection. Landowners also benefit because public services and the conveniences of the private sector all located spatially. Land prices go up when public services - for example a new railway link - are improved.
 
-In terms of environmental taxation, many IPCC reports mention the need for a carbon price (either a tax or tradeable quotas). Fred Coase is often considered the intellectual progenitor of the notion of assigning 'property rights' to the right to emit pollution.
+Here we wish to give explicit priority to the population. 
 
-The Green Fiscal Commissiom in the UK has looked into in detail the possibilities for taxing environmental bads. In this it overlaps with the Mirlees review which called for effective carbon pricing and
+### Local priority
 
-The ExTax project in the Netherlands looked across extraction and pollution at the whole range of environmental and resource taxes. On the other hand 'Carbonomics' considers the resource rent impact of environmental taxes.
+The current British tax system gives advantages to those who are offshore. What do we mean by being offshore? Offshore comprises a whole set of different options including : being a resident of a foreign country, especially tax havens; being paid through a personal company and being resident in the UK but domiciled for tax purposes elsewhere. 
 
-Land value tax has recently had a resurgence, with the publication of Rethinking the economics of land and property, and many reports by the New Economic Foundations and others.
+In this book we change this prior to 2 local Priority. Local priority gives references to residents of the UK for the purposes of taxation of wealth and income. So a local priority tax will have some standard rate by default but with allowances and reduced rates only with available to bona fide UK citizens and residents.
 
-Financial and Money taxes are also significant. 'Spiritual economics' argues for a tax on money balances, a sort of negative interest rate. In this he echoes the work of Silvio Gesell who argued for demurrage' on money, or 'stamp scrip'. Indeed this was implemented and proved a success in Worgl, Austria.
+We therefore attempt to tax goods and assets as up stream as possible. So in the case of wealth we consider for main sources of wealth: Real estate(land and buildings), equities (ownership of companies), debt (including money) and other financial instruments such as derivatives. These categories are dealt with by the respective taxes: land value tax, corporate wealth tax for multinationals, unproductive debt tax, and patent and financial instrument tax. 
 
-We might say there are four major contributions to optimal taxation, focused on land value taxation, commodities taxation, externalities taxation and optimal income taxation.
+Those who are resident would receive allowances to these taxes so that it is advantageous to locate in the UK. Those who are resident would receive allowances to these taxes so that it is advantageous to locate in the UK.
 
-Going further back we might say that land value taxation is close to the Islamic tradition of the Zakat, whereas Optimal Income Taxation could be seen to reference the income tax system.
+### Genuine property owning democracy
+
+This book argues That we can Reduce the burden on tax by Ensuring that the population owns significant quantities of assets. We ensure this by developing wealth funds at each level. In particular there would be well funds at the global national local and personal levels. Over time these wealth funds Would build up and support human welfare of individuals and public services.
+
+### Tax Economics
+
+- Tax affects the choices business make
+- Tax affects the prices of things
+- Tax Inelastic goods
+- Inelastic tax base
+- Tax arbitrage
+- Apportionment
+- Tax Basis
+- Taxation of Externalities
+- Taxation of Rent
+
+## Environmentalism Toolkits
+
+- Upstream Taxation
+- Resource Rent: Making Rent Seeking Work for the Climate
+- Feebates
+- What is a feebate? A feebate is a tax on something in 
+- What are the global thresholds? What policy options are there?
+- What is the persistent political capability
+- Carbon taxes and feebates
+- Externality
+- Social Cost of Carbon impossible to measure
+- More accurate to measure decarbonisation requirements
+- Resource Rent & Game theory implications of resource rent
+
+## Land And Communities Toolkit
+
+### Enclosure Causes Poverty
+
+Low market power associated with lacking land: Georgists claim that poverty is a result of landlessness. The oligarchic enclosure of land which eliminated peasants from their traditional rights to till the soil and turned them instead into proletarians, was the fundamental cause of poverty.
+
+### Two Types of Surplus
+
+We can say there are fundamentally two types of surplus: Monopoly rent and Consumer rent. In any given situation we can ask: how much of an improvement leads to increased land rent and how much to consumer surplus. 
+
+### Rent
+
+Rent is the permanent surplus from owning some asset. Land rent is the surplus associated with land ownership.
+
+### Land value reverse feebates
+
+A feebate in carbon taxes is a tax on damaging inputs compensated by a subsidy on outputs. There are reasons wht we might impose a feebate on land value too, This would work as a tax on land value compensated by a subsidy on those uses of land which enhance local value, for example export industry.
+
+# Chapter Summaries 
+
+## Introduction Summary
+
+- We want to build a better, stronger, healthier, more equitable and wealthier Britain.
+- Though we seem to be in a time of change and uncertainty, we are also in a time of opportunity.
+- A few key changes to the tax system could have wide ranging positive
+  effects.
+
+## Economics, Tax Principles and Tax Practice Chapters Summary
+
+- Reduce taxes on activities which are economically productive, so that people are encouraged to do them.
+- Increase taxes on unproductive or destructive activities (so people are
+  discouraged from doing them). 
+- Tax those who benefit at the expense of others.
+
+This is how to make tax policy work for the good of the country:
+
+- We should tax the things we want to go away (e.g. environmental damage)
+- We should tax the things that are unproductive and which can’t go away (e.g. land values)
+- We should tax  those that make a large enduring financial surplus (e.g.
+  corporation/income tax), especially those that at the expense of others.
+
+In exchange we can reduce taxes on activities which are economically productive, so that people are encouraged to do them, and simplify the social security system.
+
+Also through the social security system:
+
+- We should care for those who need special protection.
+- We should encourage activity contributing to the common good.
+- We should give everyone a fair share of the returns of economic success.
+
+In so doing, we encourage that which is beneficial to the country and the world and build a stronger, healthier country in a better world.
+
+## Inequality Chapter Summary
+
+- When assessing inequality, we can consider whether it is harmful and whether it is justified.
+- People build material wealth through primary and secondary wealth creation. Primary wealth creation is wealth that is earned through wages or acquired through inheritance. Secondary wealth creation is generated by investment of primary wealth.
+- Those who have great wealth are able to grow it through secondary wealth creation. Those without (in particular those who pay rent), have little income for secondary wealth. They may also see their primary wealth decrease through wage stagnation and decreases in the real value of wages.
+- Piketty found that under capitalism, returns on capital wealth will tend to grow faster than wages. This implies a structural advantage for those who already have secondary wealth. One reason for this is pseudo-investments.
+- Wealthy people are able to put money into unfair pseudo-investments, which do not lead to overall growth, such as land or monopolies. 
+- Wealthy people also benefit unfairly from lowering of interest rates,
+  leading to increases in asset values.
+- Britain has a severe wealth and income inequality problem. 
+- Inequality is correlated with many social problems, such as higher crime rates, lower life expectancy, poor health outcomes, poor educational attainment and lower social cohesion.
+- Inequality also poses risks for democratic representation and economic
+  growth.
+- Judging from US data, people want a more equal society (more like Denmark)
+- Income tax has an important redistributive role. It is effective in
+  reducing incoe inequality and the top 1% income share.
+
+## Work and Welfare Chapter Summary
+
+- Work plays a major role in modern life, yet it can be difficult to define precisely. Work can be purposeful and fulfilling (work as leisure) or it
+  can be unsatisfying drudgery (work as toil).   
+  - Work can be of benefit to society (nurses), or it can be harmful (junk food advertising). Benefit and harm are often not reflected in salaries. 
+- In the UK, there is has been a decrease in unemployment but growth in low income, low-skilled and insecure work. There has been an increase in people relying on tax credits to top up their wages.
+- Many people feel overqualified and dissatisfied with their work. There has been an increase in the numbers of people working excessively long hours. This is associated with increased rates of heart disease, mental illness, diabetes and stroke.
+- There is a relationship between the labour market and welfare. When work is precarious, there is a need for unemployment benefit to plug the gaps. Illness from overwork may lead to a need for Employment and Support Allowance or disability payment.
+- The current British welfare system is unsuitable for the needs of today’s workforce.
+- The current welfare system discourages people from transitioning into work. This is known as a ‘benefit trap’. There is also a stigma associated with receiving benefits, contributing to a non-take up of benefit by people who are entitled to it. Administrative delays and assessment mistakes are also rife.
+- Any new welfare system should be flexible, avoid disruptions in income, be empowering, promote work-life balance, be non-stigmatising, simple, avoid benefit trap, be modern and sufficient to live on.
+- Citizens Income would meet many though not all of the above requirements. It is an income, unconditionally granted to all, on an individual basis, without means test or work requirement.
+- Guaranteed Jobs and Skills training could be used to improve the skill level of people in deprived communities. A successful program would help people discover what work people would like to do and would be targeted towards skills needed by employers. 
+
+## Land Chapter Summary
+
+- In the UK, buying a house is extremely and increasingly unaffordable for many. This is contributing to other problems, such as homelessness.
+- High house prices are due to high land values. House prices go through boom and bust cycles due to land price speculation. This is when people buy land in the hope that it will go up in value. This is not a productive
+  investment, leading to economic growth. It is a ‘pseudo-investment’ or
+  placement.
+- Landowners get free value from the work of the community, such as the
+  building of public transit infrastructure or communities invest in local
+  parks. Landowners receive an increase in land values from these activities, which they do no work for.
+- Land Value Tax is an effective solution to this unfairness and to the
+  housing boom and bust cycle. It is a tax on land values.
+- LVT is a well-established idea, with multiple benefits. It faces some
+  obstacles, for which there are solutions. The biggest may be political
+  feasibility.
+- Land has been neglected in Neoclassical economic theory, and generally is conflated with Capital. However, land differs from capital in important ways. Many current problems have arisen from a failure to recognise this distinction.
+
+## Environment Chapter Summary
+
+- The earth is facing many environmental problems, many of which are caused or contributed to by economic activity.
+- This economic activity causes damage which is not accounted for. Damage costs often can be ignored because they affect third parties and may be
+  difficult to quantify. These costs are known as ‘negative externalities’
+- Negative externalities can be accounted for (or ‘internalised’) if the
+  economic actor has to pay for the cost of the damage, via a tax. This is
+  known as a Pigouvian tax (after Arthur Pigou)
+- Pigouvian taxes disincentivize the damage-causing economic activity. People
+  are motivated to find less damaging alternatives, in order to reduce their tax bill.
+- There are some difficulties with applying Pigouvian taxes. Pigouvian taxes can be difficult to quantify. Pigouvian taxes may fall harder on those with lower incomes. 
+- We may be able to use Pigouvian taxes to reduce other taxes, ie a ‘Green Tax Shift. This could be particularly beneficial if they replace taxes on
+  productive activities (a double-dividend).
+

@@ -1,6 +1,121 @@
-# PART 5: TAX IN PRINCIPLE
+# PART 5: TAX IN PRINCIPLE: ON THE SHOULDERS OF GIANTS
 
-# 5.1: Why Tax?
+# 5-1 Great Economists on Taxation
+
+So how should we apply economics to tax? Many economists have considered what an ideal tax system should look like and much has been written about how practically to implement these principles. Adam Smith is perhaps the most famous economist of them all. Smith's four axioms of taxation are that taxes should be convenient, objective, low cost both in terms of direct costs and the discouragement the cause to others, proportional to ability to pay. Smith [-@smith1776wealth, Book V, Chapter I] argued that:
+
+> "Good taxes meet four major criteria. They are (1) proportionate to incomes or abilities to pay (2) certain rather than arbitrary (3) payable at times and in ways convenient to the taxpayers and (4) cheap to administer and collect."
+
+We consider these canons of tax further in part 5 of this book. A tax on land rents is mentioned by Smith as amongst the optimal tax:
+
+> "Both ground-rents and the ordinary rent of land are a species of revenue which the owner, in many cases, enjoys without any care or attention of his own. Though a part of this revenue should be taken from him in order to defray the expenses of the state, no discouragement will thereby be given to any sort of industry. The annual produce of the land and labour of the society, the real wealth of the great body of the people, might be the same after such a tax as before. Ground rents and the ordinary rent of land are, therefore, perhaps, the species of revenue which can best bear to have a peculiar tax upon them"
+
+David Ricardo [-@ricardo1821principles], Henry George [-@George1879], John Stewart Mill [-@mill1848principles], and Alfred Marshall [-@marshall1890principles] have also argued for the advantages of taxing land rent. Frank Ramsey [-@Ramsey1927] extended the argument to commodities in general, developing a formula for optimal taxation such that those commodities most inelastic in supply or in demand should be taxed the most. 
+
+Meanwhile Arthur Cecil Pigou [-@Pigou1924] developed the idea of taxing externalities - situations, as pollution, when an economic activity damages others not involved in a transaction. Keynes's Polish contemporary Kalecki argued that taxation of wealth would increase effective demand and therefore economic growth without stifling incentives [@Kalecki1937]. And more recently Piketty [-@Piketty2014a] has shown the consequences for the growth in inequality if wealth and high income are not sufficiently taxed.
+
+There have also been a number of comprehensive reports into practical taxation. In the UK there was the Meade Review into direct taxation [@Meade1977] and the Mirrlees Review into taxation in general [@Mirrlees2010d], [@Mirrlees2011]. There have also been similar reviews in Canada [@Carter1966], the United States [@Bradford1977] and, more recently, in Australia [@Henry2010] and New Zealand [@evans2011reflections].
+
+Standing on the shoulders of these giants, we argue for two general principles. First, that the allocation of capital needs to account for costs and benefits to society as a whole, rather than just private profit within the system of property rights that we have at present. Second, that the ownership of assets and the return from the ownership of assets needs to be distributed widely. 
+
+Turning more specifically to tax, economists would say that we should tax *externalities* and *economic rent*. In simple language, if an individual or company pollutes the environment, they should be prosecuted or should pay a tax. Landlords put up rent as wages grow and should also be subject to higher taxation. Finally, as companies get bigger and bigger, they often can set high prices and cut costs at the same time, buying up or forcing out the competition and gaining market power at the cost of everyday people. This is a further possible base for tax.
+
+# 5-2 A Tripartite Framework for Taxes
+
+What are taxes really for? What makes a good tax system? Is there such a thing? These questions remain unexplored for many people for whom taxes are just an inevitability, a necessary evil, and a yearly burden. As the old saying goes - there is nothing so certain in life as death and taxes.
+
+There are those, of course, for whom the very concept of tax raises strong passions. Staunch libertarians claim that taxation is the blatant theft of private property, while social democrats often consider taxation to be a moral matter in the redressing of the unfairness of the free market. Emotions can therefore run high in debates on the purposes of taxation, and there often appears to be little common ground. This can make discussions of the philosophical basis of taxation somewhat difficult. But it is into this fraught debate that we are attempting to venture, with a hope to outline principles on which all (or most) will agree.
+
+So if we assume, for now, that taxes are a necessary evil, then we must establish some guiding principles on how they should be applied. As our starting point, we have chosen three core characteristics which we suggest that all and every tax should possess. Taxes should be *beneficial*, *practical* and *fair*.
+
+**Beneficial (Not Harmful)**
+
+To be beneficial is to do good overall. There are multiple ways in which different taxes might be said to 'do good', and people may fairly disagree on what 'good' means. However all taxes must have some legitimate claim to be beneficial. Most would agree that a tax is beneficial if it pays for valued public services. For example, taxation that pays for our National Health Service, our emergency services, our roads, schools and public transport, is generally considered necessary and beneficial. This is evidenced by a recent survey of British citizens [@PWC2017] which found that the majority would be willing to pay more tax if it lead to improvements in the quality of the NHS. 
+
+More contentiously, taxation may be said to be doing good by redistributing income (or at least ensuring that the rich contribute more), helping to alleviate poverty, and reducing large wealth disparities. Tax may be used to ensure a minimum standard of living by providing an income 'safety net'. 
+
+Taxes can also be used to discourage antisocial and harmful behaviour by individuals and companies. They may do this by compelling those who cause harm to society through their economic activity to pay for that harm. A contemporary example is a carbon tax, which might be imposed on companies whose actions damage our natural environment, and health, by polluting the atmosphere with carbon dioxide. Such a tax would encourage companies to find less polluting ways of doing business. Taxes which operate in this way are often said to 'internalise' social costs by forcing economic actors to pay for harms they cause. So by taxing harm, it encourage companies to include these costs in their decision making process. The taxes gathered could also be used to undo some of the harm caused, such as by subsidising non-polluting sources of energy or investing to alleviate the problems caused by pollution.
+
+Related to these other purposes, taxes might also serve the purpose of rationing scarce resources. One oft-used definition of economics is 'a science which studies human behaviour as a relationship between ends and scarce means' [@robbins1932]. Taxation can be used to fairly ration resources which are inherently limited, such land. Of course, if tax is not used for this purpose, land will still be limited. Instead the private sector, specifically, the existing owners will ration the resources through increasingly higher prices (rents), and in so doing provide unearned value or income to those who control them. Taxation can be used to fairly ration economic rents from resources which are common or publicly enhanced, so that the country benefits as a whole.
+
+Taxes can also be used to discourage antisocial and harmful behaviour by individuals and companies. They may do this by compelling those who cause harm to society through their economic activity to pay for that harm. A contemporary example is a carbon tax, which might be imposed on companies whose actions damage the natural environment and health of all citizens by polluting the atmosphere on which we all depend. Such a tax would encourage companies to find less polluting ways of doing business. Taxes which operate in this way are often said to 'internalise' social costs by forcing economic actors to pay for harms they cause. So by taxing harm, it encourage companies to include these costs in their decision-making process. The taxes gathered could also be used to undo some of the harm caused, such as by subsidising non-polluting sources of energy or by creating pools of investment to alleviate the problems caused by pollution.
+
+Related to these other purposes, taxes might also serve the purpose of rationing scarce resources. One oft-used definition of economics is 'a science which studies human behaviour as a relationship between ends and scarce means' [@robbins1932]. Taxation can be used to fairly ration resources which are inherently limited, such as land. Of course, if taxes are not used for this purpose, land will still be limited. Lacking this, the private sector, specifically the existing ownership class, will ration these resources through increasingly higher rents, and as the rents go up, so will the sale price. In this way unearned income and capital gains will accrue to those who control the scarce resources. Taxation can be used to fairly ration economic rents from resources which are common or publicly enhanced, so that the country benefits as a whole.
+
+**Fair (Just)**
+
+There are three ways in which we think taxes must be fair: consistency, progressivity, and justice in transition. 
+
+The first is that they must be fair in the sense of being consistent. Identical persons, companies and situations should be treated identically. There should be no special exemptions or 'sweetheart deals' for favoured individuals or companies. As we shall see in the section on corporation tax, this principle can be flouted by particularly big or powerful companies.
+
+Related to this idea of fairness are concepts of accountability and transparency. Taxes must not just be fair, but must be seen to be fair. Thus taxes should be clear and transparent, such that it is apparent to everyone what the proper tax burden should be for each income bracket. These issues are particularly topical in Britain today. In early 2017, the Parliamentary Public Accounts Committee expressed concern that HMRC's 'lack of transparency' concerning high net worth individuals 'has eroded public trust in a fair tax system' [@HoC2017].
+
+Another, perhaps more controversial, kind of fairness concerns *progressivity*. A progressive tax is a tax in which those who have more, pay more. UK income tax is thus a progressive tax as richer citizens pay more proportionally than poorer citizens. We think that this is fair and thus we believe that taxes should be fair in the sense of being progressive. However, this viewpoint is not without controversy.
+
+Fairness is also relevant to our discussion of economic rents and land values. When land values increase because of work performed by society as a whole by our definition it would be fair if all citizens benefit. It would seem unfair for only some people to benefit. Similarly, it would seem unfair if only a few people benefited from the country's natural resources - resources which were not created by any person, but which form part of the wealth of the nation as a whole. 
+
+Finally, fairness is necessary in the transition from the existing system to the new system. This is necessary not only for reasons of justice, but also the political feasibility of the reforms: if they are seen as unfair to people here and now, they would be unpopular.
+
+**Practical (Functions Smoothly)**
+
+If a tax was fair and intended to do good, but couldn't be implemented without requiring masses of paperwork, or prohibitive costs, or extreme social controls, then no matter the benefit, it would not be justifiable. Taxes must be practical to implement. There are many aspects to practicality and we cover them here. When considering whether a tax is practical, we might consider how close it is to a theoretical ideal. 
+
+Ideally, a tax should be simple to implement and administer. It also should have low collection and compliance costs. This means that it should not cost the government huge sums to collect, and it should also be very easy for taxpayers to comply with. The less paperwork, time-consuming research and confusing the rules involved, the better. Taxes which are automatically collected are more practical in this regard than those which require large amounts of form-filling and record-keeping. 
+
+Another aspect of practicality is predictability. Individuals and companies must be able to predict future expenses in order to arrange financial matters. 
+
+In a similar vein, taxes must be clearly defined so that taxpayers can plan their affairs while knowing exactly how much tax they can expect to pay. One example which has been a particularly hot topic in recent years concerns tax evasion. Tax avoidance is the *legal* dodging of tax; tax evasion is the *illegal* dodging of tax. It is clear that a tax which is easily evadable or avoidable will not be practical because it will not function to increase public funds, and may require significant resources to be wasted chasing up non-complying 'tax cheats'. 
+
+# 5-3 Appendix: More detail
+
+David Ricardo was one of the great economic theorists. To distribution of the economic pie he put together a model of different land qualities and their respective qualities and thus rents. He recommended a tax on landowners rent.
+
+Henry George also recommended a tax on land rent. He extended Ricardo's reasoning to urban land. He noted that the speculators always would win, at the expense of everyday people.
+
+**Tax theory**
+Frank Ramsey, a mathematician and economic limits polymath, wrote a paper on commodity taxation. His paper argued for the inverse elasticity rule: the amount of taxation payable on a commodity would be proportional to the sum of the reciprocal of the demand and supply elasticity for that good.
+
+Arthur Cecil Pigou argued for taxes on externalities; that is, when one actor affects another without paying the price.
+
+After WW2, progressive income tax systems. Lord Beveridge argued for a 'cradle to grave' system of social welfare.
+
+In 'how to pay for the war' Keynes argues for sone practical measures. In the end, he got his wish for the 'euthanasia of the renter', as startling bonds and money lost a lot of their real value as the massive national debt was deflated and grown away.
+
+Keynes's contemporary polish economist Kalecki argues for a tax on 'capital' (wealth) on similar grounds. He argued it would be macroeconomically stimulating to the economy to do so.
+
+More recently, Piketty argues for a wealth tax both to provide useful information on the wealth endowment of rich people and to reduce the inherent advantages that wealth brings.  
+
+Great reviews of taxation and benefits 
+
+From time to time there have been major studies on taxation reform commissioned by various governments or learned think tanks. The most famous was perhaps not one in tax at all but rather welfare: the Beveridge review.
+
+But apart from that, there have been a number of reports. One is the Meade review into direct taxation.. it recommends a so called cash flow taxation system of taxing consumption. This idea has been followed up more recently in the contributors to the Mirrlees review.
+
+The Mirrlees review recommended something on similar lines but less radical: a deduction for the normal cost of capital. It also recommended a land value tax to replace business rates, a proportional property tax to replace council tax and stamp duty,
+
+There were also tax reviews in Canada and Australia and New Zealand.
+
+In Canada, the review argued for income tax on the basis of discretionary economic power. This meant that Subsistence would not be taxed.
+
+There have also be economists who have considered the utility basis of taxes: to what extent does income make is happy? Thornstein(???) Veblen notes the phenomenon of 'conspicuous consumption'. More recently, Fred Hirsch's 'the social limits to growth' indicated how many of the things we value are so called 'positional' goods: being the best ballerina for example. 
+
+Robert Frank's 'the Darwin Economy' notes that utility inniological terms is often positional and relative. This he argues has strong implications for taxation: we should tax luxury consumption.
+
+In terms of environmental taxation, many IPCC reports mention the need for a carbon price (either a tax or tradeable quotas). Fred Coase is often considered the intellectual progenitor of the notion of assigning 'property rights' to the right to emit pollution.
+
+The Green Fiscal Commissiom in the UK has looked into in detail the possibilities for taxing environmental bads. In this it overlaps with the Mirlees review which called for effective carbon pricing and
+
+The ExTax project in the Netherlands looked across extraction and pollution at the whole range of environmental and resource taxes. On the other hand 'Carbonomics' considers the resource rent impact of environmental taxes.
+
+Land value tax has recently had a resurgence, with the publication of Rethinking the economics of land and property, and many reports by the New Economic Foundations and others.
+
+Financial and Money taxes are also significant. 'Spiritual economics' argues for a tax on money balances, a sort of negative interest rate. In this he echoes the work of Silvio Gesell who argued for demurrage' on money, or 'stamp scrip'. Indeed this was implemented and proved a success in Worgl, Austria.
+
+We might say there are four major contributions to optimal taxation, focused on land value taxation, commodities taxation, externalities taxation and optimal income taxation.
+
+Going further back we might say that land value taxation is close to the Islamic tradition of the Zakat, whereas Optimal Income Taxation could be seen to reference the income tax system.
+
+# 5-4: Why Tax?
 
 This question is deceptively simple. In fact there are actually two questions. 
 
@@ -56,7 +171,7 @@ At present the current benefit system involves various 'benefit traps' and 'pove
 
 
 
-# 5.2: What could and should be taxed?
+# 5-5: What could and should be taxed?
 
 Taxes can be applied across a range of goods and services. We split these in to three: taxable assets, taxable transactions, and  taxable commodities. 
 
@@ -106,7 +221,7 @@ Taxes could also be applied to the unearned increment on scarce resources that a
 
 Taxes could also help disincentivise environmental and health bads. These are activities that damage our common space (e.g. fossil fuels, other pollution, road congestion, ugly buildings)
 
-# 5.3 Principles of a Reformed System
+# 5-6 Principles of a Reformed System
 Taxes and benefits create incentives for good or ill. It's vital that these incentives are well-aligned with the interests of society as a whole. An improved tax and welfare system should be guided by economic, social and environmental objectives.
 
 In the **short term**, we want a tax and welfare system that helps to create sufficient economic demand to ensure there are jobs for all who need them. There is no need for involuntary unemployment.
@@ -157,7 +272,7 @@ Similarly, a welfare system should be:
 - Equitable (Fair, Without Stigma)
 
 
-# 5.4 Components Satisfying Requirements
+# 5-7 Components Satisfying Requirements
 
 ## Options for Taxes
 
@@ -212,6 +327,6 @@ Here are the results of applying our criteria to the possible welfare systems. W
 | Contributory benefits (insurance)| 22 |
 | Workfare or guaranteed jobs| 23 |
 
-# 5.5 Conclusions
+# 5-8 Conclusions
 
 We have now completed our preliminary assessment of the taxation and welfare system, and have some preliminary ideas of what sort of taxes may have good features. We will now assess the distribution of income and wealth and the individual sectors of the economy to consider the details of what problems there are and what role the tax and welfare system can play in alleviating them.

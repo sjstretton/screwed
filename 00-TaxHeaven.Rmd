@@ -13,7 +13,8 @@ link-citations: yes
 \newpage
 
 ```{r setup, include=FALSE}
-setwd("~/Google Drive/Tax Heaven Book")
+Platform <- "PC" #"PC" "Mac" "HeatherPC" 
+if(Platform=="PC") setwd("~/../Google Drive/Book") else if(Platform=="Mac") setwd("~/Google Drive/Book") #Add something for your WD if this doesn't work
 
 options(htmltools.dir.version = FALSE)
 options(scipen=999)
@@ -35,17 +36,30 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '1-Introduction.md'}
+```{r child = '0-Introduction.md'}
 ```
 
 \newpage
 
-```{r child = '2-Concepts.md'}
+```{r child = '1-Revolutions.md'}
 ```
+
 
 \newpage
 
-```{r child = '3-EconomicTheory.md'}
+```{r child = '2-Beveridge.md'}
+```
+
+
+\newpage
+
+```{r child = '3-DesertIslandEconomics.md'}
+```
+
+
+\newpage
+
+```{r child = '4-CollectiveActionAndChange.md'}
 ```
 
 \newpage
