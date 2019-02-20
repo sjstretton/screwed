@@ -1,4 +1,4 @@
-# 1. REVOLUTIONS IN THE MINDS OF MEN (Late draft)
+# 1. REVOLUTIONS IN THE MINDS OF MEN (Late Draft)
 
 ## The Wealth of Nations
 
