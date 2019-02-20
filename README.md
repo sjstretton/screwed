@@ -115,14 +115,6 @@ In more detail:
    2. Resistance is associated with perceived concentrated financial losses
    3. Instead minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
 
-## Evidence About Tax
-
-Point 1) can be evidenced as a) There are external effects and they are significant (descriptive point) b) If there are external effects they should be accounted for in the tax system (theoretical point) c) if we make those tax changes we should have a certain response (responsive point)
-
- 2) a) There are non-productive (monopoly) assets (descriptive point), b) If there are monopoly assets, then it's efficient and equitable to tax them (theoretical point) c) If we tax them, then their price will fall; also wealth will be transferred to productive activities increasing human wealth (responsive point).
-
-3) a) Change happens when desire overcomes resistance b) Resistance is associated with perceived concentrated financial losses c) Instead minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
-
 # Outlines of Book
 
 This contains various outlines of the prescriptive outlines and the actual ones
