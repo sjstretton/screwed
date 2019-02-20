@@ -70,7 +70,7 @@ In theory, this makes for a very elegant and efficient solution to the puzzle. I
 Pigou was particularly concerned that any damages caused to the environment or to people should be paid for. If we get prices right (so that they reflect full social costs), this will in turn discourage activities that would otherwise seem profitable despite causing external damage. 
 
  The polluter pays principle is 'the commonly accepted practice that those who produce pollution should bear the costs of managing it to prevent damage to human health or the environment' [@GranthamResearchInstituteonclimatechangeandtheenvironment2014]. This principle is the basis for most attitudes to the regulation of environmental pollution, forming part of the broader set of guidelines on the matter created in the 1992 Rio Declaration  [@UnitedNations1992].
- 
+
 
 The issue of externalities is of particular relevance to the conservation of natural resources and the environment. These resources - the land, the animals, the air - are vital to continued high quality human existence. If we strive to reflect the true costs of activities in prices, and properly manage these damaging activities, we will quite simply undermine the sustainability of the economy and our prosperity. 
 
@@ -344,6 +344,5 @@ The notion of 'resource nationalism', in the sense that resources belong to the 
 In some parts of the world, resource rents have been used to create schemes known as 'severance tax trust funds', which have specific remits to invest in projects for various kinds of public benefit. The Alaska Permanent Fund created in 1976 is perhaps the best-known example. The fund pays a per-capita dividend to citizens, based on the principle of common ownership. Severance tax trust funds are also in place in Montana, New Mexico, Utah, North Dakota and Wyoming.
 
 Philosopher Thomas Pogge has advanced an alternative vision for resource rents that is based not on resource nationalism, but resource globalism. Pogge presented his idea of a'global resources dividend' as a means of tackling global poverty [@Pogge1998]. However, such a system would require significant international coordination,and critics have suggested the distributive effects could anyway harm poor nations that are not resource-rich [@Hayward2005].  We propose that UK resource rents could help contribute to a national citizen's dividend.
-
 
 ----
