@@ -39,15 +39,22 @@ The editors would like to extend their gratitude to the authors and to all who h
 ```{r child = '00-Introduction.md'}
 ```
 
+
 \newpage
 
-```{r child = '01-Revolutions.md'}
+```{r child = '01-EconomicModelWealth.md'}
 ```
 
 
 \newpage
 
-```{r child = '02-Beveridge.md'}
+```{r child = '02A-Revolutions.md'}
+```
+
+
+\newpage
+
+```{r child = '02B-Beveridge.md'}
 ```
 
 
