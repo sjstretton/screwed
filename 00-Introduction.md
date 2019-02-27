@@ -49,12 +49,12 @@ In more detail:
 2. Monopoly and Poverty
    1. There are non-productive (monopoly) assets (descriptive point)
    2. If there are monopoly assets, then it's efficient and equitable to tax them (theoretical point)
-   3. LVT, cashflow-deductible-investment and corporate wealth tax will have desired effect (functional point)
-   4. If we tax them, then their price will fall; also wealth will be transferred to productive activities increasing human wealth (responsive point).
+   3. LVT, cashflow-deductible-investment and corporate wealth tax will have the desired effect (functional point)
+   4. If we tax them, then their price will fall; also, wealth will be transferred to productive activities increasing human wealth (responsive point).
 3. Theory of Change
    1. Change happens when desire overcomes resistance
    2. Resistance is associated with perceived concentrated financial losses
-   3. Instead minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
+   3. Instead, minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
 
 ## Scope
 
