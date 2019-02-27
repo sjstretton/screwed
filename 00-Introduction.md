@@ -1,64 +1,12 @@
-# 0. INTRODUCTION (Early Draft)
+# 0. INTRODUCTION
 
-## A Perfect Storm
-
-The film 'A Perfect Storm' describes a true story of a fishing trawler facing a particularly wicked storm. A ship's captain and his fellow New England fishermen had fallen on hard times after poor catches. The captain, played by George Clooney, had assembled a crew and hired a boat to go out for one last fishing trip before the season was out. They sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish and turned for home, hoping to get the catch back whilst still fresh. 
-
-Unfortunately a storm was brewing, and not just any storm. Three separate weather systems had merged to create a 'weather bomb'. Meteorologists warned of a serious threat to any fishing boats that braved what would become an epic storm. The fishermen faced the difficult question:  whether to attempt to land their catch whilst still fresh by heading home straight through the storm, or avoid the storm by staying in the mid-Atlantic until the weather system passed and risk the fish being no longer fresh enough to sell once back. Added to this dilemma were communications and leadership difficulties. Communications between the weather forecasters and the boat were interrupted by the degradation of the communications systems. The captain, whilst charismatic, also betrayed hubris and poor judgment.
-
-It is odd, after all, that Clooney and his men felt they needed to take such a severe risk. Why were they in that situation in the first place? Whilst we cannot read other people's minds (let alone the minds of the dead) we can say that there are two main reasons for the original plight of the fishermen which led them to take such extreme risks: environmental damage and economic insecurity. 
-
-First, the seas were no longer as plentiful as they once were. In the past [when?] the Grand Banks off Newfoundland teemed with fish. But overfishing led to a collapse in fish stocks. Similarly, the fishermen whilst having a valuable profession, do not own exclusive rights to fish. 
-
-Second, the fishermen lacked economic security in their lives. They had to fish or go bust. Beyond their own homes, they owned little. Their boats were owned by investor who expected a return and did nothing so dangerous as to actually head out to sea. An absentee landlord, he simply rented out the boat and lived off the surplus. We never meet him but his presence makes himself felt. The fishermen were economically expendable, a bit like low value fish that are disposed off the side.
-
-## Turning Spaceship Earth 
-
-What has the perfect storm got to do with the global situation? Quite a lot perhaps. We on Earth are perhaps facing a similar situation to Clooney's character and his crew. There are warnings of a dangerous climactic and environmental future for the world on the path currently taken. Clever people disagree over whether to take the environmental warning seriously or not: some of us think it's all a hoax others say its just natural variability.  We need to decide how to interpret these warnings -- whether to ignore them, like the fateful crew, or to take them seriously. 
-
-But even if we don't ignore the warnings, we have another problem. You and I don't control the direction of the world economy. There is no single captain of spaceship earth. 
-
-Also we have little idea how the controls of Spaceship work. And there is little focus on the practicalities of what to do next. This book attempts to use the tax and financial system to change the incentives of the private sector to do the right thing. And it deals with the question of how to make the change.
+(Not very good at the moment)
 
 ## About This Book
 
 This book is addressed to those who are looking for a new economic model for rich and poor countries across the world. The intended audience includes economists, scientists, politicians, businesspeople, other professionals and interested members of the general public.
 
-it is concerned with how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent',  international flows of money and assets. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without governance systems to constrain them. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies, leading to expensive housing, stagnating wages and wealth gains for the already rich. International tax  avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep. 
-
-
-
-## Thesis of the Book (Write this)
-
-- Situation: We have a market economy with competition, growth and technological progress.
-- Complication: But we have poverty and pollution
-- Question: How do we fix these issues of poverty and pollution?
-- Answer: Carbon Tax and LVT but tailored for a change management political evolutionary landscape
-
-The core theses of this book are:
-
-1. The cause of environmental destruction is failure of regulation, specifically the lack of appropriate pricing of environmental damage
-2. The cause of inequality is non-degrading private property in limited things such as land and corporations with market power.
-3. The cause of failure to implement appropriate policy is a lack of an appropriate theory of change.
-
-In more detail:
-
-1. Wicked Externalities
-   1. There are externalities and they are significant (descriptive point)
-   2. If there are external effects they should be accounted for in the tax system (theoretical point)
-   3. Carbon Tax will have desired effect (functional point)
-   4. if we make those tax changes we should have a certain response (responsive point)
-2. Monopoly and Poverty
-   1. There are non-productive (monopoly) assets (descriptive point)
-   2. If there are monopoly assets, then it's efficient and equitable to tax them (theoretical point)
-   3. LVT, cashflow-deductible-investment and corporate wealth tax will have desired effect (functional point)
-   4. If we tax them, then their price will fall; also wealth will be transferred to productive activities increasing human wealth (responsive point).
-3. Theory of Change
-   1. Change happens when desire overcomes resistance
-   2. Resistance is associated with perceived concentrated financial losses
-   3. Instead minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
-
-
+The book is concerned with how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent',  international flows of money and assets. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without governance systems to constrain them. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies, leading to expensive housing, stagnating wages and wealth gains for the already rich. International tax  avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep. 
 
 ## Scope
 

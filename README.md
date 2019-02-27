@@ -20,6 +20,7 @@ This document contains the overarching material for 'Tax Heaven'. It contains:
 - To read the latest version of the whole book go to: [Book (PDF)](https://github.com/sjstretton/taxheaven/blob/master/000-TaxHeaven.pdf)
 
 # Overview of Book
+
 This is some pieces of text that don't fully fit together but form the basis of the introductory chapter. The presentation (next section below) is a bit more structured.
 
 ## Audience
@@ -122,6 +123,15 @@ In more detail:
 
 This contains various outlines of the prescriptive outlines and the actual ones
 
+## Flow of Argument
+
+[Define the Scope and the book and Problem]
+-->[Define Economic System and Theory of its operation]
+-->[Define Economic and Justice Principles]
+-->[Consider Tax System in Principle & Practice]
+-->[Solve Issues in Each Sector of the Economy]
+-->[Sum up Proposals and How to Transition. Conclude]
+
 ## Short Outline
 
 - 1 TAX HEAVEN	*Overarching Question* What taxation and welfare system (and property rights) should exist to ensure that our economy produces social well being?
@@ -130,7 +140,7 @@ This contains various outlines of the prescriptive outlines and the actual ones
 - 4 TAXATION IN PRINCIPLE *Defining the Problem*: What are the general principles of tax? Why/Who/Where/What/How and how much should we tax?
 - 5 TAXATION IN PRACTICE; TAX AVOIDANCE & EVASION	*Avoidance and Fraud*: How does the tax and welfare system work? Does it work well?Can a tax system be designed that is simple and yet difficult to avoid? How do we set up a tax and welfare system that is simple and not subject to avoidance, evasion and fraud?
 - 6 POLITICS *Transition*: How can we transition from the existing system in a fair and politically feasible manner?
-- 7 (INDIVIDUALS) Inequality Wealth*: Do the rich get richer? If so, why? Can anything be done about it? What are the causes and consequences of inequality? Can tax and social security help and how?
+- 7 (INDIVIDUALS) *Inequality of Income and Wealth*: Do the rich get richer? If so, why? Can anything be done about it? What are the causes and consequences of inequality? Can tax and social security help and how?
 - 8 (INDIVIDUALS) Welfare and Work	*Automation and the Future* What system of social security would suit the future?
 - 9 (COMMUNITY) Land and Property	*Rent*: Why is housing so expensive in South East England, California and some other places? Why is the rent so high and why can't normal people can't afford to buy property? What are policy responses to this? Can the tax system mitigate the unfairness this causes?
 - 10 (COUNTRY) Profit and Value Added	*Corporate tax and tarrifs* How much tax should companies and their owners pay? How can we prevent them from avoiding tax?
@@ -266,9 +276,9 @@ V. CAKE ECONOMICS
 # Specifications 
 
 ## Delivery 1 (by Friday 22nd Feb) v0.5
-- Book contains all chapters that have been written already, including finance. (SJS) NB Not included: new writing in separate chapter
+- ~~Book contains all chapters that have been written already, including finance. (SJS) NB Not included: new writing in separate chapter~~
 - Initial scoping of WB work (SJS)
-- Add pieces together and knit, submit to git (SJS)
+- ~~Add pieces together and knit, submit to git (SJS)~~
 
 - Initial Progress on ‘Pyramid’ Presentation. (HM)
   - Basic evidence for Carbon Tax proposition: High carbon tax, pays strong attention to possible loser groups, (almost rev neutral): Electricity Feebates and CTax&Div.  
@@ -1078,6 +1088,4 @@ In so doing, we encourage that which is beneficial to the country and the world 
 - Pigouvian taxes disincentivize the damage-causing economic activity. People
   are motivated to find less damaging alternatives, in order to reduce their tax bill.
 - There are some difficulties with applying Pigouvian taxes. Pigouvian taxes can be difficult to quantify. Pigouvian taxes may fall harder on those with lower incomes. 
-- We may be able to use Pigouvian taxes to reduce other taxes, ie a ‘Green Tax Shift. This could be particularly beneficial if they replace taxes on
-  productive activities (a double-dividend).
-
+- We may be able to use Pigouvian taxes to reduce other taxes, ie a ‘Green Tax Shift. This could be particularly beneficial if they replace taxes on productive activities (a double-dividend).

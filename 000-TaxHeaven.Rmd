@@ -34,6 +34,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The editors would like to extend their gratitude to the authors and to all who have helped in the writing of this draft book, in particular to Heather McKay, Angela Dennis, Chris Crompton, Jiama, Selvin Kwong, Neale Upstone, John McCone, Jasper Sky, Thibault Laurentjoye, Mike Reiss, Sacha Anthony, Mat Sayer, Mark Wadsworth, Tom Ward, Dirk Heine, Drew Jackson, Sarah Hafner, Ian Cook, Jo Wheeler and Christopher Downing for assistance, comments, conversations, support and work. Remembering Adrian Wrigley for introducing Stephen to many of the ideas herein.
 
+
+# Diagram of Argument of The Book
+
+```{r, include=FALSE, echo=FALSE}
+library(tufte)
+library(DiagrammeR)
+
+DiagrammeR("graph TB
+    A[Define the Scope and the book and Problem]-->B[Define Economic System and Theory of its operation]
+    B-->C[Define Economic and Justice Principles]
+    C-->D[Consider Tax System in Principle & Practice]
+    D-->E[Solve Issues in Each Sector of the Economy]
+    E-->F[Sum up Proposals and How to Transition. Conclude]
+")
+```
+
+
 \newpage
 
 ```{r child = '00-Introduction.md'}
