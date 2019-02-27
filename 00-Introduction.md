@@ -95,7 +95,7 @@ Our vision of the tax system interacts with the benefits and training system, th
 
 ## A Theory of Change
 
-The way that we need to set up this tax system needs to maximize the effect whilst minimizing the resistance. It's this sort of system that can maximize the good that can be achieved. In two areas in particular: in environmental/energy policy and in housing policy. If you want to have a big effect you need a big incentive, but big incentives cause big losers and therefore political resistance. In other words we use financial incentives to promote wider forms of entrepreneurship for public benefit.
+The way that we need to set up this tax system needs to maximise the effect whilst minimising the resistance. It's this sort of system that can maximise the good that can be achieved. This is true in two areas in particular: in environmental/energy policy and in housing policy. If you want to have a big effect, you need a big incentive. but big incentives cause big losers and therefore political resistance. In other words we use financial incentives to promote wider forms of entrepreneurship for public benefit.
 
 What can individuals and groups do to promote a better tax and welfare system? Economic justice campaigners seek to eliminate the evident unfairness of the current taxation and benefits system. Environmental and housing tax campaigners seek to use the tax system to make the private sector work for greater public good. Simplicity campaigners seek a simpler, more usable system. Tax Heaven combines these motivations to argue for a fair, good and simple tax and social security system. It provides a rallying point of key ideas that could be implemented immediately. 
 
