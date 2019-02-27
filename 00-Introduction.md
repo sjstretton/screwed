@@ -92,24 +92,23 @@ A good society promotes the wealth and happiness of its citizens. Thus, we argue
 Our vision of the tax system interacts with the benefits and training system, the finance system, the energy system and the housing system. In short, our vision is for a new tax and welfare system that taxes the right things and thus, leads to the production and preservation of wealth rather than the extraction and enclosure of wealth by those with more power. In other words, it leads to the private sector having a new purpose to grow opportunity in our society. We do this through a transformation of the incentives.
 
 
-
 ## A Theory of Change
 
-The way that we need to set up this tax system needs to maximise the effect whilst minimising the resistance. It's this sort of system that can maximise the good that can be achieved. This is true in two areas in particular: in environmental/energy policy and in housing policy. If you want to have a big effect, you need a big incentive. but big incentives cause big losers and therefore political resistance. In other words we use financial incentives to promote wider forms of entrepreneurship for public benefit.
+The way that we need to set up this tax system needs to maximise the effect whilst minimising the resistance. It's this sort of system that can maximise the good that can be achieved. This is true in two areas in particular: in environmental/energy policy and in housing policy. If you want to have a big effect, you need a big incentive. But big incentives cause big losers and therefore, political resistance. In other words, we use financial incentives to promote wider forms of entrepreneurship for public benefit.
 
 What can individuals and groups do to promote a better tax and welfare system? Economic justice campaigners seek to eliminate the evident unfairness of the current taxation and benefits system. Environmental and housing tax campaigners seek to use the tax system to make the private sector work for greater public good. Simplicity campaigners seek a simpler, more usable system. Tax Heaven combines these motivations to argue for a fair, good and simple tax and social security system. It provides a rallying point of key ideas that could be implemented immediately. 
 
 ## Plan of the Book
 
-This chapter considers the core questions and theses of the book, emphasizing where() perhaps!) our ideas are new or innovative. . 
+This chapter considers the core questions and theses of the book, emphasizing where() perhaps(!) our ideas are new or innovative.  
 
-Chapter 1 defines defines a new economic model. It defines the economic objective as preserving and enhancing genuine wealth rather than activity and defines wealth at four levels.
+Chapter 1 defines a new economic model. It defines the economic objective as preserving and enhancing genuine wealth rather than activity and defines wealth at four levels.
 
 Chapter 2A considers economic reform and economic justice in history, starting with Adam Smith. It introduces the Adam Smith model as a point of departure.
 
 Chapter 2B outlines the principles of the Beveridge report. Like Beveridge, we want to produce a *radical, comprehensive* analysis of tax and welfare that provides the basis of a new *social contract* between individuals and the state.
 
-Chapter 3 build a conceptual model of the economy. To assess any policy proposal we need a model of the world accurate for the purposes to which we put it. No model of the world is completely accurate. But we do need a model that deals with the major important economic, social and environmental phenomena in it. Without that, our advice will be askew. We set out key ideas and how they make our picture of the world richer and more realistic. [To Be Implemented: Empirically we should ask the hypothetical question: *how would the world be different if this or that assumption were true*. We then use quantitative data to see which assumption is appropriate.]
+Chapter 3 builds a conceptual model of the economy. To assess any policy proposal, we need a model of the world accurate for the purposes to which we put it. No model of the world is completely accurate. But we do need a model that deals with the most important economic, social and environmental phenomena in it. Without that, our advice will be askew. We set out key ideas and how they make our picture of the world richer and more realistic. [To Be Implemented: Empirically, we should ask the hypothetical question: *how would the world be different if this or that assumption were true*. We then use quantitative data to see which assumption is appropriate.]
 
 Chapter 4 builds a conceptual model of politics. We mention briefly some simple ideas in power politics, the economics of collective action and the legal and political institutions available to us to fix global problems. Sometimes seem to lack the capacity to tackle international issues such climate change and tax evasion. We define a better way forward, consistent with the requirements of the future and the institutional tools available to us. We consider what is realistically needed to fairly transition to a better system in a popular fashion.
 
