@@ -10,7 +10,7 @@ It is odd, after all, that Clooney and his men felt they needed to take such a s
 
 First, the seas were no longer as plentiful as they once were. In the past [when?] the Grand Banks off Newfoundland teemed with fish. But overfishing led to a collapse in fish stocks. Similarly, the fishermen whilst having a valuable profession, do not own exclusive rights to fish. 
 
-Second, the fishermen lacked economic security in their lives. They had to fish or go bust. Beyond their own homes, they owned little. Their boats were owned by investors who expected a return and did nothing so dangerous as to actually head out to sea. An absentee landlord, he simply rented out the boat and lived off the surplus. We never meet him but his presence makes himself felt. The fishermen were economically expendable, a bit like low-value fish that are disposed off the side.
+Second, the fishermen lacked economic security in their lives. They had to fish or go bust. Beyond their own homes, they owned little. Their boats were owned by investors who expected a return and did nothing so dangerous as to actually head out to sea. An absentee landlord, he simply rented out the boat and lived off the surplus. We never meet him, but his presence makes himself felt. The fishermen were economically expendable, a bit like low-value fish that are disposed of the side.
 
 ## Turning Spaceship Earth 
 
@@ -28,7 +28,7 @@ It is concerned with how to pay for public services and social protection in a w
 
 
 
-## Thesis of the Book (Write this)
+## The thesis of the Book (Write this)
 
 - Situation: We have a market economy with competition, growth and technological progress.
 - Complication: But we have poverty and pollution.
@@ -37,7 +37,7 @@ It is concerned with how to pay for public services and social protection in a w
 
 The core theses of this book are:
 
-1. The cause of environmental destruction is failure of regulation, specifically the lack of appropriate pricing of environmental damage.
+1. The cause of environmental destruction is a failure of regulation, specifically the lack of appropriate pricing of environmental damage.
 2. The cause of inequality is non-degrading private property in limited things such as land and corporations with market power.
 3. The cause of failure to implement appropriate policy is a lack of an appropriate theory of change.
 
@@ -45,7 +45,7 @@ In more detail:
 
 1. Wicked Externalities
    1. There are externalities and they are significant (descriptive point)
-   2. If there are external effects they should be accounted for in the tax system (theoretical point)
+   2. If there are external effects, they should be accounted for in the tax system (theoretical point)
    3. Carbon Tax will have the desired effect (functional point)
    4. If we make those tax changes, we should have a certain response (responsive point)
 2. Monopoly and Poverty
@@ -70,7 +70,7 @@ We are fundamentally interested in an economy that is fit for our children.
 
 ## An Economy Fit for Our Children
 
-There has been tremendous technological progress and economic growth. But we still have problems. Those problems can perhaps be described as on one hand economic insecurity and on the other hand damaging our ecological environment. Thus, we need an economics that not only considers the parts of the economy that are additive (growth economics), but also those that are fixed (distribution economics) and those that are subtractable (environmental economics).
+There has been tremendous technological progress and economic growth. But we still have problems. Those problems can perhaps be described as on one hand economic insecurity and on the other hand, damaging our ecological environment. Thus, we need an economics that not only considers the parts of the economy that are additive (growth economics) but also those that are fixed (distribution economics) and those that are subtractable (environmental economics).
 
 What would an economy fit for our children look like? I think it would have two important aspects. Firstly, the beautiful things that require care, like the natural environment, would be preserved. Second, the limited things would not be preserved.
 
