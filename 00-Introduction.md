@@ -10,7 +10,7 @@ It is odd, after all, that Clooney and his men felt they needed to take such a s
 
 First, the seas were no longer as plentiful as they once were. In the past [when?] the Grand Banks off Newfoundland teemed with fish. But overfishing led to a collapse in fish stocks. Similarly, the fishermen whilst having a valuable profession, do not own exclusive rights to fish. 
 
-Second, the fishermen lacked economic security in their lives. They had to fish or go bust. Beyond their own homes, they owned little. Their boats were owned by investors who expected a return and did nothing so dangerous as to actually head out to sea. An absentee landlord, he simply rented out the boat and lived off the surplus. We never meet him but his presence makes himself felt. The fishermen were economically expendable, a bit like low value fish that are disposed off the side.
+Second, the fishermen lacked economic security in their lives. They had to fish or go bust. Beyond their own homes, they owned little. Their boats were owned by investors who expected a return and did nothing so dangerous as to actually head out to sea. An absentee landlord, he simply rented out the boat and lived off the surplus. We never meet him but his presence makes himself felt. The fishermen were economically expendable, a bit like low-value fish that are disposed off the side.
 
 ## Turning Spaceship Earth 
 
@@ -76,7 +76,7 @@ What would an economy fit for our children look like? I think it would have two 
 
 This book is about economics for a certain type of world. In this world, there are some goods that can be added to, either in quantity or quality; there are some goods that are fundamentally fixed; and there are some goods that can be degraded or destroyed. By 'goods' I mean broadly useful natural or artificial things. These positive, limited or negative things can apply to both public and private goods. 
 
-Environmental economists distinguish between goods that are *excludible* and those that are *rival*. Related to rivalness is *subtractiblity*. So pure public goods are non-rival and non-excludable. Club goods (for example, watching a pay-per-view sports match) are non-rival (it doesn't cost anything for someone extra to watch it) but excludible. Common pool resources are rival but non-excludible. They are also subtractable.
+Environmental economists distinguish between goods that are *excludible* and those that are *rival*. Related to rivalness is *subtractability*. So pure public goods are non-rival and non-excludable. Club goods (for example, watching a pay-per-view sports match) are non-rival (it doesn't cost anything for someone extra to watch it) but excludible. Common pool resources are rival but non-excludible. They are also subtractable.
 
 
 ## Economics, Opportunity and Hope
