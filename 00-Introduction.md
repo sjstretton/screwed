@@ -31,13 +31,13 @@ It is concerned with how to pay for public services and social protection in a w
 ## Thesis of the Book (Write this)
 
 - Situation: We have a market economy with competition, growth and technological progress.
-- Complication: But we have poverty and pollution
+- Complication: But we have poverty and pollution.
 - Question: How do we fix these issues of poverty and pollution?
-- Answer: Carbon Tax and LVT but tailored for a change management political evolutionary landscape
+- Answer: Carbon Tax and LVT but tailored for a change management political evolutionary landscape.
 
 The core theses of this book are:
 
-1. The cause of environmental destruction is failure of regulation, specifically the lack of appropriate pricing of environmental damage
+1. The cause of environmental destruction is failure of regulation, specifically the lack of appropriate pricing of environmental damage.
 2. The cause of inequality is non-degrading private property in limited things such as land and corporations with market power.
 3. The cause of failure to implement appropriate policy is a lack of an appropriate theory of change.
 
@@ -46,8 +46,8 @@ In more detail:
 1. Wicked Externalities
    1. There are externalities and they are significant (descriptive point)
    2. If there are external effects they should be accounted for in the tax system (theoretical point)
-   3. Carbon Tax will have desired effect (functional point)
-   4. if we make those tax changes we should have a certain response (responsive point)
+   3. Carbon Tax will have the desired effect (functional point)
+   4. If we make those tax changes, we should have a certain response (responsive point)
 2. Monopoly and Poverty
    1. There are non-productive (monopoly) assets (descriptive point)
    2. If there are monopoly assets, then it's efficient and equitable to tax them (theoretical point)
