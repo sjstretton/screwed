@@ -1,4 +1,5 @@
-# 0. INTRODUCTION
+# 0. INTRODUCTION (Early Draft)
+
 ## A Perfect Storm
 
 The film 'A Perfect Storm' describes a true story of a fishing trawler facing a particularly wicked storm. A ship's captain and his fellow New England fishermen had fallen on hard times after poor catches. The captain, played by George Clooney, had assembled a crew and hired a boat to go out for one last fishing trip before the season was out. They sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish and turned for home, hoping to get the catch back whilst still fresh. 
@@ -22,9 +23,10 @@ Also, we have little idea how the controls of the Spaceship work. And there is l
 ## About This Book
 
 This book is addressed to those who are looking for a new economic model for rich and poor countries across the world. The intended audience includes economists, scientists, politicians, businesspeople, other professionals, and interested members of the general public.
-he book is concerned with how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent',  international flows of money and assets. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without governance systems to constrain them. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies, leading to expensive housing, stagnating wages and wealth gains for the already rich. International tax  avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep. 
 
 It is concerned with how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent',  and 'international flows of money and assets'. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without governance systems to constrain them. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies, leading to expensive housing, stagnating wages and wealth gains for the already rich. International tax avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep. 
+
+
 
 ## Thesis of the Book (Write this)
 
@@ -56,21 +58,23 @@ In more detail:
    2. Resistance is associated with perceived concentrated financial losses
    3. Instead, minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
 
+
+
 ## Scope
 
 The central concern of the book is the use of the tax system for public benefit: to solve the critical challenges facing our societies including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems. The book proposes a simple and effective tax and social security system to solve these problems and to enhance genuine wealth at the level of the individual, community, nation state and planet.
 
-We are interested in two other systems in particular that overlap with the tax system: the financial and monetary system, the social security (also known as welfare or 'benefits') system including skills training. The examples given relate to the reform of the UK tax and welfare system, but the ideas herein are intended to be applicable to most societies around the world. Out of scope is the detail of the benefits system and the detailed technicalities of how some taxes  work at the moment. We keep it to the broad scale big picture more than the accounting of taxes, although we do cover some implementation choices.
+We are interested in two other systems in particular that overlap with the tax system: the financial and monetary system, the social security (also known as welfare or 'benefits') system including skills training. The examples given relate to the reform of the UK tax and welfare system, but the ideas herein are intended to be applicable to most societies around the world. Out of scope is the detail of the benefits system and the detailed technicalities of how some taxes work at the moment. We keep it to the broad scale big picture more than the accounting of taxes, although we do cover some implementation choices.
 
 We are fundamentally interested in an economy that is fit for our children.
 
-## An Economy Fit For Our Children
+## An Economy Fit for Our Children
 
-There has been tremendous technological progress and economic growth. But we still have problems. Those problems can perhaps be described as on one hand economic insecurity and on the other hand damaging our ecological environment. Thus we need an economics that not only considers the parts of the economy that are additive (growth economics), but also those that are fixed (distribution economics) and those that are subtractable (environmental economics).
+There has been tremendous technological progress and economic growth. But we still have problems. Those problems can perhaps be described as on one hand economic insecurity and on the other hand damaging our ecological environment. Thus, we need an economics that not only considers the parts of the economy that are additive (growth economics), but also those that are fixed (distribution economics) and those that are subtractable (environmental economics).
 
-What would an economy fit for our children look like? I think it would have two important aspects. Firstly the beautiful things that require care, like the natural environment, would be preserved. Second, the limited things would not be 
+What would an economy fit for our children look like? I think it would have two important aspects. Firstly, the beautiful things that require care, like the natural environment, would be preserved. Second, the limited things would not be preserved.
 
-This book is about economics for a certain type of world. In this world there are some goods that can be added to, either in quantity or quality; there are some goods that are fundamentally fixed; and there some goods that can be degraded or destroyed.By 'goods' I mean broadly useful natural or artificial things. These positive, limited or negative things can apply to both public and private goods. 
+This book is about economics for a certain type of world. In this world, there are some goods that can be added to, either in quantity or quality; there are some goods that are fundamentally fixed; and there are some goods that can be degraded or destroyed. By 'goods' I mean broadly useful natural or artificial things. These positive, limited or negative things can apply to both public and private goods. 
 
 Environmental economists distinguish between goods that are *excludible* and those that are *rival*. Related to rivalness is *subtractiblity*. So pure public goods are non-rival and non-excludable. Club goods (for example watching a pay-per-view sports match) are non-rival (it doesn't cost anything for someone extra to watch it) but excludible. Common pool resources are rival but non-excludible. They are also subtractable.
 
@@ -86,6 +90,8 @@ An economy that is good for people and for the planet is also one that is functi
 A good society promotes the wealth and happiness of its citizens. Thus we argue for a society and economy that defines, preserves or creates, and fairly distributes  natural and humanly-created wealth. Happiness implies a different metric than mere activity: humans need both security and purpose. The challenges of the future give us our purpose and will undermine our security if we do not face them with full commitment. 
 
 Our vision of the tax system interacts with the benefits and training system, the finance system, the energy system and the housing system. In short our vision is for a new tax and welfare system that taxes the right things and thus leads to the production and preservation of wealth rather than the extraction and enclosure of wealth by those with more power. In other words, it leads to the private sector having new purpose to grow opportunity in our society. We do this through a transformation of the incentives.
+
+
 
 ## A Theory of Change
 
