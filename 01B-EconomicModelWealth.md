@@ -2,11 +2,11 @@
 
 ## Historical Case Studies
 
-We wish not just to minimise the costs of taxation, but rather to aim for taxes, where possible, that are actively beneficial. Good taxes would shape the profit motive towards the needs of people, communities, and the living planet on which we all depend. Here we seek a tax and social security system that is not only fair and practical, but also beneficial to everyday people, our country and our world. Our argument would be more concrete if we could point to situations around the world where this might happen.
+We wish not just to minimise the costs of taxation, but rather to aim for taxes, where possible, that are actively beneficial. Good taxes would shape the profit motive towards the needs of people, communities, and the living planet on which we all depend. Here, we seek a tax and social security system that is not only fair and practical but also beneficial to everyday people, our country and our world. Our argument would be more concrete if we could point to situations around the world where this might happen.
 
 **Welfare and Work -- Beveridge and the UK in the late 1940s**
 
-As we discuss in chapter 3, the Beveridge report shows a possible way forward for welfare. Before the second world war, the five social evils of Want, Squalor, Idleness, Disease and Ignorance ravaged the poor in Britain. the second world war destroyed many buildings, homes and businesses alike, and increased the government and external debt. But yet the post war government managed to create a comprehensive welfare state where none existed before: a health service, It also managed its debt.
+As we discuss in chapter 3, the Beveridge report shows a possible way forward for welfare. Before the second world war, the five social evils of Want, Squalor, Idleness, Disease and Ignorance ravaged the poor in Britain. The second world war destroyed many buildings, homes and businesses alike, and increased the government and external debt. But yet, the post war government managed to create a comprehensive welfare state where none existed before: a health service. It also managed its debt.
 
 **Finance: Financial 'Repression' in the UK in the period 1945-1980**
 
