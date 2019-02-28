@@ -8,7 +8,7 @@ This document contains the overarching material for 'Tax Heaven'. It contains:
 - Specification of Different Releases of the Book (to be updated)
 - Fast facts for Publishers
 - About the Team 
-- A 5000 word Summary
+- A 5000-word Summary
 - Notes on Thought Toolkits (Conceptual Ideas behind book)
 - Chapter Summaries of some of the core chapters
 
