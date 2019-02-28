@@ -6,7 +6,7 @@ We wish not just to minimise the costs of taxation, but rather to aim for taxes,
 
 **Welfare and Work -- Beveridge and the UK in the late 1940s**
 
-As we discuss in chapter 3, the Beveridge report shows a possible way forward for welfare. Before the second world war, the five social evils of Want, Squalor, Idleness, Disease and Ignorance ravaged the poor in Britain. The second world war destroyed many buildings, homes and businesses alike, and increased the government and external debt. But yet, the post war government managed to create a comprehensive welfare state where none existed before: a health service. It also managed its debt.
+As we discuss in chapter 3, the Beveridge report shows a possible way forward for welfare. Before the second world war, the five social evils of Want, Squalor, Idleness, Disease and Ignorance ravaged the poor in Britain. The second world war destroyed many buildings, homes and businesses alike, and increased the government and external debt. But yet, the post-war government managed to create a comprehensive welfare state where none existed before: a health service. It also managed its debt.
 
 **Finance: Financial 'Repression' in the UK in the period 1945--1980**
 
@@ -26,7 +26,7 @@ Three European countries show that a carbon tax can work exactly as planned. Swe
 
 ## Four-Fold Way
 
-We suggest four forms of entrepreneurship. Firstly, public good entrepreneurship: we suggest that the private sector be turned over to public good provision. The obvious example is green entrepreneurship, but we also suggest ways that companies can tackle other global issues such as the lack of good antibiotics. The second issue is state capitalism entrepreneurship. This involves both the state and capitalists. The third is municipal land value entrepreneurship, as has been seen in Singapore and Hong Kong. The fourth is skill based personal and social entrepreneurship. 
+We suggest four forms of entrepreneurship. Firstly, public good entrepreneurship: we suggest that the private sector be turned over to public good provision. The obvious example is green entrepreneurship, but we also suggest ways that companies can tackle other global issues such as the lack of good antibiotics. The second issue is state capitalism entrepreneurship. This involves both the state and the capitalists. The third is municipal land value entrepreneurship, as has been seen in Singapore and Hong Kong. The fourth is skill based personal and social entrepreneurship. 
 
 There's a fifth overarching concept too, which we term policy entrepreneurship. That is, we should break out of the monopoly of thought imposed on us by neoclassical economics and neoliberal economic ideas. These forms of entrepreneurship imply a new growth model for everyone, one that is not based on increasing financialisation and debt issued on limited assets but rather the development of productive industries solving our collective problems.
 
@@ -36,7 +36,7 @@ We will set out how, on a consumption basis, \*taxing\* the environmental damage
 
 We also have some reforms for the benefits and training system. We suggest a dividend for everyone, a cheque in the post -- and to integrate the tax and benefits system, replacing means testing with taxation (since it achieves the same thing, taking money away from people as they earn more). We also suggest an active benefits system for training people in high skills. We suggest the accumulation of wealth across the poor, rather than the government having the responsibility to support them. Then, when people pay their tax, some of that tax would be set aside as a contribution that will fund the purchase of assets, a return to a contributory tax system.
 
-Finally, we suggest changes to the financial system. Allied to our tax on wealth is a tax on lending on unproductive wealth. Thus, we encourage investment across the economy. We use the financial system to actively promote the capture of land rent for public purposes. We suggest particularly low-cost loans for the building a new cost infrastructure, in this country and around the world. Finance is particularly international and lending can ensure that everyone gets enough energy.
+Finally, we suggest changes to the financial system. Allied to our tax on wealth is a tax on lending on unproductive wealth. Thus, we encourage investment across the economy. We use the financial system to actively promote the capture of land rent for public purposes. We suggest particularly low-cost loans for the building a new cost infrastructure, in this country and around the world. Finance is mainly international, and lending can ensure that everyone gets enough energy.
 
 ## Four Crucial Benefits of Good Taxes
 
