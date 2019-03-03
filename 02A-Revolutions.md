@@ -1,6 +1,6 @@
-# 1. REVOLUTIONS IN THE MINDS OF MEN (Late Draft)
+# PART 2: TAX AND WELFARE IN HISTORY
 
-## The Wealth of Nations
+# 2-1: Revolutions in the Minds of Men
 
 UNDER THE STARRY SKIES, far away from the everyday hustling and bustling of the commercial metropolis, sits a professor, beavering away at his manuscript. The year is 1773; the location Kirkaldy, a small town in Scotland; the author, Adam Smith. The full title of Smith's great work would be "An Inquiry into the Nature and Causes of the Wealth of Nations".
 

@@ -1,4 +1,4 @@
-# 3. DESERT ISLAND POLITICAL ECONOMY (Early Draft)
+# PART 3: DESERT ISLAND POLITICAL ECONOMY
 
 The purpose of this section is to take you on a whirlwind tour of some important ideas in economics and the history of economic ideas. We shall introduce these ideas through stories on a set of islands, which we will call The Economic Archipelago (the 'Tea Islands'). (In the subsequent chapter we will introduce these same ideas more formally using a different analogy: the cake.)
 
@@ -131,7 +131,7 @@ Alternatively, if the rabbits do run freely between plots, there will need to be
 - Monopoly (could add to example earlier)
 - Urban Land and Urban Land Rent
 
-# Appendix to chapter 3. THE ECONOMIC CAKE (Late draft)
+## Appendix to chapter 3. THE ECONOMIC CAKE (Late draft)
 
 In the last chapter we introduced an archipelago of islands and showed the different economic issues that come about. In this section we formalise these arguments in another way, in relation to the analogy of making a cake.
 

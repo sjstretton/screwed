@@ -1,5 +1,6 @@
-# V. COLLECTIVE ACTION TOOLKIT
+# PART 4: POLITICAL CHANGE TOOLKIT
 
+# 4-1: Collective Action
 Climate Change has been described as a 'super-wicked' problem. What does this mean? It has characteristics of wickedness plus more.
 
 ## Two Traditions in Political Science

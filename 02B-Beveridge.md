@@ -1,4 +1,4 @@
-# 2. BEVERIDGE'S SOCIAL CONTRACT (Early Draft)
+# 2-2: Beveridge and The Social Contract
 
 Further down the street from Peter and Lucy lives Fred. Fred is on benefits. He once took a job, but he found that once this happened his benefits were cut off. There was a gap between his new wage and the benefits coming in. Thanks to this he didn't have the money for the rent. The UK has rolled out a reform known as 'Universal Credit', which integrates four income-related benefits into one. The 'benefits withdrawal' rate (in effect the income tax on additional income) on Universal Credit is 'only' 63%, which means that you only lose two thirds of the extra income you got.
 
