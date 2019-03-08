@@ -2,9 +2,10 @@
 1. Story
 2. Key Message
 3. Scope
-4. Roadmap for the rest of the book
+4. Recapitulation/Motivation
+5. Roadmap for the rest of the book
 
-## A Perfect Storm
+# Story: A Perfect Storm and Turning the Ship 
 
 The film 'A Perfect Storm' describes a true story of a fishing trawler facing a particularly wicked storm. A ship's captain and his fellow New England fishermen had fallen on hard times after poor catches. The captain, played by George Clooney, had assembled a crew and hired a boat to go out for one last fishing trip before the season was out. They sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish and turned for home, hoping to get the catch back whilst still fresh. 
 
@@ -16,14 +17,13 @@ First, the seas were no longer as plentiful as they once were. In the past [when
 
 Second, the fishermen lacked economic security in their lives. They had to fish or go bust. Beyond their own homes, they owned little. Their boats were owned by investors who expected a return and did nothing so dangerous as to actually head out to sea. An absentee landlord, he simply rented out the boat and lived off the surplus. We never meet him, but his presence makes himself felt. The fishermen were economically expendable, a bit like low-value fish that are disposed of the side.
 
-## Turning Spaceship Earth 
-
 What has the perfect storm got to do with the global situation? Quite a lot, perhaps. We on Earth are perhaps facing a similar situation to Clooney's character and his crew. There are warnings of a dangerous climactic and environmental future for the world on the path currently taken. Clever people disagree over whether to take the environmental warning seriously or not: some of us think it's all a hoax, others say it's just natural variability.  We need to decide how to interpret these warnings -- whether to ignore them, like the fateful crew, or to take them seriously. 
 
 But even if we don't ignore the warnings, we have another problem. You and I don't control the direction of the world economy. There is no single captain of spaceship earth. 
 
 Also, we have little idea how the controls of the Spaceship work. And there is little focus on the practicalities of what to do next. This book attempts to use the tax and financial system to change the incentives of the private sector to do the right thing. And it deals with the question of how to make the change.
 
+# Key Message
 ## About This Book
 
 This book is addressed to those who are looking for a new economic model for rich and poor countries across the world. The intended audience includes economists, scientists, politicians, businesspeople, other professionals, and interested members of the general public.
@@ -63,7 +63,7 @@ In more detail:
 
 
 
-## Scope
+# Scope
 
 The central concern of the book is the use of the tax system for public benefit: to solve the critical challenges facing our societies including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems. The book proposes a simple and effective tax and social security system to solve these problems and to enhance genuine wealth at the level of the individual, community, nation state and planet.
 
@@ -71,6 +71,7 @@ We are interested in two other systems in particular that overlap with the tax s
 
 We are fundamentally interested in an economy that is fit for our children.
 
+# Recapitulation 
 ## An Economy Fit for Our Children
 
 There has been tremendous technological progress and economic growth. But we still have problems. Those problems can perhaps be described as on one hand economic insecurity and on the other hand, damaging our ecological environment. Thus, we need an economics that not only considers the parts of the economy that are additive (growth economics) but also those that are fixed (distribution economics) and those that are subtractable (environmental economics).
@@ -101,7 +102,7 @@ The way that we need to set up this tax system needs to maximise the effect whil
 
 What can individuals and groups do to promote a better tax and welfare system? Economic justice campaigners seek to eliminate the evident unfairness of the current taxation and benefits system. Environmental and housing tax campaigners seek to use the tax system to make the private sector work for greater public good. Simplicity campaigners seek a simpler, more usable system. Tax Heaven combines these motivations to argue for a fair, good and simple tax and social security system. It provides a rallying point of key ideas that could be implemented immediately. 
 
-## Plan of the Book
+# Plan of the Book
 
 This chapter considers the core questions and theses of the book, emphasizing where() perhaps(!) our ideas are new or innovative.  
 
