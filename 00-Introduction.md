@@ -16,8 +16,7 @@ What has this perfect storm got to do with the global situation? Quite a lot, pe
 
 But even if we don't ignore the warnings, we have another problem. You and I don't control the direction of the world economy. There is no single captain of the good ship Earth.
 
-Also, we have little idea how the controls work of the ship of Earth. And there is little focus on the practicalities of what to do next. 
-This book is about a particular set of controls on our economic system. Like Clooney's ship has a motor and a rudder, to control its direction, we argue that the economy also has a set of controls which decide on the direction which it takes. These controls are the systems of taxation, property and finance, which are the scope of this book. This book attempts to use the tax and financial system to change the incentives of the private sector to do the right thing. And it deals with the question of how to make the change.
+To change direction of the ship we also need to understand the controls. This book is about a particular set of controls on our economic system. Like Clooney's ship has a motor and a rudder, to control its direction, we argue that the economy also has a set of controls which decide on the direction which it takes. These controls are the systems of taxation, property and finance, which are the scope of this book. This book attempts to use the tax and financial system to change the incentives of the private sector to do the right thing. And it deals with the question of how to make the change.
 
 But isn't this very collectivist? Surely we should argue that the interests of people are individually determined. People should be free to do what they want, without the government directing them, we might argue? And hasn't the market economy actually had a good record? We are richer, more secrure and have a lower chance of dying that previous times. 
 
