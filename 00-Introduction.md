@@ -1,71 +1,102 @@
 # PART 0. INTRODUCTION
-## A Perfect Storm
 
-The film 'A Perfect Storm' describes a true story of a fishing trawler facing a particularly wicked storm. A ship's captain and his fellow New England fishermen had fallen on hard times after poor catches. The captain, played by George Clooney, had assembled a crew and hired a boat to go out for one last fishing trip before the season was out. They sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish and turned for home, hoping to get the catch back whilst still fresh. 
+# Story: Turning the Ship away from the Perfect Storm
 
-Unfortunately, a storm was brewing, and not just any storm. Three separate weather systems had merged to create a 'weather bomb'. Meteorologists warned of a serious threat to any fishing boats that braved what would become an epic storm. The fishermen faced the difficult question:  whether to attempt to land their catch whilst still fresh by heading home straight through the storm, or avoid the storm by staying in the mid-Atlantic until the weather system passed and risk the fish being no longer fresh enough to sell once back. Added to this dilemma were communications and leadership difficulties. Communications between the weather forecasters and the boat were interrupted by the degradation of the communications systems. The captain, whilst charismatic, also betrayed hubris and poor judgment.
+The film 'A Perfect Storm' describes a true story of a fishing trawler facing a particularly wicked storm. A ship's captain and his fellow New England fishermen had fallen on hard times after poor catches. The captain, played by George Clooney, had assembled a crew and hired a boat to go out for one last fishing trip before the fishing season was out. They sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish and turned for home, hoping to get the catch back whilst still fresh. 
 
-It is odd, after all, that Clooney and his men felt they needed to take such a severe risk. Why were they in that situation in the first place? Whilst we cannot read other people's minds (let alone the minds of the dead) we can say that there are two main reasons for the original plight of the fishermen which led them to take such extreme risks: environmental damage and economic insecurity. 
+Unfortunately, a storm was brewing, and not just any storm. Three separate weather systems had merged to create a 'weather bomb', a storm of unsual intensity. Meteorologists warned of a serious threat to any fishing boats that braved what would become an epic storm. The fishermen faced a difficult question. Should the attempt to land their catch whilst still fresh by heading straight home through the storm. Or shoudl they avoid the storm by staying in the mid-Atlantic until the weather system passed, and risk the fish being no longer fresh enough to sell once they returned to port. Added to this dilemma were communications and leadership difficulties. Communications between the weather forecasters and the boat were interrupted by the degradation of the communications system on the boat. The captain, whilst charismatic, also was hubristic and lacked good judgment.
+
+It seems odd that Clooney and his men took such a severe risk. Why were they in that situation in the first place? There are two underlying reasons: environmental damage and economic insecurity. 
 
 First, the seas were no longer as plentiful as they once were. In the past [when?] the Grand Banks off Newfoundland teemed with fish. But overfishing led to a collapse in fish stocks. Similarly, the fishermen whilst having a valuable profession, do not own exclusive rights to fish. 
 
-Second, the fishermen lacked economic security in their lives. They had to fish or go bust. Beyond their own homes, they owned little. Their boats were owned by investors who expected a return and did nothing so dangerous as to actually head out to sea. An absentee landlord, he simply rented out the boat and lived off the surplus. We never meet him, but his presence makes himself felt. The fishermen were economically expendable, a bit like low-value fish that are disposed of the side.
+Second, the fishermen lacked economic security in their lives. They had to fish or go bust. Beyond their own homes, they owned little. Their boats were owned by investors who expected a return and did nothing so dangerous as to actually head out to sea. An absentee landlord, he simply rented out the boat and lived off the surplus. We never meet him, but his presence makes himself felt. The fishermen were economically expendable, a bit like the low-value fish that are thrown off the side of the boat.
 
-## Turning Spaceship Earth 
+What has this perfect storm got to do with the global situation? Quite a lot, perhaps. We, on Earth, are facing a similar situation to Clooney's character and his crew. There are warnings of a dangerous future clmate for the planet on the path currently taken. Clever people disagree over whether to take the environmental warning seriously or not. Some think it's all a hoax, others say it's just natural variability. We need to decide how to interpret these warnings -- whether to ignore them, like the fateful crew in Clooney's boat, or to take them seriously. 
 
-What has the perfect storm got to do with the global situation? Quite a lot, perhaps. We on Earth are perhaps facing a similar situation to Clooney's character and his crew. There are warnings of a dangerous climactic and environmental future for the world on the path currently taken. Clever people disagree over whether to take the environmental warning seriously or not: some of us think it's all a hoax, others say it's just natural variability.  We need to decide how to interpret these warnings -- whether to ignore them, like the fateful crew, or to take them seriously. 
+But even if we don't ignore the warnings, we have another problem. You and I don't control the direction of the world economy. There is no single captain of the good ship Earth.
 
-But even if we don't ignore the warnings, we have another problem. You and I don't control the direction of the world economy. There is no single captain of spaceship earth. 
+To change direction of the ship we also need to understand the controls. This book is about a particular set of controls on our economic system. Like Clooney's ship has a motor and a rudder, to control its direction, we argue that the economy also has a set of controls which determine the direction it takes. These controls are the systems of taxation, property and finance, which are the scope of this book. This book attempts to use the tax and financial system to change the incentives of the private sector to do the right thing. And it deals with the question of how to make the change.
 
-Also, we have little idea how the controls of the Spaceship work. And there is little focus on the practicalities of what to do next. This book attempts to use the tax and financial system to change the incentives of the private sector to do the right thing. And it deals with the question of how to make the change.
+But isn't this very collectivist? Surely, the interests of people are rightly individually determined? People should be free to do what they want, without the government directing them. And hasn't the market economy had a good record? We are richer, more secure, and have a lower chance of dying than previous times. 
 
-## About This Book
+This book argues that this is all true, but we should note something else. As the world economy becomes more integrated, the fate of each of us is more strongly linked to evyone else. The members of Clooney crew might well have different preferences. Some wanted to get home early to see their loved ones, others wanted to stay out at sea to make money. But the fate of the crew was also linked. Nobody really had the choice to exit the boat early. They had to decide together on the course. 
 
+As the world economy becomes more linked, and as we reach the planetary boundaries of how much humanity can exploit nature without serious consequences, we also find our fates more heavily linked. Whatever our individual preferences are, we also face issues in common. And thus, we need everyone on the boat to be contributing positively to the correct decision and the correct outcome that preserves the people and nature. 
+
+After all, we are, globally, in the same boat and will live or die together.
+
+# Key Message
+
+This book is about the economic conditions for widely-spread and sustainable prosperity. Why, given great technological and economic progress, do we still have problems? Why, amidst so much wealth, are our lives so economically precarious? If in the 1960s, it took an average person in the UK on average wages four years wages to buy their own home, why now does it take an average person on average wages ten years buy the same home -- if, that is, they have anything left over to save up after paying their current landlord? If we have all the technology to solve our environmental problems -- climate change, plastic pollution and overfishing for example -- then why are we not solving these problems? If we can find the root cause, then we will perhaps be able to find a remedy.  
+
+The 19th century writer Henry George’s book *Progress and Poverty* also asked a similar question. Why, given technological progress, did we still have so much poverty? He argued  that it was the private ownership of land that caused poverty. And that problem still arises today. It's the location of houses that gives them their value. the reason we cannot easily buy a good home, is that the land underneath the home is privately owned and highly valuable. George argued to tax land value and to eliminate other taxes. 
+
+Today we face the same problem, but also environmental destruction. We have a market economy, in most of the world, with competition, growth and technological progress. But we still have economic precariousness and environmental pollution, despite having the wealth and technological ability to prevent them. Our economic system is not allowing us to take full advantage of the progress that we make. So why do we have these problems of pollution and precariousness? We identify three phenomena described by the great economists. 
+
+We call the first notion 'economic theft'. Economic theft (negative externalities) is when one person or company’s behaviour damages another person or the environment where the first person does not pay for it. So for example, if I throw my plastic waste into the ocean, it can then damage fish and other marine life. My careless action has stolen from the future of the ocean. 
+
+We call the second notion spillover benefit. In this case, my actions create benefits for someone else or for the natural environment but I am not paid for it. 
+
+We call the third notion generalised rent. Imagine I am a landlord. Once I own some land with property on it, I can simply sit back and enjoy the flow of income, without having to work. This flow of income is called rent. Rent goes up, as wages increase. Similarly, if I own a big monopoly with no competition, I can also own a permanent flow of profits that competition will not touch. We term these two forms of property income 'generalised rent'. Generalised rent is a permanent flow of income associated with an asset that cannot be replicated. 
+
+The result of these three economic effects is that we have too much pollution, not enough genuine wealth and economic growth that benefits the rich unfairly. In some countries, economic growth may even stop. For the planet as a whole, this model is catastrophic. This book shows a route out of this economic situation.
+
+Economists have been aware of these effects for some time. Yet, taxes which would correct these economic distortions have only been imposed occasionally and partially. Why haven’t corrective taxes been imposed? The common answer is that taxes on rent and economic theft (negative externalities) threaten powerful interests. This view has some merit. However, there is another problem. Nobody has made a sufficiently passionate and positive case for these taxes. This book aims to correct that. 
+
+Economists should work out ways to impose the economic effect of such taxes whilst minimising the resistance to them. Resistance to taxes is associated with concentrated losses on specific groups. These groups can easily mobilise to resist new taxes. So taxes, which could change the nature of these agents (for example, converting an oil company to a renewables producer) cannot be imposed because the very same agents resist the taxes as they oppose their interests. But these interests would change if the nature of the company was to change from oil to renewables. So we a have catch-22 situation. We can't change the companies without the tax. But we can't impose the tax without changing the company, since they resist politically. Instead, we need forms of tax that don't face such resistance but which lead to the transformation of companies in a positive direction. 
+
+In this book, we suggest a simple model. Rather than impose a blunt tax which directly charges for generalised rent or economic theft, we should recognise that the agents engaging in rent extraction or pollution have done so because of a societal norm. The role of taxes should be to *both* recognise the validity of their prior behaviour -- given that norm -- and to encvourage the change to a new norm. This is what we call a norm and incentive based taxation system. To put in more concrete terms, we need to give individuals and companies strong incentives to change behaviour whilst not directly threatening their financial interests. The tax gives the relevant company an incentive to change the nature of the company but does not directly threaten its interests. 
+
+Applying this model to greenhouse gas taxation gives us a feebate. A feebate would charge electricity producers for their fossil fuel inputs and would subsidise them for their production of electricity per kilowatt hour (kWh) produced. We suggest taxes on wealth based on assets and on notions of transitional justice. In other words, we should tax assets in a way that cannot be avoided, but we also should impose the tax with consideration to justice both of the system created and of the transition from the existing system to the new. In practical terms, this means taxing land values but recognising that the value paid for that land originally was earned justly.
+
+
+## Economic Thought
+
+Economics is the study of activities that are, at least in part, motivated by financial gain or that involves resources that are inherently scarce. Economics used to be called *political economy*. This term comes from Ancient Greek. Political in an older sense means ‘in relation to the *polis*’. *Polis* in turn means the city-state, the name for the political organisation in ancient Greece. Economy comes from two Greek words *Oikos*, meaning household, and *Nomos* meaning a law. Therefore, *Oikonomos* means household management and, in English, the term *political economy* comes from the notion of household management of the state.
+
+Classical political economy -- the works of Adam Smith, David Ricardo, John Stuart Mill and Karl Marx -- was written in prose. Modern economics is often written in maths! Classical political economy dealt with the economy as a dynamic process and did not shy away from grand statements about divisive topics such as how the economy distributed its gains. Thus, the works of political economy by the great authors always had questions of taxation at their heart. What is an efficient and fair taxation system given what we know about the principles of political economy? Thus at the heart of political economy has always been the question of just distribution and of taxation as a means to remedy the situation. 
+
+This makes political economy -- and now economics -- very powerful. Also it means that economics has implications for the financial interests of everyone. We can believe an economic theory for scientific reasons, but we might also support some theory because it furthers our own interests. This makes political and economic discourse somewhat fraught. It also means that there is a suspicion that the corrupting power of self-interest may affect the balance of those economic theories that are thought authoritative. In this book, we aim to reconcile classical, neoclassical, Keynesian and modern system dynamic economic thinking to give an authoritative approach.   
+
+In our chapter on economics in the book, we define some classical economic problems. One central question is: how are prices determined? From this question, we can ask: how does the economy distribute the gains from economic progress? We can also ask whether self-interest and the free market provide a desirable outcome. 
+
+Both of these questions are related not only to economic processes -- for example, production and competition -- but also to taxation and the structure of private property. What assets can be owned? And who in fact owns those assets? And how much tax should they pay for owning those assets or for engaging in some economic activity? It has been a contention of great economists that desirable economy outcomes depend not only on the structure of economic activity, but also on the taxation system and the system of property rights.
+
+Adam Smith, in his famous work *The Wealth of Nations*, set out an economic model of how economic growth could lead to widely-spread prosperity. He argued that the division of labour leads to higher levels of productivity. If an entrepreneur makes an improvement in production processes, he can lower his cost of production and still sell at the price of his competitors. In other words, he can make a profit. In the short term therefore, the advantages of his improvement accrue to him. Thus, the profit motive provides an incentive to make improvements. However, his competitors may notice the improvement that he has made and replicate it. In order to capture market share, then they will be able to lower their prices. After all the competition has taken its course, we will be left with a different situation. The price of the good concerned will have fallen to just above the new production cost. Therefore, the altered beneficiary of the technological improvement would be everyone who purchases the product concerned. In other words, technological progress, the profit motive and the process of competition leads to widely spread prosperity. 
+
+This model relies on certain assumptions. Principally, a production process, once improved, can also be replicated. There must be enough market participants for competition to work. If there is only a single monopolist or if entrance to the market is very expensive, then competition will not work as described. Instead, the beneficiary of economic activity and improvement of technological processes will be the owners of the single monopolist or the incumbent firm. 
+
+If the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords. 
+
+Usually, damaging other people or their interests for example, through injury or theft is illegal. But some economic activity which damages others is still legal. This is true, for example, in the case of pollution or traffic accidents or unhealthy food. In these cases, whilst these activities are legal and are also normal, they are nevertheless damaging. Small, indirect damages from many independent sources can add up to a lot in total. What seems acceptable when societies are small may nevertheless be unacceptable when societies grow large. For example, Newfoundland fishermen could fish without constraints when their boats were small and their numbers low. There were plenty of fish. However, fish stocks are not unlimited. There is a limit on many fish can be taken before it damages the fishery. If too many fish are taken, then the fish don’t get a chance to reproduce and the fish stocks collapse. This is what happened on the ground at Newfoundland. Fish used to be so plentiful that you could almost walk on water. But after the collapse in the fish stock, many fishermen went out of business.       
+
+## Taxation Thought
+
+One key challenge to taxation is working out a means of taxation that can tax wealth and flows of income across international boundaries. Generally, the purported issue is as follows: One cannot tax big companies or rich individuals because they will simply move their money abroad. Furthermore, we might even wish to reduce our taxes on companies in order to encourage them to locate in our country. This is problematic. 
+
+Such a challenge also applies to the taxation of fossil fuels. If we tax emissions that are produced in the UK, this might encourage UK based producers to relocate to outside of the taxation zone. However, if instead we tax emissions according to the end consumer, this would mean that imports of goods with high emissions would also be taxed. This would be helpful because firstly, it would give a true picture of the emissions that a country is responsible for due to its consumption behaviour, and secondly, it creates a true incentive for countries that produce the goods that UK consumers consume to themselves decarbonise their economy. Thirdly, taxing carbon in this way encourages the changes that we want namely, changes to production processes to reduce emissions rather than simply relocation of dirty industries abroad. 
+
+Taxation of wealth also faces similar issues. It is the purpose of the taxation theory to identify a base of taxation that is unresponsive to the tax. So in taxing wealth, we could argue for taxation of assets rather than taxation of wealthy individuals. Land is a straightforward asset to tax in this way. Land cannot just move out of the country. Taxing corporate wealth is more difficult. We need to seek a basis of taxation that is unavoidable. In this book, we suggest two radical strategies. The first is the taxation of profit based on a formula of UK sales minus UK costs. This actually encourages companies to locate their costs in the UK. The higher the tax rate, the more operations would be moved to a UK base. The second is an apportionment of multi-national wealth based on where their sales are located. In both these cases, we use consumption as an inelastic tax base.        
+
+# Scope
+
+## A New Economic Model
 This book is addressed to those who are looking for a new economic model for rich and poor countries across the world. The intended audience includes economists, scientists, politicians, businesspeople, other professionals, and interested members of the general public.
 
+## Problems in Scope
 It is concerned with how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent',  and 'international flows of money and assets'. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without governance systems to constrain them. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies, leading to expensive housing, stagnating wages and wealth gains for the already rich. International tax avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep. 
 
-
-## The thesis of the Book (Write this)
-
-- Situation: We have a market economy with competition, growth and technological progress.
-- Complication: But we have poverty and pollution.
-- Question: How do we fix these issues of poverty and pollution?
-- Answer: Carbon Tax and LVT but tailored for a change management political evolutionary landscape.
-
-The core theses of this book are:
-
-1. The cause of environmental destruction is a failure of regulation, specifically the lack of appropriate pricing of environmental damage.
-2. The cause of inequality is non-degrading private property in limited things such as land and corporations with market power.
-3. The cause of failure to implement appropriate policy is a lack of an appropriate theory of change.
-
-In more detail:
-
-1. Wicked Externalities
-   1. There are externalities and they are significant (descriptive point)
-   2. If there are external effects, they should be accounted for in the tax system (theoretical point)
-   3. Carbon Tax will have the desired effect (functional point)
-   4. If we make those tax changes, we should have a certain response (responsive point)
-2. Monopoly and Poverty
-   1. There are non-productive (monopoly) assets (descriptive point)
-   2. If there are monopoly assets, then it's efficient and equitable to tax them (theoretical point)
-   3. LVT, cashflow-deductible-investment and corporate wealth tax will have the desired effect (functional point)
-   4. If we tax them, then their price will fall; also, wealth will be transferred to productive activities increasing human wealth (responsive point).
-3. Theory of Change
-   1. Change happens when desire overcomes resistance
-   2. Resistance is associated with perceived concentrated financial losses
-   3. Instead, minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
-
-
-
-## Scope
-
+## Tools In Scope
 The central concern of the book is the use of the tax system for public benefit: to solve the critical challenges facing our societies including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems. The book proposes a simple and effective tax and social security system to solve these problems and to enhance genuine wealth at the level of the individual, community, nation state and planet.
 
 We are interested in two other systems in particular that overlap with the tax system: the financial and monetary system, the social security (also known as welfare or 'benefits') system including skills training. The examples given relate to the reform of the UK tax and welfare system, but the ideas herein are intended to be applicable to most societies around the world. Out of scope is the detail of the benefits system and the detailed technicalities of how some taxes work at the moment. We keep it to the broad scale big picture more than the accounting of taxes, although we do cover some implementation choices.
 
-We are fundamentally interested in an economy that is fit for our children.
+## Systems in Scope
+We are fundamentally interested in an economy that is fit for our children. This means that we need thje *private sector* to have the right incentives. So there are two, distinct systems that are in scope of our book. The first is, in a sense, the entire private secotor. We argue that if the private sector does not have the right incentives it will not produce the right outcomes. The second system is more technocratic: the taxation system itself, whether it works competently. The final stystem is the system of popular accountability, the question of how the taxation and welfare system can actually be *changed* by both popular will and academic thought. Is it impossible to change the systems driving our future? We argue that it is not.
 
+
+# Recapitulation 
 ## An Economy Fit for Our Children
 
 There has been tremendous technological progress and economic growth. But we still have problems. Those problems can perhaps be described as on one hand economic insecurity and on the other hand, damaging our ecological environment. Thus, we need an economics that not only considers the parts of the economy that are additive (growth economics) but also those that are fixed (distribution economics) and those that are subtractable (environmental economics).
@@ -96,7 +127,7 @@ The way that we need to set up this tax system needs to maximise the effect whil
 
 What can individuals and groups do to promote a better tax and welfare system? Economic justice campaigners seek to eliminate the evident unfairness of the current taxation and benefits system. Environmental and housing tax campaigners seek to use the tax system to make the private sector work for greater public good. Simplicity campaigners seek a simpler, more usable system. Tax Heaven combines these motivations to argue for a fair, good and simple tax and social security system. It provides a rallying point of key ideas that could be implemented immediately. 
 
-## Plan of the Book
+# Plan of the Book
 
 This chapter considers the core questions and theses of the book, emphasizing where() perhaps(!) our ideas are new or innovative.  
 
@@ -117,7 +148,3 @@ Chapter 6 considers tax in practice. We look in detail at the margins of tax avo
 Chapters 7--12 consider the sectors of the economy and their challenges. Inequality seems to be driven not only by the difference in merit but also by tax evasion and avoidance, and by unfair processes of asset price appreciation. Housing is increasingly unaffordable in many cities. Climate change and other environmental issues threaten the future of our living planet. Automation and artificial intelligence question the future of work. This section considers these sectors, their problems and some tax and benefit solutions to them. We then apply these ideas to the sectors of the economy.
 
 Chapter 13--15 contain our proposals and the quantitative modelling work on them. We use computer models to suggest the likely outcome if a recommended set of policies is implemented. We outline our proposals, model them and conclude the book in part 16. We consider any implementation challenges and how they can be overcome. We conclude the book with a rallying cry and a practical way forward.
-
-
-
-
