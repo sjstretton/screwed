@@ -74,21 +74,8 @@ Such a challenge also applies to the taxation of fossil fuels. If we tax emissio
 
 Taxation of wealth also faces similar issues. It is the purpose of the taxation theory to identify a base of taxation that is unresponsive to the tax. So in taxing wealth, we could argue for taxation of assets rather than taxation of wealthy individuals. Land is a straightforward asset to tax in this way. Land cannot just move out of the country. Taxing corporate wealth is more difficult. We need to seek a basis of taxation that is unavoidable. In this book, we suggest two radical strategies. The first is the taxation of profit based on a formula of UK sales minus UK costs. This actually encourages companies to locate their costs in the UK. The higher the tax rate, the more operations would be moved to a UK base. The second is an apportionment of multi-national wealth based on where their sales are located. In both these cases, we use consumption as an inelastic tax base.        
 
-
 # Scope
-Defining the Scope
-1. A new economic model
-2. Define the problems in scope
-   - Pollution 
-   - Distribution
-3. Define the tools in scope 
-   - Taxation
-   - Benefits
-   - Finance
-4. Define the systems in scope
-   - Changing the incentives of the private sector
-   - Improving the efficiency of one system the public system (taxation
-   
+
 ## A New Economic Model
 This book is addressed to those who are looking for a new economic model for rich and poor countries across the world. The intended audience includes economists, scientists, politicians, businesspeople, other professionals, and interested members of the general public.
 
