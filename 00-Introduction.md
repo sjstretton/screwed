@@ -19,9 +19,9 @@ Second, the fishermen lacked economic security in their lives. They had to fish 
 
 What has the perfect storm got to do with the global situation? Quite a lot, perhaps. We on Earth are perhaps facing a similar situation to Clooney's character and his crew. There are warnings of a dangerous climactic and environmental future for the world on the path currently taken. Clever people disagree over whether to take the environmental warning seriously or not: some of us think it's all a hoax, others say it's just natural variability.  We need to decide how to interpret these warnings -- whether to ignore them, like the fateful crew, or to take them seriously. 
 
-But even if we don't ignore the warnings, we have another problem. You and I don't control the direction of the world economy. There is no single captain of spaceship earth. 
+But even if we don't ignore the warnings, we have another problem. You and I don't control the direction of the world economy. There is no single captain of the good ship earth. 
 
-Also, we have little idea how the controls of the Spaceship work. And there is little focus on the practicalities of what to do next. This book attempts to use the tax and financial system to change the incentives of the private sector to do the right thing. And it deals with the question of how to make the change.
+Also, we have little idea how the controls of the ship of Earth work. And there is little focus on the practicalities of what to do next. This book attempts to use the tax and financial system to change the incentives of the private sector to do the right thing. And it deals with the question of how to make the change.
 
 # Key Message
 
@@ -66,7 +66,13 @@ If the process relies on some factor of production that cannot be replicated, fo
 
 Usually, damaging other people or their interests for example, through injury or theft is illegal. But some economic activity which damages others is still legal. This is true, for example, in the case of pollution or traffic accidents or unhealthy food. In these cases, whilst these activities are legal and are also normal, they are nevertheless damaging. Small, indirect damages from many independent sources can add up to a lot in total. What seems acceptable when societies are small may nevertheless be unacceptable when societies grow large. For example, Newfoundland fishermen could fish without constraints when their boats were small and their numbers low. There were plenty of fish. However, fish stocks are not unlimited. There is a limit on many fish can be taken before it damages the fishery. If too many fish are taken, then the fish don’t get a chance to reproduce and the fish stocks collapse. This is what happened on the ground at Newfoundland. Fish used to be so plentiful that you could almost walk on water. But after the collapse in the fish stock, many fishermen went out of business.       
 
+## Taxation Thought
 
+One key challenge to taxation is working out a means of taxation that can tax wealth and flows of income across international boundaries. Generally, the purported issue is as follows: One cannot tax big companies or rich individuals because they will simply move their money abroad. Furthermore, we might even wish to reduce our taxes on companies in order to encourage them to locate in our country. This is problematic. 
+
+Such a challenge also applies to the taxation of fossil fuels. If we tax emissions that are produced in the UK, this might encourage UK based producers to relocate to outside of the taxation zone. However, if instead we tax emissions according to the end consumer, this would mean that imports of goods with high emissions would also be taxed. This would be helpful because firstly, it would give a true picture of the emissions that a country is responsible for due to its consumption behaviour, and secondly, it creates a true incentive for countries that produce the goods that UK consumers consume to themselves decarbonise their economy. Thirdly, taxing carbon in this way encourages the changes that we want namely, changes to production processes to reduce emissions rather than simply relocation of dirty industries abroad. 
+
+Taxation of wealth also faces similar issues. It is the purpose of the taxation theory to identify a base of taxation that is unresponsive to the tax. So in taxing wealth, we could argue for taxation of assets rather than taxation of wealthy individuals. Land is a straightforward asset to tax in this way. Land cannot just move out of the country. Taxing corporate wealth is more difficult. We need to seek a basis of taxation that is unavoidable. In this book, we suggest two radical strategies. The first is the taxation of profit based on a formula of UK sales minus UK costs. This actually encourages companies to locate their costs in the UK. The higher the tax rate, the more operations would be moved to a UK base. The second is an apportionment of multi-national wealth based on where their sales are located. In both these cases, we use consumption as an inelastic tax base.        
 
 
 ## About This Book
@@ -74,38 +80,6 @@ Usually, damaging other people or their interests for example, through injury or
 This book is addressed to those who are looking for a new economic model for rich and poor countries across the world. The intended audience includes economists, scientists, politicians, businesspeople, other professionals, and interested members of the general public.
 
 It is concerned with how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent',  and 'international flows of money and assets'. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without governance systems to constrain them. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies, leading to expensive housing, stagnating wages and wealth gains for the already rich. International tax avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep. 
-
-
-## The thesis of the Book (Write this)
-
-- Situation: We have a market economy with competition, growth and technological progress.
-- Complication: But we have poverty and pollution.
-- Question: How do we fix these issues of poverty and pollution?
-- Answer: Carbon Tax and LVT but tailored for a change management political evolutionary landscape.
-
-The core theses of this book are:
-
-1. The cause of environmental destruction is a failure of regulation, specifically the lack of appropriate pricing of environmental damage.
-2. The cause of inequality is non-degrading private property in limited things such as land and corporations with market power.
-3. The cause of failure to implement appropriate policy is a lack of an appropriate theory of change.
-
-In more detail:
-
-1. Wicked Externalities
-   1. There are externalities and they are significant (descriptive point)
-   2. If there are external effects, they should be accounted for in the tax system (theoretical point)
-   3. Carbon Tax will have the desired effect (functional point)
-   4. If we make those tax changes, we should have a certain response (responsive point)
-2. Monopoly and Poverty
-   1. There are non-productive (monopoly) assets (descriptive point)
-   2. If there are monopoly assets, then it's efficient and equitable to tax them (theoretical point)
-   3. LVT, cashflow-deductible-investment and corporate wealth tax will have the desired effect (functional point)
-   4. If we tax them, then their price will fall; also, wealth will be transferred to productive activities increasing human wealth (responsive point).
-3. Theory of Change
-   1. Change happens when desire overcomes resistance
-   2. Resistance is associated with perceived concentrated financial losses
-   3. Instead, minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
-
 
 
 # Scope
@@ -171,4 +145,35 @@ Chapter 13--15 contain our proposals and the quantitative modelling work on them
 
 
 
+
+
+## Appendix to Chapter: The thesis of the Book
+
+- Situation: We have a market economy with competition, growth and technological progress.
+- Complication: But we have poverty and pollution.
+- Question: How do we fix these issues of poverty and pollution?
+- Answer: Carbon Tax and LVT but tailored for a change management political evolutionary landscape.
+
+The core theses of this book are:
+
+1. The cause of environmental destruction is a failure of regulation, specifically the lack of appropriate pricing of environmental damage.
+2. The cause of inequality is non-degrading private property in limited things such as land and corporations with market power.
+3. The cause of failure to implement appropriate policy is a lack of an appropriate theory of change.
+
+In more detail:
+
+1. Wicked Externalities
+   1. There are externalities and they are significant (descriptive point)
+   2. If there are external effects, they should be accounted for in the tax system (theoretical point)
+   3. Carbon Tax will have the desired effect (functional point)
+   4. If we make those tax changes, we should have a certain response (responsive point)
+2. Monopoly and Poverty
+   1. There are non-productive (monopoly) assets (descriptive point)
+   2. If there are monopoly assets, then it's efficient and equitable to tax them (theoretical point)
+   3. LVT, cashflow-deductible-investment and corporate wealth tax will have the desired effect (functional point)
+   4. If we tax them, then their price will fall; also, wealth will be transferred to productive activities increasing human wealth (responsive point).
+3. Theory of Change
+   1. Change happens when desire overcomes resistance
+   2. Resistance is associated with perceived concentrated financial losses
+   3. Instead, minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
 
