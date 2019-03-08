@@ -22,7 +22,9 @@ But isn't this very collectivist? Surely, the interests of people are rightly in
 
 This book argues that this is all true, but we should note something else. As the world economy becomes more integrated, the fate of each of us is more strongly linked to evyone else. The members of Clooney crew might well have different preferences. Some wanted to get home early to see their loved ones, others wanted to stay out at sea to make money. But the fate of the crew was also linked. Nobody really had the choice to exit the boat early. They had to decide together on the course. 
 
-As the world economy becomes more linked, and as we reach the planetary boundaries of how much humanity can exploit nature without serious consequences, we also find our fates more heavily linked. Whatever our individual preferences are, we also face issues in common. And thus, we need everyone on the boat to be contributing positively to the correct decision and the correct outcome that preserves the people and nature. After all, we are, globally, in the same boat and will live or die together.
+As the world economy becomes more linked, and as we reach the planetary boundaries of how much humanity can exploit nature without serious consequences, we also find our fates more heavily linked. Whatever our individual preferences are, we also face issues in common. And thus, we need everyone on the boat to be contributing positively to the correct decision and the correct outcome that preserves the people and nature. 
+
+After all, we are, globally, in the same boat and will live or die together.
 
 # Key Message
 
