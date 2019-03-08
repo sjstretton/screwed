@@ -135,7 +135,7 @@ This contains various outlines of the prescriptive outlines and the actual ones
 ## Short Outline
 
 - 1 TAX HEAVEN	*Overarching Question* What taxation and welfare system (and property rights) should exist to ensure that our economy produces social well being?
-- 2 CONCEPTS OF THE BOOK	*Defining Heaven* What sort of society do we want to live in? What is the purpose of our economy? What is a fair system of taxation and property rights (individual and collective)?
+- 2 TAX IN HISTORY: Adam Smith, 
 - 3 ECONOMICS	*Economics* How should we do economics? What is the purpose of our economy? What are the goals of the economy? How do we understand that the economy works? Outline theories of growth, distribution and allocation of resources. What predictions do those theories make? Are they born out by the evidence? How is growth, distribution of income and allocation affected by tax and social security systems?
 - 4 TAXATION IN PRINCIPLE *Defining the Problem*: What are the general principles of tax? Why/Who/Where/What/How and how much should we tax?
 - 5 TAXATION IN PRACTICE; TAX AVOIDANCE & EVASION	*Avoidance and Fraud*: How does the tax and welfare system work? Does it work well?Can a tax system be designed that is simple and yet difficult to avoid? How do we set up a tax and welfare system that is simple and not subject to avoidance, evasion and fraud?
@@ -149,6 +149,8 @@ This contains various outlines of the prescriptive outlines and the actual ones
 - 13 PROPOSALS &TRANSITION	*Proposals*: What tax and social security changes do we propose?
 - 14: MODELLING	*Modelling* What effects will these changes have? Modelling of proposals: economic and other effects
 - 15: CONCLUSIONS	*Conclusions* What conclusions can we draw?
+
+Where does this go?: CONCEPTS OF THE BOOK	*Defining Heaven* What sort of society do we want to live in? What is the purpose of our economy? What is a fair system of taxation and property rights (individual and collective)?
 
 ## Longer Outline Including Key Lessons
 
