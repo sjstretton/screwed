@@ -1,9 +1,4 @@
 # PART 0. INTRODUCTION
-1. Story
-2. Key Message
-3. Scope
-4. Recapitulation/Motivation
-5. Roadmap for the rest of the book
 
 # Story: A Perfect Storm and Turning the Ship 
 
@@ -143,38 +138,3 @@ Chapter 6 considers tax in practice. We look in detail at the margins of tax avo
 Chapters 7--12 consider the sectors of the economy and their challenges. Inequality seems to be driven not only by the difference in merit but also by tax evasion and avoidance, and by unfair processes of asset price appreciation. Housing is increasingly unaffordable in many cities. Climate change and other environmental issues threaten the future of our living planet. Automation and artificial intelligence question the future of work. This section considers these sectors, their problems and some tax and benefit solutions to them. We then apply these ideas to the sectors of the economy.
 
 Chapter 13--15 contain our proposals and the quantitative modelling work on them. We use computer models to suggest the likely outcome if a recommended set of policies is implemented. We outline our proposals, model them and conclude the book in part 16. We consider any implementation challenges and how they can be overcome. We conclude the book with a rallying cry and a practical way forward.
-
-
-
-
-
-## Appendix to Chapter: The thesis of the Book
-
-- Situation: We have a market economy with competition, growth and technological progress.
-- Complication: But we have poverty and pollution.
-- Question: How do we fix these issues of poverty and pollution?
-- Answer: Carbon Tax and LVT but tailored for a change management political evolutionary landscape.
-
-The core theses of this book are:
-
-1. The cause of environmental destruction is a failure of regulation, specifically the lack of appropriate pricing of environmental damage.
-2. The cause of inequality is non-degrading private property in limited things such as land and corporations with market power.
-3. The cause of failure to implement appropriate policy is a lack of an appropriate theory of change.
-
-In more detail:
-
-1. Wicked Externalities
-   1. There are externalities and they are significant (descriptive point)
-   2. If there are external effects, they should be accounted for in the tax system (theoretical point)
-   3. Carbon Tax will have the desired effect (functional point)
-   4. If we make those tax changes, we should have a certain response (responsive point)
-2. Monopoly and Poverty
-   1. There are non-productive (monopoly) assets (descriptive point)
-   2. If there are monopoly assets, then it's efficient and equitable to tax them (theoretical point)
-   3. LVT, cashflow-deductible-investment and corporate wealth tax will have the desired effect (functional point)
-   4. If we tax them, then their price will fall; also, wealth will be transferred to productive activities increasing human wealth (responsive point).
-3. Theory of Change
-   1. Change happens when desire overcomes resistance
-   2. Resistance is associated with perceived concentrated financial losses
-   3. Instead, minimise losses whilst maximising the effect and associate that with moral statements of real intent (e.g. 'everyone deserves an affordable home', 'every child deserves a nice planet', 'provide opportunities to mobilise the private sector and people to make the changes we need')
-
