@@ -1,4 +1,9 @@
 # PART 0. INTRODUCTION
+1. Story
+2. Key Message
+3. Scope
+4. Roadmap for the rest of the book
+
 ## A Perfect Storm
 
 The film 'A Perfect Storm' describes a true story of a fishing trawler facing a particularly wicked storm. A ship's captain and his fellow New England fishermen had fallen on hard times after poor catches. The captain, played by George Clooney, had assembled a crew and hired a boat to go out for one last fishing trip before the season was out. They sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish and turned for home, hoping to get the catch back whilst still fresh. 
