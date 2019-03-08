@@ -75,20 +75,34 @@ Such a challenge also applies to the taxation of fossil fuels. If we tax emissio
 Taxation of wealth also faces similar issues. It is the purpose of the taxation theory to identify a base of taxation that is unresponsive to the tax. So in taxing wealth, we could argue for taxation of assets rather than taxation of wealthy individuals. Land is a straightforward asset to tax in this way. Land cannot just move out of the country. Taxing corporate wealth is more difficult. We need to seek a basis of taxation that is unavoidable. In this book, we suggest two radical strategies. The first is the taxation of profit based on a formula of UK sales minus UK costs. This actually encourages companies to locate their costs in the UK. The higher the tax rate, the more operations would be moved to a UK base. The second is an apportionment of multi-national wealth based on where their sales are located. In both these cases, we use consumption as an inelastic tax base.        
 
 
-## About This Book
-
+# Scope
+Defining the Scope
+1. A new economic model
+2. Define the problems in scope
+   - Pollution 
+   - Distribution
+3. Define the tools in scope 
+   - Taxation
+   - Benefits
+   - Finance
+4. Define the systems in scope
+   - Changing the incentives of the private sector
+   - Improving the efficiency of one system the public system (taxation
+   
+## A New Economic Model
 This book is addressed to those who are looking for a new economic model for rich and poor countries across the world. The intended audience includes economists, scientists, politicians, businesspeople, other professionals, and interested members of the general public.
 
+## Problems in Scope
 It is concerned with how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent',  and 'international flows of money and assets'. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without governance systems to constrain them. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies, leading to expensive housing, stagnating wages and wealth gains for the already rich. International tax avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep. 
 
-
-# Scope
-
+## Tools In Scope
 The central concern of the book is the use of the tax system for public benefit: to solve the critical challenges facing our societies including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems. The book proposes a simple and effective tax and social security system to solve these problems and to enhance genuine wealth at the level of the individual, community, nation state and planet.
 
 We are interested in two other systems in particular that overlap with the tax system: the financial and monetary system, the social security (also known as welfare or 'benefits') system including skills training. The examples given relate to the reform of the UK tax and welfare system, but the ideas herein are intended to be applicable to most societies around the world. Out of scope is the detail of the benefits system and the detailed technicalities of how some taxes work at the moment. We keep it to the broad scale big picture more than the accounting of taxes, although we do cover some implementation choices.
 
-We are fundamentally interested in an economy that is fit for our children.
+## Systems in Scope
+We are fundamentally interested in an economy that is fit for our children. This means that we need thje *private sector* to have the right incentives. So there are two, distinct systems that are in scope of our book. The first is, in a sense, the entire private secotor. We argue that if the private sector does not have the right incentives it will not produce the right outcomes. The second system is more technocratic: the taxation system itself, whether it works competently. The final stystem is the system of popular accountability, the question of how the taxation and welfare system can actually be *changed* by both popular will and academic thought. Is it impossible to change the systems driving our future? We argue that it is not.
+
 
 # Recapitulation 
 ## An Economy Fit for Our Children
