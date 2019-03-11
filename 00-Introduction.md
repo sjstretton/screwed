@@ -81,7 +81,7 @@ Economics needs to account for these external damage. Taxation should also corre
 
 ## Taxation Thought
 
-One key challenge to taxation is working out a means of taxation that can tax wealth and flows of income across international boundaries. Generally, the purported issue is as follows: One cannot tax big companies or rich individuals because they will simply move their money abroad. Furthermore, we might even wish to reduce our taxes on companies in order to encourage them to locate in our country. This is problematic because it tends to lead to companies paying less and less tax. 
+One key challenge to taxation is working out a means of taxation that can tax wealth and flows of income across international boundaries. Generally, the issue is as follows: One cannot tax big companies or rich individuals because they will simply move their money abroad. Furthermore, we might even wish to reduce our taxes on companies in order to encourage them to locate in our country. This is problematic because it tends to lead to companies paying less and less tax. 
 
 Such a challenge also applies to the taxation of fossil fuels. If we tax emissions that are produced in the UK, this might encourage UK-based producers to relocate outside the UK. If instead, consumption of carbon-intensive goods is taxed, imports of goods produced abroad would be in scope, but exports would not. This would be helpful for a number of reasons. Firstly, it would give a true picture of the emissions that a country is responsible for due to its consumption behaviour. Secondly, it creates a true incentive for exporting countries to decarbonise their economy. Thirdly, it encourages production processes to be improved, rather than simply relocated abroad. 
 
@@ -95,34 +95,30 @@ The second approach is an apportionment of multinational wealth based on where t
 
 Thus both for environmental damage and for wealth, we use consumption as a relatively fixed tax base.       
 
-
 # Scope
 
-## A New Economic Model
-This book is addressed to those who are looking for a new economic model for rich and poor countries across the world. The intended audience includes economists, scientists, politicians, businesspeople, other professionals, and interested members of the general public.
+Are you looking for a new economic model for your country? This book is addressed to economists, scientists, politicians, businesspeople, other professionals, and interested members of the general public.
 
-## Problems in Scope
-It is concerned with how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent',  and 'international flows of money and assets'. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without governance systems to constrain them. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies, leading to expensive housing, stagnating wages and wealth gains for the already rich. International tax avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep. 
+This book is concerned with how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent', and international flows of money and assets. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies. We argue that generalised rent leads to expensive housing, stagnating wages and wealth gains for the already rich. International tax avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep. 
 
 ## Tools In Scope
 The central concern of the book is the use of the tax system for public benefit: to solve the critical challenges facing our societies including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems. The book proposes a simple and effective tax and social security system to solve these problems and to enhance genuine wealth at the level of the individual, community, nation state and planet.
 
-We are interested in two other systems in particular that overlap with the tax system: the financial and monetary system, the social security (also known as welfare or 'benefits') system including skills training. The examples given relate to the reform of the UK tax and welfare system, but the ideas herein are intended to be applicable to most societies around the world. Out of scope is the detail of the benefits system and the detailed technicalities of how some taxes work at the moment. We keep it to the broad scale big picture more than the accounting of taxes, although we do cover some implementation choices.
+We are interested in two other systems in particular that overlap with the tax system: the financial and monetary system and the social security (welfare) system. Our focus is the UK tax and welfare system, but the ideas are intended to be applicable to most societies around the world. Out of scope is the detail of the benefits system and the detailed technicalities of how some taxes work. We focus on the big picture rather than accounting of taxes, although we do cover some implementation choices.
 
 ## Systems in Scope
-We are fundamentally interested in an economy that is fit for our children. This means that we need thje *private sector* to have the right incentives. So there are two, distinct systems that are in scope of our book. The first is, in a sense, the entire private secotor. We argue that if the private sector does not have the right incentives it will not produce the right outcomes. The second system is more technocratic: the taxation system itself, whether it works competently. The final stystem is the system of popular accountability, the question of how the taxation and welfare system can actually be *changed* by both popular will and academic thought. Is it impossible to change the systems driving our future? We argue that it is not.
-
+We are interested in an economy that is fit for our children. This means that we need the *private sector* to have the right incentives. So there are two, distinct, systems that are in scope of our book. The first is, in a sense, the entire private sector. If the private sector does not have the right incentives, it will not produce the right outcomes. The second system is more technocratic: the taxation system itself. And how can we actually change these systems?
 
 # Recapitulation 
 ## An Economy Fit for Our Children
 
-There has been tremendous technological progress and economic growth. But we still have problems. Those problems can perhaps be described as on one hand economic insecurity and on the other hand, damaging our ecological environment. Thus, we need an economics that not only considers the parts of the economy that are additive (growth economics) but also those that are fixed (distribution economics) and those that are subtractable (environmental economics).
+There has been tremendous technological progress and economic growth. But we still have problems. We have economic insecurity and pollution. 
 
-What would an economy fit for our children look like? I think it would have two important aspects. Firstly, the beautiful things that require care, like the natural environment, would be preserved. Second, the limited things would not be preserved.
+What would an economy fit for our children look like? I think it would have two important aspects. Firstly, the beautiful things that require care, like the natural environment, would be preserved. Second, the limited things would be rationed by taxes rather than by private property, so that everyday people have a stake in the common resources and land doesn't become so expensive that individuals cannot afford their own homes.
 
-This book is about economics for a certain type of world. In this world, there are some goods that can be added to, either in quantity or quality; there are some goods that are fundamentally fixed; and there are some goods that can be degraded or destroyed. By 'goods' I mean broadly useful natural or artificial things. These positive, limited or negative things can apply to both public and private goods. 
+This book is about economics for a certain type of world. In this world, there are some goods that can be added to, either in quantity or quality; there are some goods that are fundamentally fixed; and there are some goods that can be degraded or destroyed. By 'goods' I mean broadly useful natural or artificial things. These positive, limited or negative things can apply to both public and private goods. We need an economics that not only considers the parts of the economy that are additive (growth economics) but also those that are fixed (distribution economics) and those that are 'subtractable' (environmental economics).
 
-Environmental economists distinguish between goods that are *excludible* and those that are *rival*. Related to rivalness is *subtractability*. So pure public goods are non-rival and non-excludable. Club goods (for example, watching a pay-per-view sports match) are non-rival (it doesn't cost anything for someone extra to watch it) but excludible. Common pool resources are rival but non-excludible. They are also subtractable.
+Environmental economists also distinguish between goods that are *excludible* and non-excludible. And also those that are *rival* versus non-rival. Related to rivalness is *subtractability*. So pure public goods are non-rival and non-excludable. Club goods (for example, watching a pay-per-view sports match) are non-rival (it doesn't cost anything for someone extra to watch it) but excludible. Common pool resources are rival but non-excludible. They are also subtractable. [VERY CONFUSING, EXPAND AND REWRITE]
 
 
 ## Economics, Opportunity and Hope
