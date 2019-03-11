@@ -81,11 +81,20 @@ Economics needs to account for these external damage. Taxation should also corre
 
 ## Taxation Thought
 
-One key challenge to taxation is working out a means of taxation that can tax wealth and flows of income across international boundaries. Generally, the purported issue is as follows: One cannot tax big companies or rich individuals because they will simply move their money abroad. Furthermore, we might even wish to reduce our taxes on companies in order to encourage them to locate in our country. This is problematic. 
+One key challenge to taxation is working out a means of taxation that can tax wealth and flows of income across international boundaries. Generally, the purported issue is as follows: One cannot tax big companies or rich individuals because they will simply move their money abroad. Furthermore, we might even wish to reduce our taxes on companies in order to encourage them to locate in our country. This is problematic because it tends to lead to companies paying less and less tax. 
 
-Such a challenge also applies to the taxation of fossil fuels. If we tax emissions that are produced in the UK, this might encourage UK based producers to relocate to outside of the taxation zone. However, if instead we tax emissions according to the end consumer, this would mean that imports of goods with high emissions would also be taxed. This would be helpful because firstly, it would give a true picture of the emissions that a country is responsible for due to its consumption behaviour, and secondly, it creates a true incentive for countries that produce the goods that UK consumers consume to themselves decarbonise their economy. Thirdly, taxing carbon in this way encourages the changes that we want namely, changes to production processes to reduce emissions rather than simply relocation of dirty industries abroad. 
+Such a challenge also applies to the taxation of fossil fuels. If we tax emissions that are produced in the UK, this might encourage UK-based producers to relocate outside the UK. If instead, consumption of carbon-intensive goods is taxed, imports of goods produced abroad would be in scope, but exports would not. This would be helpful for a number of reasons. Firstly, it would give a true picture of the emissions that a country is responsible for due to its consumption behaviour. Secondly, it creates a true incentive for exporting countries to decarbonise their economy. Thirdly, it encourages production processes to be improved, rather than simply relocated abroad. 
 
-Taxation of wealth also faces similar issues. It is the purpose of the taxation theory to identify a base of taxation that is unresponsive to the tax. So in taxing wealth, we could argue for taxation of assets rather than taxation of wealthy individuals. Land is a straightforward asset to tax in this way. Land cannot just move out of the country. Taxing corporate wealth is more difficult. We need to seek a basis of taxation that is unavoidable. In this book, we suggest two radical strategies. The first is the taxation of profit based on a formula of UK sales minus UK costs. This actually encourages companies to locate their costs in the UK. The higher the tax rate, the more operations would be moved to a UK base. The second is an apportionment of multi-national wealth based on where their sales are located. In both these cases, we use consumption as an inelastic tax base.        
+Taxation of wealth also faces similar issues. Taxation theory aims to identify a base of taxation that is unresponsive to the tax. So in taxing wealth, we could argue for taxation of assets rather than taxation of wealthy individuals. Land is a straightforward asset to tax in this way. Land cannot just move out of the country. 
+
+Taxing corporate wealth is more difficult because a corporation is a more fluid and mobile than land. In this book, we suggest two radical strategies. 
+
+The first approach is the taxation of profits calculated as UK sales minus UK costs. This approach encourages companies to locate their costs in the UK. The higher the tax rate, the more operations would be moved to a UK base. 
+
+The second approach is an apportionment of multinational wealth based on where the sales of the companies are located. 
+
+Thus both for environmental damage and for wealth, we use consumption as a relatively fixed tax base.       
+
 
 # Scope
 
