@@ -132,6 +132,17 @@ This contains various outlines of the prescriptive outlines and the actual ones
 -->[Solve Issues in Each Sector of the Economy]
 -->[Sum up Proposals and How to Transition. Conclude]
 
+1. Defining the Scope
+2. Define the Core Thesis
+3. Methodology
+4. Historical Examples
+5. Analytical Framework
+6. Investigating taxation in practice
+7. The sectors in detail
+8. Proposals
+9. Modelling of proposals
+10. Transition and conclusions
+
 ## Short Outline
 
 - 1 TAX HEAVEN	*Overarching Question* What taxation and welfare system (and property rights) should exist to ensure that our economy produces social well being?
