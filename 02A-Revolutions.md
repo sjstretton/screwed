@@ -9,7 +9,7 @@ On this cool and starry night, Smith was writing the fifth and final book of the
 This book is devoted to similar questions: how should we fund the state? Which taxes should be levied and why? And related, what would make a better welfare system? We use taxation and welfare firstly as tools to preserve and enhance the wealth of the planet, of nations, of communities and of individuals. By wealth we mean the stock of valuable things, including the environment and individuals. And we are concerned also to distribute wealth fairly, partly by ensuring that wealth does not beget more wealth unless it is productively invested, and partly by ensuring that the transition to a fairer system is itself fair to all. Our immediate scope is the UK, but our ideas could be applied anywhere. 
 
 So let's get back to our story. Tax is not just a matter of theoretical interest but has also been a driver of history.  Smith himself was agreed with the American revolutionaries that the colonies should be represented in the British parliament in proportion to the tax they paid. If Smith's book contributed to a revolution of ideas, in other parts of the world a more hot and imminent political revolution was brewing.
-![](C:/Users/sjstr/Google%20Drive/Book/ChapterPictures/AdamSmithSmall.png)
+![](ChapterPictures/AdamSmithSmall.png)
 *Plaque marking the site of Adam Smith's mother's house in Kirkcaldy, where Smith lived*
 
 WHILST SMITH WORKED by candlelight, far across the oceans, in what was then the British colony of North America, some demonstrators were heaping tea into the sea. The demonstrators' objection: the British state was collecting taxation without giving them representation in the British parliament. And so the American Revolution was born.
