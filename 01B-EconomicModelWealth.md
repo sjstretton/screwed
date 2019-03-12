@@ -36,25 +36,21 @@ Do owners of assets also have a responsibility to provision public goods that th
 
 The value of an asset in marketable terms is therefore, generally in excess of the financial value of the flow of rights over flow of the responsibilities. In some sense, therefore, you can see that where those rights to exploit public value are not equal to the value contributed to the society, then such private property lacks legitimacy. Going back to our previous example, the Duke of Westminster's ancestors provided services to the British monarch of the time and in exchange were granted substantial land ownership in what is now central London. But the current Duke of Westminster does not himself provision the metro services that creates the land value that he charges in rent. 
 
-Discussion of the justice of land rent, however, leads us to a quandary. Ownership of an asset that exploits public value more than it contributes to public value can itself be purchased. Whilst we might see that the asset (i.e., the net flow of rights over obligations) itself might be lacking justification, the money used to purchase the asset may well have been legitimately earned. Thus, taxing or nationalising the asset without compensation may be itself unjust because it appropriates the original money used to purchase the asset in the first place. We discuss ways to resolve this conflict in this book.         
+Discussion of the justice of land rent, however, leads us to a quandary. The ownership of an asset that exploits public value more than it contributes to public value can itself be purchased. The asset (i.e., the net flow of rights over obligations) might be lacking justification, but the money used to purchase the asset may well have been legitimately earned. Thus, taxing or nationalising the asset without compensation may be unjust because it appropriates the original money used to purchase the asset. We discuss ways to resolve this conflict later in this book.         
 
-## **Example of Building A House and then Selling It**
+**Example of building and then selling a house**: Imagine that an individual built a house. He uses his own labour to do so and once the house is built, he sells that house. The house is situated in a location distant from major population centres such that the value of the land on which the house stands is negligible. In a broad sense therefore, the individual has made or provisioned an asset, the house, and he can extract money from selling that asset. 
 
-Imagine that an individual built a house. He uses his own labour to do so and once the house is built, he sells that house. The house is situated  in a location distant from major population centres such that  the value of the land on which the house stands is negligible. In a broad sense therefore, the individual has made or provisioned an asset , the house, and he can extract money from selling that asset . 
+**Example of land**: Imagine another possibility. In this case, the individual works to purchase a house in a desirable location. The work he puts in is in another area -- for example, he drives a bus. He saves money and uses that money primarily for the purchase of the land on which his house stands.  
 
-## **Example of Land**
+**Secondary Wealth Accumulation:** The second house goes up in value. The location, which was already valuable when he purchased the house, becomes even more valuable. This increase in wealth has not been directly earned by the individual's work but rather was due to a new metro system that was installed by the municipal government close to the house.     
 
-Imagine another possibility. In this case, the individual works to purchase a house in a desirable location. The work he puts in is in another area; for example, perhaps, he drives a bus. He saves money and uses that money primarily for the purchase of the land to build  his house.  
+**Fair Land Taxation:** A new tax system should deal fairly with all these three situations.
 
-## **Secondary Wealth Accumulation:** 
+Let's think now about the transitional justice implications of a land value tax. Those arguing for a land value tax would point out that the value of the land has not been created by the private landlords that we mentioned. Nevertheless, the value of land purchased initially and augmentation of that value has a different status from the point of view of justice. The initial money had been earned fair and square whereas the increase had not. A tax on land value increase is more just than one on the original purchase price.  
 
-Let's say now that the second house goes up in value. The location, which was already valuable when he purchased the house, becomes more valuable. This increase in wealth has not been directly earned by individual's work but rather was due to a new mature system that was installed by the municipal government close to the house.     
 
-## **Understanding the Transitional Justice Implications**
 
-Let's  think now about the transitional justice implications of a land value tax. Those arguing for a land value tax would point out that the value of the land has not been created by the private landlords that we mentioned. Nevertheless, the value of land purchased initially and the value which augments the value has a different status from  the point of view of justice. The initial value or the initial money had been earned fair and square whereas the increase had not. So, there is some justification for recognising the money spent on the original property. Justice, therefore, suggests that a tax on land value increase is more just than the one earned on land value when looking at historical land value increases.  
-
-## **Historical Case Studies**
+# Historical Case Studies
 
 We wish not just to minimise the costs of taxation, but rather to aim for taxes, where possible, that are actively beneficial. Good taxes would shape the profit motive towards the needs of people, communities, and the living planet on which we all depend. Here, we seek a tax and social security system that is not only fair and practical but also beneficial to everyday people, our country and our world. Our argument would be more concrete if we could point to situations around the world where this might happen.
 
