@@ -37,17 +37,17 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '00-TurningTheShip.md'}
+```{r child = '01A-TurningTheShip.md'}
 ```
 
 \newpage
 
-```{r child = '01A-KeyMessage.md'}
+```{r child = '01B-KeyMessage.md'}
 ```
 
 \newpage
 
-```{r child = '01B-EconomicModelWealth.md'}
+```{r child = '01C-EconomicModelWealth.md'}
 ```
 
 
