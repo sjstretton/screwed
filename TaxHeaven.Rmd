@@ -13,7 +13,7 @@ link-citations: yes
 \newpage
 
 ```{r setup, include=FALSE}
-Platform <- "PC" #"PC" "Mac" "HeatherPC" 
+Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
 if(Platform=="PC") setwd("~/../Google Drive/Book") else if(Platform=="Mac") setwd("~/Google Drive/Book") #Add something for your WD if this doesn't work
 
 options(htmltools.dir.version = FALSE)
@@ -37,13 +37,17 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '00-Introduction.md'}
+```{r child = '00-TurningTheShip.md'}
 ```
-
 
 \newpage
 
-```{r child = '01-EconomicModelWealth.md'}
+```{r child = '01A-KeyMessage.md'}
+```
+
+\newpage
+
+```{r child = '01B-EconomicModelWealth.md'}
 ```
 
 
