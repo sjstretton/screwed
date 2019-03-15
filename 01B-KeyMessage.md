@@ -1,9 +1,9 @@
-# PART 1A: THE MESSAGE OF THIS BOOK
+# PART 1B: THE MESSAGE OF THIS BOOK
 # Key Message
 
 This book is about the economic conditions for widely-spread and sustainable prosperity. Why, given great technological and economic progress, do we still have problems? Why, amidst so much wealth, are our lives so economically precarious? If in the 1960s, it took an average person in the UK on average wages four years wages to buy their own home, why now does it take an average person on average wages ten years buy the same home -- if, that is, they have anything left over to save up after paying their current landlord? If we have all the technology to solve our environmental problems -- climate change, plastic pollution and overfishing for example -- then why are we not solving these problems? If we can find the root cause, then we will perhaps be able to find a remedy.  
 
-The 19th century writer Henry George’s book *Progress and Poverty* also asked a similar question. Why, given technological progress, did we still have so much poverty? He argued  that it was the private ownership of land that caused poverty. And that problem still arises today. It's the location of houses that gives them their value. the reason we cannot easily buy a good home, is that the land underneath the home is privately owned and highly valuable. George argued to tax land value and to eliminate other taxes. 
+The 19th century writer Henry George’s book *Progress and Poverty* also asked a similar question. Why, given technological progress, did we still have so much poverty? He argued that it was the private ownership of land that caused poverty. George argued to tax land value and to eliminate other taxes. 
 
 Today we face the same problem, but also environmental destruction. We have a market economy, in most of the world, with competition, growth and technological progress. But we still have economic precariousness and environmental pollution, despite having the wealth and technological ability to prevent them. Our economic system is not allowing us to take full advantage of the progress that we make. So why do we have these problems of pollution and precariousness? We identify three phenomena described by the great economists. 
 

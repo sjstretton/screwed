@@ -1,4 +1,6 @@
-# PART 0. PREFACE: TURNING THE SHIP
+# PART 1: INTRODUCTION
+
+# Turning The Ship
 
 The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
 
@@ -8,10 +10,9 @@ The trawler sailed out into the mid-Atlantic. After much fruitless searching, th
 
 Unfortunately, a storm was brewing, and not just any storm. Three separate weather systems had merged to create a 'weather bomb' of unusual intensity. Meteorologists warned of a serious threat to life. 
 
-The fishermen faced a dilemma. Should they attempt to land their catch whilst still fresh? To do so, they would need to risk their lives by sailing back, straight through the storm. Or they could avoid the storm by sailing further out to sea. After this detour, the fish would no longer fresh and they would be out of pocket.
+The fishermen faced a dilemma. Should they attempt to land their catch whilst still fresh? To do so, they would need to risk their lives by sailing back, straight through the storm. Or they could avoid the storm by sailing further out to sea. After this detour, the fish would no longer [be] fresh and they would be out of pocket.
 
 Added to this dilemma were communication and leadership issues. The storm had damaged the radio, making it difficult to get information or call for help. The captain (we will call him 'Clooney'), whilst charismatic, lacked good judgment. He took the risk and sailed into the storm.
-
 
 Taking a step back from their immediate plight, it seems odd that Clooney and his men took such a severe risk. Why were they in that situation in the first place? Perhaps, there are two reasons.
 
@@ -51,14 +52,13 @@ The political question is this: How can we change course together?
 
 We are in the same boat.
 
-
 -----------------------
 
 # Plan of the Book
 
-Chapter 1A considers the core questions and theses of the book, emphasising when our ideas are new or innovative. 
+Chapter 1B considers the core questions and theses of the book, emphasising when our ideas are new or innovative. 
 
-Chapter 1B defines a new economic model. It defines the economic objective as preserving and enhancing genuine wealth rather than activity and defines wealth at four levels.
+Chapter 1C defines a new economic model. It defines the economic objective as preserving and enhancing genuine wealth rather than activity and defines wealth at four levels.
 
 Chapter 2A considers economic reform and economic justice in history, starting with Adam Smith. It introduces the Adam Smith model of economic growth and distribution.
 
