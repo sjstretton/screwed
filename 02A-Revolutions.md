@@ -2,17 +2,18 @@
 
 # 2-1: Revolutions in the Minds of Men
 
-UNDER THE STARRY SKIES, far away from the everyday hustling and bustling of the commercial metropolis, sits a professor, beavering away at his manuscript. The year is 1773; the location Kirkaldy, a small town in Scotland; the author, Adam Smith. The full title of Smith's great work would be "An Inquiry into the Nature and Causes of the Wealth of Nations".
+UNDER THE STARRY SKIES, far away from the everyday hustling and bustling of the commercial metropolis, sits a professor, beavering away at his manuscript. The year is 1773; the location, Kirkaldy, a small town in Scotland; the author, Adam Smith. The full title of Smith's great work would be 'An Inquiry into the Nature and Causes of the Wealth of Nations'.
 
-On this cool and starry night, Smith was writing the fifth and final book of the "Wealth of Nations", entitled "On the Revenue of the Sovereign or Commonwealth". Smith asked: How should the activity of government be funded? Which taxes should a state impose? 
+On this cool and starry night, Smith was writing the fifth and final book of the 'Wealth of Nations', entitled 'On the Revenue of the Sovereign or Commonwealth'. Smith asked, 'how should the activity of the government be funded?'. Which taxes should a state impose? 
 
-This book is devoted to similar questions: how should we fund the state? Which taxes should be levied and why? And related, what would make a better welfare system? We use taxation and welfare firstly as tools to preserve and enhance the wealth of the planet, of nations, of communities and of individuals. By wealth we mean the stock of valuable things, including the environment and individuals. And we are concerned also to distribute wealth fairly, partly by ensuring that wealth does not beget more wealth unless it is productively invested, and partly by ensuring that the transition to a fairer system is itself fair to all. Our immediate scope is the UK, but our ideas could be applied anywhere. 
-
-So let's get back to our story. Tax is not just a matter of theoretical interest but has also been a driver of history.  Smith himself was agreed with the American revolutionaries that the colonies should be represented in the British parliament in proportion to the tax they paid. If Smith's book contributed to a revolution of ideas, in other parts of the world a more hot and imminent political revolution was brewing.
 ![](ChapterPictures/AdamSmithSmall.png)
-*Plaque marking the site of Adam Smith's mother's house in Kirkcaldy, where Smith lived*
+*Plaque marking the site in Kirkcaldy where Smith lived.*
 
-WHILST SMITH WORKED by candlelight, far across the oceans, in what was then the British colony of North America, some demonstrators were heaping tea into the sea. The demonstrators' objection: the British state was collecting taxation without giving them representation in the British parliament. And so the American Revolution was born.
+This book is devoted to similar questions: how should we fund the state? Which taxes should be levied and why? And relatedly, what would make a better welfare system? We use taxation and welfare firstly as tools to  enhance the wealth of the planet, of nations, of communities and of individuals. By wealth, we mean the stock of valuable things, including the environment and individuals. And we are concerned also to distribute wealth fairly, partly by ensuring that wealth does not beget more wealth unless it is productively invested, and partly by ensuring that the transition to a fairer system is itself fair to all. Our immediate scope is the UK, but our ideas could be applied anywhere. 
+
+So let's get back to our story. Tax is not just a matter of theoretical interest but has also been a driver of history.  If Smith's book contributed to a revolution of ideas, in other parts of the world a more hot and imminent political revolution was brewing.
+
+WHILST SMITH WORKED by candlelight, far across the oceans, in what was then the British colony of North America, some demonstrators were heaping tea into the sea. The demonstrators' objection: the British state was collecting taxation without giving them representation in the British parliament. Adam Smith himself agreed with the American revolutionaries that the North American colonies should be represented in the British parliament in proportion to the tax they paid. And from this dispute the American Revolution was born. 
 
 Revolution was also imminent in France. A century earlier, Jean-Baptist Colbert, minister of Finance to the King of France, had said that 'The art of taxation consists in so plucking the goose as to procure the largest quantity of feathers with the least possible amount of squawking.' By 1789, the geese had not only squawked, they had overthrown the farmer and taken control of the farm. The French Revolution had arrived. 
 
