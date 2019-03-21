@@ -1,6 +1,4 @@
-# PART 1: INTRODUCTION
-
-# Turning The Ship
+# PART 1: Turning The Ship
 
 The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
 
