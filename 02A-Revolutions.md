@@ -35,7 +35,7 @@ These reforms helped to reduce the prevalence of the five great evils, and trans
 
 ## The Global Machine and the Global Mission
 
-We are now in the present day. The subject then called political economy is now called economics.  Great container ships cross the oceans. Aircraft zig-zag the skies. Massive machines in far-off lands churn out phones which everyone is looking at. Many people live lives with more consumer comforts than the past. But some things are very expensive: it is expensive to buy a flat in London for example; but it is relatively cheap to fly off to sun-kissed beaches on foreign shores.
+We are now in the present day. The subject then called political economy is now called economics. Great container ships cross the oceans. Aircraft zig-zag the skies. Massive machines in far-off lands churn out phones which everyone is looking at. Many people live lives with more consumer comforts than the past. But some things are very expensive: it is expensive to buy a flat in London for example; but it is relatively cheap to fly off to sun-kissed beaches on foreign shores.
 
 This great machinery of commerce is devoted to two purposes: to give people what they desire (or at least, what they can be encouraged to buy), and to make a profit in so doing. The commercial machine is in many ways smooth. But there are rumblings of discontent. In 1848, the 'spectre of communism' overshadowed the world, according to Marx. Today, the danger of environmental destruction, runaway technology and a state run by and for the superrich to enrich themselves still further, overshadows this machine for happy fulfilment of our consumer desires.
 
