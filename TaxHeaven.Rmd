@@ -14,7 +14,8 @@ link-citations: yes
 
 ```{r setup, include=FALSE}
 Platform <- "PC" #"PC" "Mac" "HeatherPC" 
-if(Platform=="PC") setwd("~/../Google Drive/Book") else if(Platform=="Mac") setwd("~/Google Drive/Book") #Add something for your WD if this doesn't work
+#if(Platform=="PC") setwd("~/../Google Drive/Book") #else if(Platform=="Mac") setwd("~/Google Drive/Book") 
+setwd("~/Github/TaxHeaven/taxheaven") #Add something for your WD if this doesn't work# 
 
 options(htmltools.dir.version = FALSE)
 options(scipen=999)
