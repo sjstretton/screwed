@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PART 5: TAX IN PRINCIPLE
 
 # 5-1: Why Tax?
@@ -205,6 +204,6 @@ The summary table below outlines what we think are the general characteristics o
 
 By using this framework, we can more clearly evaluate past and create new tax policy with a view to promoting equity and efficiency. This framework of principles is, in our opinion, an essential evaluatory criterium for strategic tax reform. 
 
-However, it is not enough to have strong principles behind the design of tax policy. We must maintain the idea that tax is in strong need of a PR campaign. One such method lies in clearly tying outputs from tax revenue to the purpose that they are intended to tackle. This, for example, could be using revenue from a carbon tax to act as a ‘green investment’ funding source. Another could be in opening up the discussion around the idea, mentioned previously, of a shareholder-stakeholder model of society. By asking the question of who exactly the stakeholders and shareholders are in society. and who should receive the ‘dividends’ from different forms of wealth, the path may be opened to more fundamental change in the UK tax system. One final suggestion could lie in highlighting success stories from other countries and constituencies, where tax policy has been received positively from the communities it affects. In our next chapter, we will explore these ideas of implementation and functionality, as we move on to how these principles are applied in practice. 
+However, it is not enough to have strong principles behind the design of tax policy. We must maintain the idea that tax is in strong need of a PR campaign. One such method lies in clearly tying outputs from tax revenue to the purpose that they are intended to tackle. This, for example, could be using revenue from a carbon tax to act as a ‘green investment’ funding source. Another could be in opening up the discussion around the idea, mentioned previously, of a shareholder-stakeholder model of society. By asking the question of who exactly the stakeholders and shareholders are in society. and who should receive the ‘dividends’ from different forms of wealth, the path may be opened to more fundamental change in the UK tax system. One final suggestion could lie in highlighting success stories from other countries and constituencies, where tax policy has been received positively from the communities it affects. 
 
->>>>>>> 
+In our next chapter, we will explore these ideas of implementation and functionality, as we move on to how these principles are applied in practice. 
