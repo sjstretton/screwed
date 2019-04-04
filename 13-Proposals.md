@@ -353,7 +353,7 @@ Excess sugar intake causes multiple health problems including obesity, type-II d
 - Class B: 'near sugar', including maltose etc. and synthetic and natural sweeteners with unclear health impacts.
 - Class C: 'unprocessed' sugars in raw fruit and vegetables; starch and other carbohydrates.
 
-Class A would have 100% tax (ie. £0.01 or 1p per gram sugar); class B, 50%  (ie. 0.5 pence per gram sugar); and class C 0%.
+Class A would have 100% tax (ie. Â£0.01 or 1p per gram sugar); class B, 50%  (ie. 0.5 pence per gram sugar); and class C 0%.
 
 ## Salt Tax on Processed and Prepared Food
 
@@ -364,7 +364,7 @@ We propose a simple salt tax on processed foods. This would be charged according
 
 The present benefit system is a mixture of unconditional, conditional, means-tested, taxable and non-taxable payments. It is illogical and ill-thought through. Additionally,different means-tested benefits are means tested in different ways. The sum total of the system creates perverse incentives and does not encourage work effectively. Indeed, dealing with the benefits system is like a job in itself,both for the person claiming benefits and for the people administering benefits. This complexity is unnecessary because means-testing is just a tax in disguise: it takes away money from people as wages increase. Such a function is best performed by the income tax system, which also takes away money from people as wages increase. 
 
-We propose a return to universal benefits with 'means testing' performed by the income tax system, rather than the benefits system, in an integrated and smooth way. The basic universal benefit in our proposed system is the Citizen's Dividend. It is a universal payment to all UK citizens. The Citizen's Dividend is a per capita payment to all citizens of the country, paid regardless of employment status. It is a universal payment to everyone in society who is a citizen of the UK. The payment would be initially equal to current income support levels, i.e, around £75 a week, or £3800 per year. 
+We propose a return to universal benefits with 'means testing' performed by the income tax system, rather than the benefits system, in an integrated and smooth way. The basic universal benefit in our proposed system is the Citizen's Dividend. It is a universal payment to all UK citizens. The Citizen's Dividend is a per capita payment to all citizens of the country, paid regardless of employment status. It is a universal payment to everyone in society who is a citizen of the UK. The payment would be initially equal to current income support levels, i.e, around Â£75 a week, or Â£3800 per year. 
 
 There will be different rates for children (replacing child benefit and child tax credit, paid to mothers), working-age adults (replacing income support) and pensioners (equivalent to the existing state pension). It provides all UK citizens with the minimum amount of income. We also propose to offset payment of Citizen's Dividend against other taxes so taxpayers only receive a net bill or payment.
 
@@ -380,7 +380,7 @@ The ideal education and welfare system include not only a (low) citizens income,
 
 ## Basic Income 
 
-This section describes the Citizens Income (a.k.a. Basic Income; Citizens Dividend) and a couple of ways that it could be introduced. The citizens Income is a per capita payment to all citizens of the country, paid regardless of employment status. It is intended to simplify the tax-benefit system; rather than means testing,the rest of the tax system is used to tax away the benefit. This Citizens Income provides everyone in the society with a minimum amount of income to live on. It's a way of compensating people for the inevitable costs resulting from the scarcity of natural things that are vital to life. The level of the Citizen's income might be, for example, around £75 per week, or around £3800per year. 
+This section describes the Citizens Income (a.k.a. Basic Income; Citizens Dividend) and a couple of ways that it could be introduced. The citizens Income is a per capita payment to all citizens of the country, paid regardless of employment status. It is intended to simplify the tax-benefit system; rather than means testing,the rest of the tax system is used to tax away the benefit. This Citizens Income provides everyone in the society with a minimum amount of income to live on. It's a way of compensating people for the inevitable costs resulting from the scarcity of natural things that are vital to life. The level of the Citizen's income might be, for example, around Â£75 per week, or around Â£3800per year. 
 
 The citizen's income pays scarcity rents. If the fundamental things in life were not scarce for example if there were an infinite amount of land to grow food and live on and if the atmosphere was completely unlimited then there would be no need for a citizens income, just as there is no citizens income for the hunter-gatherer.In principle then, the citizens income compensates man for that which he loses when and he multiplies and lives in cities rather than being in the wild and living as a hunter gather. 
 
@@ -518,20 +518,20 @@ financed (say).
 ## Contributory Basic Income Increases
 
 It will be assumed here that we can fund a basic income from environmental
-taxes. This would pay a basic income of £4000, but this would not be uprated
-with inflation. In order to acheive our target of a basic income of £6000 per
+taxes. This would pay a basic income of Â£4000, but this would not be uprated
+with inflation. In order to acheive our target of a basic income of Â£6000 per
 person, the addition would be funded by actual securities purchased in the
 market. The money raised to fund these purchases would be from the following
 sources: taxes on company profits or wealth, money purchase of overseas
 securities. The allocation of the tax paid would be to everyday people according
 to the tax paid, up to some maximum value per year.
 
-So for example if £2000 saving would be put into securities yielding 5% per
-year, then the basic income next year (and thereafter) would be 5%\*£2000 = £100
+So for example if Â£2000 saving would be put into securities yielding 5% per
+year, then the basic income next year (and thereafter) would be 5%\*Â£2000 = Â£100
 extra per year. There would be two ways to earn these credits.
 
-There would be two methods for saving this £1000. First, for every £ you pay in
-income tax, you might get £1 of securities set aside for you. Second, the local
+There would be two methods for saving this Â£1000. First, for every Â£ you pay in
+income tax, you might get Â£1 of securities set aside for you. Second, the local
 authority or national government could pay you for doing various community
 actions.
 
@@ -550,7 +550,7 @@ basic income - a sovereign wealth fund in other words.
 
 In summary, the scheme encourages community involvement, eliminates the
 disincentive effects and deadweight cost of income tax for everyone earning less
-than £50K per annum, and makes BI more palatable to people that subscribe to
+than Â£50K per annum, and makes BI more palatable to people that subscribe to
 ideas that our communities, public physical infrastructure and public goods need
 maintenance and that work should be rewarded. All at no additional cost.
 
@@ -558,7 +558,7 @@ maintenance and that work should be rewarded. All at no additional cost.
 
 The basic idea is as follows:
 
-- Every current citizen is granted a right to a basic income of £4000 per
+- Every current citizen is granted a right to a basic income of Â£4000 per
   year.
 - Income tax paid (at 40%) between 0 and 10K is set aside to buy securities
   and thus increments additional amount to the basic income
@@ -664,12 +664,12 @@ https://www.gla.ac.uk/schools/business/staff/celineazemar/\#/researchinterests
 - No property can be owned at any point in a chain of ownership by any listed secrecy/tax haven including the CCL or Delaware, for example.
 - Once nationalized, the London Stock Exchange will be promoted as a --Traditional Stock Market-- for real investors.  Once purchased, a stock must be held for a minimum of 3 months, thereafter no more than 1% of any company can be sold in one week by a single investor, and there will be a one week delay on the sale with the final sale price being set at the end of that week.  We will sell the benefit of the LSE as being real growth in share price due to the fundamental value of the company increasing, and a revenue stream from dividends.  I believe that 'real' investors and companies will flock to London for such an opportunity.  In a way it is a niche play in a global market.  We will actively assist companies that want to relocate to the LSE.
 - Smaller markets can be set up in other regional hubs e.g. Leeds, Birmingham etc. for smaller companies e.g. AIM, and a new Micro-AIM
-- RBS, Lloyds, Barclays (and possibly HSBC assets in the UK) and other bankrupted banking interests to be absorbed into four new State Banks.  Scientific, Industrial & Manufacturing Bank of the United Kingdom (SIMB-UK); Property, Infrastructure & Construction Bank of the United Kingdom (PICB-UK); Savings & Loan Bank of the United Kingdom (SLB-UK); and International Development Bank of the United Kingdom (IDB-UK).  Each bank will borrow money directly from the CMA and lend according to a national lending plan.  Savings will be underwritten by the state and guaranteed savings rates set.  Aimed at loans and overdrafts in excess of £50,000 so as not to compete with local Savings and Loan Mutuals.
-- 650 locally owned Savings and Loan mutual organisations to be formed for each political constituency.  Each SLMO will have a local resident as Managing Director, two additional local directors (each with skin in the game -- possibly £50,000 for the MD and £25,000 each for other Directors), and a board (aufsichsrat) made up of the local MP, council representative, Union representative, and other key interested local parties.  It will follow the Bank on Dave model.  It will be allowed to do micro-loans up to £50,000 to any individual entity, with a maximum deposit of £50,000 by any local resident.  No constituency outsiders may deposit or borrow from any SLMO -- they must be completely local operations aimed at the local economy.  Burnley S&L:  5% AER on savings, and 8.9 to 14.9% interest on loans.  No bonuses of any kind to any staff.  Surpluses go to local charities.
+- RBS, Lloyds, Barclays (and possibly HSBC assets in the UK) and other bankrupted banking interests to be absorbed into four new State Banks.  Scientific, Industrial & Manufacturing Bank of the United Kingdom (SIMB-UK); Property, Infrastructure & Construction Bank of the United Kingdom (PICB-UK); Savings & Loan Bank of the United Kingdom (SLB-UK); and International Development Bank of the United Kingdom (IDB-UK).  Each bank will borrow money directly from the CMA and lend according to a national lending plan.  Savings will be underwritten by the state and guaranteed savings rates set.  Aimed at loans and overdrafts in excess of Â£50,000 so as not to compete with local Savings and Loan Mutuals.
+- 650 locally owned Savings and Loan mutual organisations to be formed for each political constituency.  Each SLMO will have a local resident as Managing Director, two additional local directors (each with skin in the game -- possibly Â£50,000 for the MD and Â£25,000 each for other Directors), and a board (aufsichsrat) made up of the local MP, council representative, Union representative, and other key interested local parties.  It will follow the Bank on Dave model.  It will be allowed to do micro-loans up to Â£50,000 to any individual entity, with a maximum deposit of Â£50,000 by any local resident.  No constituency outsiders may deposit or borrow from any SLMO -- they must be completely local operations aimed at the local economy.  Burnley S&L:  5% AER on savings, and 8.9 to 14.9% interest on loans.  No bonuses of any kind to any staff.  Surpluses go to local charities.
 - A massive apprenticeship-training program to be developed in direct consultation with UK businesses.  At least 250,000 apprentices entering formal technical apprenticeships each year with a minimum of 1,000,000 people under full-time hardcore technical instruction at any one time.  This will require the importation of English speaking trainers from all around the World.  The UK simply does not have enough people available to train our future generations.  A minimum of 100,000 trainers will be required, possibly as many as 250,000 employed in training and administration.
 - Most prisons and detention centers to be turned into apprenticeship training hubs.  Qualifying inmates will be trained to Master Craftsman Level and, if deemed safe, will qualify to train other inmates, and eventually civilians in adjacent facilities.  Exceptional progress will be rewarded with early release if deemed appropriate.  Prison apprenticeship programs will be coordinated in close consultation with regional industry.
 - University education to be made free or heavily subsidized for courses considered being in the 'national interest'.  This will cover a wide range of scientific, academic, and technical disciplines.  A grading system will determine the amount of subsidy from 100% free through to 100% paid.
-- Citizens Dividend to be paid unconditionally to all UK citizens.  New citizens must wait five years to qualify.  (Prisoners to pay 33% of their CD to the state to compensate for their keep.  The rest will be held in trust with 5% AER to cushion their release into society.  If they perish in captivity the money reverts to the CDT.)  Suggested payments:  £250 per month for 0-16 years of age; £500 for 16 to 65; and £750 thereafter. (numbers completely open to debate, as always with me)
+- Citizens Dividend to be paid unconditionally to all UK citizens.  New citizens must wait five years to qualify.  (Prisoners to pay 33% of their CD to the state to compensate for their keep.  The rest will be held in trust with 5% AER to cushion their release into society.  If they perish in captivity the money reverts to the CDT.)  Suggested payments:  Â£250 per month for 0-16 years of age; Â£500 for 16 to 65; and Â£750 thereafter. (numbers completely open to debate, as always with me)
 - CD to be paid into an account at the SLB-UK.  All citizens that apply for and claim their CD must apply in person and present themselves for interview in private (if a person is considered to be vulnerable in any way, they will be provided with free state legal representation for the purposes of determining their wishes).  Each successful applicant will be issued with a banking card that doubles for a biometric Citizens Identification Card.  If a person does not want to subscribe to the ID Card system, they do not qualify for the Citizens Dividend.
 - Police will have the right to ask any person to present their ID Card upon request.  Failure to do so may result in detention and further investigation.  Alternatives to presenting the card will be voluntary scan of the iris or fingers veins to determine identify.
 - Police to revert to the Bobby on the Bear model.  Velvet zero tolerance policing worked spectacularly in Hartlepool and Middlesbrough under Ray Mallon.  That approach halts the progression from minor misdemeanors to major crime in a highly effective way.
@@ -692,8 +692,7 @@ or
 **EATER**:  Education, Agreement, Tax, Exercise, Experimentation, Experience & more Education, then Restrict.
 
 - Another key policy that will negate the need for Government paying out for future pension contributions is the implementation of mandatory Social Welfare payments that we intend implementing for all registered 'tax payers'.  As in China, even if they don't pay tax, people will be required to pay a mandatory 5% to 10% of their salary into a Social Welfare fund that can be used primarily as a pension.  It will be tax free up to 10%.  That's very high.  The taxpayer can choose to receive a fixed 5% interest from the Government, or they can put up to 66% of it into riskier investments such as stocks and shares.  Then there is every incentive to save for retirement.  It will only pay out at 65 years of age.  Even putting 5% of income away for 20 or 30 years with 5% to 8% interest, and assuming we can keep inflation to 3% or below, and added to the Citizen's Dividend, should provide most people with a livable pension.  This removes much of the liability from the Government outside of the Citizen's Dividend of GBP 9,000 per year for 65+ people.
-
-# 13.15 Simple Policy Proposals
+# 13 Simple Policy Proposals
 
 This section proposes a simple tax system which aims to fulfils our requirements of being beneficial, fair and practical. These proposed policies, and the related transitional arrangements, aim to resolve issues around incentives and redistribution in the current UK tax system in a politically achievable way. 
 

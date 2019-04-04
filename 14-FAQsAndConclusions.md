@@ -46,7 +46,7 @@ A. International comparisons tell the opposite story. Whilst the UK has one of t
 A. The land is no longer owned by the government anyway. It would need to be bought back at expense. We do propose that the government does something similar to the HK system, by replacing mortgages by land-value-tax indexed purchase and lease back.
 
 
-## Q. Re: tax revenues, shouldn't we aim to raise £650billion or more, given the deficit? (Ben Dyson)
+## Q. Re: tax revenues, shouldn't we aim to raise ?650billion or more, given the deficit? (Ben Dyson)
 
 A. Good point.
 

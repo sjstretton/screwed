@@ -13,7 +13,7 @@ link-citations: yes
 \newpage
 
 ```{r setup, include=FALSE}
-Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
+Platform <- "PC" #"PC" "Mac" "HeatherPC" 
 if(Platform=="PC") setwd("~/../Google Drive/Book") else if(Platform=="Mac") setwd("~/Google Drive/Book") #Add something for your WD if this doesn't work
 
 options(htmltools.dir.version = FALSE)
@@ -34,40 +34,55 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The editors would like to extend their gratitude to the authors and to all who have helped in the writing of this draft book, in particular to Heather McKay, Angela Dennis, Chris Crompton, Jiama, Selvin Kwong, Neale Upstone, John McCone, Jasper Sky, Thibault Laurentjoye, Mike Reiss, Sacha Anthony, Mat Sayer, Mark Wadsworth, Tom Ward, Dirk Heine, Drew Jackson, Sarah Hafner, Ian Cook, Jo Wheeler and Christopher Downing for assistance, comments, conversations, support and work. Remembering Adrian Wrigley for introducing Stephen to many of the ideas herein.
 
-
 \newpage
 
-```{r child = '01A-TurningTheShip.md'}
+```{r child = '1/01A-TurningTheShip.md'}
 ```
 
 \newpage
 
-```{r child = '01B-KeyMessage.md'}
+```{r child = '1/01B-Scope.md'}
 ```
 
 \newpage
 
-```{r child = '01C-EconomicModelWealth.md'}
+```{r child = '1/01C-KeyMessage.md'}
 ```
 
+\newpage
+
+```{r child = '1/01D-TypesOfGood.md'}
+```
+
+\newpage
+
+```{r child = '1/01E-EconomicThought.md'}
+```
+
+\newpage
+
+```{r child = '1/01F-TaxTheoriesOfChange.md'}
+```
+
+\newpage
+
+```{r child = '1/01G-EconomicModelWealth.md'}
+```
 
 \newpage
 
 ```{r child = '02A-Revolutions.md'}
 ```
 
-
 \newpage
 
 ```{r child = '02B-Beveridge.md'}
 ```
 
-
 \newpage
 
 ```{r child = '03-DesertIslandEconomics.md'}
 ```
-
 
 \newpage
 
@@ -81,13 +96,14 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '05-TaxInPrinciple.md'}
+```{r child = '05-TaxInPrinciple.Rmd'}
 ```
 
 \newpage
 
 ```{r child = '06-TaxInPractice.Rmd'}
 ```
+
 
 \newpage
 
