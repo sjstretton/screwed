@@ -132,7 +132,21 @@ One pertinent drawback from over complication of tax policy is tax evasion. This
 
 Another aspect of practicality is predictability. Individuals and companies must be able to predict future expenses in order to manage their financial planning. In a similar vein, taxes must be clearly defined so that taxpayers can plan their affairs while knowing exactly how much tax they can expect to pay. This scenario emphasises the need for steady transitions and well communicated policies when applying any policy change. 
 
-# 5-4 A Framework for Reform
+# 5-4 Principles for Welfare
+
+It would be remiss of us to ignore the public services to which this tax revenue is allocated. The most significant of these, outside of healthcare, is welfare. The modern welfare state, conceived by Beveridge in 1942, looks to protect individuals from ‘cradle to grave’ [@Beveridge1942] by redistributing income from taxation to those who are most in need. 
+
+We can therefore define the three key functional requirements of the welfare system as follows: 
+
+1. To provide a 'safety net' to ensure that everyone is guaranteed a minimum standard of living, regardless of their personal circumstances or earning potential.
+2. To ensure that people with specific needs (e.g. the disabled and their carers) have sufficient resources to support themselves.
+3. To pay a state pension to those over state retirement age.
+
+It is arguable that there are a number of secondary and tertiary benefits to this, including creating a stable political environment by managing inequality, providing education and healthcare to increase the labour quality of the UK economy, and indeed moral arguments which can be made about the need for developed economies to look after the weakest in their society. 
+
+For example, the UK’s comprehensive system could be said to empower low income and unemployed workers by providing them with education and a minimum standard of subsistence by which they can then move back into the labour force when they are ready. Where the system fails is in encouraging workers into productive and fulfilling roles, and in protecting those at the bottom against social censure. Other social security systems manage these issues differently, and manage to avoid the common criticisms that plague commentary around the UK welfare system. 
+
+# 5-5 A Framework for Reform
 
 ## Principles in practice
 
@@ -152,17 +166,17 @@ It’s clear from above that consideration of taxes can be subdivided into estab
 
 In simple terms there are three major functions of the tax and welfare system:
 
-- Raise      Revenue: (Pay for government services)
-- Ration      Scarce Factors and Economic Bads: (Share limited resources, minimise      environmental and health harm, and ensure the economy develops      beneficially)
-- Correct      Mal-distribution: (Redistribute income fairly, provide a safety net for      those in need; help people into work; and ensure that the distribution of      income is equitable).
+1. Raise      Revenue: (Pay for government services)
+2. Ration      Scarce Factors and Economic Bads: (Share limited resources, minimise      environmental and health harm, and ensure the economy develops      beneficially)
+3. Correct      Mal-distribution: (Redistribute income fairly, provide a safety net for      those in need; help people into work; and ensure that the distribution of      income is equitable).
 
 ## Non-functional requirements of Taxation System
 
 Similarly, we can consider there to be three main non-functional requirements
 
-- Useable:      (Simple, with clear justification, objectives and low compliance and      collection costs.)
-- Economically      Efficient:  (Non-distortive, applied      to a secure tax base, and with low capacity to evade/avoid.)
-- Equitable:      (Transparent, fair, and internationally Cooperative)
+1. Useable:      (Simple, with clear justification, objectives and low compliance and      collection costs.)
+2. Economically      Efficient:  (Non-distortive, applied      to a secure tax base, and with low capacity to evade/avoid.)
+3. Equitable:      (Transparent, fair, and internationally Cooperative)
 
 ## Non-functional Requirements of Welfare System
 
@@ -170,9 +184,9 @@ We can also apply a similar mindset to the use of tax revenue in the case of the
 
 A welfare system should be:
 
-- Useable:      (Simple, integrated, value for money, with the use of modern Technology)
-- Efficient:      (Providing incentives for work, and skill development)
-- Equitable:      (Fair, Without Stigma)
+1. Useable:      (Simple, integrated, value for money, with the use of modern Technology)
+2. Efficient:      (Providing incentives for work, and skill development)
+3. Equitable:      (Fair, Without Stigma)
 
 ## Paths forward
 
