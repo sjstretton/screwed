@@ -15,15 +15,15 @@ link-citations: yes
 \newpage
 
 ```{r setup, include=FALSE}
-#Platform <- "PC" #"PC" "Mac" "HeatherPC" 
-#if(Platform=="PC") { 
-#  setwd("~/../Google Drive/Book") 
-#} else if(Platform=="Mac") { 
-#  setwd("~/Google Drive/Book")
-#} else if(Platform=="HeatherPC")  
+Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
+if(Platform=="PC") { 
+  setwd("~/../Google Drive/Book") 
+} else if(Platform=="Mac") { 
+  setwd("~/Google Drive/Book")
+} else if(Platform=="HeatherPC") {  
   setwd("~/Github/TaxHeaven/taxheaven")
   #Add something for your WD if this doesn't work# 
-#}
+}
 
 options(htmltools.dir.version = FALSE)
 options(scipen=999)
@@ -45,22 +45,17 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '00-TurningTheShip.md'}
+```{r child = '00-APerfectStorm.md'}
 ```
 
 \newpage
 
-```{r child = '01-Revolutions.md'}
+```{r child = '01-RevolutionsInTheMindsOfMen.md'}
 ```
 
 \newpage
 
-```{r child = '02A-Scope.md'}
-```
-
-\newpage
-
-```{r child = '02B-EconomicModelWealth.md'}
+```{r child = '02-ProgressAndProblems.md'}
 ```
 
 \newpage
@@ -81,9 +76,8 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '06-TaxPracticeNew.md'}
+```{r child = '06-TaxInPractice.Rmd'}
 ```
-
 
 \newpage
 

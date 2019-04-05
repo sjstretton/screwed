@@ -1,12 +1,10 @@
-# PART 4: POLITICAL CHANGE TOOLKIT
-
-# Public Good Economics
+# PART 4: Public Good Economics
 
 This book is about economics for a certain type of world. In this world, there are some goods that can be added to, either in quantity or quality; there are some goods that are fundamentally fixed; and there are some goods that can be degraded or destroyed. By 'goods' I mean broadly useful natural or artificial things. These positive, limited or negative things can apply to both public and private goods. We need an economics that not only considers the parts of the economy that are additive (growth economics) but also those that are fixed (distribution economics) and those that are 'subtract-able' (environmental economics).
 
 Environmental economists also distinguish between goods that are *excludible* and non-excludible. And also those that are *rival* versus non-rival. Related to rival-ness is *subtract-ability*. So pure public goods are non-rival and non-excludable. Club goods (for example, watching a pay-per-view sports match) are non-rival (it doesn't cost anything for someone extra to watch it) but excludible. Common pool resources are rival but non-excludible. They are also subtract-able. [VERY CONFUSING, EXPAND AND REWRITE]
 
-## **Introduction to the Topic: Types of Goods**
+## Introduction to the Topic: Types of Goods
 
 In economics, we are familiar with the concept of private goods. A private good is one owned by individuals. Those individuals can exclude others from the use of the good. The individual can maintain or augment the good. The value of the good is not particularly influenced by the action of others. In technical language, the private good is excludable (others are not permitted to use it unless the owner lets them) and rival (the use of the good by one person prevents its use by another person). The good is also additive -- we can add to the good.
 
@@ -18,7 +16,7 @@ Club goods are those that are non-rival but excludable. For example, if I were t
 
 Common pool resources are typically non-excludable or at least, difficult to exclude. But they are generally either rival or subtractable. For example, a fishery can be overfished. The fishermen are subtracting from a renewable resource. If they fish too much, the fishery will be depleted and there may not be enough fish to breed and thus replenish the stock of fish. So one fisherman is taking fish from what by definition another fisherman cannot take. In other words, fishing is a rival activity. The fishery in total can either be open to anyone or may have access control through permit. It's this access control that is vital to maintain the fishery.
 
-## **Appropriation versus Provisioning**
+## Appropriation versus Provisioning
 
 In relation to common pool resources, Elinor Ostrom distinguishes between appropriation activities and provisioning activities. An appropriation activity is to take benefits from a common pool resource. For example, a fisherman taking fish from a lake. A provisioning activity preserves or enhances a common pool resource. For example, an investment in maintaining the fish stocks through providing breeding ground or controlling access to the lake. 
 
@@ -30,7 +28,7 @@ This book argues that value does not solely reside in private goods but also res
 
 Therefore, if companies and individuals are to behave in the public interest, they need to have private financial interests that align with the public good. Hence, one of the principles of this book is to correct for negative externalities. Where a private action negatively impacts common pool resources, a private actor needs to pay a fee for his action to compensate the public for the damage caused. This fee discourages the private actor from damaging the public resource.         
 
-## **Marketable Assets as Rights to Appropriate**
+## Marketable Assets as Rights to Appropriate
 
 When we talk about private property, by definition, this involves the rights to exclude others from that property. This is almost the definition of a private property. So we can have private property over private goods (for example a car/automobile) and we can have private property over club goods (for example, the rights to transmit Premiership football on TV). Private property can also encompass the rights to exploit public goods. As just mentioned, a piece of land in a good location appropriates the value created by the community in terms of public infrastructure, pleasant environment, government provided goods and services, etc. 
 
@@ -91,8 +89,6 @@ Another is an individual approach to *collective* provision. Consider a communit
 So what determines prices? Well in a small community, it's more likely that the community will determine a 'fair price'. The goodwill of the community is important. The community gets together and knows each other. They can decide to go elsewhere or set up a new bakery if the prices are too high or the quality too low.
 
 These two examples show that if there are pervasive and important public goods 
-
-
 
 ## 'As if' Altruism
 
