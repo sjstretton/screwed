@@ -1,4 +1,4 @@
-# PART 1: Turning The Ship
+# PREFACE: TURNING THE SHIP
 
 The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
 
@@ -8,9 +8,9 @@ The trawler sailed out into the mid-Atlantic. After much fruitless searching, th
 
 Unfortunately, a storm was brewing, and not just any storm. Three separate weather systems had merged to create a 'weather bomb' of unusual intensity. Meteorologists warned of a serious threat to life. 
 
-The fishermen faced a dilemma. Should they attempt to land their catch whilst still fresh? To do so, they would need to risk their lives by sailing back, straight through the storm. Or they could avoid the storm by sailing further out to sea. After this detour, the fish would no longer [be] fresh and they would be out of pocket.
+The fishermen faced a dilemma. Should they attempt to land their catch whilst still fresh? To do so, they would need to risk their lives by sailing back, straight through the storm. Or they could avoid the storm by sailing further out to sea. After this detour, the fish would no longer[be fresh and they would be out of pocket.
 
-Added to this dilemma were communication and leadership issues. The storm had damaged the radio, making it difficult to get information or call for help. The captain (we will call him 'Clooney'), whilst charismatic, lacked good judgment. He took the risk and sailed into the storm.
+Added to this dilemma were communication and leadership issues. The storm had damaged the radio, making it difficult to get information or call for help. The captain (we will call him 'Clooney' after the actor playing him), whilst charismatic, lacked good judgment. He took the risk and sailed into the storm.
 
 Taking a step back from their immediate plight, it seems odd that Clooney and his men took such a severe risk. Why were they in that situation in the first place? Perhaps, there are two reasons.
 
@@ -54,13 +54,9 @@ We are in the same boat.
 
 # Plan of the Book
 
-Chapter 1B considers the core questions and theses of the book, emphasising when our ideas are new or innovative. 
-
 Chapter 1C defines a new economic model. It defines the economic objective as preserving and enhancing genuine wealth rather than activity and defines wealth at four levels.
 
-Chapter 2A considers economic reform and economic justice in history, starting with Adam Smith. It introduces the Adam Smith model of economic growth and distribution.
-
-Chapter 2B outlines the principles of the Beveridge report. Like Beveridge, we want to produce a *radical and comprehensive* analysis of tax and welfare that provides the basis of a new *social contract* between individuals and the state.
+Chapter 1 considers economic reform and economic justice in history, starting with Adam Smith. It introduces the Adam Smith model of economic growth and distribution. It  outlines the principles of the Beveridge report. Like Beveridge, we want to produce a *radical and comprehensive* analysis of tax and welfare that provides the basis of a new *social contract* between individuals and the state.
 
 Chapter 3 builds a conceptual model of the economy. To assess any policy proposal, we need a model of the world accurate for the purposes to which we put it. No model of the world is completely accurate. But we do need a model that deals with the most important economic, social and environmental phenomena in it. Without that, our advice will be askew. We set out key ideas and how they make our picture of the world richer and more realistic. 
 
