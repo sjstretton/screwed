@@ -1,0 +1,11 @@
+﻿Quick How-to guide A: for refs
+1) Make sure the references are in the shared folder All tax and benefits reform
+2) Create your own subfolder of Library called HeatherPC
+3) Sync Mendeley to that folder using Tools>Options>Bibtex
+4) Change the bibliography line at the top of the TaxHeaven.Rmd to point to that file (we have three files, each the same, to avoid sync issues)
+
+Quick How to guide B: for knitting
+5) Turn off any automatic M-dashes of N-dashes or fancy quotes (search for them before saving/switching to R)
+6) Always save in UTF-8 coding in R (file-save as encoding) 
+7) Check individual file knits in R (you will need to use the .Rmd file format and add the front matter)
+8) Check the whole TaxHeaven file knits and there are no missing refs (It will still knit even with missing refs)
