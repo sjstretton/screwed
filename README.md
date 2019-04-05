@@ -132,16 +132,93 @@ This contains various outlines of the prescriptive outlines and the actual ones
 -->[Solve Issues in Each Sector of the Economy]
 -->[Sum up Proposals and How to Transition. Conclude]
 
+## Flow Of Argument  - More Detailed
+
+# **Flow Of Argument**
+
 1. Defining the Scope
-2. Define the Core Thesis
-3. Methodology
-4. Historical Examples
-5. Analytical Framework
-6. Investigating taxation in practice
-7. The sectors in detail
-8. Proposals
-9. Modelling of proposals
-10. Transition and conclusions
+
+2. 1. A new economic model
+
+   2. Define the problems in scope
+
+   3. 1. Pollution 
+      2. Distribution
+
+   4. Define the tools in scope 
+
+   5. 1. Taxation
+      2. Benefits
+      3. Finance
+
+   6. Define the systems in scope
+
+   7. 1. Changing the incentives of the private sector
+      2. Improving the efficiency of one system the public system (taxation)
+
+3. Define the Core Thesis
+
+4. 1. Lack of ext taxes
+   2. Lack of taxing econ rent
+   3. Lack of realism and understanding of politics and political psychology by economists
+
+5. Methodology
+
+6. 1. Historical examples
+   2. Core economics
+   3. Empirical: Land value tax; at a convenient time, add to this in terms of environment
+   4. Clarity: Theoretical hypotheses, Descriptive, functional, responsive.
+
+7. Historical Examples
+
+8. 1. Looking at different approaches to taxation and welfare in history
+
+   2. 1. History of tax thought and tax rebellion
+      2. History of the UK’s post-war welfare system
+
+   3. Considering successful examples of tax and welfare reform:
+
+   4. 1. Singapore since independence (urban land rent capture) 
+      2. The United States 1945-80 (progressive income and corporation tax)
+      3. The UK in period 1945-70 (financial repression) 
+      4. Sweden and some other European countries (environmental taxation)
+
+9. Analytical Framework 1: Measuring the wealth at different societal levels 
+
+10. 1. Individual (skills and private assets)
+    2. Community (land value)
+    3. Nation-State (infrastructure financial assets and fixed investment)
+    4. World (environmental asset)
+
+11. Analytical Framework 2: Economic models (from the history of economic thought)
+
+12. 1. Adam Smith’s model of widely spread prosperity: division of labour, competition and distribution
+
+    2. 1. When is Adam Smith’s model valid?
+
+    3. Ricardo’s model of distribution and rent
+
+    4. Collective action theory and the tragedy of the commons
+
+    5. Pigouvian taxation
+
+13. Taxation in principle
+
+14. 1. Functional requirements (what should taxation do?)
+    2. Non-functional requirements (what should taxation not do?)
+
+15. Investigating taxation in practice
+
+16. 1. Existing taxes in the UK
+    2. Major methods of tax avoidance
+
+17. The sectors in detail
+
+18. Proposals
+
+19. Modelling of proposals
+
+20. Transition and conclusions
 
 ## Short Outline
 

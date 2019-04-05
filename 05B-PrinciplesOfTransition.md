@@ -67,6 +67,8 @@ Malcolm Torry in his recent book 'The feasibility of citizen's income' [@Torry20
 
 Any new tax system will involve a transition from the existing to the new. Working out such a transition is as important as working out where the direction of a tax system should eventually go. Such a transition should be fair and politically feasible and also it should demonstrate the viability of the policies implemented by proving to a skeptical public their value. In order to transition from the current system to one that works more effectively in a fashion that is smooth and politically feasible, we set out some suggestions on principles of transition. 
 
+ 
+
 ## Principle 1: Visionary
 
 The desired state and the objectives of the move should be clear .
