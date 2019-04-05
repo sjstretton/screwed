@@ -122,7 +122,7 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '14-FAQsAndConclusions.md'}
+```{r child = '14-Conclusions.md'}
 ```
 
 
