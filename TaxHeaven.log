@@ -1,0 +1,2400 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.7)  5 APR 2019 22:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**TaxHeaven.tex
+(./TaxHeaven.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tufte-latex/tufte-handout.cls
+Document Class: tufte-handout 2009/12/11 v3.5.0 Tufte-handout class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tufte-latex/tufte-common.def
+File: tufte-common.def 2009/12/11 v3.5.0 Common code for the Tufte-LaTeX styles
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local
+/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count79
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2009/04/17 v1.3 Extended ifthen features
+(/usr/local/texlive/2015/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
+\et@xins=\count80
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count81
+\calc@Bcount=\count82
+\calc@Adimen=\dimen102
+\calc@Bdimen=\dimen103
+\calc@Askip=\skip41
+\calc@Bskip=\skip42
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count83
+\calc@Cskip=\skip43
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+Class tufte-handout Info: Loading the base class `article'.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip44
+\belowcaptionskip=\skip45
+\bibindent=\dimen104
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip46
+\aftertitleunit=\skip47
+\ttl@plus=\dimen105
+\ttl@minus=\dimen106
+\ttl@toksa=\toks16
+\titlewidth=\dimen107
+\titlewidthlast=\dimen108
+\titlewidthfirst=\dimen109
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen110
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen111
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count94
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4319.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count95
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen112
+\Fld@menulength=\count96
+\Field@Width=\dimen113
+\Fld@charsize=\dimen114
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count97
+\c@Item=\count98
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count99
+\c@bookmark@seq@number=\count100
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip48
+)
+
+Package hyperref Warning: Option `pagecolor' is not available anymore.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@layoutwidth=\dimen119
+\Gm@layoutheight=\dimen120
+\Gm@layouthoffset=\dimen121
+\Gm@layoutvoffset=\dimen122
+\Gm@dimlist=\toks17
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count104
+\cp@tempcnt=\count105
+)
+\@tufte@overhang=\skip63
+\@tufte@fullwidth=\skip64
+\@tufte@caption@fill=\skip65
+(/usr/local/texlive/2015/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2013/06/09 v2.4 Extended list environments
+\pltopsep=\skip66
+\plpartopsep=\skip67
+\plitemsep=\skip68
+\plparsep=\skip69
+\pl@lab=\toks18
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/letterspace.sty
+Package: letterspace 2013/05/23 v2.5a Robust letterspacing (RS)
+LaTeX Info: Redefining \lsstyle on input line 307.
+LaTeX Info: Redefining \lslig on input line 308.
+LaTeX Info: Redefining \textls on input line 333.
+\MT@outer@kern=\dimen123
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip70
+\bibsep=\skip71
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count106
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+)
+No file TaxHeaven.bbl.
+\c@@tufte@num@bibkeys=\count107
+(/usr/local/texlive/2015/texmf-dist/tex/latex/sauerj/optparams.sty
+Package: optparams 2004/08/14 v0.9 multiple optional parameters in macros
+)
+\@tufte@sidenote@vertical@offset=\skip72
+(/usr/local/texlive/2015/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+\@tufte@margin@floatbox=\box27
+\@tufte@figure@box=\box28
+\@tufte@caption@box=\box29
+\@tufte@caption@vertical@offset=\skip73
+\@tufte@float@contents@width=\skip74
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/bera/beramono.sty
+Package: beramono 2004/01/31 (WaS)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip75
+\f@ncyO@elh=\skip76
+\f@ncyO@erh=\skip77
+\f@ncyO@olh=\skip78
+\f@ncyO@orh=\skip79
+\f@ncyO@elf=\skip80
+\f@ncyO@erf=\skip81
+\f@ncyO@olf=\skip82
+\f@ncyO@orf=\skip83
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count108
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2007/01/21 v2.11 Predefined colors according to SVG 1.1 (UK)
+))
+\langwohyphens=\language80
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
+\c@tracingmulticols=\count109
+\mult@box=\box30
+\multicol@leftmargin=\dimen124
+\c@unbalance=\count110
+\c@collectmore=\count111
+\doublecol@number=\count112
+\multicoltolerance=\count113
+\multicolpretolerance=\count114
+\full@width=\dimen125
+\page@free=\dimen126
+\premulticols=\dimen127
+\postmulticols=\dimen128
+\multicolsep=\skip84
+\multicolbaselineskip=\skip85
+\partial@page=\box31
+\last@line=\box32
+\maxbalancingoverflow=\dimen129
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count115
+\c@finalcolumnbadness=\count116
+\last@try=\dimen130
+\multicolovershoot=\dimen131
+\multicolundershoot=\dimen132
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+\mc@col@check@num=\count117
+))) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip86
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen133
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen134
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count118
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count119
+\leftroot@=\count120
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count121
+\DOTSCASE@=\count122
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen135
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count123
+\c@MaxMatrixCols=\count124
+\dotsspace@=\muskip11
+\c@parentequation=\count125
+\dspbrk@lvl=\count126
+\tag@help=\toks21
+\row@=\count127
+\column@=\count128
+\maxfields@=\count129
+\andhelp@=\toks22
+\eqnshift@=\dimen136
+\alignsep@=\dimen137
+\tagshift@=\dimen138
+\tagwidth@=\dimen139
+\totwidth@=\dimen140
+\lineht@=\dimen141
+\@envbody=\toks23
+\multlinegap=\skip87
+\multlinetaggap=\skip88
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2015/02/21 v2.0a fixes to LaTeX (obsolete)
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+)
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen144
+\lightrulewidth=\dimen145
+\cmidrulewidth=\dimen146
+\belowrulesep=\dimen147
+\belowbottomsep=\dimen148
+\aboverulesep=\dimen149
+\abovetopsep=\dimen150
+\cmidrulesep=\dimen151
+\cmidrulekern=\dimen152
+\defaultaddspace=\dimen153
+\@cmidla=\count130
+\@cmidlb=\count131
+\@aboverulesep=\dimen154
+\@belowrulesep=\dimen155
+\@thisruleclass=\count132
+\@lastruleclass=\count133
+\@thisrulewidth=\dimen156
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+(/usr/local/texlive/2015/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip89
+\L@UnitsRaiseTextstyle=\skip90
+\L@UnitsRaiseScriptstyle=\skip91
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip92
+\LTright=\skip93
+\LTpre=\skip94
+\LTpost=\skip95
+\LTchunksize=\count134
+\LTcapwidth=\dimen157
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@cols=\count135
+\LT@rows=\count136
+\c@LT@tables=\count137
+\c@LT@chunks=\count138
+\LT@p@ftn=\toks27
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box62
+\UL@hyphenbox=\box63
+\UL@skip=\skip96
+\UL@hook=\toks28
+\UL@height=\dimen158
+\UL@pe=\count139
+\UL@pixel=\dimen159
+\ULC@box=\box64
+Package: ulem 2012/05/18
+\ULdepth=\dimen160
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2012/01/28 v1.0f Raise limit of unprocessed floats (HMM; DH
+)
+Package morefloats Info: Maximum number of possible floats asked for: 36.
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+(morefloats)              on input line 171.
+\bx@S=\insert233
+\bx@T=\insert232
+\bx@U=\insert231
+\bx@V=\insert230
+\bx@W=\insert229
+\bx@X=\insert228
+\bx@Y=\insert227
+\bx@Z=\insert226
+\bx@AA=\insert225
+\bx@AB=\insert224
+\bx@AC=\insert223
+\bx@AD=\insert222
+\bx@AE=\insert221
+\bx@AF=\insert220
+\bx@AG=\insert219
+\bx@AH=\insert218
+\bx@AI=\insert217
+\bx@AJ=\insert216
+) (./TaxHeaven.aux)
+\openout1 = `TaxHeaven.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 71.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Try loading font information for T1+pplj on input line 71.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1pplj.fd
+File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
+)
+\AtBeginShipoutBox=\box65
+Package hyperref Info: Link coloring OFF on input line 71.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count140
+)
+LaTeX Info: Redefining \ref on input line 71.
+LaTeX Info: Redefining \pageref on input line 71.
+LaTeX Info: Redefining \nameref on input line 71.
+(./TaxHeaven.out) (./TaxHeaven.out)
+\@outlinefile=\write3
+\openout3 = `TaxHeaven.out'.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 71.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside asymmetric 
+* h-part:(L,W,R)=(72.26999pt, 312.0pt, 230.02501pt)
+* v-part:(T,H,B)=(72.26999pt, 616.0pt, 106.7pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=312.0pt
+* \textheight=616.0pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-42.0pt
+* \headheight=14.0pt
+* \headsep=28.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=24.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count141
+\scratchdimen=\dimen161
+\scratchbox=\box66
+\nofMPsegments=\count142
+\nofMParguments=\count143
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count144
+\MPscratchDim=\dimen162
+\MPnumerator=\count145
+\makeMPintoPDFobject=\count146
+\everyMPtoPDFconversion=\toks30
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)) [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <OtherP
+ictures/RTW.png, id=408, 633.86812pt x 447.92343pt>
+File: OtherPictures/RTW.png Graphic file (type png)
+<use OtherPictures/RTW.png>
+Package pdftex.def Info: OtherPictures/RTW.png used on input line 80.
+(pdftex.def)             Requested size: 312.01021pt x 220.48227pt.
+
+Overfull \hbox (12.01021pt too wide) in paragraph at lines 80--81
+[][]  
+ []
+
+[2 <./OtherPictures/RTW.png>] [3] [4] <ChapterPictures/AdamSmithSmall.png, id=4
+26, 126.4725pt x 170.6375pt>
+File: ChapterPictures/AdamSmithSmall.png Graphic file (type png)
+<use ChapterPictures/AdamSmithSmall.png>
+Package pdftex.def Info: ChapterPictures/AdamSmithSmall.png used on input line 
+224.
+(pdftex.def)             Requested size: 312.0082pt x 420.96344pt.
+
+Overfull \hbox (12.0082pt too wide) in paragraph at lines 224--226
+[][] 
+ []
+
+[5 <./ChapterPictures/AdamSmithSmall.png>] [6] [7] [8] [9] [10] [11] [12] [13] 
+[14] [15] [16] [17] [18] [19]
+LaTeX Font Info:    Try loading font information for TS1+pplj on input line 945
+.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ts1pplj.fd
+File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
+)
+Overfull \hbox (4.50983pt too wide) in paragraph at lines 955--959
+\T1/pplj/m/n/10 acid-i-fi-ca-tion, plas-tics, over-fish-ing and habi-tat loss w
+hich all threaten 
+ []
+
+[20]
+Overfull \hbox (10.24974pt too wide) in paragraph at lines 987--995
+\T1/pplj/m/n/10 There's an over-ar-ch-ing con-cept too, which we term pol-icy e
+n-trepreneur- 
+ []
+
+[21]
+Overfull \hbox (46.49998pt too wide) in paragraph at lines 1037--1037
+|\T1/pplj/m/it/12 Q5: WHAT IM-PROVE-MENTS WOULD THESE CHANGES BRING?| 
+ []
+
+[22]
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 1077.
+[23] [24]
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 122
+1.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 122
+1.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 122
+1.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 122
+1.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 122
+1.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 1221.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 1221.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 1221.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 1221.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 1221.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 1221.
+[25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 1787.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 1787.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 1787.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 1787.
+
+LaTeX Warning: Marginpar on page 36 moved.
+
+[36] [37] [38] [39] [40] [41]
+Overfull \hbox (5.35982pt too wide) in paragraph at lines 2070--2075
+[]\T1/pplj/m/n/10 So the price of oil is de-ter-mined by the cost of pro-duc-in
+g a marginal 
+ []
+
+[42]
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 2168.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 6.80005pt on input line 2168.
+
+LaTeX Warning: Marginpar on page 43 moved.
+
+[43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54]
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 8.50006pt on input line 2691.
+
+Overfull \hbox (3.40506pt too wide) in paragraph at lines 2697--2697
+ []\T1/fvm/m/n/10 Finance: Money Balances, Bank Balance Sheets, Transactions.[]
+ 
+ []
+
+
+Overfull \hbox (336.01233pt too wide) in paragraph at lines 2701--2701
+ []\T1/fvm/m/n/10 Environmental Health and Social Damage: Fossil Fuels, Transpo
+rt Fuels, Greenhouse Gas Emissions, Alcohol Tobacco, Sugar Salt[] 
+ []
+
+
+Overfull \hbox (18.75616pt too wide) in paragraph at lines 2705--2705
+ []\T1/fvm/m/n/10 Cash Flow: Income, Profit, Capital Gains, Value Added (sales)
+.[] 
+ []
+
+[55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67]
+LaTeX Font Info:    Font shape `T1/pplj/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/pplj/b/it' tried instead on input line 3383.
+
+[68] [69] [70] [71] [72] [73] [74] <ChapterPictures/5-1-taxrev.png, id=1032, 43
+2.86719pt x 322.20375pt>
+File: ChapterPictures/5-1-taxrev.png Graphic file (type png)
+<use ChapterPictures/5-1-taxrev.png>
+Package pdftex.def Info: ChapterPictures/5-1-taxrev.png used on input line 3790
+.
+(pdftex.def)             Requested size: 312.01419pt x 232.24709pt.
+<ChapterPictures/5-2-taxage.png, id=1033, 490.08093pt x 455.45157pt>
+File: ChapterPictures/5-2-taxage.png Graphic file (type png)
+<use ChapterPictures/5-2-taxage.png>
+Package pdftex.def Info: ChapterPictures/5-2-taxage.png used on input line 3796
+.
+(pdftex.def)             Requested size: 312.00557pt x 289.95909pt.
+[75 <./ChapterPictures/5-1-taxrev.png>] [76 <./ChapterPictures/5-2-taxage.png>]
+[77] [78] <ChapterPictures/5-3-taxtrust.png, id=1057, 512.66531pt x 286.82156pt
+>
+File: ChapterPictures/5-3-taxtrust.png Graphic file (type png)
+<use ChapterPictures/5-3-taxtrust.png>
+Package pdftex.def Info: ChapterPictures/5-3-taxtrust.png used on input line 39
+37.
+(pdftex.def)             Requested size: 311.99786pt x 174.55386pt.
+[79] [80 <./ChapterPictures/5-3-taxtrust.png>] [81] [82]
+Overfull \hbox (42.36972pt too wide) in paragraph at lines 4120--4124
+[]\T1/pplj/m/n/10 Wealthy peo-ple are able to put money into un-fair pseudo-inv
+estments,which 
+ []
+
+<ChapterPictures/6-1-InequalityPic.jpg, id=1094, 451.6875pt x 295.1025pt>
+File: ChapterPictures/6-1-InequalityPic.jpg Graphic file (type jpg)
+<use ChapterPictures/6-1-InequalityPic.jpg>
+Package pdftex.def Info: ChapterPictures/6-1-InequalityPic.jpg used on input li
+ne 4156.
+(pdftex.def)             Requested size: 312.0162pt x 203.85057pt.
+[83] [84 <./ChapterPictures/6-1-InequalityPic.jpg>] [85] [86]
+<ChapterPictures/6-2-DistributionOfHouseholdWealth.png, id=1123, 347.79938pt x 
+249.93375pt>
+File: ChapterPictures/6-2-DistributionOfHouseholdWealth.png Graphic file (type 
+png)
+<use ChapterPictures/6-2-DistributionOfHouseholdWealth.png>
+Package pdftex.def Info: ChapterPictures/6-2-DistributionOfHouseholdWealth.png 
+used on input line 4339.
+(pdftex.def)             Requested size: 312.01352pt x 224.2175pt.
+[87]
+<ChapterPictures/6-3-HouseholdWealthDistribution.png, id=1137, 688.82344pt x 37
+4.14781pt>
+File: ChapterPictures/6-3-HouseholdWealthDistribution.png Graphic file (type pn
+g)
+<use ChapterPictures/6-3-HouseholdWealthDistribution.png>
+Package pdftex.def Info: ChapterPictures/6-3-HouseholdWealthDistribution.png us
+ed on input line 4369.
+(pdftex.def)             Requested size: 311.99623pt x 169.4668pt.
+[88 <./ChapterPictures/6-2-DistributionOfHouseholdWealth.png>] [89 <./ChapterPi
+ctures/6-3-HouseholdWealthDistribution.png>] <OtherPictures/IncomeAfterTaxes2.p
+ng, id=1159, 176.91093pt x 400.49625pt>
+File: OtherPictures/IncomeAfterTaxes2.png Graphic file (type png)
+<use OtherPictures/IncomeAfterTaxes2.png>
+Package pdftex.def Info: OtherPictures/IncomeAfterTaxes2.png used on input line
+ 4418.
+(pdftex.def)             Requested size: 272.14403pt x 616.0878pt.
+
+LaTeX Warning: Float too large for page by 5.0878pt on input line 4420.
+
+
+<ChapterPictures/6-4-ShareOfTopIncome.png, id=1162, 432.11438pt x 167.87718pt>
+File: ChapterPictures/6-4-ShareOfTopIncome.png Graphic file (type png)
+<use ChapterPictures/6-4-ShareOfTopIncome.png>
+Package pdftex.def Info: ChapterPictures/6-4-ShareOfTopIncome.png used on input
+ line 4445.
+(pdftex.def)             Requested size: 312.01224pt x 121.21729pt.
+[90 <./ChapterPictures/6-4-ShareOfTopIncome.png>] [91 <./OtherPictures/IncomeAf
+terTaxes2.png>] [92] [93]
+<ChapterPictures/6-5-Healthandsocialproblems.png, id=1210, 430.60875pt x 306.39
+468pt>
+File: ChapterPictures/6-5-Healthandsocialproblems.png Graphic file (type png)
+<use ChapterPictures/6-5-Healthandsocialproblems.png>
+Package pdftex.def Info: ChapterPictures/6-5-Healthandsocialproblems.png used o
+n input line 4593.
+(pdftex.def)             Requested size: 302.64618pt x 215.3444pt.
+
+LaTeX Warning: Marginpar on page 94 moved.
+
+<ChapterPictures/6-6-IneqLift.jpg, id=1213, 903.375pt x 618.05907pt>
+File: ChapterPictures/6-6-IneqLift.jpg Graphic file (type jpg)
+<use ChapterPictures/6-6-IneqLift.jpg>
+Package pdftex.def Info: ChapterPictures/6-6-IneqLift.jpg used on input line 46
+46.
+(pdftex.def)             Requested size: 302.64973pt x 207.06285pt.
+[94 <./ChapterPictures/6-5-Healthandsocialproblems.png>] [95 <./ChapterPictures
+/6-6-IneqLift.jpg>]
+<ChapterPictures/6-7-IntergenerationalEarningsElasticity.png, id=1233, 374.1478
+1pt x 271.76532pt>
+File: ChapterPictures/6-7-IntergenerationalEarningsElasticity.png Graphic file 
+(type png)
+<use ChapterPictures/6-7-IntergenerationalEarningsElasticity.png>
+Package pdftex.def Info: ChapterPictures/6-7-IntergenerationalEarningsElasticit
+y.png used on input line 4702.
+(pdftex.def)             Requested size: 312.01552pt x 226.63503pt.
+
+<ChapterPictures/6-8-AdvertisementPromotingEducation.png, id=1234, 602.25pt x 4
+17.05812pt>
+File: ChapterPictures/6-8-AdvertisementPromotingEducation.png Graphic file (typ
+e png)
+<use ChapterPictures/6-8-AdvertisementPromotingEducation.png>
+Package pdftex.def Info: ChapterPictures/6-8-AdvertisementPromotingEducation.pn
+g used on input line 4725.
+(pdftex.def)             Requested size: 302.64972pt x 209.58493pt.
+[96 <./ChapterPictures/6-7-IntergenerationalEarningsElasticity.png>] [97 <./Cha
+pterPictures/6-8-AdvertisementPromotingEducation.png>]
+<ChapterPictures/6-9-WealthIneqDemocracy.jpg, id=1253, 376.40625pt x 238.64156p
+t>
+File: ChapterPictures/6-9-WealthIneqDemocracy.jpg Graphic file (type jpg)
+<use ChapterPictures/6-9-WealthIneqDemocracy.jpg>
+Package pdftex.def Info: ChapterPictures/6-9-WealthIneqDemocracy.jpg used on in
+put line 4786.
+(pdftex.def)             Requested size: 312.0208pt x 197.82117pt.
+[98 <./ChapterPictures/6-9-WealthIneqDemocracy.jpg>] [99]
+<ChapterPictures/6-10-UnitedStatesWealthDistributionActualEstimatedandIdeal.png
+, id=1284, 340.27126pt x 258.9675pt>
+File: ChapterPictures/6-10-UnitedStatesWealthDistributionActualEstimatedandIdea
+l.png Graphic file (type png)
+
+<use ChapterPictures/6-10-UnitedStatesWealthDistributionActualEstimatedandIdeal
+.png>
+Package pdftex.def Info: ChapterPictures/6-10-UnitedStatesWealthDistributionAct
+ualEstimatedandIdeal.png used on input line 4903.
+(pdftex.def)             Requested size: 302.65353pt x 230.33807pt.
+[100 <./ChapterPictures/6-10-UnitedStatesWealthDistributionActualEstimatedandId
+eal.png>] [101] <ChapterPictures/6-11-InheritanceCartoon.jpg, id=1300, 144.54pt
+ x 93.2283pt>
+File: ChapterPictures/6-11-InheritanceCartoon.jpg Graphic file (type jpg)
+<use ChapterPictures/6-11-InheritanceCartoon.jpg>
+Package pdftex.def Info: ChapterPictures/6-11-InheritanceCartoon.jpg used on in
+put line 4984.
+(pdftex.def)             Requested size: 312.01645pt x 201.25063pt.
+[102 <./ChapterPictures/6-11-InheritanceCartoon.jpg>]
+Overfull \hbox (218.82982pt too wide) in alignment at lines 5029--5034
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (218.82982pt too wide) in alignment at lines 5034--5043
+ [] [] [] [] 
+ []
+
+<ChapterPictures/6-12-TopIncomeMTR.png, id=1308, 542.025pt x 302.63063pt>
+File: ChapterPictures/6-12-TopIncomeMTR.png Graphic file (type png)
+<use ChapterPictures/6-12-TopIncomeMTR.png>
+Package pdftex.def Info: ChapterPictures/6-12-TopIncomeMTR.png used on input li
+ne 5053.
+(pdftex.def)             Requested size: 312.00931pt x 174.2052pt.
+[103]
+
+LaTeX Warning: Marginpar on page 104 moved.
+
+<ChapterPictures/6-13-ImpactTBIneq.png, id=1319, 602.25pt x 337.26pt>
+File: ChapterPictures/6-13-ImpactTBIneq.png Graphic file (type png)
+<use ChapterPictures/6-13-ImpactTBIneq.png>
+Package pdftex.def Info: ChapterPictures/6-13-ImpactTBIneq.png used on input li
+ne 5080.
+(pdftex.def)             Requested size: 312.0139pt x 174.72778pt.
+[104 <./ChapterPictures/6-12-TopIncomeMTR.png> <./ChapterPictures/6-13-ImpactTB
+Ineq.png>]
+<ChapterPictures/6-14-IncomeProgressivityTax.png, id=1330, 602.25pt x 337.26pt>
+File: ChapterPictures/6-14-IncomeProgressivityTax.png Graphic file (type png)
+<use ChapterPictures/6-14-IncomeProgressivityTax.png>
+Package pdftex.def Info: ChapterPictures/6-14-IncomeProgressivityTax.png used o
+n input line 5107.
+(pdftex.def)             Requested size: 312.0139pt x 174.72778pt.
+
+<ChapterPictures/6-15-CorrelationIncomeSharesAndMTR.png, id=1331, 377.15906pt x
+ 238.64156pt>
+File: ChapterPictures/6-15-CorrelationIncomeSharesAndMTR.png Graphic file (type
+ png)
+<use ChapterPictures/6-15-CorrelationIncomeSharesAndMTR.png>
+Package pdftex.def Info: ChapterPictures/6-15-CorrelationIncomeSharesAndMTR.png
+ used on input line 5129.
+(pdftex.def)             Requested size: 312.00029pt x 197.41335pt.
+[105 <./ChapterPictures/6-14-IncomeProgressivityTax.png>]
+Overfull \hbox (4.02979pt too wide) in paragraph at lines 5137--5148
+[]\T1/pplj/m/n/10 Immediately we can see a strong op-po-si-tional re-la-tion-sh
+ip, whereby 
+ []
+
+<ChapterPictures/6-16-TopShareTopMTR.jpg, id=1341, 740.7675pt x 490.83376pt>
+File: ChapterPictures/6-16-TopShareTopMTR.jpg Graphic file (type jpg)
+<use ChapterPictures/6-16-TopShareTopMTR.jpg>
+Package pdftex.def Info: ChapterPictures/6-16-TopShareTopMTR.jpg used on input 
+line 5155.
+(pdftex.def)             Requested size: 312.00188pt x 206.73294pt.
+[106 <./ChapterPictures/6-15-CorrelationIncomeSharesAndMTR.png>] [107 <./Chapte
+rPictures/6-16-TopShareTopMTR.jpg>] [108]
+
+LaTeX Warning: Marginpar on page 109 moved.
+
+[109] [110] [111]
+Overfull \hbox (39.2899pt too wide) in alignment at lines 5538--5542
+ [] [] 
+ []
+
+
+Overfull \hbox (39.2899pt too wide) in alignment at lines 5542--5546
+ [] [] 
+ []
+
+[112] [113]
+Overfull \hbox (1.67987pt too wide) in alignment at lines 5606--5618
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.67987pt too wide) in alignment at lines 5618--5710
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (48.84981pt too wide) in paragraph at lines 5729--5732
+[]\T1/pplj/m/n/10 Political prob-lems with-grow-ing in-equal-ity -> Oli-garchy.
+ Monopoly/Oligarchy 
+ []
+
+[114] <ChapterPictures/6-17-richgetricher.png, id=1419, 550.30594pt x 438.8897p
+t>
+File: ChapterPictures/6-17-richgetricher.png Graphic file (type png)
+<use ChapterPictures/6-17-richgetricher.png>
+Package pdftex.def Info: ChapterPictures/6-17-richgetricher.png used on input l
+ine 5763.
+(pdftex.def)             Requested size: 312.00664pt x 248.83704pt.
+[115 <./ChapterPictures/6-17-richgetricher.png>]
+
+LaTeX Warning: Marginpar on page 116 moved.
+
+
+LaTeX Warning: Marginpar on page 116 moved.
+
+
+LaTeX Warning: Marginpar on page 116 moved.
+
+
+LaTeX Warning: Marginpar on page 116 moved.
+
+[116]
+<ChapterPictures/6-18-CapitalIncomeDisplacingLabourIncome.png, id=1434, 451.687
+5pt x 420.06938pt>
+File: ChapterPictures/6-18-CapitalIncomeDisplacingLabourIncome.png Graphic file
+ (type png)
+<use ChapterPictures/6-18-CapitalIncomeDisplacingLabourIncome.png>
+Package pdftex.def Info: ChapterPictures/6-18-CapitalIncomeDisplacingLabourInco
+me.png used on input line 5845.
+(pdftex.def)             Requested size: 312.0162pt x 290.17508pt.
+[117 <./ChapterPictures/6-18-CapitalIncomeDisplacingLabourIncome.png>] <OtherPi
+ctures/Monopoly.png, id=1443, 494.59781pt x 224.33812pt>
+File: OtherPictures/Monopoly.png Graphic file (type png)
+<use OtherPictures/Monopoly.png>
+Package pdftex.def Info: OtherPictures/Monopoly.png used on input line 5913.
+(pdftex.def)             Requested size: 311.99825pt x 141.51518pt.
+[118]
+Overfull \hbox (6.7598pt too wide) in paragraph at lines 5922--5929
+[]\T1/pplj/m/n/10 Another ef-fect is closely re-lated and acts to ac-cen-tu-ate
+ the monopoly 
+ []
+
+
+<OtherPictures/FactorsOfIncomeInequality.png, id=1450, 517.18219pt x 135.50626p
+t>
+File: OtherPictures/FactorsOfIncomeInequality.png Graphic file (type png)
+<use OtherPictures/FactorsOfIncomeInequality.png>
+Package pdftex.def Info: OtherPictures/FactorsOfIncomeInequality.png used on in
+put line 5946.
+(pdftex.def)             Requested size: 312.00839pt x 81.7489pt.
+[119 <./OtherPictures/Monopoly.png> <./OtherPictures/FactorsOfIncomeInequality.
+png>] [120] [121] [122] [123] [124] [125]
+<ChapterPictures/11-1-UKUnemploymentRate.png, id=1511, 451.6875pt x 279.29344pt
+>
+File: ChapterPictures/11-1-UKUnemploymentRate.png Graphic file (type png)
+<use ChapterPictures/11-1-UKUnemploymentRate.png>
+Package pdftex.def Info: ChapterPictures/11-1-UKUnemploymentRate.png used on in
+put line 6240.
+(pdftex.def)             Requested size: 312.0162pt x 192.93002pt.
+<ChapterPictures/11-2-UpwardMobility.jpg, id=1513, 554.07pt x 430.60875pt>
+File: ChapterPictures/11-2-UpwardMobility.jpg Graphic file (type jpg)
+<use ChapterPictures/11-2-UpwardMobility.jpg>
+Package pdftex.def Info: ChapterPictures/11-2-UpwardMobility.jpg used on input 
+line 6264.
+(pdftex.def)             Requested size: 302.64275pt x 235.20604pt.
+[126 <./ChapterPictures/11-1-UKUnemploymentRate.png>]
+Overfull \hbox (1.40976pt too wide) in paragraph at lines 6302--6312
+\T1/pplj/m/n/10 A re-lated phe-nomenon is un-der-em-ploy-ment and the under-uti
+lization 
+ []
+
+[127 <./ChapterPictures/11-2-UpwardMobility.jpg>]
+<ChapterPictures/11-3-MismatchedEmployment.png, id=1537, 626.34pt x 386.94562pt
+>
+File: ChapterPictures/11-3-MismatchedEmployment.png Graphic file (type png)
+<use ChapterPictures/11-3-MismatchedEmployment.png>
+Package pdftex.def Info: ChapterPictures/11-3-MismatchedEmployment.png used on 
+input line 6315.
+(pdftex.def)             Requested size: 312.0128pt x 192.7579pt.
+[128 <./ChapterPictures/11-3-MismatchedEmployment.png>] [129] [130] <ChapterPic
+tures/11-4-BeveridgeEvils.jpg, id=1578, 1204.5pt x 602.25pt>
+File: ChapterPictures/11-4-BeveridgeEvils.jpg Graphic file (type jpg)
+<use ChapterPictures/11-4-BeveridgeEvils.jpg>
+Package pdftex.def Info: ChapterPictures/11-4-BeveridgeEvils.jpg used on input 
+line 6486.
+(pdftex.def)             Requested size: 312.00473pt x 156.00235pt.
+
+Overfull \hbox (0.28983pt too wide) in paragraph at lines 6504--6513
+[]\T1/pplj/m/n/10 The wel-fare state has grown rapidly since its in-cep-tion. I
+n 2015/16, 
+ []
+
+[131 <./ChapterPictures/11-4-BeveridgeEvils.jpg>] <ChapterPictures/11-5-RealWag
+es2009.png, id=1586, 622.57594pt x 402.00188pt>
+File: ChapterPictures/11-5-RealWages2009.png Graphic file (type png)
+<use ChapterPictures/11-5-RealWages2009.png>
+Package pdftex.def Info: ChapterPictures/11-5-RealWages2009.png used on input l
+ine 6521.
+(pdftex.def)             Requested size: 311.99968pt x 201.4605pt.
+[132 <./ChapterPictures/11-5-RealWages2009.png>] <ChapterPictures/11-6-Parentin
+gCosts.png, id=1600, 481.8pt x 277.78781pt>
+File: ChapterPictures/11-6-ParentingCosts.png Graphic file (type png)
+<use ChapterPictures/11-6-ParentingCosts.png>
+Package pdftex.def Info: ChapterPictures/11-6-ParentingCosts.png used on input 
+line 6579.
+(pdftex.def)             Requested size: 312.00471pt x 179.8902pt.
+<ChapterPictures/11-7-TaxRates.png, id=1602, 466.74374pt x 291.33844pt>
+File: ChapterPictures/11-7-TaxRates.png Graphic file (type png)
+<use ChapterPictures/11-7-TaxRates.png>
+Package pdftex.def Info: ChapterPictures/11-7-TaxRates.png used on input line 6
+594.
+(pdftex.def)             Requested size: 312.01161pt x 194.75563pt.
+[133 <./ChapterPictures/11-6-ParentingCosts.png>] <ChapterPictures/11-8-MTR.png
+, id=1614, 585.68813pt x 301.125pt>
+File: ChapterPictures/11-8-MTR.png Graphic file (type png)
+<use ChapterPictures/11-8-MTR.png>
+Package pdftex.def Info: ChapterPictures/11-8-MTR.png used on input line 6608.
+(pdftex.def)             Requested size: 302.65602pt x 155.6072pt.
+[134 <./ChapterPictures/11-7-TaxRates.png> <./ChapterPictures/11-8-MTR.png>] [1
+35] [136] <ChapterPictures/11-9-MispaidBenefits.png, id=1648, 313.17pt x 243.15
+843pt>
+File: ChapterPictures/11-9-MispaidBenefits.png Graphic file (type png)
+<use ChapterPictures/11-9-MispaidBenefits.png>
+Package pdftex.def Info: ChapterPictures/11-9-MispaidBenefits.png used on input
+ line 6772.
+(pdftex.def)             Requested size: 312.0128pt x 242.25993pt.
+[137 <./ChapterPictures/11-9-MispaidBenefits.png>] [138] [139] [140] [141] [142
+] [143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153]
+Overfull \hbox (7.50974pt too wide) in paragraph at lines 7614--7621
+\T1/pplj/m/n/10 rents only, which should re-sult in no mar-ket ef-fi-ciency los
+ses.Therefore, 
+ []
+
+
+LaTeX Warning: Marginpar on page 154 moved.
+
+<ChapterPictures/7-1-IncTaxandCorpTax.png, id=1822, 302.12875pt x 281.05pt>
+File: ChapterPictures/7-1-IncTaxandCorpTax.png Graphic file (type png)
+<use ChapterPictures/7-1-IncTaxandCorpTax.png>
+Package pdftex.def Info: ChapterPictures/7-1-IncTaxandCorpTax.png used on input
+ line 7641.
+(pdftex.def)             Requested size: 312.00285pt x 290.2352pt.
+[154] [155 <./ChapterPictures/7-1-IncTaxandCorpTax.png>] [156]
+
+LaTeX Warning: Marginpar on page 157 moved.
+
+
+LaTeX Warning: Marginpar on page 157 moved.
+
+[157]
+<ChapterPictures/7-2-ReceiptsFromCorpTax.png, id=1864, 299.6796pt x 211.992pt>
+File: ChapterPictures/7-2-ReceiptsFromCorpTax.png Graphic file (type png)
+<use ChapterPictures/7-2-ReceiptsFromCorpTax.png>
+Package pdftex.def Info: ChapterPictures/7-2-ReceiptsFromCorpTax.png used on in
+put line 7809.
+(pdftex.def)             Requested size: 312.02066pt x 220.722pt.
+[158 <./ChapterPictures/7-2-ReceiptsFromCorpTax.png>]
+Overfull \hbox (8.95978pt too wide) in paragraph at lines 7852--7856
+[]\T1/pplj/m/n/10 According to the Eu-ro-pean Com-mis-sion, this ar-range-ment 
+amounted 
+ []
+
+
+Overfull \hbox (4.76979pt too wide) in paragraph at lines 7862--7864
+[]\T1/pplj/m/it/9 Our rules don't stop gov-ern-ments ap-ply-ing a law rate to e
+v-ery com-pany...what 
+ []
+
+[159] <ChapterPictures/7-3-EUCorpTaxRates.png, id=1883, 306.4248pt x 252.945pt>
+File: ChapterPictures/7-3-EUCorpTaxRates.png Graphic file (type png)
+<use ChapterPictures/7-3-EUCorpTaxRates.png>
+Package pdftex.def Info: ChapterPictures/7-3-EUCorpTaxRates.png used on input l
+ine 7885.
+(pdftex.def)             Requested size: 312.01613pt x 257.56049pt.
+<ChapterPictures/7-4-UKCorpTaxCuts.png, id=1886, 293.4162pt x 220.6644pt>
+File: ChapterPictures/7-4-UKCorpTaxCuts.png Graphic file (type png)
+<use ChapterPictures/7-4-UKCorpTaxCuts.png>
+Package pdftex.def Info: ChapterPictures/7-4-UKCorpTaxCuts.png used on input li
+ne 7906.
+(pdftex.def)             Requested size: 312.00914pt x 234.64725pt.
+[160 <./ChapterPictures/7-3-EUCorpTaxRates.png>] <ChapterPictures/7-5-OECDVATRa
+tes.png, id=1895, 262.0992pt x 135.3858pt>
+File: ChapterPictures/7-5-OECDVATRates.png Graphic file (type png)
+<use ChapterPictures/7-5-OECDVATRates.png>
+Package pdftex.def Info: ChapterPictures/7-5-OECDVATRates.png used on input lin
+e 7930.
+(pdftex.def)             Requested size: 312.00188pt x 161.16273pt.
+[161 <./ChapterPictures/7-4-UKCorpTaxCuts.png>]
+
+LaTeX Warning: Marginpar on page 162 moved.
+
+[162 <./ChapterPictures/7-5-OECDVATRates.png>]
+
+LaTeX Warning: Marginpar on page 163 moved.
+
+[163]
+
+LaTeX Warning: Marginpar on page 164 moved.
+
+[164]
+Overfull \hbox (20.25462pt too wide) detected at line 8112
+\OML/zplm/m/it/10 Weighting[] \OT1/zplm/m/n/10 = [] \OMS/zplm/m/n/10 ^^C []
+ []
+
+[165]
+
+LaTeX Warning: Marginpar on page 166 moved.
+
+[166]
+<ChapterPictures/8-1-RealWagesvsHousePrices.png, id=1953, 444.91219pt x 275.529
+37pt>
+File: ChapterPictures/8-1-RealWagesvsHousePrices.png Graphic file (type png)
+<use ChapterPictures/8-1-RealWagesvsHousePrices.png>
+Package pdftex.def Info: ChapterPictures/8-1-RealWagesvsHousePrices.png used on
+ input line 8231.
+(pdftex.def)             Requested size: 311.99986pt x 193.21819pt.
+[167] <ChapterPictures/8-2-Firsttimebuyer.png, id=1965, 451.6875pt x 232.61906p
+t>
+File: ChapterPictures/8-2-Firsttimebuyer.png Graphic file (type png)
+<use ChapterPictures/8-2-Firsttimebuyer.png>
+Package pdftex.def Info: ChapterPictures/8-2-Firsttimebuyer.png used on input l
+ine 8245.
+(pdftex.def)             Requested size: 302.65662pt x 155.86815pt.
+
+<ChapterPictures/8-3-Housepriceaffordability.png, id=1968, 444.15938pt x 274.77
+657pt>
+File: ChapterPictures/8-3-Housepriceaffordability.png Graphic file (type png)
+<use ChapterPictures/8-3-Housepriceaffordability.png>
+Package pdftex.def Info: ChapterPictures/8-3-Housepriceaffordability.png used o
+n input line 8265.
+(pdftex.def)             Requested size: 302.6411pt x 187.22711pt.
+[168 <./ChapterPictures/8-1-RealWagesvsHousePrices.png> <./ChapterPictures/8-2-
+Firsttimebuyer.png>]
+<ChapterPictures/8-4-Percentageownershipbyage.png, id=1980, 1202.4925pt x 698.6
+1pt>
+File: ChapterPictures/8-4-Percentageownershipbyage.png Graphic file (type png)
+<use ChapterPictures/8-4-Percentageownershipbyage.png>
+Package pdftex.def Info: ChapterPictures/8-4-Percentageownershipbyage.png used 
+on input line 8283.
+(pdftex.def)             Requested size: 302.64072pt x 175.82466pt.
+[169 <./ChapterPictures/8-3-Housepriceaffordability.png> <./ChapterPictures/8-4
+-Percentageownershipbyage.png>]
+<ChapterPictures/8-5-Householdnetpropertywealth2012.png, id=1991, 467.49657pt x
+ 349.305pt>
+File: ChapterPictures/8-5-Householdnetpropertywealth2012.png Graphic file (type
+ png)
+<use ChapterPictures/8-5-Householdnetpropertywealth2012.png>
+Package pdftex.def Info: ChapterPictures/8-5-Householdnetpropertywealth2012.png
+ used on input line 8307.
+(pdftex.def)             Requested size: 312.01552pt x 233.13237pt.
+[170 <./ChapterPictures/8-5-Householdnetpropertywealth2012.png>] [171] [172]
+<ChapterPictures/8-6-Indexofhousingmarketcosts1983-2007.png, id=2020, 629.35126
+pt x 460.72125pt>
+File: ChapterPictures/8-6-Indexofhousingmarketcosts1983-2007.png Graphic file (
+type png)
+<use ChapterPictures/8-6-Indexofhousingmarketcosts1983-2007.png>
+Package pdftex.def Info: ChapterPictures/8-6-Indexofhousingmarketcosts1983-2007
+.png used on input line 8473.
+(pdftex.def)             Requested size: 311.99557pt x 228.39868pt.
+[173 <./ChapterPictures/8-6-Indexofhousingmarketcosts1983-2007.png>] [174]
+Overfull \hbox (4.60979pt too wide) in paragraph at lines 8582--8584
+[]\T1/pplj/m/n/10 Great minds have al-ready con-sid-ered this mat-ter. Win-ston
+ Churchill 
+ []
+
+[175] <ChapterPictures/8-7-Monopoly.jpg, id=2050, 548.0475pt x 198.7425pt>
+File: ChapterPictures/8-7-Monopoly.jpg Graphic file (type jpg)
+<use ChapterPictures/8-7-Monopoly.jpg>
+Package pdftex.def Info: ChapterPictures/8-7-Monopoly.jpg used on input line 86
+48.
+(pdftex.def)             Requested size: 302.64798pt x 109.75145pt.
+
+LaTeX Warning: Marginpar on page 176 moved.
+
+[176 <./ChapterPictures/8-7-Monopoly.jpg>] <ChapterPictures/8-8-GeorgeSign.jpg,
+ id=2057, 376.40625pt x 250.68657pt>
+File: ChapterPictures/8-8-GeorgeSign.jpg Graphic file (type jpg)
+<use ChapterPictures/8-8-GeorgeSign.jpg>
+Package pdftex.def Info: ChapterPictures/8-8-GeorgeSign.jpg used on input line 
+8709.
+(pdftex.def)             Requested size: 312.0208pt x 207.80585pt.
+[177] [178 <./ChapterPictures/8-8-GeorgeSign.jpg>]
+Overfull \hbox (3.25977pt too wide) in paragraph at lines 8764--8767
+\T1/pplj/m/n/10 com-mis-sioned by the In-sti-tute for Fis-cal Stud-ies in 2010/
+11. It brought 
+ []
+
+[179]
+
+LaTeX Warning: Marginpar on page 180 moved.
+
+[180] [181] [182] [183] [184] [185] [186] <ChapterPictures/8-9-DenmarkLVT.png, 
+id=2150, 385.44pt x 201.75375pt>
+File: ChapterPictures/8-9-DenmarkLVT.png Graphic file (type png)
+<use ChapterPictures/8-9-DenmarkLVT.png>
+Package pdftex.def Info: ChapterPictures/8-9-DenmarkLVT.png used on input line 
+9209.
+(pdftex.def)             Requested size: 302.63576pt x 158.41089pt.
+[187 <./ChapterPictures/8-9-DenmarkLVT.png>] [188]
+Overfull \hbox (0.38982pt too wide) in paragraph at lines 9366--9374
+\T1/pplj/m/n/10 pri-mor-dial form which pre-cedes hu-man ex-is-tence. It has be
+en formed 
+ []
+
+[189] [190]
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <8> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 9437.
+
+LaTeX Warning: Marginpar on page 191 moved.
+
+[191]
+Overfull \hbox (0.90985pt too wide) in paragraph at lines 9517--9525
+\T1/pplj/m/n/10 guish be-tween land and cap-i-tal in eco-nomic mod-els leads to
+``incorrect 
+ []
+
+[192] [193]
+Overfull \hbox (3.1621pt too wide) in paragraph at lines 9654--9654
+|\T1/pplj/m/it/10.95 7. Land is sub-ject to mar-ket forces that dif-fer from th
+ose that de-ter-mine
+ []
+
+[194]
+Overfull \hbox (10.76132pt too wide) in paragraph at lines 9679--9679
+|\T1/pplj/m/it/10.95 8. Land price guides in-vestors and de-ter-mines the char-
+ac-ter of cap-i-tal, as
+ []
+
+
+Overfull \hbox (10.9694pt too wide) in paragraph at lines 9719--9719
+|\T1/pplj/m/it/10.95 10. Land value (ba-sic per-ma-nent lo-ca-tion value)is not
+ an eco-nomic fund.| 
+ []
+
+[195]
+Overfull \hbox (13.93681pt too wide) in paragraph at lines 9740--9740
+|\T1/pplj/m/it/10.95 1. The ori-gin of prop-erty in land is po-lit-i-cal and ow
+n-ing land im-parts su-
+ []
+
+[196] [197]
+Overfull \hbox (12.50243pt too wide) in paragraph at lines 9888--9888
+|\T1/pplj/m/it/10.95 4. The Price of Land Must Be Sys-tem-i-cally Risky to Com-
+pen-sate For Su-
+ []
+
+[198]
+Overfull \hbox (3.97246pt too wide) in paragraph at lines 9903--9903
+|\T1/pplj/m/it/10.95 5. The Fall In In-ter-est Rate Makes Prop-erty Own-ers Ric
+her and Makes
+ []
+
+<OtherPictures/WealthRentIncreases1.png, id=2273, 904.1278pt x 762.59906pt>
+File: OtherPictures/WealthRentIncreases1.png Graphic file (type png)
+<use OtherPictures/WealthRentIncreases1.png>
+Package pdftex.def Info: OtherPictures/WealthRentIncreases1.png used on input l
+ine 9931.
+(pdftex.def)             Requested size: 311.99341pt x 263.15514pt.
+[199] [200 <./OtherPictures/WealthRentIncreases1.png>] [201] [202] [203] [204] 
+[205]
+
+LaTeX Warning: Marginpar on page 206 moved.
+
+[206] [207]
+Overfull \hbox (1.19722pt too wide) in alignment at lines 10382--10396
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (18.04048pt too wide) in paragraph at lines 10418--10419
+[]\T1/pplj/m/n/10 ResolutionFund|  
+ []
+
+
+Overfull \hbox (40.59052pt too wide) in paragraph at lines 10423--10424
+\T1/pplj/m/n/10 LiabilitiesDerivatives|  
+ []
+
+
+Overfull \hbox (1.96053pt too wide) in paragraph at lines 10454--10455
+[]\T1/pplj/m/n/10 Netherlands 
+ []
+
+
+Overfull \hbox (1.19722pt too wide) in alignment at lines 10396--10498
+ [] [] [] [] [] 
+ []
+
+[208] [209]
+
+LaTeX Warning: Marginpar on page 210 moved.
+
+[210] [211]
+
+LaTeX Warning: Marginpar on page 212 moved.
+
+[212] [213] [214] [215] [216] [217] <OtherPictures/EnvironmentalIssues.png, id=
+2439, 262.73157pt x 259.7203pt>
+File: OtherPictures/EnvironmentalIssues.png Graphic file (type png)
+<use OtherPictures/EnvironmentalIssues.png>
+Package pdftex.def Info: OtherPictures/EnvironmentalIssues.png used on input li
+ne 10979.
+(pdftex.def)             Requested size: 312.013pt x 308.4369pt.
+[218 <./OtherPictures/EnvironmentalIssues.png>]
+
+LaTeX Warning: Marginpar on page 219 moved.
+
+
+LaTeX Warning: Marginpar on page 219 moved.
+
+
+LaTeX Warning: Marginpar on page 219 moved.
+
+[219]
+
+LaTeX Warning: Marginpar on page 220 moved.
+
+[220]
+
+LaTeX Warning: Marginpar on page 221 moved.
+
+<ChapterPictures/9-1-PigovianTax.png, id=2466, 211.54031pt x 134.75343pt>
+File: ChapterPictures/9-1-PigovianTax.png Graphic file (type png)
+<use ChapterPictures/9-1-PigovianTax.png>
+Package pdftex.def Info: ChapterPictures/9-1-PigovianTax.png used on input line
+ 11126.
+(pdftex.def)             Requested size: 302.65204pt x 192.79257pt.
+
+Overfull \hbox (7.46394pt too wide) in paragraph at lines 11145--11145
+|\T1/pplj/m/it/12 12.2 Pol-icy Op-tions for Tack-ling So-cial and En-vi-ron-men
+-tal Dam-
+ []
+
+[221 <./ChapterPictures/9-1-PigovianTax.png>]
+<OtherPictures/EnvironmentalInitiatives.png, id=2477, 357.58594pt x 255.95625pt
+>
+File: OtherPictures/EnvironmentalInitiatives.png Graphic file (type png)
+<use OtherPictures/EnvironmentalInitiatives.png>
+Package pdftex.def Info: OtherPictures/EnvironmentalInitiatives.png used on inp
+ut line 11179.
+(pdftex.def)             Requested size: 312.01936pt x 223.34016pt.
+[222]
+Overfull \hbox (37.66975pt too wide) in paragraph at lines 11186--11193
+\T1/pplj/m/n/10 mis-ing the abil-ity of fu-ture gen-er-a-tions to meet their ow
+n needs.'(Commission 
+ []
+
+[223 <./OtherPictures/EnvironmentalInitiatives.png>]
+
+LaTeX Warning: Marginpar on page 224 moved.
+
+
+Overfull \hbox (4.81973pt too wide) in paragraph at lines 11261--11264
+[]\T1/pplj/m/n/10 However, there are fur-ther rea-sons to seek al-ter-na-tives 
+to command- 
+ []
+
+[224] [225] [226] [227] [228] [229]
+
+LaTeX Warning: Marginpar on page 230 moved.
+
+
+Overfull \hbox (3.1293pt too wide) in paragraph at lines 11571--11571
+|\T1/pplj/m/it/10.95 The Per-fect Mar-ket: Should We Re-duce Dead-weight Loss a
+t All Costs?| 
+ []
+
+[230] [231] [232] [233]
+Overfull \hbox (0.97972pt too wide) in paragraph at lines 11809--11825
+\T1/pplj/m/n/10 con-clu-sions on ve-hi-cle taxes. We sup-port per-mile con-ges-
+tion charges, 
+ []
+
+[234] [235] [236]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 11939.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 11939.
+
+LaTeX Warning: Marginpar on page 237 moved.
+
+[237]
+
+LaTeX Warning: Marginpar on page 238 moved.
+
+[238]
+
+LaTeX Warning: Marginpar on page 239 moved.
+
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 12056.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 12056.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 12056.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 12056.
+
+LaTeX Warning: Marginpar on page 239 moved.
+
+
+Overfull \hbox (2.364pt too wide) in paragraph at lines 12083--12083
+|\T1/pplj/m/it/12 12.8 Bor-ders and Com-pe-ti-tion: Mak-ing a National-Level Ca
+r-bon
+ []
+
+[239]
+
+LaTeX Warning: Marginpar on page 240 moved.
+
+[240] [241]
+
+LaTeX Warning: Marginpar on page 242 moved.
+
+[242] [243] [244] [245] [246] [247] [248] [249] [250] [251] [252] [253] [254] [
+255] [256] [257] [258] [259] [260] [261] [262]
+Overfull \hbox (3.60976pt too wide) in paragraph at lines 13330--13343
+\T1/pplj/m/n/10 pare the re-cip-i-ent both for em-ploy-ment and for entrepreneu
+rship/self- 
+ []
+
+[263] [264] [265] [266]
+Overfull \hbox (34.19434pt too wide) in paragraph at lines 13514--13514
+|\T1/pplj/m/it/10.95 The Case For Re-tain-ing A Sys-tem of Con-tri-bu-tions and
+ Con-tri-bu-tion Records
+ []
+
+[267] [268] [269] [270] [271] [272] [273] [274] [275] [276] [277]
+Overfull \hbox (3.77988pt too wide) in paragraph at lines 14081--14084
+[]\T1/pplj/m/n/10 Adams, Mar-tin. 2016. ``A New Model of the Econ-omy, Brian Ho
+dgkin- 
+ []
+
+
+Overfull \hbox (129.79277pt too wide) in paragraph at lines 14081--14084
+\T1/pplj/m/n/10 son,'' []$\T1/fvm/m/n/10 https : / / www . progress . org / art
+icles / a-[]new-[]model-[]of-[]the-[]economy-[]by-[]brian-[]hodgkinson$[]\T1/pp
+lj/m/n/10 .  
+ []
+
+
+Overfull \hbox (194.15015pt too wide) in paragraph at lines 14085--14088
+\T1/pplj/m/n/10 ture 3.'' []$\T1/fvm/m/n/10 https : / / ocw . mit . edu / cours
+es / economics / 14-[]42-[]environmental-[]policy-[]and-[]economics-[]spring-[]
+2011 / 
+ []
+
+
+Overfull \hbox (360.21454pt too wide) in paragraph at lines 14095--14099
+\T1/fvm/m/n/10 independent . co . uk / news / business / news / a-[]quarter-[]o
+f-[]uk-[]professionals-[]are-[]unhappy-[]with-[]their-[]work-[]life-[]balance-[
+]survey-[]finds-[]10071994 . 
+ []
+
+
+Overfull \hbox (30.84134pt too wide) in paragraph at lines 14105--14110
+\T1/fvm/m/n/10 williams . edu / Economics / wp / BakijaColeHeimJobsIncomeGrowth
+TopEarners . 
+ []
+
+
+Overfull \hbox (267.86949pt too wide) in paragraph at lines 14119--14124
+\T1/pplj/m/n/10 Yard-ley. 2012. ``Ben-e-fits Stigma in Britain.'' []http://www.
+nhslothian.scot.nhs.uk/YourRights/WelfareReform/Documents/Benefits 
+ []
+
+[278]
+Overfull \hbox (41.6158pt too wide) in paragraph at lines 14134--14138
+\T1/pplj/m/n/10 vices.'' Macmil-lan. []$\T1/fvm/m/n/10 https : / / www . sochea
+lth . co . uk / national-[]health-[]service / 
+ []
+
+
+Overfull \hbox (74.54314pt too wide) in paragraph at lines 14144--14148
+\T1/pplj/m/n/10 ver-sity Press. []$\T1/fvm/m/n/10 https : / / www . amazon . co
+ . uk / Economic-[]Theory-[]Retrospect-[]Mark-[]Blaug / 
+ []
+
+
+Overfull \hbox (62.15318pt too wide) in paragraph at lines 14155--14159
+\T1/pplj/m/n/10 land tax.'' []$\T1/fvm/m/n/10 https : / / www . ft . com / cont
+ent / 29bf998e-[]e61c-[]11e0-[]960c-[]00144feabdc0$[]\T1/pplj/m/n/10 .  
+ []
+
+
+Overfull \hbox (89.55975pt too wide) in paragraph at lines 14173--14176
+[][]\T1/pplj/m/n/10 Carers UK. 2014. ``Car-ers at Break-ing Point.'' \T1/pplj/m
+/it/10 Car-ers UK\T1/pplj/m/n/10 . []http://www.carersuk.org/for- 
+ []
+
+
+Overfull \hbox (22.98973pt too wide) in paragraph at lines 14173--14176
+\T1/pplj/m/n/10 https://www.carersuk.org/for-professionals/policy/policy-librar
+y/carers- 
+ []
+
+
+Overfull \hbox (432.48946pt too wide) in paragraph at lines 14180--14185
+\T1/pplj/m/n/10 Royal Com-mis-sion on Tax-a-tion.'' []http://publications.gc.ca
+/site/eng/search/search.html?st=1&ssti=&e=0&f=0&adoof=0&ast=Royal+Commission+on
++Taxation&cnst= 
+ []
+
+
+Overfull \hbox (7.70981pt too wide) in paragraph at lines 14180--14185
+\T1/pplj/m/n/10 http://worthwhile.typepad.com/files/carter1966-taxation_familie
+s.pdf[].  
+ []
+
+
+Overfull \hbox (81.39465pt too wide) in paragraph at lines 14186--14190
+\T1/fvm/m/n/10 centreforsocialjustice . org . uk / library / dynamic-[]benefits
+-[]towards-[]welfare-[]works$[]\T1/pplj/m/n/10 .  
+ []
+
+[279]
+Overfull \hbox (54.80948pt too wide) in paragraph at lines 14202--14205
+[]$\T1/fvm/m/n/10 https : / / www . cipd . co . uk / knowledge / work / skills 
+/ industrial-[]strategy-[]report$[]\T1/pplj/m/n/10 .  
+ []
+
+
+Overfull \hbox (22.10727pt too wide) in paragraph at lines 14206--14209
+\T1/fvm/m/n/10 / / www . cipd . co . uk / Images / employee-[]outlook _ 2016-[]
+autumn _ tcm18-[]16797 . 
+ []
+
+
+Overfull \hbox (136.18204pt too wide) in paragraph at lines 14231--14235
+\T1/fvm/m/n/10 nao . org . uk / wp-[]content / uploads / 2016 / 01 / Contracted
+-[]out-[]health-[]and-[]disability-[]assessments . 
+ []
+
+
+Overfull \hbox (3.06981pt too wide) in paragraph at lines 14245--14249
+\T1/pplj/m/n/10 Britains.'' March. []http://policy-practice.oxfam.org.uk/public
+ations/a- 
+ []
+
+
+Overfull \hbox (93.25977pt too wide) in paragraph at lines 14245--14249
+\T1/pplj/m/n/10 tale-of-two-britains-inequality-in-the-uk-314152 https://paperp
+ile.com/c/XD9ymG/Ct6m[].  
+ []
+
+
+Overfull \hbox (117.7139pt too wide) in paragraph at lines 14259--14263
+\T1/fvm/m/n/10 personalfinance / tax / 11544301 / The-[]chart-[]that-[]shows-[]
+there-[]are-[]12-[]rates-[]of-[]income-[]tax . 
+ []
+
+[280]
+Overfull \hbox (8.37952pt too wide) in paragraph at lines 14270--14273
+[][]\T1/pplj/m/n/10 fact, Full. 2015. ``The wel-fare bud-get - Full Fact.'' []$
+\T1/fvm/m/n/10 https : / / fullfact . 
+ []
+
+
+Overfull \hbox (95.71024pt too wide) in paragraph at lines 14274--14277
+[][]\T1/pplj/m/n/10 ---------. 2019. []$\T1/fvm/m/n/10 https : / / fullfact . o
+rg / economy / do-[]top-[]1-[]earners-[]pay-[]28-[]tax-[]burden/$[]\T1/pplj/m/n
+/10 .  
+ []
+
+
+Overfull \hbox (53.30948pt too wide) in paragraph at lines 14278--14282
+\T1/fvm/m/n/10 theguardian . com / news / blog / 2013 / apr / 04 / living-[]on-
+[]benefits-[]readers-[]panel # 
+ []
+
+
+Overfull \hbox (394.15082pt too wide) in paragraph at lines 14290--14294
+\T1/fvm/m/n/10 peopleinwork / employmentandemployeetypes / articles / analysiso
+ftheuklabourmarketestimatesofskillsmismatchusingmeasuresofoverandundereducation
+ / 
+ []
+
+
+Overfull \hbox (12.70976pt too wide) in paragraph at lines 14319--14323
+\T1/pplj/m/n/10 land. []http://www.dovescotland.org/socialproblems/socialProble
+ms.pdf 
+ []
+
+
+Overfull \hbox (111.8697pt too wide) in paragraph at lines 14319--14323
+\T1/pplj/m/n/10 https://ia800306.us.archive.org/4/items/socialproblems83geor/so
+cialproblems83geor_bw.pdf[].  
+ []
+
+
+Overfull \hbox (4.06056pt too wide) in paragraph at lines 14324--14327
+[][]\T1/pplj/m/n/10 Gilens, Mar-tin. 2012. ``Un-der the In-flu-ence.'' []$\T1/f
+vm/m/n/10 http : / / bostonreview . 
+ []
+
+[281]
+Overfull \hbox (57.22319pt too wide) in paragraph at lines 14334--14338
+\T1/pplj/m/n/10 decade.'' []$\T1/fvm/m/n/10 https : / / www . ft . com / conten
+t / 1ad5c43a-[]a593-[]11e5-[]a91e-[]162b86790c58$[]\T1/pplj/m/n/10 .  
+ []
+
+
+Overfull \hbox (222.0546pt too wide) in paragraph at lines 14397--14401
+\T1/fvm/m/n/10 business / anthony-[]hilton-[]has-[]britain-[]ever-[]really-[]be
+en-[]successful-[]when-[]it-[]comes-[]to-[]global-[]trade-[]a3529396 . 
+ []
+
+[282]
+Overfull \hbox (790.85924pt too wide) in paragraph at lines 14416--14419
+[][]\T1/pplj/m/n/10 ---------. n.d. ``Cli-mate Change Levy - in-tro-duc-tion.''
+ []http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?
+_nfpb=true&_pageLabel=pageExcise_InfoGuides&propertyType=document&id=HMCE_CL_00
+1174#P1_34 
+ []
+
+
+Overfull \hbox (140.82962pt too wide) in paragraph at lines 14416--14419
+\T1/pplj/m/n/10 http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalW
+ebApp.portal?_nfpb=true&_p[].  
+ []
+
+
+Overfull \hbox (14.8732pt too wide) in paragraph at lines 14425--14428
+[]$\T1/fvm/m/n/10 https : / / www . ft . com / content / bb8a6fa2-[]e651-[]11e6
+-[]893c-[]082c54a7f539$[]\T1/pplj/m/n/10 .  
+ []
+
+
+Overfull \hbox (131.4331pt too wide) in paragraph at lines 14440--14444
+\T1/pplj/m/n/10 cor-po-ra-tion tax re-ceipts.'' []$\T1/fvm/m/n/10 https : / / w
+ww . ft . com / content / ca3e5bd2-[]2a7e-[]11e7-[]9ec8-[]168383da43b7$[]\T1/pp
+lj/m/n/10 .  
+ []
+
+
+Overfull \hbox (110.25313pt too wide) in paragraph at lines 14460--14464
+\T1/pplj/m/n/10 charts from the IFS.'' []$\T1/fvm/m/n/10 https : / / www . ft .
+ com / content / 16662297-[]2067-[]3289-[]81bf-[]95da91628fbc$[]\T1/pplj/m/n/10
+ .  
+ []
+
+
+Overfull \hbox (51.69907pt too wide) in paragraph at lines 14469--14473
+\T1/pplj/m/n/10 Ser-vices.'' []$\T1/fvm/m/n/10 http : / / www . landstewardship
+ . org / ecological-[]goods-[]and-[]services/$[]\T1/pplj/m/n/10 .  
+ []
+
+[283]
+Overfull \hbox (92.74576pt too wide) in paragraph at lines 14528--14532
+\T1/fvm/m/n/10 files / reports / original / 160304113651-[]ANewSimpleRevenueNeu
+tralTaxCodeforBusiness . 
+ []
+
+
+Overfull \hbox (55.72462pt too wide) in paragraph at lines 14533--14537
+\T1/pplj/m/n/10 a con-nec-tion | For-tune.'' []$\T1/fvm/m/n/10 http : / / fortu
+ne . com / 2015 / 04 / 06 / inequality-[]piketty/$[]\T1/pplj/m/n/10 .  
+ []
+
+[284]
+Overfull \hbox (18.09576pt too wide) in paragraph at lines 14549--14553
+\T1/pplj/m/n/10 of Com-mons Brief-ing Pa-per. UK Par-lia-ment. []$\T1/fvm/m/n/1
+0 http : / / researchbriefings . 
+ []
+
+
+Overfull \hbox (127.84573pt too wide) in paragraph at lines 14554--14558
+\T1/pplj/m/n/10 pass.'' []$\T1/fvm/m/n/10 https : / / www . compassonline . org
+ . uk / publications / the-[]case-[]for-[]land-[]value-[]taxation/$[]\T1/pplj/m
+/n/10 .  
+ []
+
+
+Overfull \hbox (66.45973pt too wide) in paragraph at lines 14567--14571
+\T1/pplj/m/n/10 state-free-money-alaska https://motherboard.vice.com/en_us/arti
+cle/jp5wdb/only- 
+ []
+
+
+Overfull \hbox (94.1197pt too wide) in paragraph at lines 14572--14576
+\T1/pplj/m/n/10 ture re-turns warns TUC.'' \T1/pplj/m/it/10 In-ter-na-tional Bu
+si-ness Times\T1/pplj/m/n/10 . []http://www.ibtimes.co.uk/burnout- 
+ []
+
+
+Overfull \hbox (122.9496pt too wide) in paragraph at lines 14572--14576
+\T1/pplj/m/n/10 britain-long-work-hours-culture-returns-warns-tuc-1519158 https
+://www.ibtimes.co.uk/burnout- 
+ []
+
+
+Overfull \hbox (93.86966pt too wide) in paragraph at lines 14598--14603
+[]\T1/pplj/m/n/10 http://www.ifs.org.uk/publications/5353 http://www.ifs.org.uk
+/mirrleesReview/design[].  
+ []
+
+
+Overfull \hbox (70.04355pt too wide) in paragraph at lines 14615--14620
+\T1/fvm/m/n/10 fixing-[]the-[]great-[]distortion-[]how-[]to-[]undo-[]the-[]tax-
+[]bias-[]toward-[]debt-[]finance/$[]\T1/pplj/m/n/10 .  
+ []
+
+[285]
+Overfull \hbox (19.99023pt too wide) in paragraph at lines 14621--14625
+\T1/fvm/m/n/10 leading-[]article-[]how-[]to-[]make-[]paying-[]taxes-[]more-[]pa
+latable-[]1491568 . 
+ []
+
+
+Overfull \hbox (252.2568pt too wide) in paragraph at lines 14626--14630
+\T1/fvm/m/n/10 wp-[]content / uploads / 2017 / 07 / HM-[]Revenue-[]Customs-[]20
+16-[]17-[]Accounts-[]Report-[]by-[]the-[]Comptroller-[]and-[]Auditor-[]General 
+. 
+ []
+
+
+Overfull \hbox (135.68204pt too wide) in paragraph at lines 14631--14634
+[]$\T1/fvm/m/n/10 https : / / www . nao . org . uk / wp-[]content / uploads / 2
+018 / 06 / Rolling-[]out-[]Universal-[]Credit-[]Summary . 
+ []
+
+
+Overfull \hbox (24.10062pt too wide) in paragraph at lines 14635--14638
+[][]\T1/pplj/m/n/10 New Eco-nomic Foun-da-tion. 2009. ``A bit rich |.'' []$\T1/
+fvm/m/n/10 http : / / neweconomics . 
+ []
+
+
+Overfull \hbox (2.13913pt too wide) in paragraph at lines 14653--14656
+[]$\T1/fvm/m/n/10 https : / / www . oecd . org / social / Focus-[]Inequality-[]
+and-[]Growth-[]2014 . 
+ []
+
+
+Overfull \hbox (56.01909pt too wide) in paragraph at lines 14661--14665
+\T1/pplj/m/n/10 Spend-ing.'' []$\T1/fvm/m/n/10 http : / / obr . uk / forecasts-
+[]in-[]depth / brief-[]guides-[]and-[]explainers / 
+ []
+
+
+Overfull \hbox (260.88087pt too wide) in paragraph at lines 14666--14670
+\T1/pplj/m/n/10 Smith by Half a Mil-len-nium.'' []$\T1/fvm/m/n/10 https : / / e
+vonomics . com / amazing-[]north-[]african-[]scholar-[]beat-[]adam-[]smith-[]ha
+lf-[]millennium/$[]\T1/pplj/m/n/10 .  
+ []
+
+
+Overfull \hbox (99.8628pt too wide) in paragraph at lines 14671--14675
+\T1/fvm/m/n/10 20160105170657 / http : / / www . ons . gov . uk / ons / rel / w
+as / wealth-[]in-[]great-[]britain-[]wave-[]4 / 
+ []
+
+
+Overfull \hbox (11.50098pt too wide) in paragraph at lines 14676--14680
+\T1/pplj/m/n/10 ONS.'' []$\T1/fvm/m/n/10 http : / / webarchive . nationalarchiv
+es . gov . uk / 20160105170633 / 
+ []
+
+
+Overfull \hbox (45.54576pt too wide) in paragraph at lines 14681--14685
+\T1/pplj/m/n/10 Na-tional Statis-tics.'' []$\T1/fvm/m/n/10 https : / / www . on
+s . gov . uk / peoplepopulationandcommunity / 
+ []
+
+
+Overfull \hbox (121.83093pt too wide) in paragraph at lines 14681--14685
+\T1/fvm/m/n/10 housing / articles / housingsummarymeasuresanalysis / 2015 # aff
+ordability-[]of-[]home-[]ownership$[]\T1/pplj/m/n/10 .  
+ []
+
+[286]
+Overfull \hbox (80.39465pt too wide) in paragraph at lines 14686--14690
+\T1/fvm/m/n/10 uploads / attachment _ data / file / 535362 / ir-[]benefits-[]ta
+ke-[]up-[]main-[]report-[]2014-[]15 . 
+ []
+
+
+Overfull \hbox (109.45018pt too wide) in paragraph at lines 14691--14695
+\T1/pplj/m/n/10 Na-tional Statis-tics.'' []$\T1/fvm/m/n/10 https : / / www . on
+s . gov . uk / releases / uklabourmarketstatisticsjuly2016$[]\T1/pplj/m/n/10 . 
+ 
+ []
+
+
+Overfull \hbox (31.84134pt too wide) in paragraph at lines 14710--14714
+\T1/fvm/m/n/10 org / INTEEI / 214574-[]1112740068165 / 22251637 / CostaRica09-[
+]LandUseChange . 
+ []
+
+[287]
+Overfull \hbox (56.28429pt too wide) in paragraph at lines 14761--14764
+\T1/pplj/m/n/10 tion.'' []$\T1/fvm/m/n/10 http : / / www . grputland . com / 20
+13 / 10 / ramsey-[]taxation-[]means-[]land-[]value . 
+ []
+
+
+Overfull \hbox (116.3598pt too wide) in paragraph at lines 14785--14788
+[][]\T1/pplj/m/n/10 Richard Clegg. 2016. ``UK Labour Mar-ket July 2016.'' []fil
+e:///C:/Users/dell/Downloads/UK 
+ []
+
+
+Overfull \hbox (75.16058pt too wide) in paragraph at lines 14805--14809
+\T1/fvm/m/n/10 the-[]principled-[]and-[]pragmatic-[]case-[]for-[]a-[]universal-
+[]basic-[]income-[]-[]new-[]report$[]\T1/pplj/m/n/10 .  
+ []
+
+[288]
+Overfull \hbox (3.03171pt too wide) in paragraph at lines 14840--14843
+[][]\T1/pplj/m/n/10 Shaxson, Nicholas. 2011. \T1/pplj/m/it/10 Trea-sure Is-land
+s\T1/pplj/m/n/10 . []$\T1/fvm/m/n/10 http : / / treasureislands . 
+ []
+
+
+Overfull \hbox (337.85274pt too wide) in paragraph at lines 14869--14873
+\T1/pplj/m/it/10 Global Di-a-logue \T1/pplj/m/n/10 7 (4). []$\T1/fvm/m/n/10 htt
+p : / / isa-[]global-[]dialogue . net / indias-[]great-[]experiment-[]the-[]tra
+nsformative-[]potential-[]of-[]basic-[]income-[]grants/$[]\T1/pplj/m/n/10 .  
+ []
+
+
+Overfull \hbox (94.74576pt too wide) in paragraph at lines 14895--14899
+\T1/fvm/m/n/10 org . uk / sites / default / files / research-[]update-[]income-
+[]inequality-[]and-[]participation . 
+ []
+
+[289]
+Overfull \hbox (81.39465pt too wide) in paragraph at lines 14900--14903
+[]$\T1/fvm/m/n/10 https : / / www . equalitytrust . org . uk / trust-[]particip
+ation-[]attitudes-[]and-[]happiness$[]\T1/pplj/m/n/10 .  
+ []
+
+
+Overfull \hbox (363.21454pt too wide) in paragraph at lines 14920--14925
+\T1/fvm/m/n/10 press-[]releases / 2004 / july / jubilee-[]line-[]raises-[]land-
+[]value-[]by-[]estimated-[]andpound28billion-[]at-[]canary-[]wharf-[]and-[]sout
+hwark-[]tube-[]stations$[]\T1/pplj/m/n/10 .  
+ []
+
+
+Overfull \hbox (71.77762pt too wide) in paragraph at lines 14944--14950
+[]$\T1/fvm/m/n/10 https : / / pdfs . semanticscholar . org / 12e6 / 693ec007d7c
+9856af6bcc8012d397e9b843b . 
+ []
+
+[290]
+Overfull \hbox (41.07541pt too wide) in paragraph at lines 14971--14975
+\T1/fvm/m/n/10 ons . gov . uk / peoplepopulationandcommunity / personalandhouse
+holdfinances / 
+ []
+
+
+Overfull \hbox (20.60727pt too wide) in paragraph at lines 14971--14975
+\T1/fvm/m/n/10 incomeandwealth / bulletins / householddisposableincomeandinequa
+lity / 
+ []
+
+
+Overfull \hbox (139.68204pt too wide) in paragraph at lines 14971--14975
+\T1/fvm/m/n/10 financialyearending2015 # redistribution-[]of-[]income-[]through
+-[]cash-[]benefits-[]and-[]direct-[]taxes$[]\T1/pplj/m/n/10 .  
+ []
+
+
+Overfull \hbox (51.19244pt too wide) in paragraph at lines 14984--14988
+[]$\T1/fvm/m/n/10 https : / / evonomics . com / wilkinson-[]pickett-[]income-[]
+inequality-[]fix-[]economy/$[]\T1/pplj/m/n/10 .  
+ []
+
+
+Overfull \hbox (113.31317pt too wide) in paragraph at lines 14995--14999
+\T1/pplj/m/n/10 classical eco-nomics?'' []$\T1/fvm/m/n/10 https : / / www . ft 
+. com / content / e8a23b18-[]3118-[]39a9-[]95cc-[]ef28c0f1e8e6$[]\T1/pplj/m/n/1
+0 .  
+ []
+
+
+Package bibentry Warning: You have used \nobibliography* 
+(bibentry)                without a following \bibliography.
+(bibentry)                You may not be able to run BibTeX.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15006.
+[291]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 15006.
+(./TaxHeaven.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 15006.
+
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15006
+.
+Package rerunfilecheck Info: File `TaxHeaven.out' has not changed.
+(rerunfilecheck)             Checksum: F550B5AC25B530460CE9B034D61E76D4;21189.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 15006.
+ ) 
+Here is how much of TeX's memory you used:
+ 15888 strings out of 493089
+ 236095 string characters out of 6134843
+ 330124 words of memory out of 5000000
+ 17596 multiletter control sequences out of 15000+600000
+ 89810 words of font info for 157 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,12n,45p,577b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{_ftn5} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{_ftn4} has been referenced but does not exist, repl
+aced by a fixed one
+
+pdfTeX warning (dest): name{_ftn3} has been referenced but does not exist, repl
+aced by a fixed one
+
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/bera/fvmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/ur
+w/palatino/uplb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palat
+ino/uplbi8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/up
+lr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.p
+fb>
+Output written on TaxHeaven.pdf (291 pages, 4511146 bytes).
+PDF statistics:
+ 3721 PDF objects out of 4296 (max. 8388607)
+ 3292 compressed objects within 33 object streams
+ 1414 named destinations out of 1440 (max. 500000)
+ 2082 words of extra memory for PDF output out of 10000 (max. 10000000)
+

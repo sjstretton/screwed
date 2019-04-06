@@ -6,20 +6,23 @@ output:
   tufte::tufte_handout: default
 toc: false
 toc_depth: 1
-bibliography: Library/Mac/library.bib
+bibliography:
+- Library/Mac/library.bib
+- Library/HeatherPC/library.bib
 link-citations: yes
 ---
  
 \newpage
 
 ```{r setup, include=FALSE}
-Platform <- "PC" #"PC" "Mac" "HeatherPC" 
+Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
 if(Platform=="PC") { 
   setwd("~/../Google Drive/Book") 
 } else if(Platform=="Mac") { 
   setwd("~/Google Drive/Book")
-} else if(Platform=="HeatherPC") { 
-  setwd("~/Github/TaxHeaven/taxheaven") #Add something for your WD if this doesn't work# 
+} else if(Platform=="HeatherPC") {  
+  setwd("~/Github/TaxHeaven/taxheaven")
+  #Add something for your WD if this doesn't work# 
 }
 
 options(htmltools.dir.version = FALSE)
@@ -42,47 +45,17 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '1/01A-TurningTheShip.md'}
+```{r child = '00-APerfectStorm.md'}
 ```
 
 \newpage
 
-```{r child = '1/01B-Scope.md'}
+```{r child = '01-RevolutionsInTheMindsOfMen.md'}
 ```
 
 \newpage
 
-```{r child = '1/01C-KeyMessage.md'}
-```
-
-\newpage
-
-```{r child = '1/01D-TypesOfGood.md'}
-```
-
-\newpage
-
-```{r child = '1/01E-EconomicThought.md'}
-```
-
-\newpage
-
-```{r child = '1/01F-TaxTheoriesOfChange.md'}
-```
-
-\newpage
-
-```{r child = '1/01G-EconomicModelWealth.md'}
-```
-
-\newpage
-
-```{r child = '02A-Revolutions.md'}
-```
-
-\newpage
-
-```{r child = '02B-Beveridge.md'}
+```{r child = '02-ProgressAndProblems.md'}
 ```
 
 \newpage
@@ -92,13 +65,9 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '04A-CollectiveActionAndChange.md'}
+```{r child = '04-PoliticalEconomyOfPublicSphere.md'}
 ```
 
-\newpage
-
-```{r child = '04B-PrinciplesOfTransition.md'}
-```
 
 \newpage
 
@@ -109,7 +78,6 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 ```{r child = '06-TaxInPractice.Rmd'}
 ```
-
 
 \newpage
 
@@ -148,7 +116,7 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '14-FAQsAndConclusions.md'}
+```{r child = '14-Conclusions.md'}
 ```
 
 

@@ -24,6 +24,22 @@ Discussed extensively in the book, it's important to summarise the findings from
 
 Our proposals below should be considered interim, since we have not yet completed accurate modelling of all their effects.
 
+## Summary
+
+The following table shows both the final strategic objective and the intermediate/transitional one. 
+
+| **Policy Area**                    | **Initial, Intermediate   Approach**                         | **Final Objective**                                          |
+| ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Income Tax                         | Simplify rates structure, make existing benefits universal and add in   means testing using tax system instead of benefits means testing. | Income tax is only paid by the upper half of individuals     |
+| VAT                                | Remove Exemptions, SImplify                                  | Transition to a profits tax based on UK sales                |
+| Carbon Tax                         | A system that gives general incentives based on a high implicit   carbon price that does not raise significant revenue | A high carbon tax used for general revenue                   |
+| Money Balance Tax                  | No change from existing system                               | Electronic deposits are taxed at approximately 5% per annum with a   significant tax free personal allowance. Cash are registered and are time   limited and a small fees are paid on withdraw |
+| Citizen's Dividend                 | Use existing benefit rates that simplify the system and reduce   conditionality. | In the long term, build up a personal sovereign wealth fund to pay   individuals are larger citizen's dividend |
+| Guaranteed Training and Employment | Short term, high quality master craftsman level courses for specific   groups to optimize the system | Long term, rolling out the guaranteed training to all sections of the   population |
+|                                    |                                                              |                                                              |
+
+ 
+
 # 13.2 The Mirrlees Review
 
 Our starting point in building our proposals were the recommendations of the Mirrlees review [@Mirrlees2010]. This document suggested a number of key reforms of the UK tax system, so as to create effective incentives for a better functioning society. It also discussed different approaches to the taxation of income invested, with particular reference to whether whether gains or the final consumption are taxed. The review does not cover the benefit system. The recommendations of the summary reportare as follows:
