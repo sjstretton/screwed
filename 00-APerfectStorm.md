@@ -1,4 +1,4 @@
-# PRELUDE: A PERFECT STORM?
+# WHERE ARE WE NOW? FACING A PERFECT STORM.
 The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
 
 A group of New England fishermen had fallen on hard times after poor catches. Their captain, played by George Clooney, hired a boat for one last fishing trip of the year.
@@ -43,6 +43,6 @@ This book grapples with both economic and political issues.
 
 The economic question is this: Why is there pollution and economic insecurity amidst such wealth? Is there a remedy to these ills? 
 
-The political question is this: How can we change course together? 
+The political question is this: How can we change course together? We are in the same boat, there is only one planet that we all sit on.
 
-But first we ask, how on earth, did we get into this situation in the first place? We go back in time to the era of Adam Smith and then run the clock forward to see the revolutions of politics, technology and ideas.
+How on earth, did we get into this situation in the first place? We go back in time to the era of Adam Smith and then run the clock forward to see the revolutions of politics, technology and ideas.

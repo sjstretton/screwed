@@ -1,17 +1,13 @@
-# PART 1: REVOLUTIONS IN THE MINDS OF MEN
+# PART 1: HOW DID WE GET HERE? REVOLUTIONS IN THE MINDS OF MEN
 
 ## In the Beginning came Adam
 
-UNDER THE STARRY SKIES, far away from the everyday hustling and bustling of the commercial metropolis, sits a professor, beavering away at his manuscript. The year is 1773; the location, Kirkaldy, a small town in Scotland; the author, Adam Smith. The full title of Smith's great work would be 'An Inquiry into the Nature and Causes of the Wealth of Nations'.
+UNDER THE STARRY SKIES, distant in time and space from our present-day fishermen, sits a professor, beavering away at his manuscript. The year is 1773; the location, Kirkaldy, a small town in Scotland; the author, Adam Smith. The full title of Smith's great work would be 'An Inquiry into the Nature and Causes of the Wealth of Nations'.
 
 On this cool and starry night, Smith was writing the fifth and final book of the 'Wealth of Nations', entitled 'On the Revenue of the Sovereign or Commonwealth'. Smith asked, 'how should the activity of the government be funded?'. Which taxes should a state impose? 
 
 ![](ChapterPictures/AdamSmithSmall.png)
 *Plaque marking the site in Kirkcaldy where Smith lived.*
-
-This book is devoted to similar questions: how should we fund the state? Which taxes should be levied and why? And relatedly, what would make a better welfare system? We use taxation and welfare firstly as tools to  enhance the wealth of the planet, of nations, of communities and of individuals. By wealth, we mean the stock of valuable things, including the environment and individuals. And we are concerned also to distribute wealth fairly, partly by ensuring that wealth does not beget more wealth unless it is productively invested, and partly by ensuring that the transition to a fairer system is itself fair to all. Our immediate scope is the UK, but our ideas could be applied anywhere. 
-
-So let's get back to our story. Tax is not just a matter of theoretical interest but has also been a driver of history.  S
 
 ## The Age of Political Revolutions
 
