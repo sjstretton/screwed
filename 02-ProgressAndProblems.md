@@ -1,4 +1,4 @@
-# PART 2: AN INQUIRY INTO ECONOMIC PROGRESS 
+# PART 2:  PROGRESS AND PROBLEMS: AN OVERVIEW OF OUR INQUIRY
 
 # Q1: What Would An Economy Fit For Our Children look like?
 
@@ -14,9 +14,9 @@ A good society promotes the wealth and happiness of its citizens. Thus, we argue
 
 Our vision is for a new tax and welfare system that taxes the right things and thus, leads to the production and preservation of wealth rather than the extraction and enclosure of wealth by those with more power. In other words, it leads to the private sector having a new purpose. Our vision of the tax system interacts with benefits, training, finance, energy and housing. We ignore all but the financial-monetary system and the social security (welfare) system. Out of scope is the detail of the benefits system and the detailed technicalities of how some taxes work.  Our focus is the UK tax and welfare system, but the ideas are intended to be applicable to most societies around the world.  We focus on the big picture rather than accounting of taxes, although we do cover some implementation choices.
 
-Thus our overarching question is: What will provide an economy fit for our children? To solve this, we have to next ask the question: what are the conditions for sustainable prosperity.
+Thus our overarching question is: What will provide an economy fit for our children? To solve this, we have to next ask our next question.
 
-# Q2: What are the Conditions for Sustainable Prosperity?
+# Q2: What are the Economic Conditions for Sustainable AND WIDELY-SpREAD Prosperity?
 
 This book is about the economic conditions for sustainable and widely spread prosperity.
 
@@ -56,7 +56,7 @@ So why do we have these problems of pollution and precariousness? We identify tw
 
 ## Rent! 
 
-Adam Smith;s model relies on certain assumptions. A production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist or if entrance to the market is expensive then competition will not work as described. The beneficiary will be the owners of the single monopolist or the incumbent firm.  Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords. 
+Adam Smith's model relies on certain assumptions. A production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist or if entrance to the market is expensive then competition will not work as described. The beneficiary will be the owners of the single monopolist or the incumbent firm.  Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords. 
 
 Imagine I am a landlord. Once I own some land with property on it, I can sit back and enjoy the flow of income, without having to work. This flow of income is rent. Rent goes up, as wages increase.if I own a big monopoly with no competition, I can also own a permanent flow of profits that competition will not touch.
 
@@ -72,9 +72,11 @@ What seems acceptable when societies are small may nevertheless be unacceptable 
 
 The result of these economic effects is that we have too much pollution, not enough genuine wealth and economic growth that benefits the rich. In some countries, economic growth may even stop. For the planet as a whole, this model is catastrophic. This book shows a route out of this economic situation.
 
+So we've seen that taxation seems to be important in our economic model because it sets the economic incentives for the private sector. This leads on to our next question.
+
 # Q3: HOW CAN WE Define a Better Tax and Welfare System?
 
-The second system is more technocratic: defining a good taxation system. In the context of what we have said before, this book is devoted to how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent', and international flows of money and assets. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. 
+The third question is more technocratic: defining a good taxation system. In the context of what we have said before, this book is devoted to how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent', and international flows of money and assets. Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. 
 
 The central concern of the book is the use of the tax system for public benefit: to solve the critical challenges facing our societies including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems. 
 
@@ -110,8 +112,8 @@ Thus both for environmental damage and for wealth, we use consumption as a relat
 
 # Q4: How To Make The Change?
 
-Our third quiestion: how can we actually change these systems? 
-Economists have been aware of these effects for some time. Yet, taxes which would correct these economic distortions have only been imposed occasionally and partially. Why haven't corrective taxes been imposed? 
+Our fourht quiestion: how can we actually change the tax systems? 
+Economists have been aware of rent and externalities for some time. Yet, taxes which would correct these economic distortions have only been imposed occasionally and partially. Why haven't corrective taxes been imposed? 
 
 Here we make the case for a simple 'change equation'. The perceived benefits must overwhelm the resistance. So we can think 
 
@@ -125,7 +127,14 @@ Economists should work out ways to impose the economic effect of such taxes whil
 
 However, there is another problem. Nobody has made a sufficiently passionate and positive case for these taxes. This book aims to correct that. 
 
-One great milestone in the history of progress in the UK was the Beveridge report  [-@Beveridge1942]. Seventy-five years ago, liberal economist William Beveridge presented his report for a new welfare state. It laid the basis for the post-war welfare state. Its objectives were to banish 'want, ignorance, squalor, disease and idleness'. Beveridge argued for universal benefits, as of right. This can be contrasted with the system of means testing that has since developed. Three principles guided his report [@Beveridge1942: Part 1, paragraphs 6-9].
+
+
+One great milestone in the history of progress in the UK was the Beveridge report  [-@Beveridge1942]. Seventy-five years ago, liberal economist William Beveridge presented his report for a new welfare state. It laid the basis for the post-war welfare state. Its objectives were to banish 'want, ignorance, squalor, disease and idleness'. Beveridge argued for universal benefits, as of right. This can be contrasted with the system of means testing that has since developed.
+
+The Beveridge report shows a possible way forward for welfare. Before the second world war, the five social evils of Want, Squalor, Idleness, Disease and Ignorance ravaged the poor in Britain. The second world war destroyed many buildings, homes and businesses alike, and increased the government and external debt. But yet, the post war government managed to create a comprehensive welfare state where none existed before: a health service. 
+
+ Three principles guided his report [@Beveridge1942: Part 1, paragraphs 6-9].
+
 - *Radical*: From first principles, without fear or favour to social class or other interest groups.
 - *Comprehensive*: Dealing with poverty, disease, bad housing, unemployment and a lack of education.
 - *A liberal social contract*: No means testing and so no stifling of incentives; cooperation between the state, individuals and firms.
@@ -184,10 +193,6 @@ The current social security system is highly insecure: benefits are taken away f
 
 To acheive this improvement, we need to simplify the existing income and means-tested benefit system. Rather than the current system of means testing benefits, there would be a single system of basic income and taxation. A 'simplifying' basic income payable to everyone in society would be combined with a simplification of the system of income taxation, so that a standard rate of 40% is applied to all income up to the point when someone reaches the top 1% of incomes. Furthermore, there would be citizen wealth funds, and assets would be granted to individuals based on how much tax they paid. There would be a 'target minimum level' of wealth and individual's tax would build up this minimum level of wealth. We have a SIMPLIFIED INCOME TAX, BASIC INCOME and WEALTH FUND.
 
-**Case Stufy on Welfare and Work -- Beveridge and the UK in the late 1940s**
-
-As we discuss in chapter 3, the Beveridge report shows a possible way forward for welfare. Before the second world war, the five social evils of Want, Squalor, Idleness, Disease and Ignorance ravaged the poor in Britain. The second world war destroyed many buildings, homes and businesses alike, and increased the government and external debt. But yet, the post war government managed to create a comprehensive welfare state where none existed before: a health service. 
-
 **Case Study: Income and Corporation Tax: USA in the period 1945--1980**
 
 The United States in the post war showed the advantage of redistributive income taxation, including high tax rates on companies. The top rate of income tax was often over 70% in that period, and taxes on companies were also higher than at present. Because everyone's incomes were not widely different, this meant that normal people could not only afford consumer goods but also everyone had a chance to buy the limited positional goods such as land. Since the top rate of tax was high, and since income tax is the largest and most important tax, this meant that the average tax rate paid by people on average earnings was lower. We discuss this is parts 6 and 7.
@@ -223,26 +228,28 @@ Because it is so important, the main priority is not to raise additional revenue
 
 **Case Study: Environmental Taxes in Scandinavia, Switzerland and the UK**
 
-Three European countries show that a carbon tax can work exactly as planned. Sweden, Switzerland and the UK all have a carbon tax. Sweden was one of the first to introduce its carbon tax and the per capita $CO_2$ emissions of Sweden are now amongst the lowest in Europe. Similarly, Switzerland has also introduced such a tax. The UK introduced its carbon price floor more recently, and it has seen a large fall in emissions. Most notably, we have seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags.
+Three European countries show that a carbon tax can work exactly as planned. Sweden, Switzerland and the UK all have a carbon tax. Sweden was one of the first to introduce its carbon tax and the per capita $CO_2​$ emissions of Sweden are now amongst the lowest in Europe. Similarly, Switzerland has also introduced such a tax. The UK introduced its carbon price floor more recently, and it has seen a large fall in emissions. Most notably, we have seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags.
 
 
 # Plan of the Book
 
 The Prelude asks what we would do if we faced a perfect storm. 
 
-Chapter 1 took us on a tour of the revolutions of history: ecomomics, politics and technology. to bring us to the challenges of the present day's challenges in the context of the past.
+Chapter 1 took us on a tour of the revolutions of history: economics, politics and technology. to bring us to the challenges of the present day's challenges in the context of the past.
 
 This Chapter (2) has given you an overview of the arguments of the book. 
 
-Chapter 3 takes the reader on a tour of desert islands to illustrate simple ideas of economcis in this book. 
+Chapter 3 takes the reader on a tour of desert islands to illustrate simple ideas of economics in this book. 
 
 Chapter 4 builds a conceptual model of collective action, vital for the biggest problems facing us.
 
 Chapter 5 considers tax in principle.  *Beneficial, fair,* and *practical* are three general categories which provide us with a framework for assessing any tax or system of taxation. Chapter 6 considers tax in practice. We look in detail at tax avoidance.
 
-Chapter 7 with Inequality, wshich is driven not only by differences in merit but also by tax evasion and avoidance, and by unfair processes of asset price appreciation.  Chapters 8 deals with Welfare and Work.
+Chapter 7 with Inequality, which is driven not only by differences in merit but also by tax evasion and avoidance, and by unfair processes of asset price appreciation.  Chapters 8 deals with Welfare and Work.
 
-Chapter 9 considers the corporation tax system. Chapter 10 looks at land and housing is increasingly unaffordable in many cities.   Chapter 11 considers the financial system
+Chapter 9 considers the corporation tax system.  Chapter 11 considers the financial system.
+
+Chapter 10 looks at land and housing is increasingly unaffordable in many cities.  
 
 Chapter 12 deals eith Climate change and other environmental issues, which  threaten the future of our living planet. 
 
