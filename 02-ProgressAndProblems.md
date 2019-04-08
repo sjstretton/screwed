@@ -26,7 +26,7 @@ If we have the technology to solve our environmental problems, then why are we n
 
 Our economic system is not allowing us to take full advantage of the technological progress that we make. So we seek the answers in economics, or, as it used to be called *political economy*.
 
-## ECONOMIC THOUGHT
+## Political Economy aka Economics
 
 Economics is the study of activities that are, at least in part, motivated by financial gain. Economics used to be called *political economy*. This term comes from the Ancient Greek. *Polis* means the city-state, the name for the political organisation in ancient Greece. Economy comes from two Greek words *Oikos*, meaning household, and *Nomos* meaning law. Therefore, *Oikonomos* means household management. Classical political economy includes the works of Adam Smith, David Ricardo, John Stuart Mill and Karl Marx. 
 
@@ -50,15 +50,10 @@ So, if an entrepreneur makes an improvement in production processes, she can low
 
 Her competitors may notice the improvement that she has made and replicate it. To retain market share, they will lower their prices towards the new cost of production. There might be a price war to capture customers. After the competition has taken its course, we will be left with a different situation. The price of the good concerned will have fallen to just above the new production cost. The new beneficiary of the technological improvement would be everyone who purchases the product. 
 
-Technological progress, the profit motive and competition would lead to widely spread prosperity. Whilst the initial profit from the improvment would accrue to the entreprenuer, the long-term beneficiary from the reduced cost of production is everyone who purchase the product.
+Technological progress, the profit motive and competition would lead to widely spread prosperity. Whilst the initial profit from the improvment would accrue to the entreprenuer, the long-term beneficiary from the reduced cost of production is everyone who purchases the product.
 
 
-
-# What is an efficient and fair taxation system given what we know about the principles of political economy? 
-
-## RENT!
-
-So why do we have these problems of pollution and precariousness? We identify two phenomena described by the great economists. Economic Rent and Economic Theft.
+## Rent!
 
 Adam Smith's model relies on certain assumptions. A production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist or if entrance to the market is expensive then competition will not work as described. The beneficiary will be the owners of the single monopolist or the incumbent firm. Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords.
 
