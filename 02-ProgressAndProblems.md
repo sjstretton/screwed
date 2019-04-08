@@ -101,13 +101,11 @@ We also aim to look at tax and welfare from first principles. We will then apply
 
 But are we at a revolutionary time? Can we change a complex system like tax and welfare from first principles, or is 'patching' the only realistic possibility? We will assert that change is possible if it is beneficial, practical and fair and communicated well so that these aspects are evident.
 
-One does not make fundamental progress without thinking about what a system should *do* and what it should *be*. We address thes in the 'tax in principle' chapter below.
-
-We also need to consider the motivation for, and the barriers to change. One barrier is the worry that some people will be made worse off by any changes. We need to ensure not only that the final state is fair but also that the transition between the current system and the new is also fair. We deal with this in our fourth principle, below.
+One does not make fundamental progress without thinking about what a system should *do* and what it should *be*. We address this in the 'tax in principle' chapter.
 
 ## PRINCIPLE 2: SOLVING GREAT EVILS
 
-Second, he argued for a *comprehensive* solution to the five 'giant' social problems of the poor. His report dealt primarily with want (poverty) and disease (poor health). The other three 'giants' were ignorance (lack of education), squalor (poor housing), and idleness (unemployment). Accordingly, his report laid the basis not only for the UK's postwar welfare (or social security) system but also the National Health Service, public education, housing policy and a system of macroeconomic management aiming for full employment.
+Second, Beveridge argued for a *comprehensive* solution to the five 'giant' social problems of the poor. His report dealt primarily with want (poverty) and disease (poor health). The other three 'giants' were ignorance (lack of education), squalor (poor housing), and idleness (unemployment). Accordingly, his report laid the basis not only for the UK's postwar welfare (or social security) system but also the National Health Service, public education, housing policy and a system of macroeconomic management aiming for full employment.
 
 We still have Beveridge's giant social issues to some degree, but we are also faced with new problems. This book, like Beveridge's report, is devoted to five great societal challenges which face us now:
 
@@ -127,11 +125,11 @@ This involves the *integration* of the tax system with the benefits system so th
 
 There's an overarching concept too, which we term policy entrepreneurship. That is, we should break out of the monopoly of thought imposed on us by neoclassical economics and neoliberal economic ideas. These forms of entrepreneurship imply a new growth model for everyone, one that is not based on increasing financialisation and debt issued on limited assets but rather the development of productive industries solving our collective problems. We deal with the potential benefits of our proposals in the next section.
 
-
-
 ## PRINCIPLE 4: MINIMISING RESISTANCE TO CHANGE
 
 To Beveridge we add our own fourth principle, that the proposed changes should be prioritised: maximising the benefit and minimising the resistance
+
+In addition to consider the motivation for change, is thinking about the barriers to change. One barrier is the worry that some people will be made worse off by any changes. We need to ensure not only that the final state is fair but also that the transition between the current system and the new is also fair.
 
 Resistance to taxes is associated with concentrated losses on specific groups. These groups can easily mobilise to resist new taxes. We can talk about two salient group: poor people and companies. Let's focus now on corporate lobbying. Companies can target their own financial interest in just a 
 
