@@ -15,7 +15,7 @@ link-citations: yes
 \newpage
 
 ```{r setup, include=FALSE}
-Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
+Platform <- "PC" #"PC" "Mac" "HeatherPC" 
 if(Platform=="PC") { 
   setwd("~/../Google Drive/Book") 
 } else if(Platform=="Mac") { 
