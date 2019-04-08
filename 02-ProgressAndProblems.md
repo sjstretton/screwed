@@ -40,8 +40,8 @@ These questions are related not only to economic processes -- for example, produ
 
 Our starting point is Adam Smith's model, since his work has helped to define the core economic view in the two centuries that followed.
 
-
 ## Adam Smith's Model
+
 We have a market economy with competition, growth and technological progress. Adam Smith, in his famous work *The Wealth of Nations*, set out a model of how economic growth came about and how that could lead to widely-spread prosperity. 
 
 Smith argued that the division of labour leads to higher levels of productivity. Smith gives the example of a pin factory, where dividing the manufacture of pins into smaller steps leads to more pins being produced for the same level of hours worked. If one is focusing on a single task, one can do this task more quickly than if one has a multitude of different jobs to do. This differentiation of different people's jobs takes place not only in a single entereprise but also across the whole economy. By specialising and trading, we can get more work done in a given number of hours.
@@ -53,6 +53,7 @@ Her competitors may notice the improvement that she has made and replicate it. T
 Technological progress, the profit motive and competition would lead to widely spread prosperity. Whilst the initial profit from the improvment would accrue to the entreprenuer, the long-term beneficiary from the reduced cost of production is everyone who purchases the product. Profit in this case is a necessary but temporary phenomenon. It is competed away and in so doing society as a whole becomes richer.
 
 ## Permanent Profit and Rent
+
 Adam Smith's model relies on certain assumptions. 
 
 One assumption is that a production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist, or if entrance to the market is expensive, then competition will not work as described. If I own a big monopoly with no competition, I can also own a permanent flow of profits that competition will not touch. The beneficiary will be the owners of the single monopolist or the incumbent firm. 
@@ -131,7 +132,7 @@ Furthermore, we argue for an integrated skills training and work experience syst
 
 Both proposals are outlined later.
 
-## Proposal 4: Minising Barriers To Change
+## Principle 4: Minimising Barriers To Change
 
 To Beveridge we add our own fourth principle, that the proposed changes should be prioritised: maximising the benefit and minimising the resistance. So, in addition to considering the motivation for change, we need also to consider barriers to change. 
 
