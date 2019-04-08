@@ -242,13 +242,17 @@ One great anxiety is about *debt*. There are basically two forms of debt that co
 
 ## IMPROVEMENT 4: A CLEAN AND SAFE GLOBAL ENVIRONMENT (CHAPTER 12)
 
-The final priority is the environment. We start with the most important part of the tax system, the system of environmental taxation. There are a number of major environmental problems facing us, most notably climate change and ocean acidification, but also including the prevalence of plastics in the ocean, habitat destruction, road congestion, over-fishing, rare resource consumption and conventional air, water and land pollution. Using environmental taxes faces a few challenges: they can be unpopular, hard to design, encourage 'off-shoring' of dirty forms of manufacture and bureaucratic. Finally, because sometimes demand for damaging products can be unresponsive to price, a high environmental tax may be necessary. But high environmental taxes may be unpopular, disruptive or unrealistic. Also, individual country actions are not enough. Instead, we need action that is global. But there are no functioning global institutions. Thus, we look for solutions that can be implemented at a national level, which *and* which encourage other countries to follow the lead. Such solutions should be within international laws and rules as well. We show how those potential issues can be overcome.
+The final priority is the environment. There are a number of major environmental problems facing us, most notably climate change and ocean acidification, but also plastics in the ocean, habitat destruction, road congestion, over-fishing, and conventional air, water and land pollution. Environmental taxes have a few challenges: they can be unpopular, hard to design, encourage 'off-shoring' of dirty forms of industry and can be bureaucratic. 
 
-Because it is so important, the main priority is not to raise additional revenue with this taxation source, but we do intend to ensure that the private sector has the correct incentives. To accomplish that, we start with a higher carbon tax on electricity production. Electricity production should have an incentive to be carbon neutral. We achieve this with a tax on carbon inputs with a subsidy on electricity production. Simultaneously, we also provide low-cost loans from the public loan board. There will be prizes for rapid roll-out of new technologies and national targets for the roll out of low-carbon electricity. We have a CARBON TAX.
+Sicne demand for damaging products can be unresponsive to price, a high environmental tax may be necessary. But high environmental taxes may be unpopular, disruptive or unrealistic. 
+
+Also, individual country actions are not enough. Instead, we need action that is global. But there are no functioning global institutions. Thus, we look for solutions that can be implemented at a national level, which also encourage other countries to follow the lead. Such solutions should be within international laws and rules as well.
+
+Because protecting the environment is so important, the main priority is not to raise additional revenue with this taxation source, but we do intend to ensure that the private sector has the correct incentives. We propose a Carbon Tax. But there needs to be an alternative to fossul fuels. We achieve this with a tax on carbon inputs with a subsidy on electricity production. Simultaneously, we also provide low-cost loans from the public loan board. There will be prizes for rapid roll-out of new technologies and national targets for the roll out of low-carbon electricity. 
 
 **Case Study: Environmental Taxes in Scandinavia, Switzerland and the UK**
 
-Three European countries show that a carbon tax can work exactly as planned. Sweden, Switzerland and the UK all have a carbon tax. Sweden was one of the first to introduce its carbon tax and the per capita  emissions of Sweden are now among the lowest in Europe. Similarly, Switzerland has also introduced such a tax. The UK introduced its carbon price floor more recently, and it has seen a large fall in emissions. Most notably, we have seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags.
+Three European countries show that a Carbon Tax can work exactly as planned. Sweden, Switzerland and the UK all have a carbon tax of some description. Sweden was one of the first to introduce its Carbon Tax. The per capita  emissions of Sweden are now among the lowest in Europe. Similarly, Switzerland has also introduced such a tax. The UK introduced its carbon price floor more recently and it has seen a large fall in emissions. Most notably, the UK seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags, congestion charges, deposit return schem.
 
 
 
@@ -256,23 +260,23 @@ Three European countries show that a carbon tax can work exactly as planned. Swe
 
 # PLAN OF THE BOOK
 
-The Prelude asks what we would do faced a perfect storm, right now in the present day.
+The Prelude asks what we would do if we faced a perfect storm, right now in the present day.
 
-Chapter 1 took us on a tour of the revolutions of history: economics, politics and technology. to bring us to the challenges of the present day's challenges in the context of the past.
+Chapter 1 took us on a tour of the revolutions of history: economic, political and technological, to bring us to the challenges of the present day's challenges in the context of the past.
 
-Chapter 2, which you have just read, gives an overview of the arguments of the rest of  the book as they apply to our future.
+Chapter 2 (which you have just read) gives an overview of the arguments of the rest of the book as they apply to our future.
 
 Chapter 3 takes the reader on a tour of desert islands to illustrate simple ideas of economics in this book.
 
 Chapter 4 builds a conceptual model of collective action, vital for the biggest problems facing us.
 
-Chapter 5 considers tax in principle. *Beneficial, fair,* and *practical* are three general categories which provide us with a framework for assessing any tax or system of taxation. 
+Chapter 5 considers tax in principle. 'Beneficial', 'fair' and 'practical' are three general categories which provide us with a framework for assessing any tax or system of taxation. 
 
 Chapter 6 considers tax in practice. We look in detail at tax avoidance.
 
-Chapter 7 with Inequality, which is driven not only by differences in merit but also by tax evasion and avoidance, and by unfair processes of asset price appreciation. 
+Chapter 7 considers Inequality of income and wealth which is driven, we argue, not only by differences in merit but also by tax evasion and avoidance, and by unfair processes of asset price appreciation. 
 
-Chapters 8 deals with Welfare and Work.
+Chapters 8 deals with welfare and work.
 
 Chapter 9 looks at land and housing is increasingly unaffordable in many cities.
 
@@ -280,6 +284,10 @@ Chapter 10 considers the corporation tax system.
 
 Chapter 11 considers the financial system.
 
-Chapter 12 deals with Climate change and other environmental issues, which threaten the future of our living planet.
+Chapter 12 deals with climate change and other environmental issues, which threaten the future of our living planet.
 
-Chapters 13 contain our proposals and our quantitative modelling of them. Chapter 14 Concludes the book with a call to action
+Chapters 13 contains our proposals.
+
+Chapter 14 concludes the book with a call-to-action.
+
+So let's take our tour of the desert islands to see some of the economic effects we have introduced in action.
