@@ -30,13 +30,17 @@ Our economic system is not allowing us to take full advantage of the technologic
 
 Economics is the study of activities that are, at least in part, motivated by financial gain. Economics used to be called *political economy*. This term comes from the Ancient Greek. *Polis* means the city-state, the name for the political organisation in ancient Greece. Economy comes from two Greek words *Oikos*, meaning household, and *Nomos* meaning law. Therefore, *Oikonomos* means household management. Classical political economy includes the works of Adam Smith, David Ricardo, John Stuart Mill and Karl Marx. 
 
-Classical political economy did not shy away from grand statements about topics such as how the economy distributed its gains. Thus, the works of political economy by the great authors always had questions of taxation at their heart. What is an efficient and fair taxation system given what we know about the principles of political economy? At the heart of political economy has always been the question of just distribution and of taxation as a means to remedy the situation.
+The works of political economy by the great authors often had questions of taxation and property at their heart. Taxation is considered on two grounds. Does it aid efficiency and is it fair? 
+
+Classical political economy considered how the economy distributed its gains.  At the heart of political economy has always been the question of just distribution. Taxation is a means to remedy the situation when distribution is inefficient or unfair, as well as being a way to pay for public goods.
 
 This makes political economy -- and now economics -- powerful. Also, it means that economics has implications for the financial interests of everyone. One can believe an economic theory for scientific reasons, but one might also support some theory because it furthers one's own interests. This makes political and economic discourse somewhat fraught. It also means that there is a suspicion that the corrupting power of self-interest may affect the balance of those economic theories that are thought authoritative. 
 
 These questions are related not only to economic processes -- for example, production and competition -- but also to taxation and the structure of private property. What assets can be owned? And, who in fact owns the assets? And how much tax should they pay for owning assets or for engaging in economic activity? Desirable economic outcomes depend not only on economic activity but also on the taxation system and the system of property rights.
 
 In our chapter on economics, we define some classical economic problems. How are prices determined? How does the economy distribute the gains from economic progress? Does self interest and the free market provide a desirable outcome? In this book, we aim to reconcile classical, neoclassical, Keynesian and modern system dynamic economic thinking to give a more authoritative approach.
+
+Our starting point is Adam Smith's model, since this has helped to define the core economic view in the two and half centuries that followed.
 
 ## ADAM SMITH'S MODEL
 
@@ -45,6 +49,8 @@ We have a market economy with competition, growth and technological progress. Ad
 If an entrepreneur makes an improvement in production processes, he can lower his cost of production and still sell at the price of his competitors. In other words, he can make a profit. In the short term, therefore, the advantages of his improvement accrue to him. Thus, the profit motive provides an incentive to make improvements.
 
 His competitors may notice the improvement that he has made and replicate it. To capture market share, they will lower their prices towards the new cost of production. There might be a price war to capture customers. After the competition has taken its course, we will be left with a different situation. The price of the good concerned will have fallen to just above the new production cost. The new beneficiary of the technological improvement would be everyone who purchases the product. Technological progress, the profit motive and competition would lead to widely spread prosperity.
+
+# What is an efficient and fair taxation system given what we know about the principles of political economy? 
 
 ## RENT!
 
