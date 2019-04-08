@@ -95,7 +95,7 @@ Three principles guided the Beveridge report [@Beveridge1942: Part 1, paragraphs
 
 ## Principle 1: A Fundamental Review
 
-First, Beveridge argued that Second World War and its aftermath was 'a time for revolutions, not patching'. He offered a radical approach, informed by the experience of the past but not be restricted by the interests of one group or another. In short, his report would be *radical* (working from first principles) and prioritise the *common interest*.
+Beveridge argued that Second World War and its aftermath was 'a time for revolutions, not patching'. He offered a radical approach, informed by the experience of the past but not be restricted by the interests of one group or another. In short, his report would be *radical* (working from first principles) and prioritise the *common interest*.
 
 We also aim to look at tax and welfare from first principles. We will then apply those first principles without fear or favour.
 
@@ -105,19 +105,19 @@ Thus, one does not make fundamental progress without thinking about what a syste
 
 We need to be passionate about the benefits that reform will bring. We consider these in the next section.
 
-## PRINCIPLE 2: SOLVING GREAT EVILS
+## Principle 2: Solving Great Social Evils
 
-Second, Beveridge argued for a *comprehensive* solution to the five 'giant' social problems of the poor. His report dealt primarily with want (poverty) and disease (poor health). The other three 'giants' were ignorance (lack of education), squalor (poor housing), and idleness (unemployment). Accordingly, his report laid the basis not only for the UK's postwar welfare (or social security) system but also the National Health Service, public education, housing policy and a system of macroeconomic management aiming for full employment.
+Beveridge argued for a *comprehensive* solution to the five 'giant' social problems of the poor. His report dealt primarily with want (poverty) and disease (poor health). The other three 'giants' were ignorance (lack of education), squalor (poor housing) and idleness (unemployment). As we mentioned before, his report laid the basis not only for the UK's post-war social security system but also the National Health Service, public education, housing policy and a system of macroeconomic management aiming for full employment.
 
-We still have Beveridge's giant social issues to some degree, but we are also faced with new problems. This book, like Beveridge's report, is devoted to five great societal challenges which face us now:
+We still have Beveridge's giant social issues to some degree, but we are also faced with new problems. This book, like Beveridge's report, is devoted to great societal challenges which we face now:
 
-- *Widely-Spread Wealth*: Inequality of income and wealth, and especially that caused by arguably unfair means; tax avoidance and evasion; dominance of large mega-corporations with market power enriching the rich and wielding political power. Dealing with the challenge of increasing automation of work so that everyone has an adequate income and plenty of free time.
-- *High Rent on Land and Resources*: Unaffordability of renting or purchasing homes, and the cost of importing fossil fuels.
+- *Widely-Spread Wealth*: Inequality of income and wealth, and especially that caused by arguably unfair means, and especially in the context of increasing automation.
+- *High Rent on Land and Resources*: Unaffordability of renting or purchasing homes.
+- *Tax Evasion and Avoidance*: Can a tax system be designed that is simpler and yet difficult to avoid?
+- *Debt and Economic Imbalance*: Re-balancing the economy away from high debt and asset inflation, and towards balanced growth and wealth formation.
 - *Pollution and Other Environmental Damage*: Climate change, ocean acidification, plastics, over-fishing and habitat loss which all threaten the future.
-- *Debt and Economic Imbalance*: Re-balancing the economy away from borrowing and asset inflation, and towards balanced growth and wealth formation.
-- *Tax Evasion and Avoidance*: Can a tax system be designed that is simple and yet difficult to avoid?
 
-We need to be passionate about the benefits that reform will bring. We consider these in the next section.
+However it's not enough to plan to solve these problem, we have to do so in a competent way that involves everyone?
 
 ## PRINCIPLE 3: A SOCIAL CONTRACT ALIGNING REWARD AND CONTRIBUTION
 
