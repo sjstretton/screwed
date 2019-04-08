@@ -8,7 +8,7 @@ Many people, across the west, whether they are rich or poor, are starting to los
 
 What would an economy fit for our children look like? A good society promotes the wealth and happiness of its citizens. Thus, we argue for a society and economy that defines, creates, preserves and fairly distributes natural and humanly-created wealth. Happiness implies a different metric than mere activity: humans need both security and purpose. The challenges of the future give us our purpose and will undermine our security if we do not face them with full commitment. An economy that is good for people and for the planet is one that functions well. 
 
-To define such a society, we need first to consider a question of economics. What are the economic conditions for sustainable and widely-spread prosperity?
+To define such a society, we need first to consider a question of economics. What are the economic conditions for sustainable and widely-spread prosperity? To answer this question we look back into the history of economic thought.
 
 # What are the Economic Conditions for Sustainable Widely-Spread Prosperty (Chapter 3)
 
@@ -44,11 +44,15 @@ Our starting point is Adam Smith's model, since his work has helped to define th
 
 We have a market economy with competition, growth and technological progress. Adam Smith, in his famous work *The Wealth of Nations*, set out a model of how economic growth came about and how that could lead to widely-spread prosperity. 
 
-Smith argued that the division of labour leads to higher levels of productivity. Smith gives the example of a pin factory, where dividing the manufacture of pins into smaller steps leads to more pins being produced for the same level of hours worked. If one is focusing on a single task, one can do this task more quickly than if one has a multitude of different jobs to do. This differentiation of different people's jobs takes place not only in a single entereprise, but across the economy. By specialising, and trading, we can get more work done in a given number of hours.
+Smith argued that the division of labour leads to higher levels of productivity. Smith gives the example of a pin factory, where dividing the manufacture of pins into smaller steps leads to more pins being produced for the same level of hours worked. If one is focusing on a single task, one can do this task more quickly than if one has a multitude of different jobs to do. This differentiation of different people's jobs takes place not only in a single entereprise but also across the whole economy. By specialising and trading, we can get more work done in a given number of hours.
 
-So, if an entrepreneur makes an improvement in production processes, she can lower his cost of production and still sell at the price of her competitors. In other words, she can make a profit. In the short term, therefore, the advantages of her improvement accrue to her. Thus, the profit motive provides an incentive to make improvements.
+So, if an entrepreneur makes an improvement in production processes, she can lower her cost of production and still sell at the price of her competitors. In other words, she can make a profit. In the short term, therefore, the advantages of her improvement accrue to her. Thus, the profit motive provides an incentive to make improvements.
 
-His competitors may notice the improvement that he has made and replicate it. To capture market share, they will lower their prices towards the new cost of production. There might be a price war to capture customers. After the competition has taken its course, we will be left with a different situation. The price of the good concerned will have fallen to just above the new production cost. The new beneficiary of the technological improvement would be everyone who purchases the product. Technological progress, the profit motive and competition would lead to widely spread prosperity.
+Her competitors may notice the improvement that she has made and replicate it. To retain market share, they will lower their prices towards the new cost of production. There might be a price war to capture customers. After the competition has taken its course, we will be left with a different situation. The price of the good concerned will have fallen to just above the new production cost. The new beneficiary of the technological improvement would be everyone who purchases the product. 
+
+Technological progress, the profit motive and competition would lead to widely spread prosperity. Whilst the initial profit from the improvment would accrue to the entreprenuer, the long-term beneficiary from the reduced cost of production is everyone who purchase the product.
+
+
 
 # What is an efficient and fair taxation system given what we know about the principles of political economy? 
 
