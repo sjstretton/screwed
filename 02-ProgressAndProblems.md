@@ -71,12 +71,11 @@ What seems acceptable when societies are small may, nevertheless, be unacceptabl
 
 Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. For the planet as a whole, this model is catastrophic. This book shows a route out of this economic situation. Growth, where it is in relation to consumption, needs to be dematerialised or physically circular. In other words, we need to minimise the impact that economic growth has on the natural world. We will come to how to achieve that a little later. 
 
-
 # HOW CAN WE DEFINE A BETTER TAX AND WELFARE SYSTEM? (CHAPTER 5)
 
-So why do we have these problems of pollution and precariousness? We have identify two phenomena described by the great economists. Economic Rent and Economic Theft. The result of these economic effects is that we have too much pollution, not enough genuine wealth, and economic growth that benefits the rich. 
+So why do we have these problems of pollution and precariousness? We have identified two phenomena described by the great economists: Economic Rent and Economic Theft. The result of these economic effects is that we have economic growth that benefits the rich and too much pollution
 
-This leads on to our next question. What should we do about it? Se've seen that taxation seems to be important in our economic model because it sets the economic incentives for the private sector.Political economists from Adam Smith and David Ricardo have argued that the taxation system could be used to correct for these issues.
+This leads on to our next question. What should we do about it? We've seen that taxation seems to be important in our economic model because it sets the economic incentives for the private sector.Political economists from Adam Smith and David Ricardo have argued that the taxation system could be used to correct for these issues.
 
 Tax is the means by which we pay for government services. this book is devoted to how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent', and international flows of money and assets. 
 
