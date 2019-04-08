@@ -61,11 +61,9 @@ One assumption is that a production process, once improved, can be replicated. T
 
 Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords. Imagine I own some land with property on it, I can sit back and enjoy the flow of income, without having to work. This flow of income is rent. Then wages increase. Rent goes up, as wages increase. 
 
-We term these two forms of property income 'generalised rent'. Generalised rent is a permanent flow of income associated with an asset that cannot be replicated. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies. We argue that generalised rent leads to expensive housing, stagnating wages and wealth gains for the already rich.
+We term these two forms of property income 'generalised rent'. Generalised rent is a permanent flow of income associated with an asset that cannot be replicated. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of companies. We argue that generalised rent leads to expensive housing, stagnating wages and wealth gains for the already rich.
 
-So the limited things would be rationed by taxes rather than by private property, so that everyday people have a stake in the common resources and land doesn't become so expensive that individuals cannot afford their own homes.
-
-## WICKED EXTERNALITIES
+## Wicked Externalities
 
 We haven't dealt with pollution. Usually, damaging other people or their interests (for example, through injury or theft) is illegal. But some economic activities which damage others are still legal. Driving a car, which pollutes the environment and could harm pedestrians if there is an accident, is legal and normal, but nevertheless, damaging to others' interests. Small, indirect damages from many independent sources can add up to a lot in total.
 
@@ -77,14 +75,16 @@ The result of these economic effects is that we have too much pollution, not eno
 
 Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. For the planet as a whole, this model is catastrophic. This book shows a route out of this economic situation. Growth, where it is in relation to consumption, needs to be dematerialised or physically circular: it needs to minimise the impact that the growth has on the natural world. We will come to how to achieve that a little later. 
 
+So why do we have these problems of pollution and precariousness? We identify two phenomena described by the great economists. Economic Rent and Economic Theft.
 
 # What is an efficient and fair taxation system given what we know about the principles of political economy? 
 
-So why do we have these problems of pollution and precariousness? We identify two phenomena described by the great economists. Economic Rent and Economic Theft.
+Se've seen that taxation seems to be important in our economic model because it sets the economic incentives for the private sector. This leads on to our next question. What should we do about it? Political economists from Adam Smith and David Ricardo have argued that the taxation system could be used to correct for these issues.
 
-Economics needs to account for these external damage. Taxation should also correct the market, so those who damage the environment pay for the damage that they cause. Such a tax system would tax bad things, not good things. The physical use of natural resources should be taxed, and the circular use of those resources is thereby encouraged. So, with a proper tax system, the beautiful things that require care, like the natural environment, would be preserved. 
+So the limited things would be rationed by taxes rather than by private property, so that everyday people have a stake in the common resources and land doesn't become so expensive that individuals cannot afford their own homes.
 
-So we've seen that taxation seems to be important in our economic model because it sets the economic incentives for the private sector. This leads on to our next question.
+Economics also needs to account for these external damage. Taxation should also correct the market, so those who damage the environment pay for the damage that they cause. Such a tax system would tax bad things, not good things. The physical use of natural resources should be taxed, and the circular use of those resources is thereby encouraged. So, with a proper tax system, the beautiful things that require care, like the natural environment, would be preserved. 
+
 
 # HOW TO MAKE THE CHANGE? PUBLIC POLITICAL ECONOMY (CHAPTER 4)
 
