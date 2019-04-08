@@ -40,7 +40,7 @@ These questions are related not only to economic processes -- for example, produ
 
 Our starting point is Adam Smith's model, since his work has helped to define the core economic view in the two centuries that followed.
 
-## ADAM SMITH'S MODEL
+## Adam Smith's Model
 
 We have a market economy with competition, growth and technological progress. Adam Smith, in his famous work *The Wealth of Nations*, set out a model of how economic growth came about and how that could lead to widely-spread prosperity. 
 
@@ -48,16 +48,17 @@ Smith argued that the division of labour leads to higher levels of productivity.
 
 So, if an entrepreneur makes an improvement in production processes, she can lower her cost of production and still sell at the price of her competitors. In other words, she can make a profit. In the short term, therefore, the advantages of her improvement accrue to her. Thus, the profit motive provides an incentive to make improvements.
 
-Her competitors may notice the improvement that she has made and replicate it. To retain market share, they will lower their prices towards the new cost of production. There might be a price war to capture customers. After the competition has taken its course, we will be left with a different situation. The price of the good concerned will have fallen to just above the new production cost. The new beneficiary of the technological improvement would be everyone who purchases the product. 
+Her competitors may notice the improvement that she has made and replicate it. To retain market share, they will lower their prices towards the new cost of production. There might be a price war to capture customers. After the competition has taken its course, we will be left with a different situation. The price of the good concerned will have fallen to just above the new production cost. The long-term beneficiary of the technological improvement would be everyone who purchases the product. 
 
 Technological progress, the profit motive and competition would lead to widely spread prosperity. Whilst the initial profit from the improvment would accrue to the entreprenuer, the long-term beneficiary from the reduced cost of production is everyone who purchases the product.
 
-
 ## Rent!
 
-Adam Smith's model relies on certain assumptions. A production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist or if entrance to the market is expensive then competition will not work as described. The beneficiary will be the owners of the single monopolist or the incumbent firm. Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords.
+Adam Smith's model relies on certain assumptions. 
 
-Imagine I am a landlord. Once I own some land with property on it, I can sit back and enjoy the flow of income, without having to work. This flow of income is rent. Rent goes up, as wages increase.if I own a big monopoly with no competition, I can also own a permanent flow of profits that competition will not touch.
+One assumption is that a production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist or if entrance to the market is expensive then competition will not work as described. The beneficiary will be the owners of the single monopolist or the incumbent firm. 
+
+Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords. Why? Imagine I am a landlord. Once I own some land with property on it, I can sit back and enjoy the flow of income, without having to work. This flow of income is rent. Rent goes up, as wages increase.if I own a big monopoly with no competition, I can also own a permanent flow of profits that competition will not touch.
 
 We term these two forms of property income 'generalised rent'. Generalised rent is a permanent flow of income associated with an asset that cannot be replicated. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies. We argue that generalised rent leads to expensive housing, stagnating wages and wealth gains for the already rich.
 
@@ -74,6 +75,11 @@ What seems acceptable when societies are small may nevertheless be unacceptable 
 The result of these economic effects is that we have too much pollution, not enough genuine wealth and economic growth that benefits the rich. 
 
 Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. For the planet as a whole, this model is catastrophic. This book shows a route out of this economic situation. Growth, where it is in relation to consumption, needs to be dematerialised or physically circular: it needs to minimise the impact that the growth has on the natural world. We will come to how to achieve that a little later. 
+
+
+# What is an efficient and fair taxation system given what we know about the principles of political economy? 
+
+So why do we have these problems of pollution and precariousness? We identify two phenomena described by the great economists. Economic Rent and Economic Theft.
 
 Economics needs to account for these external damage. Taxation should also correct the market, so those who damage the environment pay for the damage that they cause. Such a tax system would tax bad things, not good things. The physical use of natural resources should be taxed, and the circular use of those resources is thereby encouraged. So, with a proper tax system, the beautiful things that require care, like the natural environment, would be preserved. 
 
