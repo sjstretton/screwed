@@ -101,7 +101,9 @@ We also aim to look at tax and welfare from first principles. We will then apply
 
 But are we at a revolutionary time? Can we change a complex system like tax and welfare from first principles, or is 'patching' the only realistic possibility? We will assert that change is possible if it is beneficial, practical and fair and communicated well so that these aspects are evident.
 
-One does not make fundamental progress without thinking about what a system should *do* and what it should *be*. We address this in the 'tax in principle' chapter.
+Thus, one does not make fundamental progress without thinking about what a system should *do* and what it should *be*. We address this in the 'tax in principle' chapter.
+
+We need to be passionate about the benefits that reform will bring. We consider these in the next section.
 
 ## PRINCIPLE 2: SOLVING GREAT EVILS
 
