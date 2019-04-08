@@ -61,8 +61,8 @@ Similarly, if the process relies on some factor of production that cannot be rep
 
 We term these two forms of property income 'generalised rent'. Generalised rent is a permanent flow of income associated with an asset that cannot be replicated. It is received by the owners of properties in valuable locations and the shareholders of companies. We argue that generalised rent leads to expensive housing, stagnating wages and wealth gains for the already rich.
 
-
 ## Wicked Externalities
+
 We haven't dealt with pollution. Usually, damaging other people or their interests (for example, through injury or theft) is illegal. But some economic activities which damage others are still legal. Driving a car, which pollutes the environment and could harm pedestrians if there is an accident, is legal and normal, but nevertheless, can be damaging to others' interests. Small indirect damages from many independent sources can add up to a lot in total. Imagine driving into a major city at rush hour. Each car adds only a little, but together they add up to gridlock.
 
 When one person or company's behaviour damages another, it is termed by economists a 'negative externatilty'. Negative externalities are a form of economic theft. So for example, if I throw my plastic waste into the ocean, it can then damage fish and other marine life. My careless action has stolen from the future of the ocean. If I play loud music into the night, I damage the interests of my neighbours. I am, in effect, stealing from them.
@@ -81,11 +81,9 @@ This leads on to our next question. What should we do about it? We've seen that 
 
 So how can we actually change the tax systems? Economists have been aware of rent and externalities for some time. Yet, taxes which would correct these economic distortions have only been imposed occasionally and partially. Why haven't corrective taxes been imposed?
 
-Here, we make the case for a simple 'change equation'. The perceived benefits must overwhelm the resistance. We can address this in two ways: to make a sufficiently passionate and positive case for these taxes, and to reduce the barriers and resistance to them. Let's consider one example of revolutionary change, this time in the social security system.
+Here, we make the case for a simple 'change equation'. The perceived benefits must overwhelm the resistance. We can address this in two ways: to make a sufficiently passionate and positive case for these taxes or to reduce the barriers and resistance to them. Let's consider one example of revolutionary change, this time in the social security system.
 
-One great milestone in the history of progress in the UK was the Beveridge report [-@Beveridge1942]. Seventy-five years ago, liberal economist William Beveridge presented his report for a new welfare state. It laid the basis for the post-war welfare state. Its objectives were to banish 'want, ignorance, squalor, disease and idleness'. Beveridge argued for universal benefits, as of right. This can be contrasted with the system of means testing that has since developed.
-
-The Beveridge report shows a possible way forward for welfare. Before the second world war, the five social evils of Want, Squalor, Idleness, Disease and Ignorance ravaged the poor in Britain. The second world war destroyed many buildings, homes and businesses alike, and increased the government and external debt. But yet, the post war government managed to create a comprehensive welfare state where none existed before: a health service.
+One great milestone in the history of social end economic progress in the UK was the Beveridge report [-@Beveridge1942]. Seventy-seven years ago, liberal economist William Beveridge presented this report for a new welfare state. It laid the basis for the post-war welfare state in the United Kingdom. Its objectives were to banish 'want, ignorance, squalor, disease and idleness'.
 
 Three principles guided his report [@Beveridge1942: Part 1, paragraphs 6-9].
 
