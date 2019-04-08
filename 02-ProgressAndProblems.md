@@ -73,41 +73,9 @@ Wicked externalities, such as climate change, are damages caused by our actions 
 
 # HOW CAN WE DEFINE A BETTER TAX AND WELFARE SYSTEM? (CHAPTER 5)
 
-So why do we have these problems of pollution and precariousness? We have identified two phenomena described by the great economists: Economic Rent and Economic Theft. The result of these economic effects is that we have economic growth that benefits the rich and too much pollution
+So why do we have these problems of pollution and precariousness? And what conclusions can we draw? We have identified two phenomena described by the great economists: Economic Rent and Economic Theft. The result of these economic effects is that we have economic growth that benefits the rich and too much pollution.
 
-This leads on to our next question. What should we do about it? We've seen that taxation seems to be important in our economic model because it sets the economic incentives for the private sector. Political economists from Adam Smith and David Ricardo to have argued that the taxation system could be used to correct for these issues.
-
-Tax is the means by which we pay for government services. But this book isn't really about government. Rather it is about the use the taxation system to ensure that the *private sector* has the right incentives. So there are two, distinct, systems that are in scope of our book. The first is the entire private sector. his book is about how the private sector can contribute to the well being and the good of society. If the private sector does not have the right incentives, it will not produce the right outcomes. Therefore, it is a book about economics. If the private sector is not to harm our general well being, then an effective tax system needs to be in place.
-
-We wish not just to minimise the costs of taxation, but rather to aim for taxes, where possible, that are actively beneficial. Good taxes would shape the profit motive towards the needs of people, communities, and the living planet on which we all depend. Here, we seek a tax and social security system that is not only fair and practical but also beneficial to everyday people, our country and our world. 
-
-# What is an efficient and fair taxation system given what we know about the principles of political economy? (Chapter 5)
-The central concern of the book is the use of the tax system for public benefit: to solve the critical challenges facing our societies including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems.
-
-Thus, this book is devoted to how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent', and international flows of money and assets.  So the limited things would be rationed by taxes rather than by private property, so that everyday people have a stake in the common resources and land doesn't become so expensive that individuals cannot afford their own homes.
-
-Taxation should also correct the market, so those who damage the environment pay for the damage that they cause. Such a tax system would tax bad things, not good things. The physical use of natural resources should be taxed, and the circular use of those resources is thereby encouraged. So, with a proper tax system, the beautiful things that require care, like the natural environment, would be preserved. 
-
-# TAX IN PRACTICE: AVOIDING AVOIDANCE AND EVADING EVASION (CHAPTER 6)
-
-One further challenge is taxation in the context of international flows of income and money. It would be nice to tax unearned wealth accumulation as well as poor everyday people.
-
-One key challenge to taxation is working out a means of taxation that can tax wealth and flows of income across international boundaries. International tax avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep.
-
-Generally, the issue is as follows: One cannot (it is said) tax big companies or rich individuals because they will simply move their money abroad. Furthermore, we might even wish to reduce our taxes on companies to encourage them to locate in our country. This is problematic because it tends to lead to companies paying less and less tax.
-
-Such a challenge also applies to the taxation of fossil fuels. If we tax emissions that are produced in the UK, this might encourage UK-based producers to move outside the UK. If instead, consumption of carbon-intensive goods is taxed, imports of goods produced abroad would be in scope, but exports would not. This would be helpful for a number of reasons. Firstly, it would give a true picture of the emissions that a country is responsible for due to its consumption behaviour. Secondly, it creates a true incentive for exporting countries to decarbonise their economy. Thirdly, it encourages production processes to be improved, rather than simply relocated abroad.
-
-Taxation of wealth also faces similar issues. Taxation theory aims to identify a base of taxation that is unresponsive to the tax. So in taxing wealth, we could argue for taxation of assets rather than taxation of wealthy individuals. Land is a straightforward asset to tax in this way. Land cannot just move out of the country.
-
-Taxing corporate wealth is more difficult because a corporation is a more fluid and mobile than land. In this book, we suggest two radical strategies.
-
-The first approach is the taxation of profits calculated as UK sales minus UK costs. This approach encourages companies to locate their costs in the UK. The higher the tax rate, the more operations would be moved to a UK base.
-
-The second approach is an apportionment of multinational wealth based on where the sales of the companies are located.
-
-Thus both for environmental damage and for wealth, we use consumption as a relatively fixed tax base.
-
+This leads on to our next question. What should we do about it? We've seen that taxation seems to be important in our economic model because it sets the economic incentives for the private sector. Political economists from Adam Smith and David Ricardo to have argued that the taxation system could be used to correct for these issues. In Chapter 5 we consider defining a tax system on it's own, as Adam Smith did. But first, we can ask the crucial question: what is the political economy of public goods? And how can we make the change?
 
 # HOW TO MAKE THE CHANGE? PUBLIC POLITICAL ECONOMY (CHAPTER 4)
 
@@ -168,6 +136,40 @@ To Beveridge we add our own fourth principle, that the proposed changes should b
 Resistance to taxes is associated with concentrated losses on specific groups. These groups can easily mobilise to resist new taxes. We can talk about two salient group: poor people and companies. Let's focus now on corporate lobbying. Companies can target their own financial interest in just a 
 
 But taxes change the nature of what activities are profitable. So taxes, which could change the nature of these agents (for example, converting an oil company to a renewables producer) cannot be imposed because the very same agents resist the taxes as they oppose their interests. But these interests would change if the nature of the company was to change from oil to renewables. So we a have catch-22 situation. We can't change the companies without the tax. But we can't impose the tax without changing the company, since they resist politically. Instead, we need forms of tax that don't face such resistance but which lead to the transformation of companies in a positive direction.
+
+
+# What is an efficient and fair taxation system given what we know about the principles of political economy? (Chapter 5)
+
+Tax is the means by which we pay for government services. But this book isn't really about government. Rather it is about the use the taxation system to ensure that the *private sector* has the right incentives. So there are two, distinct, systems that are in scope of our book. The first is the entire private sector. his book is about how the private sector can contribute to the well being and the good of society. If the private sector does not have the right incentives, it will not produce the right outcomes. Therefore, it is a book about economics. If the private sector is not to harm our general well being, then an effective tax system needs to be in place.
+
+We wish not just to minimise the costs of taxation, but rather to aim for taxes, where possible, that are actively beneficial. Good taxes would shape the profit motive towards the needs of people, communities, and the living planet on which we all depend. Here, we seek a tax and social security system that is not only fair and practical but also beneficial to everyday people, our country and our world. 
+
+
+The central concern of the book is the use of the tax system for public benefit: to solve the critical challenges facing our societies including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems.
+
+Thus, this book is devoted to how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent', and international flows of money and assets.  So the limited things would be rationed by taxes rather than by private property, so that everyday people have a stake in the common resources and land doesn't become so expensive that individuals cannot afford their own homes.
+
+Taxation should also correct the market, so those who damage the environment pay for the damage that they cause. Such a tax system would tax bad things, not good things. The physical use of natural resources should be taxed, and the circular use of those resources is thereby encouraged. So, with a proper tax system, the beautiful things that require care, like the natural environment, would be preserved. 
+
+# TAX IN PRACTICE: AVOIDING AVOIDANCE AND EVADING EVASION (CHAPTER 6)
+
+One further challenge is taxation in the context of international flows of income and money. It would be nice to tax unearned wealth accumulation as well as poor everyday people.
+
+One key challenge to taxation is working out a means of taxation that can tax wealth and flows of income across international boundaries. International tax avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep.
+
+Generally, the issue is as follows: One cannot (it is said) tax big companies or rich individuals because they will simply move their money abroad. Furthermore, we might even wish to reduce our taxes on companies to encourage them to locate in our country. This is problematic because it tends to lead to companies paying less and less tax.
+
+Such a challenge also applies to the taxation of fossil fuels. If we tax emissions that are produced in the UK, this might encourage UK-based producers to move outside the UK. If instead, consumption of carbon-intensive goods is taxed, imports of goods produced abroad would be in scope, but exports would not. This would be helpful for a number of reasons. Firstly, it would give a true picture of the emissions that a country is responsible for due to its consumption behaviour. Secondly, it creates a true incentive for exporting countries to decarbonise their economy. Thirdly, it encourages production processes to be improved, rather than simply relocated abroad.
+
+Taxation of wealth also faces similar issues. Taxation theory aims to identify a base of taxation that is unresponsive to the tax. So in taxing wealth, we could argue for taxation of assets rather than taxation of wealthy individuals. Land is a straightforward asset to tax in this way. Land cannot just move out of the country.
+
+Taxing corporate wealth is more difficult because a corporation is a more fluid and mobile than land. In this book, we suggest two radical strategies.
+
+The first approach is the taxation of profits calculated as UK sales minus UK costs. This approach encourages companies to locate their costs in the UK. The higher the tax rate, the more operations would be moved to a UK base.
+
+The second approach is an apportionment of multinational wealth based on where the sales of the companies are located.
+
+Thus both for environmental damage and for wealth, we use consumption as a relatively fixed tax base.
 
 
 
