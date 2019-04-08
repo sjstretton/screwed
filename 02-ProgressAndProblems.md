@@ -180,12 +180,12 @@ Such challenges also applies to the taxation of greenhouse gas emissions. If we 
 
 This would be helpful for a number of reasons. Firstly, it would give a true picture of the emissions that the UK is responsible for due to its consumption behaviour. Secondly, it creates a true incentive for exporting countries to decarbonise their economy. Thirdly, it encourages production processes to be improved, rather than simply relocated abroad.
 
-Thus both for environmental damage and for wealth, we use consumption as a relatively fixed tax base.
+Thus, both for environmental damage and for wealth, we use consumption as a relatively fixed tax base.
 
 ## Draft Proposals 
 We are ready to describe some of our proposals. 
 
-We also have some reforms for the benefits and training system. We suggest a dividend for everyone, a cheque in the post -- and to integrate the tax and benefits system, replacing means testing with taxation (since it achieves the same thing, taking money away from people as they earn more). We also suggest an active benefits system for training people in high skills. We suggest the accumulation of wealth across the poor, rather than the government having the responsibility to support them. Then, when people pay their tax, some of that tax would be set aside as a contribution that will fund the purchase of assets, a return to a contributory tax system.
+We have some reforms for the benefits and training system, which empowers everyone rather than leaving some in a state of welfare dependency. We suggest a small citizens dividend (basic income) for everyone. This will integrate the tax and benefits system, replacing means testing with taxation and ensuring everyone is better off working than only on benefits. We also suggest an active benefits system for training people in high skills. Like singapore, some of the tax paid by everyone would be set aside in a wealth fund to ensure each person has enough assets to support them in times of need.
 
 Se we should tax consumption using the income tax system to ensure it is progressive. We should tax unproductive and unearned wealth in a way that is unavoidable, including a land value tax. But such changes need to be just in transition. Allied to our tax on wealth is a tax on lending on unproductive wealth. Thus, we encourage investment across the economy. We use the financial system to actively promote the capture of land rent for public purposes. We suggest particularly low-cost loans for the building a new cost infrastructure, in this country and around the world. Finance is particularly international and lending can ensure that everyone gets enough energy.
 
