@@ -42,7 +42,6 @@ Our starting point is Adam Smith's model, since his work has helped to define th
 
 
 ## Adam Smith's Model
-
 We have a market economy with competition, growth and technological progress. Adam Smith, in his famous work *The Wealth of Nations*, set out a model of how economic growth came about and how that could lead to widely-spread prosperity. 
 
 Smith argued that the division of labour leads to higher levels of productivity. Smith gives the example of a pin factory, where dividing the manufacture of pins into smaller steps leads to more pins being produced for the same level of hours worked. If one is focusing on a single task, one can do this task more quickly than if one has a multitude of different jobs to do. This differentiation of different people's jobs takes place not only in a single entereprise but also across the whole economy. By specialising and trading, we can get more work done in a given number of hours.
@@ -54,7 +53,6 @@ Her competitors may notice the improvement that she has made and replicate it. T
 Technological progress, the profit motive and competition would lead to widely spread prosperity. Whilst the initial profit from the improvment would accrue to the entreprenuer, the long-term beneficiary from the reduced cost of production is everyone who purchases the product. Profit in this case is a necessary but temporary phenomenon. It is competed away and in so doing society as a whole becomes richer.
 
 ## Permanent Profit and Rent
-
 Adam Smith's model relies on certain assumptions. 
 
 One assumption is that a production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist, or if entrance to the market is expensive, then competition will not work as described. If I own a big monopoly with no competition, I can also own a permanent flow of profits that competition will not touch. The beneficiary will be the owners of the single monopolist or the incumbent firm. 
@@ -65,22 +63,23 @@ We term these two forms of property income 'generalised rent'. Generalised rent 
 
 
 ## Wicked Externalities
-
 We haven't dealt with pollution. Usually, damaging other people or their interests (for example, through injury or theft) is illegal. But some economic activities which damage others are still legal. Driving a car, which pollutes the environment and could harm pedestrians if there is an accident, is legal and normal, but nevertheless, can be damaging to others' interests. Small indirect damages from many independent sources can add up to a lot in total. Imagine driving into a major city at rush hour. Each car adds only a little, but together they add up to gridlock.
 
 When one person or company's behaviour damages another, it is termed by economists a 'negative externatilty'. Negative externalities are a form of economic theft. So for example, if I throw my plastic waste into the ocean, it can then damage fish and other marine life. My careless action has stolen from the future of the ocean. If I play loud music into the night, I damage the interests of my neighbours. I am, in effect, stealing from them.
 
 What seems acceptable when societies are small may, nevertheless, be unacceptable when societies are larger. For example, Newfoundland fishermen could fish without constraints when their boats were small and their numbers low. There were plenty of fish. However, fish stocks are not unlimited. There is a limit on how many fish can be taken before it damages the fishery. If too many fish are taken, the fish don't get a chance to reproduce, and the fish stocks collapse. This is what happened near Newfoundland. Fish used to be so plentiful that the sea teemed with life. But after the collapse in the fish stock, many fishermen went out of business.
 
-Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. For the planet as a whole, this model is catastrophic. This book shows a route out of this economic situation. Growth, where it is in relation to consumption, needs to be dematerialised or physically circular: it needs to minimise the impact that the growth has on the natural world. We will come to how to achieve that a little later. 
+Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. For the planet as a whole, this model is catastrophic. This book shows a route out of this economic situation. Growth, where it is in relation to consumption, needs to be dematerialised or physically circular. In other words, we need to minimise the impact that economic growth has on the natural world. We will come to how to achieve that a little later. 
 
-# What is an efficient and fair taxation system given what we know about the principles of political economy? 
+# What is an efficient and fair taxation system given what we know about the principles of political economy? (Chapter 5)
 
-Se've seen that taxation seems to be important in our economic model because it sets the economic incentives for the private sector. This leads on to our next question. What should we do about it? Political economists from Adam Smith and David Ricardo have argued that the taxation system could be used to correct for these issues.
+So why do we have these problems of pollution and precariousness? We have identify two phenomena described by the great economists. Economic Rent and Economic Theft. The result of these economic effects is that we have too much pollution, not enough genuine wealth, and economic growth that benefits the rich. 
+
+This leads on to our next question. What should we do about it? Se've seen that taxation seems to be important in our economic model because it sets the economic incentives for the private sector.Political economists from Adam Smith and David Ricardo have argued that the taxation system could be used to correct for these issues.
 
 So the limited things would be rationed by taxes rather than by private property, so that everyday people have a stake in the common resources and land doesn't become so expensive that individuals cannot afford their own homes.
 
-Economics also needs to account for these external damage. Taxation should also correct the market, so those who damage the environment pay for the damage that they cause. Such a tax system would tax bad things, not good things. The physical use of natural resources should be taxed, and the circular use of those resources is thereby encouraged. So, with a proper tax system, the beautiful things that require care, like the natural environment, would be preserved. 
+Taxation should also correct the market, so those who damage the environment pay for the damage that they cause. Such a tax system would tax bad things, not good things. The physical use of natural resources should be taxed, and the circular use of those resources is thereby encouraged. So, with a proper tax system, the beautiful things that require care, like the natural environment, would be preserved. 
 
 
 # HOW TO MAKE THE CHANGE? PUBLIC POLITICAL ECONOMY (CHAPTER 4)
