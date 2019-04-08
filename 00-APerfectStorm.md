@@ -1,4 +1,4 @@
-# PRELUDE: A PERFECT STORM?
+# WHERE ARE WE NOW? FACING A PERFECT STORM.
 The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
 
 A group of New England fishermen had fallen on hard times after poor catches. Their captain, played by George Clooney, hired a boat for one last fishing trip of the year.
@@ -47,8 +47,7 @@ Thus, this book grapples with both economic and political issues.
 
 The economic question is this: Why is there pollution and economic insecurity amidst such wealth? Is there a remedy to these ills? 
 
-The political question is this: How can we change course together? 
-
+The political question is this: How can we change course together? We are in the same boat, there is only one planet that we all sit on.
 
 
 In the song 'Don't Stop me now' by Queen, the lead vocalist, Freddie Mercury sings that the world is 'turning inside out'.  Ideas in the minds of men become embodied in physical form through economics and technology.  
@@ -59,11 +58,8 @@ But it's not only theories, stories, religions and world views that drive men bu
 
 Some have said that it's easier to see the end of the planet than the end of capitalism. Money has always been recognised as dangerous to the human soul. For example, philosopher Plato describes the decline of a system of honour by a 'secret desire for treasure'. 
 
-
-
 We are in a world powered by money and ideas whether we like it or not. The set of ideas about money -- the intersection of money and ideas, these two powerful forces driving us -- is called economics.
 
 Economists study scarcity, amongst other things. There are perhaps three forms of scarcity. Space is limited, although it is more limited in some places - like Hong Kong - than others - like Siberia. Time is limited too. What I do today can never be given back. And finally, energy is limited. Humans live off stored-up sunlight -- coal oil and gas. But using this stored-up sunlight threatens much greater storms in the future.
 
 So if the world of ideas -- often economic ideas -- now influences our very planet, how on earth did we get into this situation in the first place? We go back in time to the era of Adam Smith and then run the clock forward observing revolutions of politics, technology and ideas.
-
