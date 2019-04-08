@@ -8,21 +8,21 @@ Many people, across the west, whether they are rich or poor, are starting to los
 
 What would an economy fit for our children look like? A good society promotes the wealth and happiness of its citizens. Thus, we argue for a society and economy that defines, creates, preserves and fairly distributes natural and humanly-created wealth. Happiness implies a different metric than mere activity: humans need both security and purpose. The challenges of the future give us our purpose and will undermine our security if we do not face them with full commitment. An economy that is good for people and for the planet is one that functions well. 
 
-To define such a society, we need first to consider a question of economics. What are the economic conditions for prosperity.
+To define such a society, we need first to consider a question of economics. What are the economic conditions for sustainable and widely-spread prosperity?
 
-# WHAT ARE THE ECONOMIC CONDITIONS FOR SUSTAINABLE AND WIDELY-SPREAD PROSPERITY? (CHAPTER 3)
+# What are the Economic Conditions for Sustainable Widely-Spread Prosperty (Chapter 3)
 
 This book is about the economic conditions for sustainable and widely spread prosperity.
 
-The economist Adam Smith wrote perhaps the most famous book on economics, 'the Wealth of Nations' more than two centuries ago. He was writing at the time of three revolutions: the political revolution in America and France, the industrial revolution that was just beginning in Britain and then Europe and America, and the intellectual revolution that he himself played a part in.
+The economist Adam Smith wrote perhaps the most famous book on economics, *The Wealth of Nations*m more than two centuries ago. He was writing at the time of three revolutions: the political revolution in America and France, the industrial revolution that was just beginning in Britain, and the intellectual revolution that he himself played a part in.
 
-Since Smith's day there has been tremendous technological progress and economic growth. But we still have problems. We have economic insecurity and pollution. 
+Since Smith's day, there has been tremendous technological progress and economic growth. But we still have problems. We have economic insecurity and pollution. 
 
-Why, given great technological and economic progress, do we still have problems? Why, midst so much wealth, are many of our lives so precarious? In the 1960s, it took an average person in the UK on average wages four years wages to buy their own home. Why now does it take an average person on average wages ten years buy the same home? Many of us are just about managing when we should be prospering.
+Why, given great technological and economic progress, do we still have problems? Why, amid so much wealth, are many of our lives so economically precarious? In the 1960s, it took an average person in the UK on average wages four years wages to buy their own home. Why now does it take an average person on average wages ten years to buy the same home? [PROVIDE DATA] Many of us are just about managing when we should be prospering. 
 
-If we have all the technology to solve our environmental problems then why are we not solving them? The 19th century writer Henry George's book 'Progress and Poverty' asked a similar question. Why, given technological progress, did we still have so much poverty? George argued that it was the private ownership of land that caused poverty.
+The 19th century writer Henry George's book 'Progress and Poverty' asked a similar question. Why, given technological progress, did we still have so much poverty? George argued that it was the private ownership of land that caused poverty.
 
-These days we have less absolute poverty in richer countries, but rather a sense of economic precariousness and lack of progress. Our environmental problems are becoming increasingly critical. Why is there environmental pollution, despite having the wealth and technological ability to prevent them? 
+If we have the technology to solve our environmental problems, then why are we not solving them? These days we have less absolute poverty in richer countries, but rather a sense of economic precariousness and lack of progress. Our environmental problems are becoming increasingly critical. Why is there environmental pollution, despite having the wealth and technological ability to prevent them? 
 
 Our economic system is not allowing us to take full advantage of the technological progress that we make. We seek the answers initially in economics.
 
