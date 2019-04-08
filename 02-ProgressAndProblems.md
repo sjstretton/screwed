@@ -32,11 +32,11 @@ Economics is the study of activities that are, at least in part, motivated by fi
 
 Classical political economy did not shy away from grand statements about topics such as how the economy distributed its gains. Thus, the works of political economy by the great authors always had questions of taxation at their heart. What is an efficient and fair taxation system given what we know about the principles of political economy? At the heart of political economy has always been the question of just distribution and of taxation as a means to remedy the situation.
 
-This makes political economy -- and now economics -- powerful. Also, it means that economics has implications for the financial interests of everyone. One can believe an economic theory for scientific reasons, but one might also support some theory because it furthers one's own interests. This makes political and economic discourse somewhat fraught. It also means that there is a suspicion that the corrupting power of self-interest may affect the balance of those economic theories that are thought authoritative. In this book, we aim to reconcile classical, neoclassical, Keynesian and modern system dynamic economic thinking to give a more authoritative approach.
-
-In our chapter on economics, we define some classical economic problems. How are prices determined? How does the economy distribute the gains from economic progress? Does self interest and the free market provide a desirable outcome?
+This makes political economy -- and now economics -- powerful. Also, it means that economics has implications for the financial interests of everyone. One can believe an economic theory for scientific reasons, but one might also support some theory because it furthers one's own interests. This makes political and economic discourse somewhat fraught. It also means that there is a suspicion that the corrupting power of self-interest may affect the balance of those economic theories that are thought authoritative. 
 
 These questions are related not only to economic processes -- for example, production and competition -- but also to taxation and the structure of private property. What assets can be owned? And, who in fact owns the assets? And how much tax should they pay for owning assets or for engaging in economic activity? Desirable economic outcomes depend not only on economic activity but also on the taxation system and the system of property rights.
+
+In our chapter on economics, we define some classical economic problems. How are prices determined? How does the economy distribute the gains from economic progress? Does self interest and the free market provide a desirable outcome? In this book, we aim to reconcile classical, neoclassical, Keynesian and modern system dynamic economic thinking to give a more authoritative approach.
 
 ## ADAM SMITH'S MODEL
 
