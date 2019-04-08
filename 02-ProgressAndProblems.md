@@ -134,16 +134,17 @@ Both proposals are outlined later.
 
 ## Principle 4: Minimising Barriers To Change
 
-To Beveridge we add our own fourth principle, that the proposed changes should be prioritised: maximising the benefit and minimising the resistance. So, in addition to considering the motivation for change, we need also to consider barriers to change. 
+To Beveridge's three princples we add a fourth. Proposed changes should be prioritised: maximising the benefit and minimising the resistance. In short, we need to reduce barriers to change. 
 
-One barrier is the worry that some people will be made worse off by any changes. This is in fact more than one matter. Firstly there is the question of justice, secondly political realism and thirdly the need to transform the interests and specialism of large companies, without provoking resistance from them. We deal with these in turn.
+One barrier is the worry that some people will be made worse off by any changes. Firstly, there is the question of transitional justice; secondly, political realism; and thirdly the need to transform the interests and specialism of large companies, without provoking resistance from them. We deal with these in turn.
 
-We need to ensure not only that the final state is fair but also that the transition between the current system and the new is also fair.
+Firstly there is the matter of transitional justice. We need to ensure, not only that the final state is fair, but also that the transition between the current system and the new is also fair.
 
-Resistance to taxes is associated with concentrated losses on specific groups.  These groups can easily mobilise to resist new taxes. We can talk about two salient group: poor people and companies. 
+Resistance to taxes is typically associated with concentrated losses on specific groups.  These groups can easily mobilise to resist new taxes. We need to ensure that no politically salient or vulnerable group is made particularly worse off.
 
-But taxes change the nature of what activities are profitable. Let's focus now on corporate lobbying. Companies can target their own financial interest and have the means at their disposal to defend their existing interests. So an oil company can encourage politicians to avoid restricting fossil fuel use. tTxes, which could change the nature of these agents (for example, converting an oil company to a renewables producer) cannot be imposed because the very same agents resist the taxes as they oppose their interests. But these interests would change if the nature of the company was to change from oil to renewables. So we a have catch-22 situation. We can't change the companies without the tax. But we can't impose the tax without changing the company, since they resist politically. Instead, we need forms of tax that don't face such resistance but which lead to the transformation of companies in a positive direction.
+Let's focus now on corporate lobbying. Companies can target their own financial interest and have the means at their disposal to defend their existing interests. So an oil company can encourage politicians to avoid restricting fossil fuel use. Taxes change the nature of what activities are profitable. Taxes, which could change the nature of these agents (for example, converting an oil company to a renewables producer) cannot be imposed because the very same agents resist the taxes as they oppose their interests. 
 
+So we a have catch-22 situation. We can't change the companies without the tax. But we can't impose the tax without changing the company, since they resist politically. So instead we need forms of tax that don't face such resistance but which lead to the transformation of companies in a positive direction.
 
 # How to define an efficient and fair taxation system? (Chapter 5)
 
