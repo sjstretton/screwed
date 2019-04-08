@@ -79,9 +79,9 @@ This leads on to our next question. What should we do about it? We've seen that 
 
 # Public Political Economy and Policy Change
 
-Our fourth question: how can we actually change the tax systems? Economists have been aware of rent and externalities for some time. Yet, taxes which would correct these economic distortions have only been imposed occasionally and partially. Why haven't corrective taxes been imposed?
+So how can we actually change the tax systems? Economists have been aware of rent and externalities for some time. Yet, taxes which would correct these economic distortions have only been imposed occasionally and partially. Why haven't corrective taxes been imposed?
 
-Here we make the case for a simple 'change equation'. The perceived benefits must overwhelm the resistance. However, there is another problem. Nobody has made a sufficiently passionate and positive case for these taxes. This book aims to correct that.
+Here, we make the case for a simple 'change equation'. The perceived benefits must overwhelm the resistance . We can address this in two ways: to make a sufficiently passionate and positive case for these taxes, and to reduce the barriers and resistance too them. Let's consider one example of revolutionary change, this time in the social security system.
 
 One great milestone in the history of progress in the UK was the Beveridge report [-@Beveridge1942]. Seventy-five years ago, liberal economist William Beveridge presented his report for a new welfare state. It laid the basis for the post-war welfare state. Its objectives were to banish 'want, ignorance, squalor, disease and idleness'. Beveridge argued for universal benefits, as of right. This can be contrasted with the system of means testing that has since developed.
 
