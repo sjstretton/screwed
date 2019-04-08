@@ -4,11 +4,9 @@ Are you looking for a new economic model for your country?
 
 This book is addressed to economists, scientists, politicians, business people, other professionals and interested members of the general public who are interested in this problem.
 
-Many people, across the west, whether they are rich or poor, are starting to lose hope. The poor are losing hope because their economic situation is often precarious. The well-informed are starting to lose hope that our society can fix its critical issues such as climate change. The super rich are building bunkers and preparing for the worst. This book provides hope that our societies can fix our big problems. This book gives us justified hope. Justified hope that humanity can continue to solve our problems.
+Many people, across the west, whether they are rich or poor, are starting to lose hope. The poor are losing hope because their economic situation is often precarious. The well-informed are starting to lose hope that our society can fix its critical issues such as climate change. The super rich are building bunkers and preparing for the worst. This book provides hope that our societies can fix our big problems. This book gives us justified hope. Justified hope that humanity can continue to solve its problems.
 
-An economy that is good for people and for the planet is one that is functioning well. Whilst there are things for us all to do, there are opportunities for development and growth, including in rich countries. 
-
-What would an economy fit for our children look like? A good society promotes the wealth and happiness of its citizens. Thus, we argue for a society and economy that defines, preserves or creates, and fairly distributes natural and humanly-created wealth. Happiness implies a different metric than mere activity: humans need both security and purpose. The challenges of the future give us our purpose and will undermine our security if we do not face them with full commitment. 
+What would an economy fit for our children look like? A good society promotes the wealth and happiness of its citizens. Thus, we argue for a society and economy that defines, creates, preserves and fairly distributes natural and humanly-created wealth. Happiness implies a different metric than mere activity: humans need both security and purpose. The challenges of the future give us our purpose and will undermine our security if we do not face them with full commitment. An economy that is good for people and for the planet is one that functions well. 
 
 This chapter constitutes a summary of the book as a whole.
 
