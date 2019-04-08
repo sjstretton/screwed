@@ -185,13 +185,16 @@ Thus, both for environmental damage and for wealth, we use consumption as a rela
 ## Draft Proposals 
 We are ready to describe some of our proposals. 
 
-We have some reforms for the benefits and training system, which empowers everyone rather than leaving some in a state of welfare dependency. We suggest a small citizens dividend (basic income) for everyone. This will integrate the tax and benefits system, replacing means testing with taxation and ensuring everyone is better off working than only on benefits. We also suggest an active benefits system for training people in high skills. Like singapore, some of the tax paid by everyone would be set aside in a wealth fund to ensure each person has enough assets to support them in times of need.
+We have some reforms for the benefits and training system, which empowers everyone rather than leaving some in a state of welfare dependency. We suggest a small citizens dividend (basic income) for everyone. This will integrate the tax and benefits system, replacing means testing with taxation and ensuring everyone is better off working than remaining only on benefits. We also suggest an active benefits system for training people in high skills. Like Singapore, some of the tax paid by everyone would be set aside in a wealth fund to ensure each person whcih they could draw on in times of need.
 
-Se we should tax consumption using the income tax system to ensure it is progressive. We should tax unproductive and unearned wealth in a way that is unavoidable, including a land value tax. But such changes need to be just in transition. Allied to our tax on wealth is a tax on lending on unproductive wealth. Thus, we encourage investment across the economy. We use the financial system to actively promote the capture of land rent for public purposes. We suggest particularly low-cost loans for the building a new cost infrastructure, in this country and around the world. Finance is particularly international and lending can ensure that everyone gets enough energy.
+There is a case for higher taxes on wealth. We should tax unproductive and unearned wealth in a way that is unavoidable, including a land value tax. But such changes need to be just in transition. Allied to our tax on wealth is a tax on lending on existing assets (as opposed to new business investment). Thus, we aim encourage investment across the economy. We use the financial system to actively promote the capture of land rent for public purposes. 
+
+We suggest particularly low-cost loans for new green infrastructure. Finance is particularly international and lending can ensure that everyone gets enough green energy.
 
 We will set out how, on a consumption basis, *taxing* the environmental damage that people cause is sensible. We propose a consumption-based carbon tax, and a set of other taxes on other environmmental damages and resource consumption.
 
-# WHAT IMPROVEMENTS WOULD IMPLEMNTING OUR PRINCIPLES BRING? FOUR FORMS OF WEALTH
+# The Improvements Our Proposals Could Bring: a Four-fold Framework for Public Wealth
+
 So what improvements could such proposals make? We argue that they could enhance genuine wealth at the level of the individual, community, nation state and planet. There are four crucial benefits of a better taxation system to wider society. We call these the four realms of value: households, communities, nations and the world.
 
 The first skill based personal and social entrepreneurship.The second issue is state capitalism entrepreneurship. This involves both the state and capitalists. The third is municipal land value entrepreneurship, as has been seen in Singapore and Hong Kong. Finally we can suggest public good entrepreneurship: we suggest that the private sector be turned over to public good provision. The obvious example is green entrepreneurship, but we also suggest ways that companies can tackle other global issues such as the lack of good antibiotics.
