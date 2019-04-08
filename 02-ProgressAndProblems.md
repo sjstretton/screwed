@@ -121,7 +121,7 @@ However, it's not enough to plan to solve these problems. We have to do so in a 
 
 ## Principle 3: A Social Contract Aligning Reward and Contribution
 
-Our new welfare system should not discoverage work and should encourage service and contribution. We will study in detail Beveridge's third principle to see if, and how, a better welfare system can be created.
+Our new welfare system should not discourage work and should encourage service and contribution. We will study in detail Beveridge's third principle to see if, and how, a better welfare system can be created.
 
 This suggests the case for a system with a universal component: we call this a 'citizen's dividend' (a form of basic income). 
 
@@ -129,17 +129,15 @@ Such a system of universal benefits hacs practical advantages too. It involves t
 
 Furthermore, we argue for an integrated skills training and work experience system. These two proposals are outlined later.
 
-There's an overarching concept too, which we term policy entrepreneurship. That is, we should break out of the monopoly of thought imposed on us and try out new ideas for fixing our societies' problems. 
-
 ## PRINCIPLE 4: MINIMISING RESISTANCE TO CHANGE
-
-To Beveridge we add our own fourth principle, that the proposed changes should be prioritised: maximising the benefit and minimising the resistance
 
 In addition to consider the motivation for change, is thinking about the barriers to change. One barrier is the worry that some people will be made worse off by any changes. We need to ensure not only that the final state is fair but also that the transition between the current system and the new is also fair.
 
 Resistance to taxes is associated with concentrated losses on specific groups. These groups can easily mobilise to resist new taxes. We can talk about two salient group: poor people and companies. Let's focus now on corporate lobbying. Companies can target their own financial interest and have the means at their disposal to defend their existing interests. So an oil company can encourage politicians to avoid restricting fossil fuel use.
 
 But taxes change the nature of what activities are profitable. So taxes, which could change the nature of these agents (for example, converting an oil company to a renewables producer) cannot be imposed because the very same agents resist the taxes as they oppose their interests. But these interests would change if the nature of the company was to change from oil to renewables. So we a have catch-22 situation. We can't change the companies without the tax. But we can't impose the tax without changing the company, since they resist politically. Instead, we need forms of tax that don't face such resistance but which lead to the transformation of companies in a positive direction.
+
+To Beveridge we add our own fourth principle, that the proposed changes should be prioritised: maximising the benefit and minimising the resistance
 
 # How to define an efficient and fair taxation system? (Chapter 5)
 
