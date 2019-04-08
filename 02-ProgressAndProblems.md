@@ -38,13 +38,15 @@ The works of political economy by the great authors often had questions of taxat
 
 These questions are related not only to economic processes -- for example, production and competition -- but also to taxation and the structure of private property. What assets can be owned? And, who in fact owns the assets? And how much tax should they pay for owning assets or for engaging in economic activity? Desirable economic outcomes depend not only the structure of economic activity but also on the taxation system and the system of property rights. Does self-interest and the free market provide a desirable outcome?
 
-Our starting point is Adam Smith's model, since this has helped to define the core economic view in the two and half centuries that followed.
+Our starting point is Adam Smith's model, since his work has helped to define the core economic view in the two centuries that followed.
 
 ## ADAM SMITH'S MODEL
 
-We have a market economy with competition, growth and technological progress. Adam Smith, in his famous work *The Wealth of Nations*, set out an economic model of how economic growth could lead to widely-spread prosperity. He argued that the division of labour leads to higher levels of productivity.
+We have a market economy with competition, growth and technological progress. Adam Smith, in his famous work *The Wealth of Nations*, set out a model of how economic growth came about and how that could lead to widely-spread prosperity. 
 
-If an entrepreneur makes an improvement in production processes, he can lower his cost of production and still sell at the price of his competitors. In other words, he can make a profit. In the short term, therefore, the advantages of his improvement accrue to him. Thus, the profit motive provides an incentive to make improvements.
+Smith argued that the division of labour leads to higher levels of productivity. Smith gives the example of a pin factory, where dividing the manufacture of pins into smaller steps leads to more pins being produced for the same level of hours worked. If one is focusing on a single task, one can do this task more quickly than if one has a multitude of different jobs to do. This differentiation of different people's jobs takes place not only in a single entereprise, but across the economy. By specialising, and trading, we can get more work done in a given number of hours.
+
+So, if an entrepreneur makes an improvement in production processes, she can lower his cost of production and still sell at the price of her competitors. In other words, she can make a profit. In the short term, therefore, the advantages of her improvement accrue to her. Thus, the profit motive provides an incentive to make improvements.
 
 His competitors may notice the improvement that he has made and replicate it. To capture market share, they will lower their prices towards the new cost of production. There might be a price war to capture customers. After the competition has taken its course, we will be left with a different situation. The price of the good concerned will have fallen to just above the new production cost. The new beneficiary of the technological improvement would be everyone who purchases the product. Technological progress, the profit motive and competition would lead to widely spread prosperity.
 
