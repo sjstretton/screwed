@@ -138,9 +138,9 @@ To Beveridge's three princples we add a fourth. Proposed changes should be prior
 
 One barrier is the worry that some people will be made worse off by any changes. Firstly, there is the question of transitional justice; secondly, political realism; and thirdly the need to transform the interests and specialism of large companies, without provoking resistance from them. We deal with these in turn.
 
-Firstly there is the matter of transitional justice. We need to ensure, not only that the final state is fair, but also that the transition between the current system and the new is also fair.
+Firstly, there is the matter of transitional justice. We need to ensure not only that the final state is fair but also that the transition between the current system and the new is also fair.
 
-Resistance to taxes is typically associated with concentrated losses on specific groups.  These groups can easily mobilise to resist new taxes. We need to ensure that no politically salient or vulnerable group is made particularly worse off.
+Resistance to taxes is typically associated with concentrated losses on specific groups. These groups can easily mobilise to resist new taxes. We need to ensure that no politically salient or vulnerable group is made particularly worse off. One example of politically savvy change is in Iran. When Iran eliminated subsidy on transport fuels such as diesel, it compensated individuals and companies with regular monthly payments. The payments were sent to frozen bank accounts and each individual and company was given a letter with the frozen bank account balance. So, the people could see the direct financial benefit of the reform, and they realised that to achieve this financial benefit, the fuel tax subsidy removal had to come into affect. This reduced the resistance to the reform, and it went through.
 
 Let's focus now on corporate lobbying. Companies can target their own financial interest and have the means at their disposal to defend their existing interests. So an oil company can encourage politicians to avoid restricting fossil fuel use. Taxes change the nature of what activities are profitable. Taxes, which could change the nature of these agents (for example, converting an oil company to a renewables producer) cannot be imposed because the very same agents resist the taxes as they oppose their interests. 
 
