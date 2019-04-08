@@ -40,6 +40,7 @@ These questions are related not only to economic processes -- for example, produ
 
 Our starting point is Adam Smith's model, since his work has helped to define the core economic view in the two centuries that followed.
 
+
 ## Adam Smith's Model
 
 We have a market economy with competition, growth and technological progress. Adam Smith, in his famous work *The Wealth of Nations*, set out a model of how economic growth came about and how that could lead to widely-spread prosperity. 
@@ -58,7 +59,7 @@ Adam Smith's model relies on certain assumptions.
 
 One assumption is that a production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist, or if entrance to the market is expensive, then competition will not work as described. If I own a big monopoly with no competition, I can also own a permanent flow of profits that competition will not touch. The beneficiary will be the owners of the single monopolist or the incumbent firm. 
 
-Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords. Why? Imagine I am a landlord. Once I own some land with property on it, I can sit back and enjoy the flow of income, without having to work. This flow of income is rent. Rent goes up, as wages increase. 
+Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords. Imagine I own some land with property on it, I can sit back and enjoy the flow of income, without having to work. This flow of income is rent. Then wages increase. Rent goes up, as wages increase. 
 
 We term these two forms of property income 'generalised rent'. Generalised rent is a permanent flow of income associated with an asset that cannot be replicated. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies. We argue that generalised rent leads to expensive housing, stagnating wages and wealth gains for the already rich.
 
