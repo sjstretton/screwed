@@ -93,17 +93,17 @@ Three principles guided the Beveridge report [@Beveridge1942: Part 1, paragraphs
 - *Comprehensive*: Dealing with poverty, disease, bad housing, unemployment and a lack of education.
 - *A liberal social contract*: No means testing and so no stifling of incentives; cooperation between the state, individuals and firms.
 
-## PRINCIPLE 1: A FUNDAMENTAL REVIEW
+## Principle 1: A Fundamental Review
 
-First, he argued that World War II and its aftermath was 'a time for revolutions, not patching'. He offered a radical approach, informed by the experience of the past. He would not be restricted by the interests of one group or another. In short, his report would be *radical* (working from first principles) and prioritise the *common interest*.
+First, Beveridge argued that Second World War and its aftermath was 'a time for revolutions, not patching'. He offered a radical approach, informed by the experience of the past but not be restricted by the interests of one group or another. In short, his report would be *radical* (working from first principles) and prioritise the *common interest*.
 
 We also aim to look at tax and welfare from first principles. We will then apply those first principles without fear or favour.
 
-But are we at a revolutionary time? Can we change a complex system like tax and welfare from first principles, or is 'patching' the only realistic possibility? We will assert that change is possible if it is beneficial, fair and practical, and communicated well so that these aspects are evident.
+But are we at a revolutionary time? Can we change a complex system like tax and welfare from first principles, or is 'patching' the only realistic possibility? We will assert that change is possible if it is beneficial, practical and fair and communicated well so that these aspects are evident.
 
-One does not make fundamental progress without thinking about what a system should do and what it should be.
+One does not make fundamental progress without thinking about what a system should *do* and what it should *be*. We address thes in the 'tax in principle' chapter below.
 
-We also need to consider the motivation for, and the barriers to change. One barrier is the worry that some people will be made worse off by any changes. We need to ensure not only that the final state is fair but also that the transition between the current system and the new is also fair.
+We also need to consider the motivation for, and the barriers to change. One barrier is the worry that some people will be made worse off by any changes. We need to ensure not only that the final state is fair but also that the transition between the current system and the new is also fair. We deal with this in our fourth principle, below.
 
 ## PRINCIPLE 2: SOLVING GREAT EVILS
 
