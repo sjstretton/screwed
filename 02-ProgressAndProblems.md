@@ -69,7 +69,7 @@ When one person or company's behaviour damages another, it is termed by economis
 
 What seems acceptable when societies are small may, nevertheless, be unacceptable when societies are larger. For example, Newfoundland fishermen could fish without constraints when their boats were small and their numbers low. There were plenty of fish. However, fish stocks are not unlimited. There is a limit on how many fish can be taken before it damages the fishery. If too many fish are taken, the fish don't get a chance to reproduce, and the fish stocks collapse. This is what happened near Newfoundland. Fish used to be so plentiful that the sea teemed with life. But after the collapse in the fish stock, many fishermen went out of business.
 
-Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. For the planet as a whole, this model is catastrophic. This book shows a route out of this economic situation. Growth, where it is in relation to consumption, needs to be dematerialised or physically circular. In other words, we need to minimise the impact that economic growth has on the natural world. We will come to how to achieve that a little later. 
+So what are wicked externalities, as opposed to simply negative externalities? Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. For the planet as a whole, this model is catastrophic. This book shows a route out of this economic situation. Growth, where it is in relation to consumption, needs to be dematerialised or physically circular. In other words, we need to minimise the impact that economic growth has on the natural world. We will come to how to achieve that a little later. 
 
 ## Can Taxation Help?
 
@@ -125,19 +125,24 @@ Our new welfare system should not discourage work and should encourage service a
 
 This suggests the case for a system with a universal component: we call this a 'citizen's dividend' (a form of basic income). 
 
-Such a system of universal benefits hacs practical advantages too. It involves the *integration* of the tax system with the benefits system so there is not a separate system of 'means testing'. Means testing is simply taking money away from them as they earn more, and can be carried out through the tax system.
+Such a system of universal benefits hacs practical advantages too. It involves the *integration* of the tax system with the benefits system, so there is not a separate system of 'means testing'. Means testing is simply taking money away from indivudals and families as they earn more: this function can simply be carried out through the tax system. People who don't work make more money than those who do! We need to fix this!
 
-Furthermore, we argue for an integrated skills training and work experience system. These two proposals are outlined later.
+Furthermore, we argue for an integrated skills training and work experience system. 
 
-## PRINCIPLE 4: MINIMISING RESISTANCE TO CHANGE
+Both proposals are outlined later.
 
-In addition to consider the motivation for change, is thinking about the barriers to change. One barrier is the worry that some people will be made worse off by any changes. We need to ensure not only that the final state is fair but also that the transition between the current system and the new is also fair.
+## Proposal 4: Minising Barriers To Change
 
-Resistance to taxes is associated with concentrated losses on specific groups. These groups can easily mobilise to resist new taxes. We can talk about two salient group: poor people and companies. Let's focus now on corporate lobbying. Companies can target their own financial interest and have the means at their disposal to defend their existing interests. So an oil company can encourage politicians to avoid restricting fossil fuel use.
+To Beveridge we add our own fourth principle, that the proposed changes should be prioritised: maximising the benefit and minimising the resistance. So, in addition to considering the motivation for change, we need also to consider barriers to change. 
 
-But taxes change the nature of what activities are profitable. So taxes, which could change the nature of these agents (for example, converting an oil company to a renewables producer) cannot be imposed because the very same agents resist the taxes as they oppose their interests. But these interests would change if the nature of the company was to change from oil to renewables. So we a have catch-22 situation. We can't change the companies without the tax. But we can't impose the tax without changing the company, since they resist politically. Instead, we need forms of tax that don't face such resistance but which lead to the transformation of companies in a positive direction.
+One barrier is the worry that some people will be made worse off by any changes. This is in fact more than one matter. Firstly there is the question of justice, secondly political realism and thirdly the need to transform the interests and specialism of large companies, without provoking resistance from them. We deal with these in turn.
 
-To Beveridge we add our own fourth principle, that the proposed changes should be prioritised: maximising the benefit and minimising the resistance
+We need to ensure not only that the final state is fair but also that the transition between the current system and the new is also fair.
+
+Resistance to taxes is associated with concentrated losses on specific groups.  These groups can easily mobilise to resist new taxes. We can talk about two salient group: poor people and companies. 
+
+But taxes change the nature of what activities are profitable. Let's focus now on corporate lobbying. Companies can target their own financial interest and have the means at their disposal to defend their existing interests. So an oil company can encourage politicians to avoid restricting fossil fuel use. tTxes, which could change the nature of these agents (for example, converting an oil company to a renewables producer) cannot be imposed because the very same agents resist the taxes as they oppose their interests. But these interests would change if the nature of the company was to change from oil to renewables. So we a have catch-22 situation. We can't change the companies without the tax. But we can't impose the tax without changing the company, since they resist politically. Instead, we need forms of tax that don't face such resistance but which lead to the transformation of companies in a positive direction.
+
 
 # How to define an efficient and fair taxation system? (Chapter 5)
 
