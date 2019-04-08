@@ -75,9 +75,9 @@ Wicked externalities, such as climate change, are damages caused by our actions 
 
 So why do we have these problems of pollution and precariousness? And what conclusions can we draw? We have identified two phenomena described by the great economists: Economic Rent and Economic Theft. The result of these economic effects is that we have economic growth that benefits the rich and too much pollution.
 
-This leads on to our next question. What should we do about it? We've seen that taxation is important in our economic model because it alters the distribution of income and sets the economic incentives for the private sector. Classical political economists from Adam Smith and David Ricardo to Henry George and Karl Marx argued that the taxation system could be used to correct for these issues. In Chapter 5,  we use this evidence to inform our recommendations for a good tax system, in principle and in practice. But first, we can ask the crucial question: how can we make the change? For our recommendations will be useless if politicians and the public ignore them.
+This leads on to our next question. What should we do about it? We've seen that taxation is important in our economic model because it alters the distribution of income and sets the economic incentives for the private sector. Classical political economists from Adam Smith and David Ricardo to Henry George and Karl Marx argued that the taxation system or redistribution of property could be used to correct for these issues. In Chapter 5 and 6, we use this evidence to inform our recommendations for a good tax system, both in principle and in practice. But first, we can ask the crucial question: how can we make the change? For our recommendations will be useless if politicians and the public ignore them.
 
-# HOW TO MAKE THE CHANGE? PUBLIC POLITICAL ECONOMY (CHAPTER 4)
+# Public Political Economy and Policy Change
 
 Our fourth question: how can we actually change the tax systems? Economists have been aware of rent and externalities for some time. Yet, taxes which would correct these economic distortions have only been imposed occasionally and partially. Why haven't corrective taxes been imposed?
 
