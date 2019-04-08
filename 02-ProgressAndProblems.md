@@ -117,15 +117,19 @@ We still have Beveridge's giant social issues to some degree, but we are also fa
 - *Debt and Economic Imbalance*: Re-balancing the economy away from high debt and asset inflation, and towards balanced growth and wealth formation.
 - *Pollution and Other Environmental Damage*: Climate change, ocean acidification, plastics, over-fishing and habitat loss which all threaten the future.
 
-However, it's not enough to plan to solve these problems. We have to do so in a competent way that involves everyone. We think about this matter in the next section.
+However, it's not enough to plan to solve these problems. We have to do so in a competent way that involves everyone. We cover this matter in the next section.
 
-## PRINCIPLE 3: A SOCIAL CONTRACT ALIGNING REWARD AND CONTRIBUTION
+## Principle 3: A Social Contract Aligning Reward and Contribution
 
-Our new welfare system should not disincentivise work and should encourage service and contribution. We will study in detail Beveridge's third principle to see if, and how, a better welfare system can be created.
+Our new welfare system should not discoverage work and should encourage service and contribution. We will study in detail Beveridge's third principle to see if, and how, a better welfare system can be created.
 
-This involves the *integration* of the tax system with the benefits system so there is not a separate system of 'means testing'. This function can be carried out through the tax system. This suggests the case for a system with a universal component: we call this a 'citizen's dividend' (a form of basic income). Furthermore, we argue for an integrated skills training and work experience system. These two proposals are outlined later.
+This suggests the case for a system with a universal component: we call this a 'citizen's dividend' (a form of basic income). 
 
-There's an overarching concept too, which we term policy entrepreneurship. That is, we should break out of the monopoly of thought imposed on us by neoclassical economics and neoliberal economic ideas. These forms of entrepreneurship imply a new growth model for everyone, one that is not based on increasing financialisation and debt issued on limited assets but rather the development of productive industries solving our collective problems. We deal with the potential benefits of our proposals in the next section.
+Such a system of universal benefits hacs practical advantages too. It involves the *integration* of the tax system with the benefits system so there is not a separate system of 'means testing'. Means testing is simply taking money away from them as they earn more, and can be carried out through the tax system.
+
+Furthermore, we argue for an integrated skills training and work experience system. These two proposals are outlined later.
+
+There's an overarching concept too, which we term policy entrepreneurship. That is, we should break out of the monopoly of thought imposed on us and try out new ideas for fixing our societies' problems. 
 
 ## PRINCIPLE 4: MINIMISING RESISTANCE TO CHANGE
 
@@ -133,17 +137,15 @@ To Beveridge we add our own fourth principle, that the proposed changes should b
 
 In addition to consider the motivation for change, is thinking about the barriers to change. One barrier is the worry that some people will be made worse off by any changes. We need to ensure not only that the final state is fair but also that the transition between the current system and the new is also fair.
 
-Resistance to taxes is associated with concentrated losses on specific groups. These groups can easily mobilise to resist new taxes. We can talk about two salient group: poor people and companies. Let's focus now on corporate lobbying. Companies can target their own financial interest in just a 
+Resistance to taxes is associated with concentrated losses on specific groups. These groups can easily mobilise to resist new taxes. We can talk about two salient group: poor people and companies. Let's focus now on corporate lobbying. Companies can target their own financial interest and have the means at their disposal to defend their existing interests. So an oil company can encourage politicians to avoid restricting fossil fuel use.
 
 But taxes change the nature of what activities are profitable. So taxes, which could change the nature of these agents (for example, converting an oil company to a renewables producer) cannot be imposed because the very same agents resist the taxes as they oppose their interests. But these interests would change if the nature of the company was to change from oil to renewables. So we a have catch-22 situation. We can't change the companies without the tax. But we can't impose the tax without changing the company, since they resist politically. Instead, we need forms of tax that don't face such resistance but which lead to the transformation of companies in a positive direction.
-
 
 # How to define an efficient and fair taxation system? (Chapter 5)
 
 Tax is the means by which we pay for government services. But this book isn't really about government. Rather it is about the use the taxation system to ensure that the *private sector* has the right incentives. So there are two, distinct, systems that are in scope of our book. The first is the entire private sector. his book is about how the private sector can contribute to the well being and the good of society. If the private sector does not have the right incentives, it will not produce the right outcomes. Therefore, it is a book about economics. If the private sector is not to harm our general well being, then an effective tax system needs to be in place.
 
 We wish not just to minimise the costs of taxation, but rather to aim for taxes, where possible, that are actively beneficial. Good taxes would shape the profit motive towards the needs of people, communities, and the living planet on which we all depend. Here, we seek a tax and social security system that is not only fair and practical but also beneficial to everyday people, our country and our world. 
-
 
 The central concern of the book is the use of the tax system for public benefit: to solve the critical challenges facing our societies including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems.
 
@@ -172,14 +174,14 @@ The second approach is an apportionment of multinational wealth based on where t
 Thus both for environmental damage and for wealth, we use consumption as a relatively fixed tax base.
 
 
-
-
 # WHAT IMPROVEMENTS WOULD IMPLEMNTING OUR PRINCIPLES BRING? FOUR FORMS OF WEALTH
-
-
 So what improvements could such proposals make? We argue that they could enhance genuine wealth at the level of the individual, community, nation state and planet. There are four crucial benefits of a better taxation system to wider society. We call these the four realms of value: households, communities, nations and the world.
 
 The first skill based personal and social entrepreneurship.The second issue is state capitalism entrepreneurship. This involves both the state and capitalists. The third is municipal land value entrepreneurship, as has been seen in Singapore and Hong Kong. Finally we can suggest public good entrepreneurship: we suggest that the private sector be turned over to public good provision. The obvious example is green entrepreneurship, but we also suggest ways that companies can tackle other global issues such as the lack of good antibiotics.
+
+These forms of entrepreneurship imply a new growth model for everyone, one that is not based on increasing financialisation and debt issued on limited assets but rather the development of productive industries solving our collective problems. We deal with the potential benefits of our proposals in the next section.
+
+There's an overarching concept too, which we term policy entrepreneurship. That is, we should break out of the monopoly of thought imposed on us by neoclassical economics and neoliberal economic ideas. 
 
 ## IMPROVEMENT 1: SECURE INCOMES, PRODUCTIVE JOBS AND ECONOMIC POWER (CHAPTERS 7 and 8)
 
