@@ -165,7 +165,7 @@ Because this book is about taxation and welfare in the context of the real econo
 
 # Tax in Practice: Avoiding Tax Avoidance and Evading Tax Evasion (Chapter 6)
 
-One further challenge is taxation in the context of international flows of income and money. It would be nice to tax unearned wealth accumulation. But doing so presents challenges.
+One further challenge is taxation in the context of international flows of income and money. Taxation theory aims to identify a base of taxation that is unresponsive to the tax. It would be nice to tax unearned wealth accumulation. But doing so presents challenges. 
 
 One key challenge to taxation is working out a means of taxation that can tax wealth and flows of income across international boundaries. International tax avoidance leads to multinational companies and rich individuals failing to pay their fair share for society's upkeep.
 
@@ -173,15 +173,23 @@ Generally, the issue is as follows: One cannot (it is said) tax big companies or
 
 Taxing corporate wealth is more difficult because a corporation is a more fluid and mobile than land. In this book, we suggest two radical strategies. The first approach is the taxation of profits calculated as UK sales minus UK costs. This approach encourages companies to locate their costs in the UK. The higher the tax rate, the more operations would be moved to a UK base. The second approach is an apportionment of multinational wealth based on where the sales of the companies are located.
 
-Taxation of wealth also faces similar issues. Taxation theory aims to identify a base of taxation that is unresponsive to the tax. So in taxing wealth, we could argue for taxation of assets rather than taxation of wealthy individuals. Land is a straightforward asset to tax in this way. Land cannot just move out of the country.
+Taxation of wealth also faces similar issues. So in taxing wealth, we could argue for taxation of assets rather than taxation of wealthy individuals. Land is a straightforward asset to tax in this way. Land cannot just move out of the country.
 
 
 Such challenges also applies to the taxation of greenhouse gas emissions. If we tax emissions that are produced in the UK, this might encourage UK-based producers to move outside the UK. If instead, consumption of carbon-intensive goods is taxed, imports of goods produced abroad would be in scope, but exports would not. 
 
-This would be helpful for a number of reasons. Firstly, it would give a true picture of the emissions that a country is responsible for due to its consumption behaviour. Secondly, it creates a true incentive for exporting countries to decarbonise their economy. Thirdly, it encourages production processes to be improved, rather than simply relocated abroad.
+This would be helpful for a number of reasons. Firstly, it would give a true picture of the emissions that the UK is responsible for due to its consumption behaviour. Secondly, it creates a true incentive for exporting countries to decarbonise their economy. Thirdly, it encourages production processes to be improved, rather than simply relocated abroad.
 
 Thus both for environmental damage and for wealth, we use consumption as a relatively fixed tax base.
 
+## Draft Proposals 
+We are ready to describe some of our proposals. 
+
+We also have some reforms for the benefits and training system. We suggest a dividend for everyone, a cheque in the post -- and to integrate the tax and benefits system, replacing means testing with taxation (since it achieves the same thing, taking money away from people as they earn more). We also suggest an active benefits system for training people in high skills. We suggest the accumulation of wealth across the poor, rather than the government having the responsibility to support them. Then, when people pay their tax, some of that tax would be set aside as a contribution that will fund the purchase of assets, a return to a contributory tax system.
+
+Se we should tax consumption using the income tax system to ensure it is progressive. We should tax unproductive and unearned wealth in a way that is unavoidable, including a land value tax. But such changes need to be just in transition. Allied to our tax on wealth is a tax on lending on unproductive wealth. Thus, we encourage investment across the economy. We use the financial system to actively promote the capture of land rent for public purposes. We suggest particularly low-cost loans for the building a new cost infrastructure, in this country and around the world. Finance is particularly international and lending can ensure that everyone gets enough energy.
+
+We will set out how, on a consumption basis, *taxing* the environmental damage that people cause is sensible. We propose a consumption-based carbon tax, and a set of other taxes on other environmmental damages and resource consumption.
 
 # WHAT IMPROVEMENTS WOULD IMPLEMNTING OUR PRINCIPLES BRING? FOUR FORMS OF WEALTH
 So what improvements could such proposals make? We argue that they could enhance genuine wealth at the level of the individual, community, nation state and planet. There are four crucial benefits of a better taxation system to wider society. We call these the four realms of value: households, communities, nations and the world.
@@ -236,13 +244,7 @@ Three European countries show that a carbon tax can work exactly as planned. Swe
 
 
 
-## SUMMARY OF Proposals (CHAPTER 14)
 
-We will set out how, on a consumption basis, *taxing* the environmental damage that people cause is sensible, that we should tax unproductive and unearned wealth, and finally, we should tax luxury consumption using the income tax system to ensure it is progressive.
-
-We also have some reforms for the benefits and training system. We suggest a dividend for everyone, a cheque in the post -- and to integrate the tax and benefits system, replacing means testing with taxation (since it achieves the same thing, taking money away from people as they earn more). We also suggest an active benefits system for training people in high skills. We suggest the accumulation of wealth across the poor, rather than the government having the responsibility to support them. Then, when people pay their tax, some of that tax would be set aside as a contribution that will fund the purchase of assets, a return to a contributory tax system.
-
-Finally, we suggest changes to the financial system. Allied to our tax on wealth is a tax on lending on unproductive wealth. Thus, we encourage investment across the economy. We use the financial system to actively promote the capture of land rent for public purposes. We suggest particularly low-cost loans for the building a new cost infrastructure, in this country and around the world. Finance is particularly international and lending can ensure that everyone gets enough energy.
 
 # PLAN OF THE BOOK
 
