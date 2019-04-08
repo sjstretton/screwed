@@ -85,7 +85,7 @@ Here, we make the case for a simple 'change equation'. The perceived benefits mu
 
 One great milestone in the history of social end economic progress in the UK was the Beveridge report [-@Beveridge1942]. Seventy-seven years ago, liberal economist William Beveridge presented this report for a new welfare state. It laid the basis for the post-war welfare state in the United Kingdom. Its objectives were to banish 'want, ignorance, squalor, disease and idleness'.
 
-Before the Second World War, these social evils ravaged the poor in Britain. The war itself destroyed many buildings, homes and businesses, and increased the national debt. But yet, the post war government managed to create a comprehensive welfare state where none existed before. This welfare state included a system of social security (welfare benefits), the national health service, a state education system, public housing, and a 'Keynesian' method of macroeconomic management aiming for full employment.
+Before the Second World War, these social evils ravaged the poor in Britain. The war itself destroyed many buildings, homes and businesses, and increased the national debt. But yet, the post war government managed to create a comprehensive welfare state where none existed before. The postwar welfare state included the National Health Service, a system of social security (welfare benefits), a state education system, public housing, and a 'Keynesian' method of macroeconomic management aiming for full employment. The focus in this book is the social security system.
 
 Three principles guided the Beveridge report [@Beveridge1942: Part 1, paragraphs 6-9].
 
