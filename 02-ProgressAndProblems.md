@@ -197,7 +197,7 @@ We will set out how, on a consumption basis, *taxing* the environmental damage t
 
 What improvements could such proposals make? There are four crucial benefits of a better taxation system to wider society. We call these the four realms of value: households, communities, nations and the world. We argue that our proposals can enhance genuine wealth at the level of the individual, community, nation state and planet. For each of these four realms we also define a notion of social entrepreneurship. 
 
-These forms of entrepreneurship imply a new growth model for everyone, one that is not based on increasing financialisation and debt issued on limited assets but rather the development of productive industries solving our collective problems.  There's an overarching concept too, which we term policy entrepreneurship. That is, we should break out of the monopoly of thought imposed on us by neoclassical economics and neoliberal economic ideas. 
+These forms of entrepreneurship imply a new growth model for everyone, one that is not based on increasing financialisation and debt issued on limited assets but rather the development of productive industries solving our collective problems. There's an overarching concept too, which we term policy entrepreneurship. That is, we should break out of the monopoly of thought imposed on us by neoclassical economics and neoliberal economic ideas, but rather look practical solutions to our problems that can be tried in practice.
 
 
 ## IMPROVEMENT 1: SECURE INCOMES, PRODUCTIVE JOBS AND ECONOMIC POWER (CHAPTERS 7 and 8)
