@@ -71,7 +71,7 @@ What seems acceptable when societies are small may, nevertheless, be unacceptabl
 
 Wicked externalities, such as climate change, are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. For the planet as a whole, this model is catastrophic. This book shows a route out of this economic situation. Growth, where it is in relation to consumption, needs to be dematerialised or physically circular. In other words, we need to minimise the impact that economic growth has on the natural world. We will come to how to achieve that a little later. 
 
-# HOW CAN WE DEFINE A BETTER TAX AND WELFARE SYSTEM? (CHAPTER 5)
+## Can Taxation Help?
 
 So why do we have these problems of pollution and precariousness? And what conclusions can we draw? We have identified two phenomena described by the great economists: Economic Rent and Economic Theft. The result of these economic effects is that we have economic growth that benefits the rich and too much pollution.
 
@@ -138,7 +138,7 @@ Resistance to taxes is associated with concentrated losses on specific groups. T
 But taxes change the nature of what activities are profitable. So taxes, which could change the nature of these agents (for example, converting an oil company to a renewables producer) cannot be imposed because the very same agents resist the taxes as they oppose their interests. But these interests would change if the nature of the company was to change from oil to renewables. So we a have catch-22 situation. We can't change the companies without the tax. But we can't impose the tax without changing the company, since they resist politically. Instead, we need forms of tax that don't face such resistance but which lead to the transformation of companies in a positive direction.
 
 
-# What is an efficient and fair taxation system given what we know about the principles of political economy? (Chapter 5)
+# How to define an efficient and fair taxation system? (Chapter 5)
 
 Tax is the means by which we pay for government services. But this book isn't really about government. Rather it is about the use the taxation system to ensure that the *private sector* has the right incentives. So there are two, distinct, systems that are in scope of our book. The first is the entire private sector. his book is about how the private sector can contribute to the well being and the good of society. If the private sector does not have the right incentives, it will not produce the right outcomes. Therefore, it is a book about economics. If the private sector is not to harm our general well being, then an effective tax system needs to be in place.
 
