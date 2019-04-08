@@ -75,22 +75,16 @@ Wicked externalities, such as climate change, are damages caused by our actions 
 
 So why do we have these problems of pollution and precariousness? We have identified two phenomena described by the great economists: Economic Rent and Economic Theft. The result of these economic effects is that we have economic growth that benefits the rich and too much pollution
 
-This leads on to our next question. What should we do about it? We've seen that taxation seems to be important in our economic model because it sets the economic incentives for the private sector.Political economists from Adam Smith and David Ricardo have argued that the taxation system could be used to correct for these issues.
+This leads on to our next question. What should we do about it? We've seen that taxation seems to be important in our economic model because it sets the economic incentives for the private sector. Political economists from Adam Smith and David Ricardo to have argued that the taxation system could be used to correct for these issues.
 
-Tax is the means by which we pay for government services. this book is devoted to how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent', and international flows of money and assets. 
-
-But this book isn't really about government.
-
-Rather it is about the use the taxation system to ensure that the *private sector* has the right incentives. So there are two, distinct, systems that are in scope of our book. The first is the entire private sector. his book is about how the private sector can contribute to the well being and the good of society. If the private sector does not have the right incentives, it will not produce the right outcomes. Therefore, it is a book about economics. If the private sector is not to harm our general well being, then an effective tax system needs to be in place.
+Tax is the means by which we pay for government services. But this book isn't really about government. Rather it is about the use the taxation system to ensure that the *private sector* has the right incentives. So there are two, distinct, systems that are in scope of our book. The first is the entire private sector. his book is about how the private sector can contribute to the well being and the good of society. If the private sector does not have the right incentives, it will not produce the right outcomes. Therefore, it is a book about economics. If the private sector is not to harm our general well being, then an effective tax system needs to be in place.
 
 We wish not just to minimise the costs of taxation, but rather to aim for taxes, where possible, that are actively beneficial. Good taxes would shape the profit motive towards the needs of people, communities, and the living planet on which we all depend. Here, we seek a tax and social security system that is not only fair and practical but also beneficial to everyday people, our country and our world. 
 
+# What is an efficient and fair taxation system given what we know about the principles of political economy? (Chapter 5)
 The central concern of the book is the use of the tax system for public benefit: to solve the critical challenges facing our societies including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems.
 
-
-# What is an efficient and fair taxation system given what we know about the principles of political economy? (Chapter 5)
-
-So the limited things would be rationed by taxes rather than by private property, so that everyday people have a stake in the common resources and land doesn't become so expensive that individuals cannot afford their own homes.
+Thus, this book is devoted to how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent', and international flows of money and assets.  So the limited things would be rationed by taxes rather than by private property, so that everyday people have a stake in the common resources and land doesn't become so expensive that individuals cannot afford their own homes.
 
 Taxation should also correct the market, so those who damage the environment pay for the damage that they cause. Such a tax system would tax bad things, not good things. The physical use of natural resources should be taxed, and the circular use of those resources is thereby encouraged. So, with a proper tax system, the beautiful things that require care, like the natural environment, would be preserved. 
 
