@@ -240,19 +240,19 @@ One great anxiety is about *debt*. There are basically two forms of debt that co
 
 
 
-## IMPROVEMENT 4: A CLEAN AND SAFE GLOBAL ENVIRONMENT (CHAPTER 12)
+## Improvement 4: A Clean and Safe Global Environment (Chapter 12)
 
 The final priority is the environment. There are a number of major environmental problems facing us, most notably climate change and ocean acidification, but also plastics in the ocean, habitat destruction, road congestion, over-fishing, and conventional air, water and land pollution. Environmental taxes have a few challenges: they can be unpopular, hard to design, encourage 'off-shoring' of dirty forms of industry and can be bureaucratic. 
 
-Sicne demand for damaging products can be unresponsive to price, a high environmental tax may be necessary. But high environmental taxes may be unpopular, disruptive or unrealistic. 
+Since demand for damaging products can be unresponsive to price, a high environmental tax may be necessary. But high environmental taxes may be unpopular, disruptive or unrealistic. 
 
 Also, individual country actions are not enough. Instead, we need action that is global. But there are no functioning global institutions. Thus, we look for solutions that can be implemented at a national level, which also encourage other countries to follow the lead. Such solutions should be within international laws and rules as well.
 
-Because protecting the environment is so important, the main priority is not to raise additional revenue with this taxation source, but we do intend to ensure that the private sector has the correct incentives. We propose a Carbon Tax. But there needs to be an alternative to fossul fuels. We achieve this with a tax on carbon inputs with a subsidy on electricity production. Simultaneously, we also provide low-cost loans from the public loan board. There will be prizes for rapid roll-out of new technologies and national targets for the roll out of low-carbon electricity. 
+Because protecting the environment is so important, the main priority is not to raise additional revenue with this taxation source. But we do intend to ensure that the private sector has the correct incentives. Therefore, we propose a Carbon Tax. However, there needs to be an alternative to fossil fuels. We achieve this with a tax on carbon inputs with a subsidy on electricity production. Simultaneously, we also provide low-cost loans from the public loan board. There will be prizes for rapid roll-out of new technologies and national targets for the roll out of low-carbon electricity. 
 
 **Case Study: Environmental Taxes in Scandinavia, Switzerland and the UK**
 
-Three European countries show that a Carbon Tax can work exactly as planned. Sweden, Switzerland and the UK all have a carbon tax of some description. Sweden was one of the first to introduce its Carbon Tax. The per capita  emissions of Sweden are now among the lowest in Europe. Similarly, Switzerland has also introduced such a tax. The UK introduced its carbon price floor more recently and it has seen a large fall in emissions. Most notably, the UK seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags, congestion charges, deposit return schem.
+Three European countries show that a Carbon Tax can work exactly as planned. Sweden, Switzerland and the UK all have a carbon tax of some description. Sweden was one of the first to introduce its Carbon Tax. The per capita  emissions of Sweden are now among the lowest in Europe. Similarly, Switzerland has also introduced such a tax. The UK introduced its carbon price floor more recently and it has seen a large fall in emissions. Most notably, the UK has seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags, congestion charges and deposit return schemes.
 
 
 
