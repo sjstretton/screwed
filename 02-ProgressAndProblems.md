@@ -50,15 +50,15 @@ So, if an entrepreneur makes an improvement in production processes, she can low
 
 Her competitors may notice the improvement that she has made and replicate it. To retain market share, they will lower their prices towards the new cost of production. There might be a price war to capture customers. After the competition has taken its course, we will be left with a different situation. The price of the good concerned will have fallen to just above the new production cost. The long-term beneficiary of the technological improvement would be everyone who purchases the product. 
 
-Technological progress, the profit motive and competition would lead to widely spread prosperity. Whilst the initial profit from the improvment would accrue to the entreprenuer, the long-term beneficiary from the reduced cost of production is everyone who purchases the product.
+Technological progress, the profit motive and competition would lead to widely spread prosperity. Whilst the initial profit from the improvment would accrue to the entreprenuer, the long-term beneficiary from the reduced cost of production is everyone who purchases the product. Profit in this case is a necessary but temporary phenomenon. It is competed away and in so doing society as a whole becomes richer.
 
-## Rent!
+## Permanent Profit and Rent
 
 Adam Smith's model relies on certain assumptions. 
 
-One assumption is that a production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist or if entrance to the market is expensive then competition will not work as described. The beneficiary will be the owners of the single monopolist or the incumbent firm. 
+One assumption is that a production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist, or if entrance to the market is expensive, then competition will not work as described. If I own a big monopoly with no competition, I can also own a permanent flow of profits that competition will not touch. The beneficiary will be the owners of the single monopolist or the incumbent firm. 
 
-Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords. Why? Imagine I am a landlord. Once I own some land with property on it, I can sit back and enjoy the flow of income, without having to work. This flow of income is rent. Rent goes up, as wages increase.if I own a big monopoly with no competition, I can also own a permanent flow of profits that competition will not touch.
+Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords. Why? Imagine I am a landlord. Once I own some land with property on it, I can sit back and enjoy the flow of income, without having to work. This flow of income is rent. Rent goes up, as wages increase. 
 
 We term these two forms of property income 'generalised rent'. Generalised rent is a permanent flow of income associated with an asset that cannot be replicated. Generalised rent is a permanent financial surplus received by the owners of properties in valuable locations and the shareholders of large companies. We argue that generalised rent leads to expensive housing, stagnating wages and wealth gains for the already rich.
 
