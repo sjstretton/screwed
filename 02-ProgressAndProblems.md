@@ -117,7 +117,7 @@ We still have Beveridge's giant social issues to some degree, but we are also fa
 - *Debt and Economic Imbalance*: Re-balancing the economy away from high debt and asset inflation, and towards balanced growth and wealth formation.
 - *Pollution and Other Environmental Damage*: Climate change, ocean acidification, plastics, over-fishing and habitat loss which all threaten the future.
 
-However it's not enough to plan to solve these problem, we have to do so in a competent way that involves everyone?
+However, it's not enough to plan to solve these problems. We have to do so in a competent way that involves everyone. We think about this matter in the next section.
 
 ## PRINCIPLE 3: A SOCIAL CONTRACT ALIGNING REWARD AND CONTRIBUTION
 
