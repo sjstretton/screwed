@@ -122,3 +122,6 @@ What about over-hunting? Well if rabbit hunting is a concern then a limited numb
 
 ## 3.6: Off the Island and into Reality
 
+What do these analogies mean for modern government policy? Especially government policy that influences the lives of 65 million people, on a large island, as compared to this utopia. A multitude of factors influence the functioning of the UK tax and welfare system, and interact to dictate the impacts that these controls have on society. 
+
+The next sections outlines the key questions that policy makers have to ask when designing a tax, and implementing these proposals into reality. An exploration of the missing aspects in current policy design, issues in transition, and the reality of taxes as it stands today will all be outlined in more detail. From one island to another. 
