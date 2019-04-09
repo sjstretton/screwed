@@ -1,9 +1,7 @@
 # PRELUDE: A PERFECT STORM?
 The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
 
-A group of New England fishermen had fallen on hard times after poor catches. Their captain, played by George Clooney, hired a boat for one last fishing trip of the year.
-
-The trawler sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish. Turning for home, they hoped to get the catch back whilst still fresh. 
+A group of New England fishermen had fallen on hard times after poor catches. Their captain, played by George Clooney, hired a boat for one last fishing trip of the year. The trawler sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish. Turning for home, they hoped to get the catch back whilst still fresh. 
 
 Unfortunately, a storm was brewing, and not just any storm. Three separate weather systems had merged to create a 'weather bomb' of unusual intensity. Meteorologists warned of a serious threat to life. 
 
@@ -17,17 +15,13 @@ First, the seas were no longer as plentiful as they once were. In the 1950s, the
 
 Second, the fishermen lacked economic security in their lives. They had to fish to keep food on the table. Beyond their own homes, they owned little. The boat was owned by an investor who expected a return and did nothing so dangerous as to head out to sea.
 
-
-
 What has the Perfect Storm got to do with the future of the planet? On Earth, we are facing a similar situation to Clooney's character and his crew. There are warnings of a dangerous future for us all. Climate scientists warn of a much hotter planet with more intense storms and rising seas. Should we ignore the warnings like Clooney, or accept the dangers we face?
 
 But even if we accept the warnings, our situation is tricky. You and I don't control the direction of the world economy. There is no single captain of the good ship Earth. Most of us have little idea how the controls of our economy work. 
 
+This book is about a particular set of controls that direct our economy - taxation. In this book, we show how to change the tax system to direct the economy towards a brighter future. The book also links taxation to other matters like welfare benefits, property rights, wealth accumulation, environment, energy and housing policy.
 
-
-This book is about a particular set of controls that direct our economy -- taxation. In this book, we show how to change the tax system to direct the economy to a brighter future. The book also links taxation to other matters such as welfare benefits, property rights, wealth accumulation, environment, energy and housing policy.
-
-A heckler might argue that our interests and actions are our own business. People should be free to do what they want, without the government directing them. Anyway, hasn't the market economy had a good record? We are richer, more secure, and have a lower risk of death than previous times. Poverty is also lower than it was in the past. 
+A critic might argue that people's interests and actions are their own business. People should be free to do what they want, without the government interfering. Anyway, hasn't the market economy had a good record? We are richer, more secure, and have a lower risk of death than previous times. Poverty is also lower than it was in the past. 
 
 But there are storm clouds on the horizon. This book investigates two major issues that threaten our future.
 
