@@ -41,15 +41,13 @@ Beveridge was successful in his mission to lay the foundation for a comprehensiv
 
 We are now in the present day. The subject then called political economy is now called economics. Great container ships cross the oceans. Aircraft zig-zag the skies. Massive machines in far-off lands churn out phones, which everyone is looking at. Many people live with more consumer comforts than in the past. Some things are cheap: it is relatively cheap to fly off to sun-kissed beaches on foreign shores. But some things are very expensive: it is expensive to buy a flat in London for example. 
 
-This great machinery of commerce is devoted to two purposes: to give people what they desire (or at least, what they can be encouraged to buy), and to make a profit in so doing. The commercial machine is in many ways smooth. But there are rumblings of discontent. In 1848, the 'spectre of communism' overshadowed the world, according to Marx. Today, the danger of environmental destruction, runaway technology and a state run by and for the superrich to enrich themselves still further, overshadows this machine for happy fulfilment of our consumer desires.
+This great machinery of commerce is devoted to two purposes: to give people what they desire (or at least, what they can be encouraged to buy), and to make a profit in so doing. The commercial machine is in many ways smooth. But there are rumblings of discontent. In 1848, the 'spectre of communism' overshadowed the world according to Marx. Today, the danger of environmental destruction, runaway technology and a state run by and for the superrich to enrich themselves still further, overshadows this machine for happy fulfilment of our consumer desires.
 
 In America, a man promises to 'drain the swamp'. This man would soon become president of the United States of America. It would be natural to take these words to mean that the army of smart-suited lobbyists, that aim to direct the ship of state to favour their interests, would be sent packing. Nothing of the sort happened. Indeed, the swamp got ever marshier. The poor, who had seen nothing much of forty years of economic growth in the US were increasingly addicted to prescription painkillers. In the United Kingdom and the United States, people stopped living longer.
 
 This was by now a truly global civilisation. And scientists were warning that something truly global was wrong. In a conference room, a group of scientists called for radical shifts to stop burning fossil fuels in a couple of decades. The great machinery of commerce, which had since the end of the Second World War been devoted to giving us more and more stuff, would need to be turned around to a new purpose.
 
-To turn around this great global machine -- this super-tanker of consumer commerce -- we need to apply not only the great resources of the state but also the dynamism and capacity of the private sector. We need to harness the profit motive for the good of the planet. And for that, we need to tax the damages that individuals and companies cause to the living planet. In this book, we seek to use the tax system to do so, not only by changing the incentives of the private sector in one country, but also by ensuring that other countries have a reason to follow that lead. 
-
-The reforms that we are proposing will transform the prospects of early adopter countries so that others will have no choice but to follow that lead.
+To turn around this great global machine, we need to apply not only the great resources of the state but also the dynamism and capacity of the private sector. We need to harness the profit motive for the good of the planet. And for that, we need to tax the damages that individuals and companies cause to the living planet. In this book, we seek to use the tax system to do so, not only by changing the incentives of the private sector in one country, but also by ensuring that other countries have a reason to follow that lead. The reforms that we are proposing will transform the prospects of early adopter countries so significant that others will have no choice but to follow that lead.
 
 
 ## Of Flats and of Flights
@@ -74,14 +72,16 @@ There's a corny old joke about the man that asks for directions and gets the res
 
 Further down the street from Peter and Lucy lives Fred. Fred is on benefits. He once took a job, but he found that once this happened, his benefits were cut off. There was a gap between his new wage and the benefits coming in. Thanks to this, he didn't have the money for the rent. 
 
-The UK has rolled out a reform known as 'Universal Credit', which integrates four income-related benefits into one. The 'benefits withdrawal' rate (in effect the income tax on additional income) on Universal Credit is 63%. This means that you  lose two thirds of the extra income you get. [Some of the problems with the new system include a delay in payment of benefits whilst administration takes place.] 
+The UK has rolled out a reform known as 'Universal Credit', which integrates four income-related benefits into one. The 'benefits withdrawal' rate (in effect the income tax on additional income) on Universal Credit is 63%. This means that you  lose two thirds of the extra income you get. Some of the problems with the new system also relate to administration and issues with design. UC inbuilt a delay in payments, which has caused several issues for the recipients. 
 
 It does not have to be this way.
 
-In the next section we define the five major questions that this enquiry seeks to answer. They are:
+## Questions for change
+
+In the next section we define the five major questions that this enquiry seeks to answer. They are as follows
 
 1. What would an economy fit for our children look like? 
 2. What are the economic conditions for widely-spread and sustainable prosperity?
 3. How can we define a better tax and social security system 
-4. How to make the change?
-5. What advantages would such changes ?
+4. How to make these change?
+5. What advantages would such changes make ?
