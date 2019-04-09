@@ -15,11 +15,11 @@ link-citations: yes
 \newpage
 
 ```{r setup, include=FALSE}
-Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
+Platform <- "PC" #"PC" "Mac" "HeatherPC" 
 if(Platform=="PC") { 
-  setwd("~/../Google Drive/Book") 
+  setwd("~/../Book") 
 } else if(Platform=="Mac") { 
-  setwd("~/Google Drive/Book")
+  setwd("~/Documents/Book")
 } else if(Platform=="HeatherPC") {  
   setwd("~/Github/TaxHeaven/taxheaven")
   #Add something for your WD if this doesn't work# 
