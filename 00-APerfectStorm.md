@@ -39,6 +39,8 @@ These two are the principle economic phenomena we investigate in our book.
 
 Related, is our third and final issue: how to make the change together. The members of Clooney's crew had different preferences. Some wanted to get home swiftly, others wanted to stay out at sea and avoid the storm. But the fate of the crew was closely linked. Nobody had the choice to exit the boat early. They had to decide together and thus live -- or die -- together. The fate of humanity is similar. Whatever our individual preferences are, we also face issues in common. We need to understand the controls of our economy so we can direct our economy and our world in a safer direction. If the boat is our society, the engine and rudder is our economy, we are interested in the control systems. 
 
+
+
 In this book, we do not take the god-like perspective of the meteorologist with his satellites and computer models, but rather the very human one of Clooney and his men. We therefore do not in this book investigate in detail whether the meteorologists and climate scientists are right or not. That's the scope of another book. Rather we just may comment that the threats appear credible and therefore we should put some thought into responding, given we are not experts ourselves. We are told, credibly, that we are heading for a strong, perhaps life-threatening storm, and we need to work out what to do about it. We need to know how the boat and the crew works for that mission.
 
 The trawler and the fishermen combine a mechanical system and a human one. It mattered not only how well the boat was working but also how well Clooney was working. So it is with our economy and the political system that guides it.  We are all in the same boat. We therefore consider two major economic questions, amongst others. How to prevent environmental destruction, and what constitutes a just distribution of wealth and property. In both cases, we are interested in taxation as set of controls over the economy and therefore human impact on the world.
@@ -48,6 +50,8 @@ Thus, this book grapples with both economic and political issues.
 The economic question is this: Why is there pollution and economic insecurity amidst such wealth? Is there a remedy to these ills? 
 
 The political question is this: How can we change course together? We are in the same boat, there is only one planet that we all sit on.
+
+
 
 
 In the song 'Don't Stop me now' by Queen, the lead vocalist, Freddie Mercury sings that the world is 'turning inside out'.  Ideas in the minds of men become embodied in physical form through economics and technology.  
@@ -60,6 +64,6 @@ Some have said that it's easier to see the end of the planet than the end of cap
 
 We are in a world powered by money and ideas whether we like it or not. The set of ideas about money -- the intersection of money and ideas, these two powerful forces driving us -- is called economics.
 
-Economists study scarcity, amongst other things. There are perhaps three forms of scarcity. Space is limited, although it is more limited in some places - like Hong Kong - than others - like Siberia. Time is limited too. What I do today can never be given back. And finally, energy is limited. Humans live off stored-up sunlight -- coal oil and gas. But using this stored-up sunlight threatens much greater storms in the future.
+Economists study scarcity, amongst other things. Here I focus on three forms of scarcity. Space is limited, although it is more limited in some places - like Hong Kong - than others - like Siberia. Time is limited too. What I do today can never be given back. And finally, energy is limited. Humans live off stored-up sunlight -- coal oil and gas. But using this stored-up sunlight threatens much greater storms in the future.
 
 So if the world of ideas -- often economic ideas -- now influences our very planet, how on earth did we get into this situation in the first place? We go back in time to the era of Adam Smith and then run the clock forward observing revolutions of politics, technology and ideas.

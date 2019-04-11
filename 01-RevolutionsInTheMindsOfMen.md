@@ -78,4 +78,8 @@ In the next section we define the five major questions that this enquiry seeks t
 2. What are the economic conditions for widely-spread and sustainable prosperity?
 3. How can we define a better tax and social security system 
 4. How to make the change?
-5. What advantages would such changes ?
+5. What advantages would such changes bring?
+
+
+
+Onwards then, to defining the future!
