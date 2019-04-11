@@ -1,5 +1,9 @@
 # 14-B Frequently Asked Questions
 
+Throughout this book, we've tried to outline how powerful changes to the tax and welfare system in the UK could be. Issues of inequality, personal well-being and environmental change can all be addressed through the clever application of taxation policy.
+
+However, we've outlined some common questions below that we have attempted to answer, drawing together the threads of this book into one, easy to follow format. 
+
 ## Q. Why is it bad that the current tax system is complex?
 
 A. Complexity adds costs and makes it more likely that there are loopholes that can be exploited unfairly by those who have (or who can pay for) specialist knowledge. A certain amount of complexity is unavoidable if one wishes to tax a complex economy with various shades or different types of activity that are not easily or definitively categorized. However, the complexity of the modern economy complexity of the UK tax system is somewhat overwhelming and betrays the influence of meddling politicians and vested interests.
@@ -67,3 +71,25 @@ I agree. I'm adopting this comment and making sure our proposals are progressive
 You plan to offset payment of Citizen's Dividend against taxes that are highly visible such as property taxes so that individuals will receive or pay only the net amount of either taxes or benefits.  If you're only paying net amounts, then you need to know what the individual's income is. That means you're having to assess income again to decide how much CI to pay to people. This means it's not a CI. One of the main advantages of a CI is that you pay it to everyone regardless of income, with minimal administration costs, then adjust the income tax schedule to get it back from the higher earners. Why are you adding this administrational complexity back into the system? (Ben)
 
 A. I don't think we need to add in administrative complexity. I would just make the payment of Citizen's dividend and non-PAYE taxes such as council tax on the same day at the same time.
+
+
+
+## **Q. How do you intend to make your proposals politically feasible?** 
+
+**A. Different people are likely to be motivated in different ways. Some people want to pay less tax. Our proposals will be assessed against the whole population and to see that a majority of the people will pay less tax. Others are motivated by fairness concerns. Others may have a more complex view based on various notions of common sense and/or are simple arguments presented in a compelling way. We will package our reforms in a way that can be expressed as a change from the status quo and in a way that appeals in a majority of people. We will also speak to individuals to see their opinion in tax and welfare and to ensure that the system aligns with these opinions.** 
+
+## **Q. How much and in which ways does Brexit alter the playing field for tax and welfare reform, versus being an EU member state?**  
+
+**A. It depends on what happens next. If the UK joins the European Economic area outside of the EU like Norway, so the UK would be subject to most of the same laws as inside the EU. In particular, we would be required to have a value added tax (VAT). As a member of the EU Customs Union like Turkey, some laws and regulations would still apply. (Clarify this) Even outside the European project entirely, it is likely that the UK would be subject to World Trade Organization (WTO) rules and in particular the provisions of the General Agreement on Tariffs and Trade (GATT).**  
+
+## **Q; How will we ensure that a citizen’s dividend is affordable and doesn’t disincentivise work?** 
+
+**By making the UK an attractive place to live and do business, the incentive for capital flight is reduced. High-quality infrastructure, regional development and a highly skilled workforce are all elements of this strategy.** 
+
+## **Q. If we seek to unilaterally reduce tax avoidance and evasion, how do we know that companies won’t simply take their business elsewhere, to more advantageous tax jurisdictions?**  
+
+**A. This question assumes that a tax system would have incentives to leave unless we allow companies to avoid or evade tax. However, the corporate tax system that we propose is designed specifically such that the incentives are for companies to stay, not to go.**  
+
+## **Q. Wealth inequality is increasing, but UK income inequality allegedly hasn’t changed since 1990. What is the relative importance of these two metrics to the quality of life, and do we need to worry given that income inequality appears to be stable?**  
+
+**A. International comparisons tell the opposite story. Whilst the UK has one of the most extreme levels of income inequality in Europe, whereas our wealth inequality (which is generally more extreme) is in relative terms moderate. Adding in housing costs and the picture is even more difficult in income terms. Saved income (plus investment returns) is the rate of change of wealth.** 
