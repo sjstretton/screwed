@@ -1,24 +1,22 @@
-# PART 2: THE FUTURE -- AN ECONOMY FIT FOR OUR CHILDREN?
+# PART 2: AN ECONOMY FIT FOR OUR CHILDREN
 
-Are you looking for a new economic model for your country? 
+This book is addressed to everyone. Economists, scientists, politicians, professionals and the public. Everyone who cares about tackling climate change. This chapter constitutes a summary of the book as a whole.
 
-This book is addressed to economists, scientists, politicians, business people, other professionals and interested members of the general public who are interested in this problem. This chapter constitutes a summary of the book as a whole.
-
-Many people, across the west, whether they are rich or poor, are starting to lose hope. The poor are losing hope because their economic situation is often precarious. The well-informed are starting to lose hope that our society can fix its critical issues such as climate change. The super rich are building bunkers and preparing for the worst. This book provides hope that our societies can fix our big problems. This book gives us justified hope. Justified hope that humanity can continue to solve its problems.
+People are starting to lose hope. The poor are losing hope because their economic situation is often precarious. The well-informed are starting to lose hope that our society can fix its critical issues such as climate change. The super rich are building bunkers and preparing for the worst. However, there is justified hope that humanity can find a solution to these problems.
 
 What would an economy fit for our children look like? A good society promotes the wealth and happiness of its citizens. Thus, we argue for a society and economy that defines, creates, preserves and fairly distributes natural and humanly-created wealth. Happiness implies a different metric than mere activity: humans need both security and purpose. The challenges of the future give us our purpose and will undermine our security if we do not face them with full commitment. An economy that is good for people and for the planet is one that functions well. 
 
 To define such a society, we need first to consider a question of economics. What are the economic conditions for sustainable and widely-spread prosperity? To answer this question we look back into the history of economic thought.
 
-# What are the Economic Conditions for Sustainable Widely-Spread Prosperty (Chapter 3)
+##What are the Economic Conditions for Sustainable Widely-Spread Prosperity 
 
 This book is about the economic conditions for sustainable and widely spread prosperity.
 
 The economist Adam Smith wrote perhaps the most famous book on economics, *The Wealth of Nations* more than two centuries ago. He was writing at the time of three revolutions: the political revolution in America and France, the industrial revolution that was just beginning in Britain, and the intellectual revolution that he himself played a part in.
 
-Since Smith's day, there has been tremendous technological progress and economic growth. But we still have problems. We have economic insecurity and pollution. 
+Since Smith's day, there has been tremendous technological progress and economic growth; but we still have problems - economic insecurity and pollution. 
 
-Why, given great technological and economic progress, do we still have problems? Why, amid so much wealth, are many of our lives so economically precarious? In the 1960s, in the UK it took an average personon average wages four years wages to buy their own home. Why now does it take an average person on average wages ten years to buy the same home? [PROVIDE DATA] Many of us are just about managing when we should be prospering. 
+Why, given great technological and economic progress, do we still have problems? Why, amid so much wealth, are many of our lives so economically precarious? In the 1960s, in the UK it took an average person average wages four years wages to buy their own home. Why now does it take an average person on average wages ten years to buy the same home? [PROVIDE DATA] Many of us are just about managing when we should be prospering. 
 
 The 19th century writer Henry George's book *Progress and Poverty* asked a similar question. Why, given technological progress, was there so much poverty? George argued that it was the private ownership of land that caused poverty. It was landowners that tended 
 
@@ -32,9 +30,9 @@ Economics is the study of activities that are, at least in part, motivated by fi
 
 Classical political economy considered how the economy distributed its gains.  At the heart of political economy has always been the question of just distribution. Taxation is a means to remedy the situation when distribution is inefficient or unfair, as well as being a way to pay for public goods.
 
-This makes political economy -- and now economics -- powerful. It means that economics has implications for the financial interests of everyone. One can believe an economic theory for scientific reasons, but one might also support some theory because it furthers one's own interests. This makes political and economic discourse somewhat fraught. The corrupting power of self-interest may affect the balance of those economic theories that are thought authoritative.
+This makes the study of political economy - and now economics - powerful. It means that economics has implications for the financial interests of everyone. One can believe an economic theory for scientific reasons, but one might also support some theory because it furthers one's own interests. This makes political and economic discourse somewhat fraught. The corrupting power of self-interest may affect the balance of those economic theories that are thought authoritative.
 
-The works of political economy by the great authors often had questions of taxation and property at their heart. Taxation is considered on two grounds: does it aid efficiency and is it fair? 
+The works of political economy by often had questions of taxation and property at their heart. Taxation is considered on two grounds: does it aid efficiency and is it fair? 
 
 These questions are related not only to economic processes -- for example, production and competition -- but also to taxation and the structure of private property. What assets can be owned? And, who in fact owns the assets? And how much tax should they pay for owning assets or for engaging in economic activity? Desirable economic outcomes depend not only the structure of economic activity but also on the taxation system and the system of property rights. Does self-interest and the free market provide a desirable outcome?
 
@@ -54,11 +52,9 @@ Technological progress, the profit motive and competition would lead to widely s
 
 ## Permanent Profit and Rent
 
-Adam Smith's model relies on certain assumptions. 
+Adam Smith's model relies on certain assumptions. One assumption is that a production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist, or if entrance to the market is expensive, then competition will not work as described. If I own a big monopoly with no competition, I can also own a permanent flow of profits that competition will not touch. The beneficiary will be the owners of the single monopolist or the incumbent firm. 
 
-One assumption is that a production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist, or if entrance to the market is expensive, then competition will not work as described. If I own a big monopoly with no competition, I can also own a permanent flow of profits that competition will not touch. The beneficiary will be the owners of the single monopolist or the incumbent firm. 
-
-Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords. Imagine I own some land with property on it, I can sit back and enjoy the flow of income, without having to work. This flow of income is rent. Then wages increase. Rent goes up, as wages increase. 
+Similarly, if the process relies on some factor of production that cannot be replicated, for example, land, then the beneficiary of the economic progress will be the landlords. Imagine I own some land with property on it, I can sit back and enjoy the flow of income, without having to work. This flow of income is rent. Then wages increase. Rent goes up as wages increase. 
 
 We term these two forms of property income 'generalised rent'. Generalised rent is a permanent flow of income associated with an asset that cannot be replicated. It is received by the owners of properties in valuable locations and the shareholders of companies. We argue that generalised rent leads to expensive housing, stagnating wages and wealth gains for the already rich.
 
@@ -76,7 +72,7 @@ So what are wicked externalities, as opposed to simply negative externalities? W
 
 So why do we have these problems of pollution and precariousness? And what conclusions can we draw? We have identified two phenomena described by the great economists: Economic Rent and Economic Theft. The result of these economic effects is that we have economic growth that benefits the rich and too much pollution.
 
-This leads on to our next question. What should we do about it? We've seen that taxation is important in our economic model because it alters the distribution of income and sets the economic incentives for the private sector. Classical political economists from Adam Smith and David Ricardo to Henry George and Karl Marx argued that the taxation system or redistribution of property could be used to correct for these issues. In Chapter 5 and 6, we use this evidence to inform our recommendations for a good tax system, both in principle and in practice. But first, we can ask the crucial question: how can we make the change? For our recommendations will be useless if politicians and the public ignore them.
+This leads on to our next question. What should we do about it? We've seen that taxation is important in our economic model because it alters the distribution of income and sets the economic incentives for the private sector. Classical political economists from Adam Smith and David Ricardo to Henry George and Karl Marx argued that the taxation system or redistribution of property could be used to correct for these issues. In chapters 5 and 6, we use this evidence to inform our recommendations for a good tax system, both in principle and in practice. But first, we can ask the crucial question: how can we make the change? For our recommendations will be useless if politicians and the public ignore them.
 
 # Public Political Economy and Policy Change
 
@@ -84,11 +80,11 @@ So how can we actually change the tax systems? Economists have been aware of ren
 
 Here, we make the case for a simple 'change equation'. The perceived benefits must overwhelm the resistance. We can address this in two ways: to make a sufficiently passionate and positive case for these taxes or to reduce the barriers and resistance to them. Let's consider one example of revolutionary change, this time in the social security system.
 
-One great milestone in the history of social end economic progress in the UK was the Beveridge report [-@Beveridge1942]. Seventy-seven years ago, liberal economist William Beveridge presented this report for a new welfare state. It laid the basis for the post-war welfare state in the United Kingdom. Its objectives were to banish 'want, ignorance, squalor, disease and idleness'.
+One great milestone in the history of social end economic progress in the UK was the Beveridge report [@Beveridge1942]. Over seventy years ago, liberal economist William Beveridge presented this report for a new welfare state. It laid the basis for the post-war welfare state in the United Kingdom. Its objectives were to banish 'want, ignorance, squalor, disease and idleness'.
 
 Before the Second World War, these social evils ravaged the poor in Britain. The war itself destroyed many buildings, homes and businesses, and increased the national debt. But yet, the post war government managed to create a comprehensive welfare state where none existed before. The postwar welfare state included the National Health Service, a system of social security (welfare benefits), a state education system, public housing, and a 'Keynesian' method of macroeconomic management aiming for full employment. The focus in this book is the social security system.
 
-Three principles guided the Beveridge report [@Beveridge1942: Part 1, paragraphs 6-9].
+Three principles guided the Beveridge report [@Beveridge1942].
 
 - *Radical*: From first principles, without fear or favour to social class or other interest groups.
 - *Comprehensive*: Dealing with poverty, disease, bad housing, unemployment and a lack of education.
@@ -98,13 +94,9 @@ Three principles guided the Beveridge report [@Beveridge1942: Part 1, paragraphs
 
 Beveridge argued that Second World War and its aftermath was 'a time for revolutions, not patching'. He offered a radical approach, informed by the experience of the past but not be restricted by the interests of one group or another. In short, his report would be *radical* (working from first principles) and prioritise the *common interest*.
 
-We also aim to look at tax and welfare from first principles. We will then apply those first principles without fear or favour.
+We also aim to look at tax and welfare from first principles. We will then apply those first principles without fear or favour. But are we at a revolutionary time? Can we change a complex system like tax and welfare from first principles, or is 'patching' the only realistic possibility? We will assert that change is possible if it is beneficial, practical and fair and communicated well so that these aspects are evident.
 
-But are we at a revolutionary time? Can we change a complex system like tax and welfare from first principles, or is 'patching' the only realistic possibility? We will assert that change is possible if it is beneficial, practical and fair and communicated well so that these aspects are evident.
-
-Thus, one does not make fundamental progress without thinking about what a system should *do* and what it should *be*. We address this in the 'tax in principle' chapter.
-
-We need to be passionate about the benefits that reform will bring. We consider these in the next section.
+Thus, one does not make fundamental progress without thinking about what a system should *do* and what it should *be*. We address this in the 'tax in principle' chapter. We need to be passionate about the benefits that reform will bring. We consider these in the next section.
 
 ## Principle 2: Solving Great Social Evils
 
@@ -122,15 +114,11 @@ However, it's not enough to plan to solve these problems. We have to do so in a 
 
 ## Principle 3: A Social Contract Aligning Reward and Contribution
 
-Our new welfare system should not discourage work and should encourage service and contribution. We will study in detail Beveridge's third principle to see if, and how, a better welfare system can be created.
-
-This suggests the case for a system with a universal component: we call this a 'citizen's dividend' (a form of basic income). 
+Our new welfare system should not discourage work and should encourage service and contribution. We will study in detail Beveridge's third principle to see if, and how, a better welfare system can be created. This suggests the case for a system with a universal component: we call this a 'citizen's dividend' (a form of basic income). 
 
 Such a system of universal benefits hacs practical advantages too. It involves the *integration* of the tax system with the benefits system, so there is not a separate system of 'means testing'. Means testing is simply taking money away from indivudals and families as they earn more: this function can simply be carried out through the tax system. People who don't work make more money than those who do! We need to fix this!
 
-Furthermore, we argue for an integrated skills training and work experience system. 
-
-Both proposals are outlined later.
+Furthermore, we argue for an integrated skills training and work experience system. Both proposals are outlined later.
 
 ## Principle 4: Minimising Barriers To Change
 
@@ -146,8 +134,7 @@ Let's focus now on corporate lobbying. Companies can target their own financial 
 
 So we a have catch-22 situation! We can't change the companies without the tax. But sometimes, we can't impose the tax without changing the company, since they resist politically. So instead, we need forms of tax that don't face such resistance, but which lead to the transformation of companies in a positive direction. We describe one option, the feebate, a little later on.
 
-
-# How to Define an Efficient and Fair Taxation System? (Chapter 5)
+##How to Define an Efficient and Fair Taxation System? (Chapter 5)
 
 Tax is the means by which we pay for government services. But this book isn't just or even mostly about government. Rather it is about the possible use of the taxation system to ensure that the *private sector* has appropriate incentives. [GIVE EXAMPLE HERE]
 
@@ -192,8 +179,7 @@ We suggest particularly low-cost loans for new green infrastructure. Finance is 
 
 We will set out how, on a consumption basis, *taxing* the environmental damage that people cause is sensible. We propose a consumption-based carbon tax, and a set of other taxes on other environmmental damages and resource consumption.
 
-
-# The Improvements Our Proposals Could Bring: a Four-fold Framework for Public Wealth
+##A Four-fold Framework for Public Wealth
 
 What improvements could such proposals make? There are four crucial benefits of a better taxation system to wider society. We call these the four realms of value: households, communities, nations and the world. We argue that our proposals can enhance genuine wealth at the level of the individual, community, nation state and planet. For each of these four realms we also define a notion of social entrepreneurship. 
 
@@ -252,42 +238,4 @@ Because protecting the environment is so important, the main priority is not to 
 
 **Case Study: Environmental Taxes in Scandinavia, Switzerland and the UK**
 
-Three European countries show that a Carbon Tax can work exactly as planned. Sweden, Switzerland and the UK all have a carbon tax of some description. Sweden was one of the first to introduce its Carbon Tax. The per capita  emissions of Sweden are now among the lowest in Europe. Similarly, Switzerland has also introduced such a tax. The UK introduced its carbon price floor more recently and it has seen a large fall in emissions. Most notably, the UK has seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags, congestion charges and deposit return schemes.
-
-
-
-
-
-# PLAN OF THE BOOK
-
-The Prelude asks what we would do if we faced a perfect storm, right now in the present day.
-
-Chapter 1 took us on a tour of the revolutions of history: economic, political and technological, to bring us to the challenges of the present day's challenges in the context of the past.
-
-Chapter 2 (which you have just read) gives an overview of the arguments of the rest of the book as they apply to our future.
-
-Chapter 3 takes the reader on a tour of desert islands to illustrate simple ideas of economics in this book.
-
-Chapter 4 builds a conceptual model of collective action, vital for the biggest problems facing us.
-
-Chapter 5 considers tax in principle. 'Beneficial', 'fair' and 'practical' are three general categories which provide us with a framework for assessing any tax or system of taxation. 
-
-Chapter 6 considers tax in practice. We look in detail at tax avoidance.
-
-Chapter 7 considers Inequality of income and wealth which is driven, we argue, not only by differences in merit but also by tax evasion and avoidance, and by unfair processes of asset price appreciation. 
-
-Chapters 8 deals with welfare and work.
-
-Chapter 9 looks at land and housing is increasingly unaffordable in many cities.
-
-Chapter 10 considers the corporation tax system. 
-
-Chapter 11 considers the financial system.
-
-Chapter 12 deals with climate change and other environmental issues, which threaten the future of our living planet.
-
-Chapters 13 contains our proposals.
-
-Chapter 14 concludes the book with a call-to-action.
-
-So let's take our tour of the desert islands to see some of the economic effects we have introduced in action.
+Three European countries show that a Carbon Tax can work exactly as planned. Sweden, Switzerland and the UK all have a carbon tax of some description. Sweden was one of the first to introduce its carbon Tax. The per capita  emissions of Sweden are now among the lowest in Europe. Similarly, Switzerland has also introduced such a tax. The UK introduced its carbon price floor more recently and it has seen a large fall in emissions. Most notably, the UK has seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags, congestion charges and deposit return schemes.
