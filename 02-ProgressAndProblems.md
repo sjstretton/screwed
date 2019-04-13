@@ -8,7 +8,7 @@ What would an economy fit for our children look like? A good society promotes th
 
 To define such a society, we need first to consider a question of economics. What are the economic conditions for sustainable and widely-spread prosperity? To answer this question we look back into the history of economic thought.
 
-##What are the Economic Conditions for Sustainable Widely-Spread Prosperity 
+## What are the Economic Conditions for Sustainable Widely-Spread Prosperity?
 
 This book is about the economic conditions for sustainable and widely spread prosperity.
 
@@ -179,7 +179,7 @@ We suggest particularly low-cost loans for new green infrastructure. Finance is 
 
 We will set out how, on a consumption basis, *taxing* the environmental damage that people cause is sensible. We propose a consumption-based carbon tax, and a set of other taxes on other environmmental damages and resource consumption.
 
-##A Four-fold Framework for Public Wealth
+## A Four-fold Framework for Public Wealth
 
 What improvements could such proposals make? There are four crucial benefits of a better taxation system to wider society. We call these the four realms of value: households, communities, nations and the world. We argue that our proposals can enhance genuine wealth at the level of the individual, community, nation state and planet. For each of these four realms we also define a notion of social entrepreneurship. 
 
