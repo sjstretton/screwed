@@ -4,7 +4,7 @@
 
 UNDER STARRY SKIES, distant in time and space from our present-day fishermen, sits a professor, beavering away at his manuscript. The year is 1773; the location, Kirkaldy, a small town in Scotland; the author, Adam Smith. The full title of Smith's great work would be 'An Inquiry into the Nature and Causes of the Wealth of Nations'.
 
-On this cool and starry night, Smith was writing the fifth and final book of the 'Wealth of Nations', entitled 'On the Revenue of the Sovereign or Commonwealth'. Smith asked, 'how should the activity of the government be funded?'. Which taxes should a state impose? 
+On this cool and starry night, Smith was working on the fifth and final book of the 'Wealth of Nations', entitled 'On the Revenue of the Sovereign or Commonwealth'. Smith asked: How should the activity of the government be funded? Which taxes should a state impose? 
 
 ![](ChapterPictures/AdamSmithSmall.png)
 *Plaque marking the site in Kirkcaldy where Smith lived.*
