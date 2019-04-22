@@ -14,6 +14,7 @@ First, the seas were no longer as bountiful as they once were. In the 1950s, the
 
 In other words, the fishermen were in a situation that was neither safe nor fair - and the lack of fairness led them to take dangerous risks. Moreover, their lives were defined by a world of scarcity, a world that had been depleted by over-exploitation of natural resources.
 
+##Spaceship Earth
 What has the 'Perfect Storm' got to do with the future of the planet? On Earth, we are facing a similar situation as did Clooney and his crew. There are warnings of a dangerous future ahead for all of us. Climate scientists warn of a much hotter planet, with more intense storms and rising seas. Should we ignore the warnings and steam ahead, like Clooney, or recognise the dangers we face and try to mitigate them?
 
 Even if we accept the scientists' warnings and resolve to act on them, our situation remains very tricky. You and I have little control over the direction of the world economy. There is no single captain of the 'Good Ship Earth.' Indeed, most of us have little idea how  exactly the controls of our economy work. 
@@ -26,6 +27,7 @@ There's a lot of truth in these observations - but it's also true that there are
 
 In other words, humanity is in a situation that is neither safe nor fair - and the lack of fairness is leading us to take dangerous risks. Moreover, the economic game is unfolding in an era of extreme environmental risks caused by polluters' failure to take responsibility for pollution, made worse by the *de facto* capture of governments by polluters. 
 
+##Your Safety and Quality of Life Directly and Hugely Depends on Achieving Major Tax Reforms
 That's why we've set out to propose reforms in the way Britain's taxes are organised that make our society safer, fairer, and more responsible in economic and environmental terms. The same or similar reforms as those we propose could also be usefully applied in many other countries. 
 
 Inequality takes many forms and strikes at the root of human security. A rising proportion of young people struggle just to pay exorbitant monthly rent on the flats where they live, and have no realistic prospect of ever owning their own homes. This contributes to anxiety and instability, and inhibits family formation. Basic issues like these - concerns about the affordability of a decent lifestyle for ordinary people - are among the economic phenomena that motivated us to write this book. The question we ask is: How could we reform the tax system so that it is truly fair and effective in delivering the results that matter to ordinary people? Being able to afford a decent place to live, being rewarded in proportion to one's contributive merit, and being assured of a safe and stable global climate and sea-level are among the results that really matter.
@@ -40,6 +42,7 @@ We can phrase these questions in economic and political terms. The economist wou
 
 If we think of our economy as akin to Clooney's boat, money is the fuel coursing through its engine. Although humanity has developed almost god-like powers, we are new to their exercise. We lack experience in steering our boat, we don't fully understand how its engine works, and we also are constantly confronted with the human problems of a bickering crew. It's like we have a boat with a hugely powerful engine, but a crew with little competence in sailing it. We are in the terrifying position of being masters of our own environment, even as we are not quite masters of ourselves. 
 
+##Is Change Achievable?
 Some have said that it's easier to see the end of the planet than the end of capitalism. Money has long been recognised as dangerous to the human soul - two and a half millennia ago, the philosopher Plato bemoaned a decline of honourable standards of behaviour caused, he said, by a 'secret desire for treasure.'
 
 In the song 'Don't stop me now' by Queen, the lead vocalist, Freddie Mercury, sang that the world is 'turning inside out.' Ideas in the minds of human beings become embodied in physical form through economics, and market forces relentlessly generate changes in technology, disrupting any sense of permanence. We are in a world powered by money and ideas. Our civilisation's reigning set of concepts about the intersection of money and ideas, the two powerful forces driving our economy, is called economics.
