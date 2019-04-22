@@ -72,7 +72,7 @@ Three principles guided the Beveridge report [@Beveridge1942].
 
 Here, we adapt and expand these principles to the modern context in which they now operate, through outlining our four-fold framework for successful political change: 
 
-###Principle 1: A Fundamental Review
+## *Principle 1: A Fundamental Review*
 
 Beveridge argued that Second World War and its aftermath was 'a time for revolutions, not patching'. He offered a radical approach, informed by the experience of the past but not be restricted by the interests of one group or another. In short, his report would be *radical* (working from first principles) and prioritise the *common interest*.
 
@@ -80,7 +80,7 @@ We also aim to look at tax and welfare from first principles. We will then apply
 
 Thus, one does not make fundamental progress without thinking about what a system should *do* and what it should *be*. We address this in the 'tax in principle' chapter. We need to be passionate about the benefits that reform will bring. We consider these in the next section.
 
-###Principle 2: Solving Great Social Evils
+## *Principle 2: Solving Great Social Evils*
 
 Beveridge argued for a *comprehensive* solution to the five 'giant' social problems of the poor. His report dealt primarily with want (poverty) and disease (poor health). The other three 'giants' were ignorance (lack of education), squalor (poor housing) and idleness (unemployment). As we mentioned before, his report laid the basis not only for the UK's post-war social security system but also the National Health Service, public education, housing policy and a system of macroeconomic management aiming for full employment.
 
@@ -94,13 +94,13 @@ We still have Beveridge's giant social issues to some degree, but we are also fa
 
 However, it's not enough to plan to solve these problems. We have to do so in a competent way that involves everyone. We cover this matter in the next section.
 
-###Principle 3: A Social Contract Aligning Reward and Contribution
+## *Principle 3: A Social Contract Aligning Reward and Contribution*
 
 Our new welfare system should not discourage work and should encourage service and contribution. We will study in detail Beveridge's third principle to see if, and how, a better welfare system can be created. This suggests the case for a system with a universal component: we call this a 'citizen's dividend' (a form of basic income). 
 
 Such a system of universal benefits has practical advantages too. It involves the *integration* of the tax system with the benefits system, so there is not a separate system of 'means testing'. Means testing is simply taking money away from individuals and families as they earn more: this function can simply be carried out through the tax system. Rewarding people for full and gainful employment would be a priority for any successful system. Furthermore, we argue for an integrated skills training and work experience system. 
 
-###Principle 4: Minimising Barriers To Change
+## *Principle 4: Minimising Barriers To Change*
 
 To Beveridge's three principles we add a fourth. Proposed changes should be prioritised: maximising the benefit and minimising the resistance. In short, we need to reduce barriers to change. 
 
@@ -112,7 +112,7 @@ Let's focus now on corporate lobbying. Companies can target their own financial 
 
 This is a catch-22 situation. We can't change the companies without the tax. But sometimes, we can't impose the tax without changing the company, since they resist politically. So instead, we need forms of tax that don't face such resistance, but which lead to the transformation of companies in a positive direction. We describe one option, the feebate, a little later on.
 
-##A Four-fold Framework for Public Wealth
+## *A Four-fold Framework for Public Wealth*
 
 What improvements could such changes make? There are four crucial benefits of a better taxation system to wider society. We call these the four realms of value: households, communities, nations and the world. We argue that our proposals can enhance genuine wealth at the level of the individual, community, nation state and planet. For each of these four realms we also define a notion of social entrepreneurship. 
 
