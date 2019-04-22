@@ -112,13 +112,13 @@ Let's focus now on corporate lobbying. Companies can target their own financial 
 
 This is a catch-22 situation. We can't change the companies without the tax. But sometimes, we can't impose the tax without changing the company, since they resist politically. So instead, we need forms of tax that don't face such resistance, but which lead to the transformation of companies in a positive direction. We describe one option, the feebate, a little later on.
 
-## *A Four-fold Framework for Public Wealth*
+## A Four-fold Framework for Public Wealth
 
 What improvements could such changes make? There are four crucial benefits of a better taxation system to wider society. We call these the four realms of value: households, communities, nations and the world. We argue that our proposals can enhance genuine wealth at the level of the individual, community, nation state and planet. For each of these four realms we also define a notion of social entrepreneurship. 
 
 These forms of entrepreneurship imply a new growth model for everyone, one that is not based on increasing financialisation and debt issued on limited assets but rather the development of productive industries solving our collective problems. There's an overarching concept too, which we term policy entrepreneurship. That is, we should break out of the monopoly of thought imposed on us by neoclassical economics and neoliberal economic ideas, but rather conceive of and try out practical solutions to our problems.
 
-###Improvement 1: Power to the People
+## *Improvement 1: Power to the People*
 
 The current social security system is highly insecure: benefits are taken away from people when their conditions change, leading them often to go into arrears with their rent or other payments, and often leading them into debt. The current social security system also discourages work, as benefits are withdrawn as income increases (in the Universal Credit system at a rate of 61% for every £ increase in income). 
 
@@ -128,11 +128,11 @@ And an optimal social security system would involve some funding from sovereign 
 
 Our improvements we hope, would lead to skill-based personal and social entrepreneurship. A better system in which benefit would not be withdrawn so rapidly as income increases, would encourage people to increase their skill level, would be well integrated with the taxation system and would also support those who enhance their communities in ways other than simply earning money (for example, by caring or raising a child). It would also allow division of labour with minimal taxation between individuals in communities (so eliminating the tax advantages of being a company relative to an everyday citizen).
 
-####**Case Study: Income and Corporation Tax: USA in the period 1945--1980**
+### **Case Study: Income and Corporation Tax: USA in the period 1945--1980**
 
 The United States in the post war showed the advantage of redistributive income taxation, including high tax rates on companies. The top rate of income tax was often over 70% in that period, and taxes on companies were also higher than at present. Because everyone's incomes were not widely different, this meant that normal people could not only afford consumer goods but also everyone had a chance to buy the limited positional goods such as land. Since the top rate of tax was high, and since income tax is the largest and most important tax, this meant that the average tax rate paid by people on average earnings was lower. We discuss this is parts 6 and 7.
 
-###Improvement 2: An Affordable Home in a Prosperous Community 
+## *Improvement 2: An Affordable Home in a Prosperous Community* 
 
 The second priority is an affordable home for all. British governments have massively mismanaged the taxation of housing and business properties. By appropriately taxing the value of the location (land), in a way that is convenient and fair for all, we make it possible for most people to enjoy the economic benefits of owning their own home. An optimal tax system would encourage community action, so that 'community entrepreneurship' allows communities to develop their value and capture the fruits of this development. How do we achieve this, given how expensive homes already are in South East England?
 
@@ -144,7 +144,7 @@ Taxing property values rather than property per se would stabilise the current p
 
 Singapore shows what has been termed the 'property state' [@Haila2015]: it shows what is possible when there is a 'prosperity loop' between investment in public infrastructure and public rent collection. In short, as the government makes infrastructure improvements, those improvements increase the rental value of the land. Those land value increases then accrue to the government. Hong Kong also shows the advantages of this approach. Before a new metro line is built, land near the new stations is purchased at pre-announcement cost. When the metro station has been built, the property value and rent will increase. In this way, society captures the land value benefit of the new infrastructure [Purves]. We discuss this is part 8.
 
-###Improvement 3: A Prosperous and Wealthy Country
+## *Improvement 3: A Prosperous and Wealthy Country*
 
 The third priority is a prosperous and wealthy country. The current taxation system does not encourage productive wealth formation. In fact, it encourages those sorts of companies that *extract* wealth from the country and discourages those who wish to invest in the society. A better system would encourage people who invest in *real assets*, but discourage purely financial investment. In short, a good tax system encourages a balance of trade. 
 
@@ -154,13 +154,13 @@ For this, we need to provide an incentive for companies like Dyson to locate int
 
  Sales - UK Wages - UK Investment. 
 
-In other words, the tax should *encourage* UK companies to invest in the UK. We call this a *Dyson Tax*. The financial system should be encouraged to lend to real businesses.
+In other words, the tax should *encourage* UK companies to invest in the UK. We call this a *Dyson Tax*. The financial system should be encouraged to lend to real-economy productive businesses.
 
-####**Case Study: Financial 'Repression' in the UK in the period 1945 -- 1980**
+#### **Case Study: Financial 'Repression' in the UK in the period 1945 -- 1980**
 
-One great anxiety is about *debt*. There are basically two forms of debt that concern people: public (or government) debt and private debt. High public debt pressures governments to 'cut the deficit' through 'austerity'. Yet in the past, the best way to reduce the burden of public debt has been not to worry about it: or rather to use different strategies. In the three decades after the Second World War, the UK reduced its public debt to GDP ratio from over 250% of GDP to 70% of GDP. It did this not through austerity, but rather through growth, inflation, monetisation of some debt, and low interest rates. We consider the fiscal benefits of such strategies later in this book.
+One great anxiety is about *debt*. There are basically two forms of debt that concern people: public (or government) debt and private debt. High public debt pressures governments to 'cut the deficit' through 'austerity.' Yet in the past, the best way to reduce the burden of public debt has been to not worry much about it - i.e. to use different strategies than cutting expenditures to reduce the debt-to-GDP ratio. In the three decades after the Second World War, the UK reduced its public debt to GDP ratio from over 250% of GDP to 70% of GDP. It did this not through austerity, but rather through growth, inflation, monetisation of some debt, and low interest rates. We consider the fiscal benefits of such strategies later in this book.
 
-Improvement 4: A Clean and Safe Global Environment (Chapter 12)
+## *Improvement 4: A Clean and Safe Global Environment (Chapter 12)*
 
 The final priority is the environment. There are a number of major environmental problems facing us, most notably climate change and ocean acidification, but also plastics in the ocean, habitat destruction, road congestion, over-fishing, and conventional air, water and land pollution. Environmental taxes have a few challenges: they can be unpopular, hard to design, encourage 'off-shoring' of dirty forms of industry and can be bureaucratic. 
 
@@ -170,14 +170,14 @@ Individual country actions are not enough. Instead, we need action that is globa
 
 Because protecting the environment is so important, the main priority is not to raise additional revenue with this taxation source. But we do intend to ensure that the private sector has the correct incentives. Therefore, we propose a Carbon Tax. However, there needs to be an alternative to fossil fuels. We achieve this with a tax on carbon inputs with a subsidy on electricity production. Simultaneously, we also provide low-cost loans from the public loan board. There will be prizes for rapid roll-out of new technologies and national targets for the roll out of low-carbon electricity. 
 
-####**Case Study: Environmental Taxes in Scandinavia, Switzerland and the UK**
+#### **Case Study: Environmental Taxes in Scandinavia, Switzerland and the UK**
 
-Three European countries show that a Carbon Tax can work exactly as planned. Sweden, Switzerland and the UK all have a carbon tax of some description. Sweden was one of the first to introduce its carbon Tax. The per capita emissions of Sweden are now among the lowest in Europe. Similarly, Switzerland has also introduced such a tax. The UK introduced its carbon price floor more recently and it has seen a large fall in emissions. Most notably, the UK has seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags, congestion charges and deposit return schemes.
+Three European countries show that a carbon tax can work exactly as planned. Sweden, Switzerland, and the UK all have a carbon tax of some description. Sweden was one of the first to introduce its carbon tax. The per capita emissions of Sweden are now among the lowest in Europe. Switzerland has also introduced such a tax. The UK introduced its 'carbon price floor' more recently, and it has seen a large fall in emissions. Most notably, the UK has seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags, urban traffic congestion charges, and deposit return schemes.
 
 ## Conclusions
 
-The central concern of the book is the use of the tax system for public benefit. Therefore book is devoted to how to pay for public services and social protection in a world characterised by 'wicked externalities', 'generalised rent', and (as we will deal with later) international flows of money and assets. We wish to solve the critical challenges facing our societies, including climate change, poverty and the complexity, avoidance and evasion in our taxation and welfare systems.
+The central concern of the book is the use of the tax system for public benefit. The challenge addressed is how to pay for public services and social protection in a world characterised by 'wicked externalities,' 'generalised rent,' and (as we will deal with later) international flows of money and assets. We want to solve the critical challenges facing our societies, including climate change, poverty, and the phenomena of complexity, avoidance, and evasion in our taxation and welfare systems.
 
-We wish, not just to minimise the costs of taxation, but rather to aim for taxes that are actively beneficial. Good taxes would shape the profit motive towards the needs of people, communities, and the living planet on which we all depend. Here, we seek a tax and social security system that is not only fair and practical but also beneficial to everyday people, our country and our world. 
+Our aim is to propose a system of taxes that are actively beneficial. Good taxes would shape the profit motive towards the needs of people, communities, and the living planet on which we all depend. We seek a tax and social security system that is not only fair and practical, but also beneficial to ordinary people, our country, and our world. 
 
-Because this book is about taxation and welfare in the context of the real economy and the global environment, inevitably, it overlaps with other systems. Crucial matters of overlapping concern include energy, housing and finance. Our focus is mostly on taxation in relation to the problems seen in these systems. Nevertheless we do not mean to exclude specific policy changes that are not related to taxation. Tax can help us solve our social and environmental problems, but it's not the only method for so doing. 
+Because this book is about taxation and welfare in the context of the real economy and the global environment, it inevitably overlaps with other systems, including systems for providing energy, housing, and finance. Our focus is mostly on taxation in relation to the problems seen in these systems. Nevertheless we do not intend to exclude specific policy changes that are not related to taxation. Smart taxation can make enormous contributions toward solving our social and environmental problems, but it is not the only mechanism for so doing. 
