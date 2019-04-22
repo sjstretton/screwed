@@ -1,5 +1,5 @@
 # PART 1: REVOLUTIONS IN THE MINDS OF MEN
-Let's go on a voyage through time. Imagine you had a magic carpet that allowed you to flit across the continents and centuries at will, and that you set out to see first-hand how some of the cornerstone ideas of our economic system came into being. Ready?
+Let's go on a voyage through time. Imagine you had a magic carpet that allowed you to flit across the continents and centuries at will, and that you set out to see first-hand how some of the cornerstone ideas of our economic system came into being. Ready? Let's have a look around...
 
 ## In the Beginning came Adam
 
