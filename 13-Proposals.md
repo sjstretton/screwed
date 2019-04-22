@@ -12,17 +12,17 @@ link-citations: yes
 
 # 13.1 Overview
 
-In this book we have compared the Tax and Welfare system to an operating system; a mechanism of levers through which society is run, funds are raised, and public services are delivered. Using this metaphor, we have been able to troubleshoot the bugs in the current system and illustrate why the UK has seen increasing inequality of outcomes for the best and the worst off in our society. 
+In this book, we have compared the Tax and Welfare system to an operating system - a mechanism of levers through which society is run, funds are raised, and public services are delivered. Using this metaphor, we have been able to troubleshoot the bugs in the current system and illustrate why the UK has seen increasing inequality of outcomes between the best- and the worst-off in our society. 
 
-We have an unwieldy, overly complex tax and welfare system in which the rich get richer, while those on the bottom see their income and wealth stagnate. By delivering benefits on a means-tested basis, our benefit system doesn't encourage re-entering employment.
+We have an unwieldy, overly complex tax and welfare system in which the rich get richer, while those on the bottom and in the middle income classes see their income and wealth stagnate. By delivering benefits on a means-tested basis, our benefit system doesn't encourage re-entering employment.
 
-Early on in this book we outlined the framework we choose to structure the evaluation of the UK tax system, by building on Beveridge's work in fighting his five great evils of society. These guiding principles structure our analysis. We argue for a tax system that is fair, and lead to greater equality of opportunity amongst its members. It should be beneficial and contribute to the sustainable and ethical development of a society. Finally such a system should be practical in its administration and application. 
+Early on in this book, we outlined the framework with which we would structure our evaluation of the UK tax system, by building on Beveridge's work in fighting his five great evils of society. These guiding principles structure our analysis. We argue for a tax system that is fair and leads to greater equality of opportunity amongst its members. It should be beneficial and contribute to the sustainable and ethical development of society. Finally, such a system should be practical in its administration and application. 
 
 Taxes, amongst their other roles of nudging incentives and redistributing income, are predominately aimed at financing public provision of goods and services - including welfare for the most needy in society. Therefore, we emphasise that these three balls need to be balanced carefully so as to ensure that the UK's Tax and Welfare system helps us build the society that we aim to achieve.
 
-Discussed extensively in the book, it's important to summarise the findings from our discussion. These are expanded upon below. Broadly, on the whole, we plan to simplify the income tax and benefit system, and augment taxes where there is a social outcome that needs to be achieved through discouraging negative behaviour. A comprehensive Land Value Tax (LVT) would be phased in, so as to ensure that land was successfully developed, and any excess rent could be captured and that windfall redistributed.
+We summarise the findings from our discussion below. Broadly, on the whole, we propose to simplify the income tax and benefit system, and augment taxes where there is a social outcome that needs to be achieved through discouraging negative behaviour. A comprehensive Land Value Tax (LVT) would be phased in, so as to ensure that land was successfully developed, such that any excess rent could be captured and the windfall redistributed.
 
-Our proposals below should be considered interim, since we have not yet completed accurate modelling of all their effects.
+Our proposals should be considered interim, since we have not yet completed accurate modelling of all their effects.
 
 ## Summary
 
@@ -58,7 +58,7 @@ We use these proposals to guide our own recommendations for new policies.
 
 # 13.3 Philosophy of Our Proposals
 
-In this section we explain the guiding philosophy behind our proposals, and define a simple set of proposals that may help achieve an ideal taxation system. The guiding principles here are that the system will be beneficial, fair, and practical.
+In this section we explain our guiding philosophy and define a simple set of proposals that may help achieve an ideal taxation system. The guiding principles here are that the system will be beneficial, fair, and practical.
 
 ## Beneficiaries
 
