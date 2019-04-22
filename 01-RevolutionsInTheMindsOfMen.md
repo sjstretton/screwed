@@ -1,7 +1,7 @@
 # PART 1: REVOLUTIONS IN THE MINDS OF MEN
 Let's go on a voyage through time. Imagine you had a magic carpet that allowed you to flit across the continents and centuries at will, and that you set out to see first-hand how some of the cornerstone ideas of our economic system came into being. Ready? Let's have a look around...
 
-## In the Beginning came Adam
+## In the Beginning Came Adam
 
 UNDER STARRY SKIES, distant in time and space from our present-day fishermen, sits a learned professor, beavering away at his manuscript. The year is 1773; the location, Kirkaldy, a small town in Scotland; the author, Adam Smith (1723-90). The full title of Smith's great work would be 'An Inquiry into the Nature and Causes of the Wealth of Nations.'
 
@@ -74,7 +74,7 @@ The UK has rolled out a reform known as 'Universal Credit,' which integrates fou
 
 It does not have to be this way.
 
-## Questions for change
+## Questions for Change
 
 In the next section, we define five major questions that this enquiry seeks to answer. They are as follows:
 
