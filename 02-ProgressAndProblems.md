@@ -140,21 +140,22 @@ The first thing is to capture location rent increases for public causes. What do
 
 Taxing property values rather than property per se would stabilise the current property values. Where land value increases, this increase would be allocated between the local community, the municipal authority and the central government. 
 
-####**Case Study: Land Value Capture in Singapore and Hong Kong since independence**
+#### **Case Study: Land Value Capture in Singapore and Hong Kong since independence**
 
-Singapore shows what has been termed the 'property state' [@Haila2015]: it shows what is possible when there is a 'prosperity loop' between investment in public infrastructure and public rent collection. In short, as the government makes infrastructure improvements, those improvements increase the rental value of the land. Those land value increases then accrue to the government. Hong Kong also shows the advantages of this approach. Before a new metro line is built, land near the new stations is purchased at pre-announcement cost. When the metro station has been built, the property value and rent will increase. In this way, society captures the land value benefit of the new infrastructure [Purves]. We discuss this is part 8.
+Singapore has been termed the 'property state' [@Haila2015]: Its example shows what is possible when there is a 'prosperity loop' between investment in public infrastructure and public rent collection. In a nutshell: As the government makes infrastructure improvements, those improvements increase the rental value of the land. Those land value increases then accrue to the government. Hong Kong also shows the advantages of this approach. Before a new metro line is built, land near the new stations is purchased at pre-announcement cost. When the metro station has been built, the property value and rent will increase. In this way, society captures the land value benefit of the new infrastructure [Purves]. We discuss this in Part 8.
 
 ## *Improvement 3: A Prosperous and Wealthy Country*
 
-The third priority is a prosperous and wealthy country. The current taxation system does not encourage productive wealth formation. In fact, it encourages those sorts of companies that *extract* wealth from the country and discourages those who wish to invest in the society. A better system would encourage people who invest in *real assets*, but discourage purely financial investment. In short, a good tax system encourages a balance of trade. 
+The third priority is a prosperous and wealthy country. The current taxation system does not encourage productive wealth formation. In fact, it encourages the sorts of companies that *extract* wealth from the country, and discourages those who want to invest productively and regeneratively in society. A better system would encourage people who invest in *real assets*, but discourage purely financial investment. In short, a good tax system encourages a balance of trade. 
 
-A good tax system discourages foreign investment in a financial sense whilst encouraging investment in a real sense. An optimal taxation system would involve a collaboration between state and the private sector, so the gains of research and development investment are shared between both. 
+A good tax system discourages foreign investment in a financial sense (speculation on paper assets) whilst encouraging investment in a real sense (in building factories, for example). An optimal taxation system would involve a collaboration between state and the private sector, so the gains of research and development investment are shared between both. 
 
-For this, we need to provide an incentive for companies like Dyson to locate into the UK. We would simplify the corporation tax system so that it is progressive but allows real invesment to be deductible. This system is similar to that seen in the USA in the post-war period. We suggest the following: a *higher* corporate tax but calculated as follows:
+For this, we need to provide an incentive for companies like Dyson to locate into the UK. We would simplify the corporation tax system so that it is progressive, but allows real investment to be deductible. This system is similar to that seen in the USA in the post-war period. We suggest the following: a *higher* corporate tax but calculated as a percentage of the following net quantity:
 
  Sales - UK Wages - UK Investment. 
 
-In other words, the tax should *encourage* UK companies to invest in the UK. We call this a *Dyson Tax*. The financial system should be encouraged to lend to real-economy productive businesses.
+In other words, the tax should *encourage* UK companies to invest in the UK. We call this a *Dyson Tax*. 
+Moreover, commercial banks should be encouraged to lend to real-economy productive businesses.
 
 #### **Case Study: Financial 'Repression' in the UK in the period 1945 -- 1980**
 
