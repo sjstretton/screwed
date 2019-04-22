@@ -1,12 +1,12 @@
 # PART 3: DESERT ISLAND POLITICAL ECONOMY
 
-The purpose of this section is to take you on a whirlwind tour of some important ideas in economics and the history of economic ideas. We shall introduce these ideas through stories on a set of islands, which we will term the Economic Archipelago (the 'Tea Islands'). In the subsequent chapter we will introduce these same ideas more formally using a different analogy: the cake.
+The purpose of this section is to take you on a whirlwind tour of some important ideas in economics and the history of economic ideas. We shall introduce these ideas through stories set on a group of several islands, which we will term the Economic Archipelago (the 'Tea Islands'). In the subsequent chapter we will introduce these same ideas more formally using a different analogy: The cake.
 
 ## 3.1 Growth on Great Island: Adam Smith's Model
 
-In this economic fable we will demonstrate Adam Smith's model of growth through specialisation.
+In this economic fable, we will demonstrate Adam Smith's model of growth through specialisation.
 
-The largest island in the Tea Islands is called 'Great Island'. On Great Island live a few hundred people. Everyone does the same thing, which is a bit of everything. Half the day is spent fishing (including maintenance of the boats and nets), and the other half is spent gathering nuts and berries. This yields 250g of fish and 250g of nuts and berries per person. In total, 0.5kg of food is gathered, which is exactly equal to their dietary needs. 
+The largest island in the Tea Islands is called 'Great Island.' On Great Island live a few hundred people. Everyone does the same thing, which is a bit of everything. Half the day is spent fishing (including maintenance of the boats and nets), and the other half is spent gathering nuts and berries. This yields 250g of fish and 250g of nuts and berries per person per day. In total, 0.5kg of food is gathered, which is exactly equal to their dietary needs. 
 
 **Specialization and Trade**
 
