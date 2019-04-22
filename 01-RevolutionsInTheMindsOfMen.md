@@ -58,30 +58,30 @@ To Peter and Lucy, this is the usual way of things, although they don't like it 
 
 ## Are the Prices Right?
 
-This book is about the prices of things, and how the prices of things is influenced by the taxation system. Houses and flights already have some taxes on them. If you live in a house, you pay Council Tax. And if you take a flight, you pay Air Passenger Duty. Putting a higher tax on houses will *reduce* the purchase price of the house. That's because the value of the house depends in part on the obligations associated with it, taxation included. 
+This book is about the prices of things, and how these are influenced by the taxation system. Houses and flights already have some taxes applied to them. If you live in a house, you pay Council Tax. And if you take a flight, you pay Air Passenger Duty. Putting a higher tax on houses will *reduce* the purchase price of the house. That's because the value of the house depends in part on the obligations associated with it, taxation included. 
 
-This book does not argue for environmental taxes primarily to change the behaviour of consumers. Rather, it seeks to change the economy to provide goods in ways that do not damage the living planet. Sometimes, this will be difficult. It's hard to design aeroplanes that do not burn oil products. But technological change adapts to market need. And if zero-carbon planes cannot be designed, then perhaps those who fly should pay for the capture of Carbon Dioxide from the air elsewhere. The tax on flying, and other activities that produce greenhouse gases, should be enough to encourage people to capture those gases from the air if they cannot be eliminated directly.
+This book does not argue for environmental taxes primarily to change the behaviour of consumers. Rather, it seeks to change the economy to provide goods in ways that do not damage the living planet. Sometimes, this will be difficult. It's hard to design aeroplanes that do not burn oil products (although it is possible, albeit financially and energetically expensive, to produce low-carbon synthetic kerosene). But technologies change and adapt to market demands. And if zero-carbon planes cannot be designed, then perhaps those who fly should pay for the capture of carbon dioxide from the air and its permanent safe storage. The tax on flying, and on other activities that produce greenhouse gases, should be enough to encourage people to capture those gases from the air if they cannot be eliminated directly.
 
-The price of things needs to be just. A just price of things requires a just tax system. A just tax system will cause people to pay for the damage they cause to the environment. A just system will also ensure that nobody gets rich merely by owning some of the limited things of life, such as land. In short, justice and social benefit are the same, fairness and efficiency merely two sides of a coin. That is Tax Heaven. It is to such a tax system that this book is devoted.  
+The prices of things should be just. A just price requires a just tax system. A just tax system will cause people to pay for the damage they cause to the environment. A just system will also ensure that nobody gets rich *merely by owning* some of the things in life that are in limited supply, such as land. In short, in a just economy, justice and social benefit go hand-in-hand; fairness and efficiency are two sides of the same coin. That is the essence of Tax Heaven, and the aim of the reforms we propose in what follows.  
 
-There's a corny old joke about the man that asks for directions and gets the response "Well, if I was going there, I wouldn't start from here". It's not just the final state of affairs that must be just, but also the approach of getting from here to there. In the later parts of the book, we show how to transition in a fair way to a just tax system.
+There's an old joke about a man who asks for directions and gets the response: "Well, if I were going there, I wouldn't start from here." It's not just the final state of affairs that must be just, but also the pathway for getting from here to there. Later on, we will try to show how to transition in a fair way to a just tax system.
 
 ## Bringing Back Self-Respect
 
-Further down the street from Peter and Lucy lives Fred. Fred is on benefits. He once took a job, but he found that once this happened, his benefits were cut off. There was a gap between his new wage and the benefits coming in. Thanks to this, he didn't have the money for the rent. 
+Further down the street from Peter and Lucy lives Fred. Fred is on benefits. He took a job at one point a couple of years ago, but he found that once this happened, his benefits were cut off. There was a gap between his new wage and the benefits coming in. As a result, he didn't have the money for the rent. 
 
-The UK has rolled out a reform known as 'Universal Credit', which integrates four income-related benefits into one. The 'benefits withdrawal' rate (in effect the income tax on additional income) on Universal Credit is 63%. This means that you  lose two thirds of the extra income you get. Some of the problems with the new system also relate to administration and issues with design. UC inbuilt a delay in payments, which has caused several issues for the recipients. 
+The UK has rolled out a reform known as 'Universal Credit,' which integrates four income-related benefits into one. The 'benefits withdrawal' rate (in effect the income tax on additional income) on Universal Credit is 63%. This means that you lose two-thirds of the extra income you get from working (rather than simply staying on benefits and not working). Does that seem like a deal likely to motivate the long-term unemployed to get back into work? Some of the problems with the new system also relate to administration and design issues. The Universal Credit system has also seen delays in payments, which has caused problems for recipients, many of whom have savings to see them through short-term cash flow bottlenecks. 
 
 It does not have to be this way.
 
 ## Questions for change
 
-In the next section we define the five major questions that this enquiry seeks to answer. They are as follows
+In the next section, we define five major questions that this enquiry seeks to answer. They are as follows:
 
 1. What would an economy fit for our children look like? 
-2. What are the economic conditions for widely-spread and sustainable prosperity?
+2. What are the economic conditions for widespread and sustainable prosperity?
 3. How can we define a better tax and social security system?
-4. How to make the change?
+4. How can the changes be achieved?
 5. What advantages would such changes bring?
 
-Onwards then, to defining the future!
+Onwards then, to defining the future...
