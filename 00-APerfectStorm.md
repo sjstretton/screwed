@@ -16,7 +16,7 @@ What has the 'Perfect Storm' got to do with the future of the planet? On Earth, 
 
 Even if we accept these warnings, the situation remains tricky. You and I have little control over the direction of the world economy. There is no single captain of the 'Good Ship Earth.' Indeed, most of us have little idea how  exactly the controls of our economy work. 
 
-This book is about a centrally important set of controls which direct the focus and trajectory of our economy: Taxation. In this book, we show how changes to the tax system could be made to direct the economy towards a brighter future. We link taxation to substantive concerns of our daily lives and our long-term collective future, including welfare benefits, property rights, wealth accumulation, environment, energy and housing policy.
+This book is about a centrally important set of controls which direct the focus and trajectory of our economy: Taxation. In this book, we show how changes to the tax system could be made to shift the economy towards a brighter future. We link taxation to substantive concerns of our daily lives and our long-term collective future, including welfare benefits, property rights, wealth accumulation, environment, energy and housing policy.
 
 A critic might argue that people's interests and actions are their own business. People should be free to do what they want, without the government interfering. Anyway, hasn't the market economy had a good record? Globally, humanity is richer, more secure, and living longer than ever before. Poverty is also at record low levels. 
 
