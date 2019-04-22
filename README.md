@@ -21,7 +21,7 @@ This document contains the overarching material for 'Tax Heaven'. It contains:
 
 # Overview of Book
 
-This is some pieces of text that don't fully fit together but form the basis of the introductory chapter. The presentation (next section below) is a bit more structured.
+These are some pieces of text that don't fully fit together, but form the basis of the introductory chapter. The presentation (next section below) is a bit more structured.
 
 ## Audience
 
