@@ -2,7 +2,7 @@
 
 The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
 
-A group of New England fishermen had fallen on hard times after a series of poor catches. Their captain, played in the film by the actor George Clooney, hired a boat for one final fishing trip of the year. The trawler sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish. Turning for home, they hoped to get the catch back whilst still fresh. Unfortunately, a storm was brewing, and not just any storm. Three separate weather systems had merged to create a 'weather bomb' of unusual intensity. Meteorologists warned of a serious threat to life.  
+A group of New England fishermen had fallen on hard times after a series of poor catches. Their captain, played in the film by the actor George Clooney, hired a boat for one final fishing trip of the year. The trawler sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish. Turning for home, they hoped to get the catch back whilst still fresh. Unfortunately, a storm was brewing - and not just any storm. Three separate weather systems had merged to create a 'weather bomb' of unusual intensity. Meteorologists warned of a serious threat to life.  
 
 The fishermen faced a dilemma. Should they attempt to land their catch whilst still fresh? To do so, they would need to risk their lives by sailing back, straight through the storm. Or they could avoid the storm by sailing further out to sea. After this detour, the fish would no longer be fresh and they would be out of pocket.
 
