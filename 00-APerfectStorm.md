@@ -6,7 +6,7 @@ A group of New England fishermen had fallen on hard times after a series of poor
 
 The fishermen faced a dilemma. Should they attempt to land their catch whilst still fresh? To do so, they would need to risk their lives by sailing back, straight through the storm. Or they could avoid the storm by sailing further out to sea. After this detour, the fish would no longer be fresh and they would be out of pocket.
 
-Added to this dilemma were communication and leadership issues. The storm had damaged the radio, making it difficult to get information or call for help. The captain (we will call him 'Clooney' after the actor playing him), whilst charismatic, lacked good judgment. He took the risk and sailed into the storm.
+Added to this dilemma were communication and leadership issues. The storm had damaged the radio, making it difficult to get information or call for help. The captain (we'll call him 'Clooney' after the actor playing him), whilst charismatic, lacked good judgment. He took the risk and sailed into the storm.
 
 Taking a step back from their immediate plight, it seems odd that Clooney and his men took such a severe risk. Why were they in that situation in the first place? Perhaps there are two reasons.
 
