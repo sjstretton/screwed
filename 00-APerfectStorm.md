@@ -8,9 +8,9 @@ The fishermen faced a dilemma. Should they attempt to land their catch whilst st
 
 Added to this dilemma were communication and leadership issues. The storm had damaged the radio, making it difficult to get information or call for help. The captain (we'll call him 'Clooney' after the actor playing him), whilst charismatic, lacked good judgment. He took the risk and sailed into the storm.
 
-Taking a step back from their immediate plight, it seems odd that Clooney and his men took such a severe risk. Why were they in that situation in the first place? Perhaps there are two reasons.
+Taking a step back from their immediate plight, it seems odd that Clooney and his men took such a severe risk. Why were they in that situation in the first place? Perhaps there were two reasons.
 
-First, the seas were no longer as bountiful as they once were. In the 1950s, the Grand Banks off Newfoundland teemed with fish. But overfishing led to a collapse in stocks. Thus our crew needed to go further out to sea, where more plentiful stocks remained. Second, the fishermen lacked economic security in their lives. They had to fish to keep food on the table. Beyond their own homes, they owned little. The boat was owned by an investor who expected a return without doing anything quite so dangerous as heading out to sea.
+First, the seas were no longer as bountiful as they once were. In the 1950s, the Grand Banks off Newfoundland teemed with fish. But overfishing led to a collapse in stocks. Thus our crew needed to go further out to sea, where more plentiful stocks remained. Second, the fishermen lacked economic security in their lives. They had to fish to keep food on the table. Beyond their own homes, they owned little. The boat itself was owned by an investor who expected a return without doing anything quite so dangerous as heading out to sea.
 
 What has the 'Perfect Storm' got to do with the future of the planet? On Earth, we are facing a similar situation to Clooney and his crew. There are warnings of a dangerous future for us all. Climate scientists warn of a much hotter planet with more intense storms and rising seas. Should we ignore the warnings and steam ahead, like Clooney, or recognise the dangers we face and try to mitigate them?
 
