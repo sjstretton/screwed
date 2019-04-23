@@ -68,13 +68,15 @@ Imagine the island is split into two domains of differential rabbit productivity
 
 Let's say that for some reason, there's a series of storms the people on the islands find it hard to catch fish. The landlords however have some spare resource - stored dried food - that they have accumulated over many years. They sell this food to the fishermen. In exchange the fishermen sell their boats to the landlords and rent them back. Now there is no rent-free way of earning a living. In this situation, land and other ways of earning a living are absolutely scarce. They have been bought up by the wealthy landlords.
 
-We can consider two possibilities: the first is that there is a shortage of workers. In this case, there will be some level of scarcity in labour and therefore wages will be kept up. The split between the revenue going to the landlords for renting a boat and labour will depend on the 
+How much of the landlord's revenue comes from renting out boats and how much comes from seizing the surplus from land-based labour by renting out hunting-rights to the rabbit hunters will depend on the abolute scarcity of land and also the absolute scarcity of labour.
+
+We can consider two possibilities: the first is that there is a shortage of workers. In this case, there will be some level of scarcity in labour and therefore wages will be kept up. 
 
 In this current scenario, of the original 1kg of fish, only half a kg is retained, the other half is paid as rent for the boats. The residual wages are not now set at what the fishermen can earn in a rent-free existence, but rather the minimum that will keep them alive.
 
 **Capital**
 
-Let's say that Robinson sets aside some of his wages not to live, but to save for the future. He works for a bit and then creates some rabbit traps. He has to invest his time in the traps but after making the traps, his productivity is doubled from 1 rabbit per hour to two; or from 8 rabbits per day to 16. It takes him one day to build the traps. The traps double his daily productivity to 16 rabbits per day. We can say that it increases his productivity by 8 rabbits. Each trap lasts 10 working days (80 hours) before having to be completely replaced. 
+Let's say that Robinson sets aside some of his wages, in order to save for the future. He works for a bit and creates some rabbit traps. He has to invest his time in making the traps, but once he has done so, his productivity doubles from 1 rabbit per hour to two; or from 8 rabbits per day to 16. It takes him one day to build the traps. The traps double his daily productivity to 16 rabbits per day. We can say that it increases his productivity by 8 rabbits. Each trap lasts 10 working days (80 hours) before having to be completely replaced. 
 
 Does this investment make sense? Let's work it out. There's an investment of 8 hours of time, and this leads to 8 extra rabbits per day for 10 days. This is a total of 80 extra rabbits. I give up 8 rabbits in the day to construct my trap, and I get back 80 rabbits. Let's say that I borrow the resources to make the traps, so I borrow 8 rabbits to pay the rent and feed myself the day I make the traps.
 
