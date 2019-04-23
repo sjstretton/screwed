@@ -1,10 +1,15 @@
-# WHERE ARE WE NOW? FACING A PERFECT STORM.
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# FACING A PERFECT STORM.
 
 The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
 
 A group of New England fishermen had fallen on hard times after a series of poor catches. Their captain, played in the film by the actor George Clooney, hired a boat for one final fishing trip of the year. The trawler sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish. Turning for home, they hoped to get the catch back whilst still fresh. Unfortunately, a storm was brewing, and not just any storm. Three separate weather systems had merged to create a 'weather bomb' of unusual intensity. Meteorologists warned of a serious threat to life.  
 
-The fishermen faced a dilemma. Should they attempt to land their catch whilst still fresh? To do so, they would need to risk their lives by sailing back, straight through the storm. Or they could avoid the storm by sailing further out to sea. After this detour, the fish would no longer be fresh and they would be out of pocket.
+The fishermen faced a dilemma. Should they attempt to land their catch whilst still fresh? To do so, they would need to risk their lives by sailing back, straight through the storm. Or they could avoid the storm by sailing further out to sea. After this detour, the fish would no longer be fresh and the fishermen would be out of pocket.
 
 Added to this dilemma were communication and leadership issues. The storm had damaged the radio, making it difficult to get information or call for help. The captain (we will call him 'Clooney' after the actor playing him), whilst charismatic, lacked good judgment. He took the risk and sailed into the storm.
 
@@ -43,4 +48,4 @@ In the song 'Don't Stop me now' by Queen, the lead vocalist, Freddie Mercury sin
 
 Economists study scarcity, amongst other things. Here we focus on three forms of scarcity. Space is limited, although it is more limited in some places - like Hong Kong - than others - like Siberia. Time is limited too. What I do today can never be given back. And finally, resources, like energy, are limited. Humans live off stored-up sunlight - coal oil and gas. But using this stored-up sunlight threatens much greater storms in the future. One great issue is sheer momentum. Our whole economic way of life is 'locked in' to a particular course and the message is 'don't stop me now'.
 
-So if the world of ideas - often economic ideas - now influences our very planet, how on earth did we get into this situation in the first place? We go back in time to the era of Adam Smith and then run the clock forward observing revolutions of politics, technology and ideas.
+So if the world of ideas - often economic ideas - now influences the health of our very planet, how on earth did we get into this situation in the first place? We go back in time to the era of Adam Smith and then run the clock forward observing revolutions of politics, technology and ideas.

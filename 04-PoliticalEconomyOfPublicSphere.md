@@ -1,10 +1,15 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # PART 4: Public Good Economics
 
 This book is about economics for a certain type of world. In this world, there are some goods that can be added to, either in quantity or quality; there are some goods that are fundamentally fixed; and there are some goods that can be degraded or destroyed. By 'goods' I mean broadly useful natural or artificial things. These positive, limited or negative things can apply to both public and private goods. We need an economics that not only considers the parts of the economy that are additive (growth economics) but also those that are fixed (distribution economics) and those that are 'subtract-able' (environmental economics).
 
 Environmental economists also distinguish between goods that are *excludible* and non-excludible. And also those that are *rival* versus non-rival. Related to rival-ness is *subtract-ability*. So pure public goods are non-rival and non-excludable. Club goods (for example, watching a pay-per-view sports match) are non-rival (it doesn't cost anything for someone extra to watch it) but excludible. Common pool resources are rival but non-excludible. They are also subtract-able. [VERY CONFUSING, EXPAND AND REWRITE]
 
-## Introduction to the Topic: Types of Goods
+## Types of Goods
 
 In economics, we are familiar with the concept of private goods. A private good is one owned by individuals. Those individuals can exclude others from the use of the good. The individual can maintain or augment the good. The value of the good is not particularly influenced by the action of others. In technical language, the private good is excludable (others are not permitted to use it unless the owner lets them) and rival (the use of the good by one person prevents its use by another person). The good is also additive -- we can add to the good.
 

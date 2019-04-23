@@ -1,4 +1,9 @@
-# PART 2: AN ECONOMY FIT FOR OUR CHILDREN
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# PART 2: Progress and Problems
 
 This book is addressed to everyone; economists, scientists, politicians, professionals and the public alike. Everyone , that is, who cares about tackling climate change. 
 
@@ -6,7 +11,7 @@ Across the social spectrum, people are starting to lose hope. The poor lose hope
 
 What would an economy fit for our children look like? A society and economy that promoted the wealth and happiness of its citizens. Such a framework would define, create, preserve and fairly distribute wealth, both natural and man-made. Fulfilling the happiness requirement needs a different metric, encompassing both economic security and satisfaction of needs. Overall, an economy that is good for people and for the planet is one that functions well. 
 
-## What are the Economic Conditions for Sustainable Widely-Spread Prosperity?
+## The Economic Conditions for Wide-Spread Prosperity
 
 To define such a society, we need first to determine the economic conditions that would be necessary for sustainable and wide-spread prosperity.  
 

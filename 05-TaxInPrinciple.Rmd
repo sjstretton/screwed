@@ -6,7 +6,9 @@ output:
   tufte::tufte_handout: default
 toc: false
 toc_depth: 1
-bibliography: Library/Mac/library.bib
+bibliography:
+- Library/Mac/library.bib
+- Library/HeatherPC/library.bib
 link-citations: yes
 ---
 

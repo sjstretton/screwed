@@ -1,10 +1,15 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # PART 1: REVOLUTIONS IN THE MINDS OF MEN
 
 ## In the Beginning came Adam
 
 UNDER THE STARRY SKIES, distant in time and space from our present-day fishermen, sits a professor, beavering away at his manuscript. The year is 1773; the location, Kirkaldy, a small town in Scotland; the author, Adam Smith. The full title of Smith's great work would be 'An Inquiry into the Nature and Causes of the Wealth of Nations'.
 
-On this cool and starry night, Smith was writing the fifth and final book of the 'Wealth of Nations', entitled 'On the Revenue of the Sovereign or Commonwealth'. Smith asked, 'how should the activity of the government be funded?'. Which taxes should a state impose? 
+On this cool and starry night, Smith was writing the fifth and final book of the 'Wealth of Nations', entitled 'On the Revenue of the Sovereign or Commonwealth'. Smith asked a series of questions, such as how should the activity of the government be funded, and Which taxes a state should impose.
 
 ![](ChapterPictures/AdamSmithSmall.png)
 *Plaque marking the site in Kirkcaldy where Smith lived.*
@@ -32,6 +37,7 @@ One great milestone in this history of progress was the Beveridge report. Releas
 World War II had almost bankrupted Britain. Britain had financed the war through borrowing. The public debt ratio peaked at 238% of GDP in 1947. Despite this, post war Britain soon rebuilt itself. It also managed to provide for its people a standard of living greater than before the war. Britain pursued a policy of low interest rates, moderate inflation and high growth. Thus, it cut the burden of public debt to 70% of GDP in 30 years [@ReinhartCamenM.andKennethS.RogoffReinhart2010]. These accomplishments are in themselves remarkable. 
 
 ![01-historyofdebt](ChapterPictures#01-historyofdebt.PNG)
+
 Beveridge was successful in his mission to lay the foundation for a comprehensive welfare-state. Beveridge's reforms helped to reduce the prevalence of the five great evils and transformed the previously hellish conditions of the poor. But we have not yet achieved heaven on earth. There are still great evils facing us: the destruction of the environment, the lack of affordable housing in many towns, great inequalities of wealth, and the risks of automation. This book will explain why these evils arise and how they can be fixed.
 
 ## The Global Machine and the Global Mission
@@ -69,7 +75,7 @@ There's a corny old joke about the man that asks for directions and gets the res
 
 Further down the street from Peter and Lucy lives Fred. Fred is on benefits. He once took a job, but he found that once this happened, his benefits were cut off. There was a gap between his new wage and the benefits coming in. Thanks to this, he didn't have the money for the rent. 
 
-The UK has rolled out a reform known as 'Universal Credit', which integrates four income-related benefits into one. The 'benefits withdrawal' rate (in effect the income tax on additional income) on Universal Credit is 63%. This means that you  lose two thirds of the extra income you get. Some of the problems with the new system also relate to administration and issues with design. UC inbuilt a delay in payments, which has caused several issues for the recipients. 
+To tackle inefficiencies and inequities in the welfare system, the UK has recently rolled out a reform known as 'Universal Credit', which integrates four income-related benefits into one. The 'benefits withdrawal' rate (in effect the income tax on additional income) on Universal Credit is 63%. This means that an individual lose two thirds of any extra income they get above a certain threshold. This system has been problematic to say the least. Some of the problems with the new system relate to administration and issues with design, and some to insufficient payments to afford a decent standard of living. Within universal credit, the government has inbuilt a delay in payments. This has caused numerous issues for the recipients, like Fred.
 
 It does not have to be this way.
 
@@ -80,7 +86,7 @@ In the next section we define the five major questions that this enquiry seeks t
 1. What would an economy fit for our children look like? 
 2. What are the economic conditions for widely-spread and sustainable prosperity?
 3. How can we define a better tax and social security system?
-4. How to make the change?
+4. How to make these changes?
 5. What advantages would such changes bring?
 
 Onwards then, to defining the future!
