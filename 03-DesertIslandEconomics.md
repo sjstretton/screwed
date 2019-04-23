@@ -10,7 +10,7 @@ The largest island in the Tea Islands is called 'Great Island.' On Great Island 
 
 **Specialization and Trade**
 
-Then a small group of fishermen discover something. They decide firstly, that they are *only* going to fish, and not worry about gathering berries. Whilst they like eating nuts and berries, they argue that they can catch enough fish and *trade* some of the fish they gather with others for nuts and berries. They also split up tasks between themselves. Some of them make nets, others build bigger boats. They can catch more fish by splitting up tasks in this way. By collaborating and specializing they can double their productivity. Whereas before they could only make 500g of food per day, now they collectively can produce 1kg of food per day per fisherman. 
+Then a small group of fishermen discover something. They decide firstly, that they are *only* going to fish, and no longer participate in gathering berries. Whilst they like eating nuts and berries, they argue that they can catch enough fish and *trade* some of the fish they gather with others for nuts and berries. They also split up tasks between themselves. Some of them make nets, others build bigger boats. They can catch more fish by splitting up tasks in this way. By collaborating and specializing they can double their productivity. Whereas before they could only make 500g of food per day, now they collectively can produce 1kg of food per day per fisherman. 
 
 They now have some choices. The first option is to work all day (8 hours) and sell the surplus, either saving the excess or spending it on some luxuries. The second option is to cut down working hours by working only 4 hours per day. In the shorter working day they can still produce enough food to live on. In both cases the fishermen in the firm have higher hourly wages than before - twice what they were making before. These higher wages reflect the higher productivity. 
 
@@ -34,19 +34,19 @@ If we add some numbers, we can make the improvement clearer.
 
 At the end, people fish for a day to get 1kg of fish and perhaps go collecting for a day for 0.5 kg of berries. 2/3 of the people fish, and 1/3 of the people collect berries. This is a change from the fifty-fifty split before the improvement in collective capabilities.  
 
- The total average food production is 2/3+1/6=5/6 or about 0.82kg. Thus the real wages per day have increased as 0.5kg per 8=hour day to 0.82kg of food per 8 hour day.
+The total average food production is 2/3+1/6=5/6 or about 0.82kg. Thus the real wages per day have increased, from 0.5kg per eight-hour working day to 0.82kg of food per eight-hour day.
 
-This is shall we say the basic model of division of labour and competition. Let's now extend this model to the situation where there is scarce land which is privately owned.
+This is an example of the basic model of division of labour and competition. Let's now extend this model to the situation in which there is scarce land which is privately owned.
 
 ## 3.2 Rent on Private Property Island
 
-Our fisherman is considering a change of direction. He has heard that there are two new islands, recently discovered, which appear like a paradise. Rabbits run free and are easy to hunt. Fishing is rather laborious whereas hunting rabbits sounds much easier. Our fisherman sets out to visit the first island. The first island is one of private property.
+Our fisherman is considering a change of direction. He has heard that there are two new islands, recently discovered, which appear like a paradise. Rabbits run free and are easy to hunt. Fishing is rather laborious; hunting rabbits sounds much easier. Our fisherman sets out to visit the first of the two new islands. The first island is one of private property.
 
-On this island, there is a man, lets call him 'Man Friday' living on it, and is well abreast of the laws of property. He defines himself the owner of this island. He arms himself to make sure that nobody else can take any of the property. He prepares to charge rent to anyone who turns up. Thus we will call this island 'private land island'.
+On this island, there is a man, lets call him 'Man Friday,' living on it. He has invented some laws of property. He defines himself the owner of this island, and has armed himself to make sure that nobody else can use any of the property without his permission. He prepares to charge rent to anyone who turns up. Thus we will call this island 'Private Land Island'.
 
-Then a new man turns up, we can call him Robinson Crusoe. This man has been used to living at sea in a fishing boat. Every day he fishes, he catches1kg of fish, which, we can assume are very nutritious. 
+Then a new man turns up, we can call him Robinson Crusoe. This man has been living at sea in a fishing boat. Every day he fishes, he catches 1kg of fish, which we can assume are very nutritious. 
 
-Crusoe arrives at the island which is full of rabbits which are easy to hunt. If he is to work a whole 8-hour day, he can now catch 8kg of rabbits. Let's say that a rabbit is just as nutritious as a fish, and the work is just as pleasant. In fact, he only needs 1kg of food to live on, so he can work one hour per day and relax  the rest of the time, perhaps reading books on the division of labour. 
+Crusoe arrives at Private Land Island, which is full of rabbits that are easy to hunt. If he is to work a whole 8-hour day, he can now catch 8kg of rabbits. Let's say that a rabbit is just as nutritious as a fish, and the work is just as pleasant. In fact, he only needs 1kg of food to live on, so he can work one hour per day and relax the rest of the time, perhaps by reading books on the division of labour. 
 
 After the second day of fruitful hunting, Man Friday turns up to say hello. Fortunately through a twist of fate, they all speak the same language. Friday is very happy that Crusoe has turned up. He invites Crusoe round to dinner. It's a very beautiful dinner: rabbit-en-croute. Friday has many beautiful items on the wall, won from many years of selling rabbits to passing tradespeople. He even has a beautiful gun and half way through the meal, he gets it out of the gun holster to show Crusoe, places it on the table to show him, and then puts it back in its holster.
 
