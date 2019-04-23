@@ -27,13 +27,9 @@ link-citations: yes
 
 This economic activity often causes damage which is not accounted for by the polluting parties themselves, but rather borne by those who have done little to cause them. Manufacturing businesses in China pumping out CO~2~ into the atmosphere have little or no obligation to pay for the damage that climate change causes in communities and countries across the world.  Resulting  Damage costs often can be ignored because they affect third parties and may be difficult to quantify, and difficult to locate the direct source for.   These costs are known as 'negative externalities'
 
-Negative externalities can be accounted for (or 'internalised') if an economic actor has to pay for the cost of the damage via a tax.  This is known as a Pigouvian tax (after Arthur Pigou).
+Negative externalities can be accounted for (or 'internalised') if an economic actor has to pay for the cost of the damage via a tax.  This is known as a Pigouvian tax (after Arthur Pigou), and are thought to disincentivise the damage-causing economic activity. The idea is that people will be motivated to find less damaging alternatives to the polluting economic activities when these damage costs fall on them. They act not altruistically, but to reduce their tax bill [@Pigou1932].
 
-Pigouvian taxes disincentivise the damage-causing economic activity. The idea is that people will be motivated to find less damaging alternatives to the polluting economic activities when these damage costs fall on them. They act not altruistically, but to reduce their tax bill [@Pigou1932].
-
-There are some difficulties with applying Pigouvian taxes.  Pigouvian taxes can be difficult to quantify, costly to apply, and they may fall harder on those with lower incomes.  
-
-We may be able to use Pigouvian taxes to reduce other taxes, i.e. a 'Green Tax Shift'.  This could be particularly beneficial if they replace taxes on productive activities (a double-dividend).
+There are some difficulties with applying Pigouvian taxes.  Pigouvian taxes can be difficult to quantify, costly to apply, and they may fall harder on those with lower incomes.  However, we may be able to use Pigouvian taxes to reduce other taxes, i.e. a 'Green Tax Shift'.  This could be particularly beneficial if they replace taxes on productive activities (a double-dividend).
 
 # 12.1 Taxing Bads
 
@@ -182,7 +178,7 @@ Parthasrathi Shome of the International Monetary Fund argues that:
 
 However others have argued that because environmental taxes tend to raise the cost of producing output (thus reducing labour supply and investment) they in fact may exacerbate the efficiency costs associated with tax distortions in labour and capital markets. This means that that the perceived efficiency benefits from revenue-recycling could be outpaced [@Pagiola2002].It has been suggested that if the negative tax-interaction effect does exceed the positive effect of revenue-recycling, the real-world Pigouvian rate should thus be set somewhat lower than its theoretical optimal in order to compensate, making a tax both revenue and efficiency-neutral, but no longer environmentally optimal [@Bovenberg2001]
 
-One study assessed the potential for recycling revenues to reduce labour taxes in order to reduce unemployment, and concluded that a positive effect would depend on very special conditions, specifically that the impact of the tax on after-tax profits is low [@Boehringer2004] Similarly, another concluded that employment benefits would depend on the initial Pigouvian tax rate being lower than the wage tax rate ^[Koskela, 1998].
+One study assessed the potential for recycling revenues to reduce labour taxes in order to reduce unemployment, and concluded that a positive effect would depend on very special conditions, specifically that the impact of the tax on after-tax profits is low [@Boehringer2004] Similarly, another concluded that employment benefits would depend on the initial Pigouvian tax rate being lower than the wage tax rate [Koskela, 1998].
 
 Ideally, the distorting effects of individual proposed taxes and the potential of revenue recycling need to be properly evaluated before a judgement can be made on a case-by-case basis. Doing so is complicated by the difficulty of assessing deadweight losses. 
 
@@ -319,7 +315,7 @@ Concerns have been raised in discussions about the feasibility of these policies
 
 ## Complexity and Administrational Cost
 
-Our proposed BTA system is in principle very simple. The greatest complexity comes in assessing the embodied carbon of imports. To do this thoroughly would require consideration of the tax policies of all countries exporting to the UK in order to assess the extent to which embodied emissions of imports have already been taxed under other jurisdictions. We suggest that this is indeed a messy affair and we should instead tax imports according to the full embodied carbon cost, regardless of the effect of policies of the exporting country. As more exporting countries respond to the subsequent incentive to reduce embodied emissions, the rates charged at our borders could be uniformly decreased.
+Our proposed BTA system is very simple in principle. The greatest complexity comes in assessing the embodied carbon of imports. To do this thoroughly would require consideration of the tax policies of all countries exporting to the UK in order to assess the extent to which embodied emissions of imports have already been taxed under other jurisdictions. We suggest that this is indeed a messy affair and we should instead tax imports according to the full embodied carbon cost, regardless of the effect of policies of the exporting country. As more exporting countries respond to the subsequent incentive to reduce embodied emissions, the rates charged at our borders could be uniformly decreased.
 
 A fairer alternative system to this gradual rate reduction would be to form mutual agreements with other nations that also impose a tax on embodied emissions of imports, such that both sides refund these taxes at the border. However, such an arrangement could be considered a violation of international trade agreements because it would mean offering preferential treatment to some trading partners but not others.
 
