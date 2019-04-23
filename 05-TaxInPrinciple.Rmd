@@ -54,29 +54,29 @@ Of course, noble objectives remain mere concepts until they are realised. In the
 
 ## Deciding What to Tax
 
-Taxes can be applied to a range of goods and services. We will, going forward, term these targets as the 'tax base.'  Ranging from the financial (e.g. financial surpluses (e.g.(net) imports, profits, incomes over some threshold), to the consumed (e.g. luxury expenditures whose demand is insensitive to price), there is broad scope for the tax base of a potential policy. 
+Taxes can be applied to a range of goods and services. We will, going forward, term these targets as the 'tax base.'  These can cover a very wide range, e.g. duties on imports, taxes on profits, taxes on incomes over some threshold, or consumption taxes, e.g. on luxury expenditures whose demand is insensitive to price, or on 'bads' such as tobacco products. 
 
-Deciding which tax base to use can often be determined by the objective of the policy. Raising revenue is predominately achieved through income taxes. Taxes can also be used to for redistribution in society, such as when they are applied to the unearned increment on scarce resources that are fixed or limited in supply, or monopolised e.g. land, fossil fuels and endangered fish.  Taxes could also help disincentivise environmental and health bads. These are activities that damage our common space. Such taxes may also help redistribute some or all of the surplus of those individuals, companies or geographical areas who are gaining financial assets.
+Deciding which tax base to use can often be determined by the objective of the policy. In the current system, raising revenue is predominantly achieved through income taxes. This helps redistribute aggregate economic income from those with high incomes to those with low incomes. Taxes can also be applied to the unearned increment on scarce resources that are limited in supply or monopolised - for example, land, fossil fuels, or endangered fish. And taxes can help disincentivise environmental and health bads - activities that damage our common resources or our health. 
 
-Overall, the are four different types of activities that we could tax:
+Overall, we could tax four different types of activities:
 
-1.     Rents: Land, Property, Resources
+1.     Rents: Land, property, resources.
 
-2.     Finance: Money Balances, Bank Balance Sheets, Transactions.
+2.     Finance: Money balances, bank balance sheets, transactions.
 
-3.     Environmental Health and Social Damage: Fossil Fuels, Transport Fuels, Greenhouse Gas Emissions, Alcohol Tobacco, Sugar Salt
+3.     Environmental Health and Social Damage: Fossil fuels, greenhouse gas emissions, alcohol, tobacco, sugar, salt.
 
-4.     Cash Flow: Income, Profit, Capital Gains, Value Added (sales).
+4.     Cash Flow: Income, profit, capital gains, value added (sales tax).
 
-But how do we decide which tax base to use. One solution is to create a decision framework based on selected principles of justice and benefit. We define these as the preconditions of practicality, benefit and fairness, which will be elaborated on later in this chapter. The questions that we can ask ourselves to build this decision framework will help shape the ultimate design of the tax policy. This could apply to the schedule of assets that we decide to tax. 
+But how do we decide which tax base to use? One solution is to create a decision framework based on selected principles of justice and benefit. We define these as the preconditions of practicality, benefit, and fairness. The questions we can ask ourselves to build this decision framework will help shape the ultimate design of the tax policy and the schedule of assets that we decide to tax. 
 
-The first order of deciding the tax base could be based on efficiency. By asking the question of whether the private value of a good reflects its social value, we can identify the tax base. Where private value is greater than social value, taxes would then be levied to the extent where these two values are equivalent. If there is a need for more revenue after taxing this value difference,  we could then prioritise efficiency by taxing things that are fixed in supply. Such a mechanism would avoid the distortionary incentives that taxation can have on income or wealth. 
+The first order of deciding the tax base should be efficiency. We can ask the question of whether the private value of a good reflects its social value. Where private value is greater than social value, taxes can be levied to drive these two values to equivalence. If there is a need for more revenue after taxing this value difference, we could then continue to prioritise efficiency by taxing things that are fixed in supply. Such a mechanism would avoid the distortionary incentives that taxation levied on income or wealth can have. 
 
- We could also choose to select this tax base on grounds of equity. By focusing on tackling private value inflation, we would begin to reduce the rate of growth of inequality in the UK [@Piketty2014a] by reducing the windfall gains associated with the returns on capital and wealth, as opposed to income. In doing so, we could preserve justice in the system. However, care must also be taken to ensure that existing asset values are not changed so dramatically as to cause injustice in the transitional process. One way in which to achieve this is by focusing these taxes on future increases in private value above the social value, rather than on the existing allocations.
+We could also choose to select a tax base on grounds of equity. By focusing on tackling private value inflation, we would begin to reduce the rate of growth of inequality in the UK [@Piketty2014a] by reducing the windfall gains associated with returns on capital and wealth, as opposed to income. In doing so, we could enhance justice in the system. However, care must be taken to ensure that existing asset values are not changed so dramatically as to cause injustice during the transition process. One way in which to achieve this is by focusing asset value taxes on future increases in private value above the social value, rather than on the existing allocations.
 
 ## What are the Objectives of Reform?
 
-It seems then that what we choose to tax, and at what level, depends on the purpose of the tax itself. 
+It seems clear that what we choose to tax, and at what level, depends on the purpose of the tax itself. 
 
 If the goal is to reduce inequality, then taxes can be applied to private assets and income. Such taxes target the accumulation of wealth to both recapture societal contributions to its formation, and to ensure inequality does not grow extensively. Some argue that these taxes target oligarchy and monopolistic control of assets. We define *Oligarchy* as 'rule by the few', specifically by the rich, which can be an issue due to the disproportionate power that can be associated with a small number of wealthy people controlling the majority of a nation’s assets. Assets can often be synonymous with political power, which some postulate as being a negative for society. For example, such oligarchic groups could have a distortive influence on the tax code so that it better suits their interests. This may pose problems for the majority.
 
