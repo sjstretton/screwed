@@ -32,7 +32,7 @@ One great milestone in this history of progress was the Beveridge report. Releas
 
 World War II had almost bankrupted Britain. Britain had financed the war through borrowing. The public debt ratio peaked at 238% of GDP in 1947. Despite this, postwar Britain soon rebuilt itself. It also managed to provide for its people a standard of living greater than that which prevailed before the war. Britain pursued a policy of low interest rates, moderate inflation, and high growth. As a result, the burden of public debt dropped to 70% of GDP in 30 years [@ReinhartCamenM.andKennethS.RogoffReinhart2010]. These accomplishments are in themselves remarkable. 
 
-![01-historyofdebt](ChapterPictures#01-historyofdebt.PNG)
+![01-historyofdebt](ChapterPictures/01-historyofdebt.PNG)
 Beveridge was successful in his mission to lay the foundation for a comprehensive welfare-state. His reforms helped reduce the prevalence of the five great evils and transformed the previously hellish conditions of the poor. But we have not yet achieved Heaven on Earth. There are still great evils facing us: The destruction of the environment, a lack of affordable housing in many cities and towns, extreme inequalities of wealth and income (which in many cases cannot be justified by any corresponding differences in contributive merit), and some risks attendant on automation. We will explain why these evils arise, and explore how they can be fixed.
 
 ## The Global Machine and the Global Mission
