@@ -14,7 +14,7 @@ link-citations: yes
 ## Summary 
 
 - In the UK, buying a house is extremely and increasingly unaffordable for many. This is contributing to other problems, such as homelessness.
-- High house prices are due to high land values. House prices go through boom and bust cycles due to land price speculation. This is when people buy land in the hope that it will go up in value. This is not a productive investment, one that leads to economic growth, but rather is a 'pseudo-investment' or placement.
+- High house prices are due to high land values. House prices go through boom-and-bust cycles due to land price speculation. This is when people buy land in the hope that it will go up in value. This is not a productive investment, one that leads to economic growth, but rather is a 'pseudo-investment' or placement.
 - Landowners get free value from the work of the community, such as the building of public transit infrastructure or communities invest in local parks. Landowners receive an increase in land values from these external activities, which they themselves have done no work for.
 - Land Value Tax is an effective solution to this unfairness and to the housing boom and bust cycle. It is a tax on land values.
 - LVT is a well-established idea, with multiple benefits. It faces some obstacles, for which there are solutions. The biggest may be political feasibility.
