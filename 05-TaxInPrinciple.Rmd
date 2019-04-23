@@ -175,9 +175,9 @@ So, what does all this mean for our new tax system? Having discussed historical 
 
 We can find our way out of this maze. By rearranging and summarising the above into a clearer decision-tree format, we can begin to pull together the threads of a decision framework that we can use to link taxation in principle with taxation in practice. 
 
-It’s clear from the foregoing that consideration of taxes can be subdivided into establishing the objectives and targets of the policy, and the guiding characteristics of the policy design itself. In our framework, we term these distinctions as the functional and non-functional requirements of the tax system. We outline these below.
+It’s clear from the foregoing that consideration of taxes can be subdivided into establishing the objectives and targets of the policy, and the guiding characteristics of the policy design itself. In our framework, we term these distinctions as the functional and qualitative requirements of the tax system. We outline these below.
 
-## Functional requirements of Tax and Welfare System
+## Functional Requirements of Tax and Welfare System
 
 In simple terms, three major functions of the tax and welfare system can be identified:
 
@@ -185,7 +185,7 @@ In simple terms, three major functions of the tax and welfare system can be iden
 2. Ration Scarce Factors and Economic Bads: (Share limited resources, minimise environmental and health harm, and ensure the economy develops beneficially)
 3. Correct Maldistribution: (Redistribute income fairly, provide a safety net for those in need; help people into work; and ensure that the distribution of income is equitable)
 
-## Non-functional requirements of Taxation System
+## Qualitative Requirements of Taxation System
 
 Similarly, we can identify three main non-functional requirements:
 
@@ -193,7 +193,7 @@ Similarly, we can identify three main non-functional requirements:
 2. Economically      Efficient:  (Non-distortive, applied to a secure tax base, and with low capacity to evade/avoid)
 3. Equitable:      (Transparent, fair, and internationally cooperative)
 
-## Non-functional Requirements of Welfare System
+## Qualitative Requirements of Welfare System
 
 We can also apply a similar mindset to the use of tax revenue in the case of the welfare system. 
 
@@ -267,7 +267,7 @@ We cover these notions of feasibility in our evaluation of these proposals in ch
 
 ## Transition
 
-Any new tax system will involve a transition from the existing to the new. Working out such a transition is as important as working out where the direction of a tax system should eventually go. Such a transition should be fair and politically feasible and also it should demonstrate the viability of the policies implemented by proving to a sceptical public their value. In order to transition from the current system to one that works more effectively in a fashion that is smooth and politically feasible, we set out some suggestions on principles of transition. 
+Any new tax system will involve a transition from the existing to the new. Working out such a transition is as important as working out where the direction of a tax system should eventually go. Such a transition should be fair and politically feasible, and also it should demonstrate the viability of the policies implemented by proving to a sceptical public their value. In order to transition from the current system to one that works more effectively in a fashion that is smooth and politically feasible, we set out some suggestions on principles of transition. 
 
  ## Principle 1: Visionary
 
@@ -275,7 +275,7 @@ The desired state and the objectives of the move should be clear.
 
 ## Principle 2: Packaged Change
 
-The change in the tax system should be packaged into a policy proposal that can be implemented in the current system.
+The change in the tax system should be packaged into a policy proposal that can be implemented in the current political system.
 
 ## Principle 3: Political Feasibility: Rhetorical
 
@@ -283,7 +283,7 @@ The change should be expressible in simple and compelling arguments.
 
 ## Principle 4: Political Feasibility: Few Losers
 
-The change should create a few losers, in other words, they should not be significant, well organized groups that lose out. If there are losers, then those losers should be disarmed by the rhetorical purpose of the policy.
+The change should create few losers, in other words, significant, well organized groups should not lose out. If there are losers, then those losers should be disarmed by the rhetorical purpose of the policy, and where necessary by appropriate transitional compensation.
 
 ## Principle 5: Expert Assent
 
@@ -307,11 +307,11 @@ The following table shows both the final strategic objective and the intermediat
 
 ## Paths forward
 
-Taxes and benefits create incentives for good or ill. It's vital that these incentives are well-aligned with the interests of society as a whole. An improved tax and welfare system should include the functional and non-functional ideas above to promote total wealth in society. A well-designed system would reconcile the seemingly competing objectives of equity and efficiency with a minimum of compromise. Effective communication and steady implementation could also satisfy political objectives through clearly demonstrating the economic, social or environmental objectives that a policy was designed to achieve. 
+Taxes and benefits create incentives for good or ill. It is crucial that these incentives are well-aligned with the interests of society as a whole. An improved tax and welfare system should include the functional and qualitative characteristics described above to promote total wealth in society. A well-designed system would reconcile the seemingly competing objectives of equity and efficiency with a minimum of compromise. Effective communication and steady implementation could also satisfy political objectives through clearly demonstrating the economic, social, or environmental objectives that a policy was designed to achieve. 
 
 The summary table below outlines what we think are the general characteristics of an *ideal* tax system:
 
-| **General Characteristic** | **Function**                                                 | **Non-Functional Requirement** |
+| **General Characteristic** | **Function**                                                 | **Qualitative Requirement** |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------ |
 | *Practical*                | Raise   Resources for Government Services (MMT: Validate Money); | Useable;   Low Cost; Simple    |
 | *Beneficial*               | Ration   Scarce Collective Resources and Bads; Macroeconomic Management | Economically   Efficient       |
@@ -319,7 +319,13 @@ The summary table below outlines what we think are the general characteristics o
 
  
 
-By using this framework, we can more clearly evaluate past and create new tax policy with a view to promoting equity and efficiency. This framework of principles is, in our opinion, an essential evaluatory criterium for strategic tax reform. 
+By using this framework, we can more clearly evaluate past tax policy and design new tax policy with a view to promoting equity and efficiency. This framework of principles is, we suggest, a useful evaluatory criterium for strategic tax reform. 
 
-However, it is not enough to have strong principles behind the design of tax policy. We must maintain the idea that tax is in strong need of a PR campaign. One such method lies in clearly tying outputs from tax revenue to the purpose that they are intended to tackle. This, for example, could be using revenue from a carbon tax to act as a ‘green investment’ funding source. Another could be in opening up the discussion around the idea, mentioned previously, of a shareholder-stakeholder model of society. By asking the question of who exactly the stakeholders and shareholders are in society. and who should receive the ‘dividends’ from different forms of wealth, the path may be opened to more fundamental change in the UK tax system. One final suggestion could lie in highlighting success stories from other countries and constituencies, where tax policy has been received positively from the communities it affects. In our next chapter, we will explore these ideas of implementation and functionality, as we move on to how these principles are applied in practice. 
+However, it is not enough to have strong principles behind the design of tax policy. We emphasise the idea that tax is in strong need of a PR campaign. 
+
+One element of this could consist in clearly tying outputs from the spending of tax revenue to the purpose that they are intended to tackle. This, for example, could be using revenue from a carbon tax to act as a 'green investment' funding source. 
+
+Another could be in proposing a shareholder-stakeholder model of society. By asking the question of who exactly the stakeholders and shareholders are in society. and who should receive the 'dividends' from different forms of wealth, the path may be opened to more fundamental change in the UK tax system. 
+
+It will also be useful to highlight success stories from other countries and constituencies, where tax policy has been received positively by the communities it affects. In our next chapter, we will explore these ideas of implementation and functionality, as we move on to how these principles are applied in practice. 
 
