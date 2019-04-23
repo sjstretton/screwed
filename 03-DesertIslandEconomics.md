@@ -68,11 +68,15 @@ Imagine the island is split into two domains of differential rabbit productivity
 
 Let's say that for some reason, there's a series of storms the people on the islands find it hard to catch fish. The landlords however have some spare resource - stored dried food - that they have accumulated over many years. They sell this food to the fishermen. In exchange the fishermen sell their boats to the landlords and rent them back. Now there is no rent-free way of earning a living. In this situation, land and other ways of earning a living are absolutely scarce. They have been bought up by the wealthy landlords.
 
-How much of the landlord's revenue comes from renting out boats and how much comes from seizing the surplus from land-based labour by renting out hunting-rights to the rabbit hunters will depend on the abolute scarcity of land and also the absolute scarcity of labour.
+How much of the landlord's revenue comes from renting out boats, versus how much comes from seizing the surplus from land-based labour by renting out hunting-rights to the rabbit hunters, will depend on the abolute scarcity of land and also the absolute scarcity of labour.
 
-We can consider two possibilities: the first is that there is a shortage of workers. In this case, there will be some level of scarcity in labour and therefore wages will be kept up. 
+We can consider two possibilities: the first is that there is a shortage of workers. In this case, there will be some level of scarcity in labour, and therefore wages will be kept up. 
 
-In this current scenario, of the original 1kg of fish, only half a kg is retained, the other half is paid as rent for the boats. The residual wages are not now set at what the fishermen can earn in a rent-free existence, but rather the minimum that will keep them alive.
+In our current scenario of abundant labour, of the original 8kg of rabbits, only 1kg is retained by the hunter; the other seven are paid as rent for access to the landlord's hunting-grounds. The residual wages are not set at what the hunters can earn in a rent-free existence, but rather, the minimum that will keep them alive. 
+
+In a scenario of scarce labour, this could change. This would require that the labourers (in this case, rabbit-hunters) have a choice of landlords to work for. If there are several islands with landlords and rabbits, but too few rabbit-hunters available to hunt all the rabbits produced by the islands, then the landlords will be forced to compete for the time and effort of the hunters. In that case, the rabbit-hunters might be able to negotiate a deal with a landlord in which they retain two rabbits per day and pay the landlord only six rabbits (again assuming the hunter is able to bag eight rabbits a day). 
+
+All this depends, of course, on the rate of rabbit-hunting remaining sustainable; i.e. the fecundity of the rabbits and the available rabbit food on the islands must be such that the hunters' productivity of 8 killed rabbits per day doesn't overwhelm the ability of the rabbits to regenerate their populations. And the rabbits' numbers mustn't get so high that they eat all the available greenery and cause a mass starvation. A dynamic equilibrium between rabbit population and the population of hunters is what's best for all concerned. 
 
 **Capital**
 
