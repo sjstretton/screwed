@@ -84,11 +84,6 @@ There are several problems with the UK tax and benefit system as it stands today
  A broad complaint about the tax system is to do with its complexity. As mentioned in our introduction, the over-complexity of the uk tax system has led to high administration and collection costs, as well as a number of unwanted consequences to do with progressivity and loopholes built into the system. The extensive number of exemptions and loopholes which exist in the system can really be described as government expenditures, masked as tax rebates. These mainly serve to complicate the system and should usually be removed.
 
 Moreover, it could be said that despite its length, the system lacks ambition. As it stands, the tax system doesn’t take significant enough advantage of the opportunities it has to change consumer behaviour. Only about one sixth of existing tax revenue is raised from taxes which are aimed at behavioural change. Given the potential for taxation to be used to create behavioural norms and effect social change, this is a missed opportunity. 
-
- 
-
- 
-
  
 
 ## Administrative Issues
@@ -112,7 +107,6 @@ The issues that surround implementation are also significant offshoots of the sy
  By ‘regressive’ this means that the burden of the tax falls more considerably on the poor, than on the rich. Even though in absolute terms, the latter may be paying more, as a percentage of disposable income. Taxes like VAT, National Insurance, Vehicle Excise Duty and council tax fall under this category.  British Columbia is an example of success in this respect, having directly rebated households with the proceeds from their nascent carbon taxation scheme. Public acceptance rates of this scheme have thus been maintained. Compare this to the poorly communicated fuel levy placed in France towards the end of 2018, and the resultant ‘Gilet Jaune’ protests, and the importance of clear communication about the purposes to which a policy is put become clear. 
 
 ![5-3-taxtrust](ChapterPictures/5-3-taxtrust.png)
-
 
 
  The figure above correlates the height, or price, of carbon prices in governments with public trust in government and politicians. Carbon tax rates are positively correlated with trust in politicians, and negatively correlated with perceptions of corruption [@OurWorldinData2018]. 
@@ -153,13 +147,13 @@ As it stands, the HMRC relies on self-reported income, and could therefore be te
 
 # 6.3 Conclusions
 
- It is clear then that from this chapter, the tax and benefit system does not operate in practice the way it is laid out to in principle. The best laid plans of mice and men can fail to fully enforce behavioural taxes on a wide and mobile tax base, as the old saying goes. 
+ It is clear from the foregoing that the taxation and benefits system does not operate in practice in the way it is meant to in principle. The system has failed to effectively enforce behavioural taxes on a wide and mobile tax base. 
 
- It’s important then to draw out some recommendations for how policy makers should be adapting the tax system to combat these implementation issues. Communication, clarity and enforcement are all aspects of this transition. 
+Accordingly, it’s important to draw out some recommendations for how policy makers should adapt the tax system to fix these implementation issues. Communication, clarity, and enforcement are all aspects of this transition. 
 
- What is taxed should be concrete and objective. It should not depend on the honesty of those declaring the tax and it should not penalize the honest relative to the dishonest. The tax system should not contain 'tax arbitrages' and should not allow for dishonesty. This would help to combat both the issues of public acceptance and administrative complexity. The costs and time-commitment of administering such a system should never be excessive.  Streamlining the tax code to simplify the number of tax rates, directly tie benefits to the purposes of taxes that are applied, and a limited number of exemptions should be available. Above all, the tax and benefit system should be capable of being easily understood by the public.
+What is taxed should be concrete and objective. It should not depend on the honesty of those declaring the tax and it should not penalize the honest relative to the dishonest. The tax system should not contain 'tax arbitrages' and should not allow for dishonesty. This would help to combat both the issues of public acceptance and administrative complexity. The costs and time-commitment of administering such a system should never be excessive.  Streamlining the tax code to simplify the number of tax rates, directly tie benefits to the purposes of taxes that are applied, and a limited number of exemptions should be available. Above all, the tax and benefit system should be capable of being easily understood by the public.
 
- In terms of public acceptance, the purposes and targets of taxes should be well communicated and clear. As outlined in the previous chapter, following clear principles when taxes are created so that they are practical, beneficial and fair is essential when ensuring that they will be successfully launched. Tax should either fall on things that *don't go away* when we tax them (e.g. land) or things that we *want to go away* when we tax them (e.g. fossil fuel use sugar consumption).
+In terms of public acceptance, the purposes and targets of taxes should be well communicated and clear. As outlined in the previous chapter, following clear principles when taxes are created, so that they are practical, beneficial, and fair, is essential to ensure that they will be successfully launched. Tax should either fall on things that *don't go away* when we tax them (e.g. land) or things that we *want to hve go away* when we tax them (e.g. fossil fuel use or excessive sugar consumption).
 
 It is important to our everyday lives that the tax and benefit system works well. As we've shown, income tax and consumption tax revenue are the lifeblood of public services like the NHS, the educational system, and social security. There is buy-in on the welfare side. Most individuals in this country will benefit from a public payment of some kind, from healthcare to child benefit to the state pension, within their lifetimes. Creating the same level of connection with the taxation system is an essential component of the system's sustainability. The key mechanisms by which the UK raises revenue, redistributes income, and nudges corporations (and individuals) towards the right choices have been neglected and left to rust, out-of-step with the times we live in. There is no shortage of popular support for reform. Indeed, consensus seems to be on the side of the need for improving and simplifying the current tax and welfare system. 
 
