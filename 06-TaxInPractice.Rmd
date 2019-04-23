@@ -33,7 +33,7 @@ Taking a systemic perspective of the UK tax and welfare system can be helpful in
 
 # 6.2 Revenue and reasons
 
-##Tax in Practice
+## Tax in Practice
 
  The UK tax system consists of approximately 26 different taxes, with a significant range of tax bases exploited. In total, £594 Billion was received by the HMRC in 2017/18 [@HMRC2019]. With national GDP in 2018 recorded as £2.033 trillion [@ONS2019], this translates to an overall tax burden of 29.2%. Of these, income taxes made up £180 billion, national insurance contributions equated to £131 billion, and VAT to £125 billion. This demonstrates how concentrated the UK’s tax base is, with over 73% of total receipts raised from these three taxes alone. 
 
@@ -43,7 +43,7 @@ Overall, the proportions of total tax receipts received by HMRC in the UK has re
 
 The wide range of tax bases has, however, remained, making the UK tax codes one of the most complex in the world. The UK tax code is now 12 times the size of the King James Bible, itself not exactly a nightstand novella, standing at 22,000 pages on last measurement [@Martin]. This is due in part to the Tax re-write project, which converted previously archaic and disorganised laws into plain, comprehensible English.  Indeed, complexity and length can be unrelated. The 'shorter' US tax system is often thought of as more complex than that of the UK. However, it remains that the burden of administration and interpretation is still significant, and there is substantial political support for simplification of the tax code. 
 
- This complexity also has consequences for the HMRC itself, which is the second-largest government department in terms of staff numbers. The administrative cost of running this organisation is not insignificant, running at £3.3 billion in 2016-17 [@NAO2017].
+This complexity also has consequences for the HMRC itself, which is the second-largest government department in terms of staff numbers. The administrative cost of running this organisation is not insignificant, running at £3.3 billion in 2016-17 [@NAO2017].
 
 Part of the reason behind the complexity is due to the range of purposes which the taxes are intended to achieve. Raising revenue for government spending is clearly the objective of income tax and national insurance contributions. VAT, to regulate and nudge spending choices. Carbon and environmental taxes, to change behaviour and regulate pollution. And the levels of child tax credits, income allowance and housing provision clearly indicate the goal of redistributing income in the UK.  
 
@@ -53,7 +53,7 @@ However, the tax system is not the only way to achieve these outcomes. By issuin
 
 This is most clear when the tax system fails, and these goals aren’t achieved. Some objectives are too important to leave to the market, especially when it comes to regulating social and environmental bads. Moreover, relying on tax revenue can be difficult when the system is as complex as it currently is. Increased complexity raises the risks of tax avoidance and evasion for the wealthiest of earners. We’ll cover these later in the chapter.
 
-#Welfare in Practice
+# Welfare in Practice
 
 But what about the flipside? As we’ve touched on already, the stated objectives of Beveridge’s welfare state were to create a comprehensive system that employed tax revenue, government policy and moral authority to tackle the five great evils in society. Today, that is achieved through the welfare system. Allocating funds to people of diminished capacity, low income and the elderly creates a safety net for the UK, a minimum standard of living that people can count on. In theory.
 
@@ -69,7 +69,7 @@ Of the money allocated to the welfare state, some £217 billion was spent in pro
 
 ![5-2-taxage](ChapterPictures/5-2-taxage.png)
 
- As the figure above shows, most of the expenditure on welfare is directed towards people in retirement, sitting at 40% of total revenue. Despite recent policy changes to raise the retirement age, with an aging population this portion of welfare is set to increase. The rest is divided amongst those on disability and incapacity benefit, families and low-income people. These benefits are either on a contributory basis, i.e. pension payments that are dependent on National Insurance contributions), or non-contributory, such as the basic state pension. These benefits can also be awarded on a means tested basis, i.e. housing benefit,  or be universally applicable, like universal credit.
+As the figure above shows, most of the expenditure on welfare is directed towards people in retirement, sitting at 40% of total revenue. Despite recent policy changes to raise the retirement age, with an aging population, this portion of welfare is set to increase. The rest is divided amongst those on disability and incapacity benefit, families and low-income people. These benefits are either on a contributory basis, i.e. pension payments that are dependent on National Insurance contributions), or non-contributory, such as the basic state pension. These benefits can also be awarded on a means tested basis, i.e. housing benefit,  or be universally applicable, like universal credit.
 
 As we outlined in the previous chapter, there are three key purposes to the UK benefits system: to provide a safety net for all individuals at the bottom of the economic system, to care for specific special need issues, and to protect individuals into old age with a state pension. There are obviously flaws in the reality of achieving these goals, most of which will be expanded on in our inequality chapter. 
 
@@ -151,7 +151,7 @@ As it stands, the HMRC relies on self-reported income, and could therefore be te
 
 10)  Real estate borrowing
 
-#6.3 Conclusions
+# 6.3 Conclusions
 
  It is clear then that from this chapter, the tax and benefit system does not operate in practice the way it is laid out to in principle. The best laid plans of mice and men can fail to fully enforce behavioural taxes on a wide and mobile tax base, as the old saying goes. 
 
@@ -159,10 +159,10 @@ As it stands, the HMRC relies on self-reported income, and could therefore be te
 
  What is taxed should be concrete and objective. It should not depend on the honesty of those declaring the tax and it should not penalize the honest relative to the dishonest. The tax system should not contain 'tax arbitrages' and should not allow for dishonesty. This would help to combat both the issues of public acceptance and administrative complexity. The costs and time-commitment of administering such a system should never be excessive.  Streamlining the tax code to simplify the number of tax rates, directly tie benefits to the purposes of taxes that are applied, and a limited number of exemptions should be available. Above all, the tax and benefit system should be capable of being easily understood by the public.
 
- In terms of public acceptance, the purposes and targets of taxes should be well communicated and clear. As outlined in the previous chapter, following clear principles when taxes are created so that they are practical, beneficial and fair is essential when ensuring that they will be successfully launched. Tax should either fall on things that don't go away when you tax them (e.g. land) or things that you want to go away when you tax them (e.g. fossil fuel use sugar consumption).
+ In terms of public acceptance, the purposes and targets of taxes should be well communicated and clear. As outlined in the previous chapter, following clear principles when taxes are created so that they are practical, beneficial and fair is essential when ensuring that they will be successfully launched. Tax should either fall on things that *don't go away* when we tax them (e.g. land) or things that we *want to go away* when we tax them (e.g. fossil fuel use sugar consumption).
 
-It is important that the tax and benefit system works. As we’ve shown, income tax and consumption tax revenue are the life blood of public services like the NHS, the educational system and for social security. There is buy in on the welfare side. Most individuals in this country will benefit from a public payment of some kind, from healthcare to child benefit to the state pension, in their lifetimes. Creating the same level of connection with the taxation system is an essential component of the system’s sustainability. These key mechanisms by which the UK raises revenue, redistributes income, and nudges people towards the right choices have been neglected and left to rust, out of date with the times we live in. There is no shortage of popular support for reform. Indeed, consensus seems to be on the side of the need for improving and simplifying the current tax and welfare system. 
+It is important that the tax and benefit system works. As we’ve shown, income tax and consumption tax revenue are the life blood of public services like the NHS, the educational system and for social security. There is buy in on the welfare side. Most individuals in this country will benefit from a public payment of some kind, from healthcare to child benefit to the state pension, in their lifetimes. Creating the same level of connection with the taxation system is an essential component of the system’s sustainability. These key mechanisms by which the UK raises revenue, redistributes income, and nudges corporations (and individuals) towards the right choices have been neglected and left to rust, out of date with the times we live in. There is no shortage of popular support for reform. Indeed, consensus seems to be on the side of the need for improving and simplifying the current tax and welfare system. 
 
- As we will explore in the coming chapters, in more detail, things are changing, but not significantly enough. Proposals put in place that aim to move towards a universal credit system have ignored the need for changes to be practical, beneficial and fair. HMRC’s tightening up of tax evasion has yet to fully solve the problem. And destructive behaviours have yet to fully be targeted through the use of taxation. There is still a significant way to go with realising our principles in practice. 
+As we will explore in the coming chapters, in more detail, things are changing, but not significantly enough. Proposals put in place that aim to move towards a universal credit system have ignored the need for changes to be practical, beneficial and fair. HMRC’s tightening up of tax evasion has yet to fully solve the problem. And destructive behaviours, especially by corporations, have yet to fully be targeted through the use of taxation. There is still a significant way to go with realising our principles in practice. 
 
  
