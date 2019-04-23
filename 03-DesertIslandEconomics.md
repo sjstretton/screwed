@@ -1,4 +1,9 @@
-# PART 3: DESERT ISLAND POLITICAL ECONOMY
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# PART 3: DESERT ISLAND ECONOMY
 
 The purpose of this section is to take you on a whirlwind tour of some important ideas in economics and the history of economic ideas. We shall introduce these through stories set on a group of several islands, which we will term the Economic Archipelago (the 'Tea Islands'). In the subsequent chapter we will introduce these same ideas more formally using a different analogy: The cake.
 

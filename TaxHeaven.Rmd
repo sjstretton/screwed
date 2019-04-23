@@ -15,15 +15,15 @@ link-citations: yes
 \newpage
 
 ```{r setup, include=FALSE}
-Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
-if(Platform=="PC") { 
-  setwd("~/../Book") 
-} else if(Platform=="Mac") { 
-  setwd("~/Documents/Book")
-} else if(Platform=="HeatherPC") {  
+#Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
+#if(Platform=="PC") { 
+# setwd("~/../Book") 
+#} else if(Platform=="Mac") { 
+#  setwd("~/Documents/Book")
+#} else if(Platform=="HeatherPC") {  
   setwd("~/Github/TaxHeaven/taxheaven")
   #Add something for your WD if this doesn't work# 
-}
+#
 
 options(htmltools.dir.version = FALSE)
 options(scipen=999)

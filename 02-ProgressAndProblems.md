@@ -1,4 +1,9 @@
-# PART 2: AN ECONOMY FIT FOR OUR CHILDREN
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# PART 2: Progress and Problems
 
 This book is addressed to a wide readership: Economists, scientists, politicians, professionals, and the public alike. Everyone, in fact, who cares about two issues not usually understood to be intimately connected: Establishing a fair economy which rewards contributive merit in proportion to contribution (tempered by compassion for the elderly or disabled), and preventing catastrophic climate disruption. 
 
@@ -6,7 +11,11 @@ In fact, these two issues are indeed intimately linked. If we simply add the dim
 
 Across the social spectrum, people are starting to lose hope. The poor are losing hope because of their precarious economic situation; the wider public because of a lack of certainty that society can fix critical issues such as preventing radical climate disruption. Even the wealthiest in society are showing signs of fear, building bunkers and preparing for the worst. But with careful design and application of policy, and sufficient political will, all is not lost. 
 
+<<<<<<< HEAD
+## The Economic Conditions for Wide-Spread Prosperity
+=======
 What would an economy fit for our children look like - a society and economy that promotes the wealth and happiness of its citizens? Such a framework would define, create, preserve, and fairly distribute wealth, both natural and man-made. To build an economy that enables and fosters happiness, we will need different metrics than those economists conventionally use today - metrics encompassing both economic security and satisfaction of needs, as well as measures of free time, manageable stress levels, and social stability. A successful economy is one that is good for people and for the planet. Gross domestic product (GDP) is only one among many relevant measures.
+>>>>>>> 6d0c5db05f2d2eaaa66c627a952d53e47652b09f
 
 ## What are the Economic Conditions for Sustainable Widepread Prosperity?
 

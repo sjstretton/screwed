@@ -1,10 +1,19 @@
-# WHERE ARE WE NOW? FACING A PERFECT STORM.
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# FACING A PERFECT STORM.
 
 The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
 
 A group of New England fishermen had fallen on hard times after a series of poor catches. Their captain, played in the film by the actor George Clooney, hired a boat for one final fishing trip of the year. The trawler sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish. Turning for home, they hoped to get the catch back whilst still fresh. Unfortunately, a storm was brewing - and not just any storm. Three separate weather systems had merged to create a 'weather bomb' of unusual intensity. Meteorologists warned of a serious threat to life.  
 
+<<<<<<< HEAD
+The fishermen faced a dilemma. Should they attempt to land their catch whilst still fresh? To do so, they would need to risk their lives by sailing back, straight through the storm. Or they could avoid the storm by sailing further out to sea. After this detour, the fish would no longer be fresh and the fishermen would be out of pocket.
+=======
 The fishermen faced a dilemma. Should they attempt to land their catch whilst still fresh? To do so, they would need to risk their lives by sailing back on a direct route, straight through the storm. Alternatively, they could avoid the storm by sailing further out to sea. After this detour, the fish would no longer be fresh, and they would be out of pocket.
+>>>>>>> 6d0c5db05f2d2eaaa66c627a952d53e47652b09f
 
 Added to this dilemma were communication and leadership issues. The storm had damaged the radio, making it difficult to get information or call for help. The captain (we'll call him 'Clooney' after the actor playing him), whilst charismatic, lacked good judgment. He took the risk and sailed into the storm.
 
@@ -49,8 +58,12 @@ In the song 'Don't stop me now' by Queen, the lead vocalist, Freddie Mercury, sa
 
 Economists study scarcity, amongst other things. In this text, we focus on three forms of scarcity: Space, time, and natural resources. Space is limited, although it is more limited in some places, e.g. Hong Kong, than in others, e.g. Siberia. Time is limited too. What I do with the hours of my day today is irreversible, and my time is unrecoverable. 
 
+<<<<<<< HEAD
+So if the world of ideas - often economic ideas - now influences the health of our very planet, how on earth did we get into this situation in the first place? We go back in time to the era of Adam Smith and then run the clock forward observing revolutions of politics, technology and ideas.
+=======
 And finally, natural resources like fossil energy are limited. Humans of our era have built a civilisation that is powered primarily by stored-up sunlight in the form of compounds of carbon and hydrogen: Coal, oil, and gas. About 85% of our our primary energy today is delivered by fossil fuels, with nuclear power, hydroelectricity, and renewables (wind, solar, tidal and geothermal power) delivering the rest. It took millions of years for geological processes to form the fossil carbohydrate fuels that we've burned in less than two centuries. By releasing their combustion products into the atmosphere, our use of this stored-up sunlight has markedly changed its chemical composition in a way that is causing it to trap more infrared radiation (heat radiation), adding enormous amounts of heat energy to land, sea and atmosphere, thereby ensuring more frequent and intense storms, floods and droughts in the future, as well as rising sea levels as seaweater thermally expands and glaciers in Greenland, West Antarctica and elsewhere melt.
 
 We must change this trajectory, and take carbon back out of the atmosphere on a net basis as soon as possible, or self-reinforcing feedback loops in the carbon-climate system will kick in that will, within a century or two at most, cause us to lose London, New York City, Shanghai, Hamburg, the Netherlands, Florida, Bangladesh, the Nile Delta and many other regions to the sea, as well as make large parts of the planet uninhabitable. For example, climate scientists expect summer outdoor daytime temperatures in North Africa and the Middle East to be so hot by late in this century - within the lifetimes of people who are children today - that they will be fatal within less than an hour. Mass migrations and wars are among the likely results. But one great issue that makes it very difficult to shift course from our current trajectory, even though it is pointed straight toward shipwreck and disaster, is sheer momentum. Our whole economic way of life is 'locked in' to a particular course and the message is 'don't stop me now.' The incentives built into our economic system reward carrying on as usual, not changing course. 
 
 So if the world of ideas - in particular, economic ideas - now influences the very fate of our planet, how on earth did we get into this situation in the first place? To get a sense of this, let's first go back in time a couple of centuries to the era of Adam Smith and the economic concepts that first gained currency in his time. Then we'll run the clock forward, observing revolutions of politics, technology, and ideas.
+>>>>>>> 6d0c5db05f2d2eaaa66c627a952d53e47652b09f
