@@ -9,7 +9,7 @@ bibliography: Library/Mac/library.bib
 link-citations: yes
 ---
 
-# PART 8: WELFARE AND WORK
+# PART 7: WELFARE AND WORK
 
 ## Summary 
 
@@ -42,7 +42,7 @@ link-citations: yes
 > '*If you are on a zero-hour contract, you are already not going to be earning much, so how do you pay for childcare to cover those times? It's not unreasonable for people to have some kind of predictability in the workplace*.''' Keira'
 
 
-# 8.1 What is Work?
+# 7.1 What is Work?
 
 '*We shall honour those who can teach us how to pluck the lilies of the field who toil not, neither do they spin*' [@Keynes1930]
 
@@ -76,7 +76,7 @@ There are, of course, forms of work which neither greatly benefit nor greatly ha
 
 There is no necessary correlation between pay and the kinds of work which are socially beneficial.  If anything, the opposite is often true. Using the examples mentioned, the tax accountants and advertising executives are vastly better paid than the teachers, despite the perhaps dubious outcomes from the former options. We could take this point further and observe that it is possible to perform activities which are extremely socially useful, but receive no remuneration at all.  As they lack remuneration, there has been debate as to whether to term these activities as 'work', but activities such as child-rearing, caring for elders, volunteer work and other forms of unpaid activity are often of great value to society.  We should keep this point in mind as we consider the role of welfare and welfare recipients in society.  Although people may be in receipt of benefits because they have no or little income from paid work, they may in fact be performing unpaid work which is socially beneficial [@Webber2016].
 
-# 8.2 Work in the UK
+# 7.2 Work in the UK
 
 ## Wages and the growth of low-skilled work
 
@@ -124,7 +124,7 @@ In 2014/15, there were 440,000 reported cases of work-related stress, depression
 
 Clearly, the current status of work in the UK today is far from the future which Keynes envisioned. Rather, overwork and underemployment are both prevalent factors, with some workers suffering from lack of work life balance and others from low pay (and some from both). Many experience their work as toil, feeling little satisfaction or meaning, whilst those making meaningful contributions to society may be unpaid or poorly paid. Importantly, the labour market does not distinguish between work which is beneficial or harmful to society in the way those jobs are remunerated. There is a need to apply new approaches and perspectives in addressing issues related to labour markets and state provision of safety nets. It is to this that we now turn.
 
-# 8.3 Welfare
+# 7.3 Welfare
 
 > '*I have reduced hours and taken time off from work and will have to do so again in order to continue caring. I am torn between caring, working and being there for my own family. I don't want to care anymore but I have no choice. I will jeopardise my job, health and persona llife in the process ' I don't know what will happen to me in the future'*. ''Jane', carer [@CarersUK2014]
 
@@ -169,7 +169,7 @@ Today's welfare state covers five main groups of welfare spending:
 5. Family Benefits, Income Support and Tax Credit
 
 
-# 8.5 Issues with the benefit system
+# 7.4 Issues with the benefit system
 
 ## The 'benefit trap'
 
@@ -246,7 +246,7 @@ The below chart shows the proportion of unclaimed benefits, to overpaid benefits
 |:--:|
 |*Figure 11.9 - Mis-paid Benefits *|
 
-# 8.6 Criteria for a New Welfare Model
+# 7.5 Criteria for a New Welfare Model
 
 - **Flexibility** The welfare system needs to be adapted to a current work environment, in which people go in and out of short-term contracts and may be working part-time.  The current system involves a time-consuming application process which is not responsive enough to changing conditions in people's work lives.  
 - **Stability** The system should, as far as possible, minimise or eliminate anxiety-inducing disruptions to income.  Whether due to delays in processing applications, or because a claimant has changed their address or experienced some other life change, the current system imposes delays and cuts to benefits.  This can cause extreme anxiety and repercussions on family members.
@@ -294,13 +294,15 @@ Universal Credit should be considered as the first step towards a new system. It
 
 We therefore argue that a Citizens Dividend could be the next step forward in combating these issues, which we will explore in the next section in more detail.
 
-# 8.7 The Citizens Dividend
+# 7.6 The Citizens Dividend: A Brief Introduction
 
 ## Brief History and Principles
 
 In June 2016, a landmark referendum was held in Switzerland. The Swiss went to the polls to vote on whether the Swiss government should pay each citizen a monthly sum sufficient to allow them to live in a dignified manner and participate in public life. In Switzerland, referendums are commonplace - but what made this one remarkable is that it was the first time that the citizen's dividend idea was put to a referendum for serious consideration by the populace.  Even more significantly though, the referendum launched the idea into the mainstream media, bringing it widespread attention, both within Switzerland and internationally.
 
-So what is a citizens dividend?  There are many different models of a citizens dividend, but the core principle is the same.  The Basic Income Earth Network describes it as follows: 
+So what is a citizens dividend? We use the term here as synonomous with Basic Income, but with the idea that a citizen's dividend is a 'top up' and is not intended to be enoough to live on. 
+
+There are many different models of a citizens dividend, but the core principle is the same.  The Basic Income Earth Network describes it as follows: 
 
 *'A basic income (citizens dividend) is an income unconditionally granted to all on an individual basis, without means test or work requirement.* 
 
@@ -380,7 +382,181 @@ In assessing disability needs, we should avoid the harsh bureaucratic and aliena
 
 > *'In the end this system would help us take a big step forward towards human rights for all, including disabled people. Nobody would be subject to demeaning systems of control and punishment managed by the DWP(whether they had a disability or not). Everybody would get a basic income.Sick or disabled people would get an appropriate supplement to that income. In addition we would organise any further support and assistance in a way which was empowering and under the control of disabled people themselves*.'
 
-# 8.8 Guaranteed Job and Skills Training
+
+# 7.7 Options For Welfare System ***BADLY WRITTEN***
+
+So, as we have discussed, The present benefit system is a mixture of unconditional, conditional, means-tested, taxable and non-taxable payments. It is illogical and ill-thought through. Additionally,different means-tested benefits are means tested in different ways. The sum total of the system creates perverse incentives and does not encourage work effectively. Indeed, dealing with the benefits system is like a job in itself,both for the person claiming benefits and for the people administering benefits. This complexity is unnecessary because means-testing is just a tax in disguise: it takes away money from people as wages increase. Such a function is best performed by the income tax system, which also takes away money from people as wages increase. 
+
+We propose a return to universal benefits with 'means testing' performed by the income tax system, rather than the benefits system, in an integrated and smooth way. The basic universal benefit in our proposed system is the Citizen's Dividend. It is a universal payment to all UK citizens. The Citizen's Dividend is a per capita payment to all citizens of the country, paid regardless of employment status. It is a universal payment to everyone in society who is a citizen of the UK. The payment would be initially equal to current income support levels, i.e, around £75 a week, or £3800 per year. 
+
+There will be different rates for children (replacing child benefit and child tax credit, paid to mothers), working-age adults (replacing income support) and pensioners (equivalent to the existing state pension). It provides all UK citizens with the minimum amount of income. We also propose to offset payment of Citizen's Dividend against other taxes so taxpayers only receive a net bill or payment.
+
+In addition, there will need to be further payments for particular categories of people with specific needs -- for example, disabled people, the elderly, carers and mothers with children. We propose that these payments would be made on a similar and consistent basis to the Citizen's Dividend described above. There will obviously need to be changes to the tax system in order to pay for these universal benefits but the system of government accounting should account for a means-tested benefit and a taxable universal benefit with increased income taxes the same way.
+
+We also propose to offset payment of Citizen's Dividend against taxes. This would specifically apply to those taxes that are highly visible such as property taxes, so that individuals will receive or pay only the net amount of either taxes or benefits. 
+
+The ideal education and welfare system include not only a (low) citizens income, around the current level of income support but also an integrated training, entrepreneurship and workfare scheme. The workfare system would be a system that pays a small wage but also develops the claimant's skill-set. This is also the purpose of some further education courses. Integrating workfare with training allows continual upgrading of the skill-set. Such training should always prepare the recipient both for employment and for entrepreneurship/self-employment. For example,mini-economies can be created in schools and universities to allow older school children to trade between themselves. The training-workfare college should develop these entrepreneurial skills further, removing one major barrier to entry to all industries, a general lack of entrepreneurial skills.
+
+
+## Our Approach to Reform
+
+Any welfare system is complex, but the basic elements are simple.
+
+Firstly, there are some universal benefits that are paid to everyone, only conditional on age. Examples of these might include universal forms of 
+
+Secondly there are categories which mean people get (more) benefits, for example if your are a carer or disabled or long-term ill. For these, your status needs to be verified.
+
+Thirdly, there's a system for taking money off people as they earn more. In the benefits system this is called 'means testing' whereas in the tax system this is called 'income tax'. Means testing is occasionally done, not through income but through wealth, but we stick to the simple case here.
+
+Fourth, the benefit system often relates to a system of taxes and records of those taxes. Taxes and national insurance contributions are again similar ideas, but the at least in principle social security conttributions gives a 'contribution record'. 
+
+There's two other features that we won't comment on here, for simplicity sake.^[Fifth, in some systems, the quantity of benefits of unemnpkloyment benefits is sometimes related to your current income. In addition it sometimes degrades over time.
+
+Sixthly, there is often specific help to get people into work, or higher skilled work, such as apprentiship schemes.]
+
+So setting up a new system is really actually quite simple: 
+We need some universal benefits, related only to age
+We need a system of conditionality, based on disabled or sickness or other status. This is complex, and out of scope of this book, but we propose that these conditions simply raise the non-income dependent benefit level for those who have these conditions. It's conceptually simple: if you are verified to have such a status, you get more money. But we don't outline in detail the status conditions and the increase in benefits here.
+We need a system of taking money off people as they get higher income. We propose using income tax rather than a separate benefits system
+We need a system of contribution records. We suggest merging Income Tax, National Insurance and Means Testing into a *single* tax at a rate of around 40% for the bottom 99% of the population. Since we are replacing means testing there would be *no personal threshold*. However, the payments of the first 4000 pounds of tax would be consisidered a 'contribution record'. The government would aim to purchase an equivalent amount of asssets. Those assets would uprate the unconditional benefits with an additional, funded 'basic property' allowance.
+
+Finally we suggest help for increasing people's skills by integrated work and training placements. This is not the main scope of this book.
+
+We discuss this approach below.
+
+--------------
+
+
+
+# 7.8 Introducing a Citizens Dividend
+
+## Citizens Dividend 
+
+As discussed earlier, a Citizens' Dividend is a per capita payment to all citizens of the country, paid regardless of employment status. It is intended to simplify the tax-benefit system; rather than means testing,the rest of the tax system is used to tax away the benefit. This Citizens Income provides everyone in the society with a minimum amount of income to live on. It's a way of compensating people for the inevitable costs resulting from the scarcity of natural things that are vital to life. The level of the Citizens' Dividend might be, for example, around £75 per week, or around £3800per year. 
+
+The citizen's income pays scarcity rents. If the fundamental things in life were not scarce for example if there were an infinite amount of land to grow food and live on and if the atmosphere was completely unlimited then there would be no need for a citizens income, just as there is no citizens income for the hunter-gatherer.In principle then, the citizens income compensates man for that which he loses when and he multiplies and lives in cities rather than being in the wild and living as a hunter gather. 
+
+A Citizens income can be introduced as a simplification of the existing tax and benefit system.It would be paid from the tax department and replaces some existing benefits.It could be taxed away using income tax, so maxing explicit the effective taxes implicit in means testing, and allowing those rates to be smoothed and optimised. Also, as you increase taxes that the unemployed do not pay, also introduce a citizens income and net off the two. People with tax bills would only receive a net tax bill.
+
+Our goal for the value of the Citizen's Dividend is the current level of income support.  We would abolish this benefit and replace it with a Citizen's Dividend paid to all. However, since the introduction of this dividend is expensive, it may need implementing slowly. For simplicity and political purposes, the dividend should be netted off against taxes paid, for example on property and land. Hence, people will receive only the net benefit or pay the net tax. 
+
+## Different ways to fund a Citizens Dividend Scheme
+
+This article argues that there are *different types* of Citizens Dividend Scheme, depending on what the Citizens Dividend Scheme replaces and how it is funded. Those types are a *simplifying* Citizens Dividend Scheme, a *compensating* Citizens Dividend Scheme, a *redistributive* Citizens Dividend Scheme and an *extra* Citizens Dividend Scheme. A simplifying Citizens Dividend Scheme is paid for by changes to income tax and pre-existing benefits; a *compensating* Citizens Dividend Scheme is paid for by increases in other taxes that are paid by all, such as a carbon tax. A redistributive Citizens Dividend Scheme is paid for by taxes on the rich; whereas an *wealth fund* Citizens Dividend Scheme is paid for by a wealth fund.
+
+I argue that these are not just 'different ways to fund a Citizens Dividend ' but rather they are inherently different overall propositions. A 'simplifying' Citizens Dividend Scheme does not change incomes very much but it does simplify the benefits system. A compensating Citizens Dividend Scheme's main rationale is to remove the regressive effect of independently worthwhile policy. A redistributive Citizens Dividend Scheme moves money from rich to poor. And a wealth fund Citizens Dividend Scheme increases national savings by funding the transfers with asset purchases.
+
+## A Simplifying Citizens Dividend Scheme
+
+The main goal of a simplifying Citizens Dividend Scheme is to simplify the existing system of welfare provision with lower benefit withdrawal rates and a more universal aspect, so as to prevent the bureaucratic checks that accompany means testing and conditionality. A strategy for implementing the simplifying Citizens Dividend Scheme would be to remove the personal allowance and find the 'common feature' across many different schemes. Then add a Citizens Dividend and at the same time reduce benefits and allowances by the same amount across the board.
+
+*Simplifying Citizens Dividend Scheme, Typical tax increased: Income tax (personal allowance)*
+
+## A Compensating Citizens Dividend Scheme
+
+The reasoning behind a 'compensating' Citizens Dividend Scheme is to compensate for changes to taxes that would otherwise be undesirable because of their regressive effect. Environmental taxes are desirable because they attempt to properly price externalities. Health taxes aim to change behaviour of consumers and modify the composition of produced foods. However, sometimes these taxes have a regressive effect, because the poor spend more as a proportion of their income on food or energy than the rich. A *compensating* Citizens Dividend Scheme would redistribute these tax revenues using the mechanism of the Citizens Dividend Scheme. Examples of this approach include a carbon tax combined with a Citizens Dividend , referred to as the 'tax and
+dividend' approach.
+
+Compensating Citizens Dividend Scheme, Typical tax increased: Carbon tax
+
+## A Redistributive Citizens Dividend Scheme
+
+Like a compensating Citizens Dividend Scheme, a redistributive Citizens Dividend Scheme is also paid for out of increased taxes. But in this case, the taxes that would be increased would be taxes primarily on the rich. So for example, a Land Value Tax or property tax falls more heavily on the rich.
+
+There are variations of a redistributive Citizens Dividend Scheme that can be tailored to make a land value tax more palettable. For example, there could be a personal allowance for property owners, and a Citizens Dividend Scheme for non-property owners. In that way, a property tax is made to favour those who own just one property.
+Those who own more than one property will pay extra tax, whereas those that own none get a compensating payment. This allowance would be equivalent to a 'Citizens Dividend Scheme for property owners' could then be extended using the funds raised by the multiple property owners to those who are renting.
+
+Typical tax increased: Land Value Tax (new tax)
+
+## A Wealth Fund paying a Citizens Dividend; Basic Property
+
+Whereas the previous three example would be funded by increased taxes and/or reduced other benefits, a wealth fund basic income would be funded by a wealth fund. Wealth funds already exist, for example the Norwegian sovereign wealth fund. In this case the wealth fund would buy assets such as equities, bonds, land or property. The wealth fund would pay out dividends according to the return (dividends, interest, rent) on the underlying assets.
+
+But how would the assets themselves be financed? From which source? There are a number of options: Taxation, Financial Surpluses from some other activity, Government Borrowing, and Quantitative Easing.
+
+An obvious example in this case would be corporation tax. Increased corporation taxation would be used to purchase additional equities. In effect, companies would be asked to pay an increased corporation tax in shares. This approach was tried in Sweden for some time, and proved successful and popular. Companies paid a portion of their taxes in shares, and this enhanced a fund that paid a basic
+dividend to everyone.
+
+Surpluses from local development are another method to fund the basic income. For example, a local bank could be set up. This bank would purchase land/ lend on land, and the surplus that it generates would be stored in a local social fund. The dividends from the fund would then be used to pay a basic income. The advantage of this approach is that the assets paying the fund would be themselves useful to provide capital for the bank, and the dividends would also be helpful
+
+Another indirect way to fund a wealth fund basic income would be Quantitative Easing or Bond Issuance, used to buy up assets, perhaps at the same time as taxes were used to reduce those assets. Purchasing assets and taxing them act in opposite directions in regards to the sale price of assets. Taxing an asset in general would reduce its market price; purchasing that asset tends to inceease the price. The introduction of taxes on assets at the same time as purchase of
+assets, allows for financial stability at the same time as capture of surplus by
+the authorities.
+
+One step beyond a basic income is basic property. This would be a basic
+requirement for property for all.
+
+## The Case For Retaining A System of Contributions and Contribution Records in a Basic Income Scheme
+
+The Beveridge report and the system of national insurance that it brought in, amongst other things, have at its heart the dual ideas of universal benefits and that of contributory benefits. Universal benefit is a benefit that is paid at the same level whatever happens. Contributory benefits are those where tax or national insurance contributions affect the future amount of benefits provided.
+
+The Beveridge report argued *against* means testing, which can be defined as taking away benefits as income increases. But the UK welfare state has introduced means testing, a second income tax but this time only on the income of those on benefits. Of course, taking money away from people as their income rises is what income tax does, and it is odd that in the uk there are four separate systems for doing this (income tax, employers and employees national insurance, and means testing of benefits, soon integrated into a single benefit, universal credit)
+
+A simple and *integrated* tax and benefits system recognises that taxes and means testing are essentially the same thing. A benefits system with a basic income at its heart recognises that the high benefits withdrawal rates of the current system. So a transition to a ?4000 per year basic income could be financed (say).
+
+## Contributory Basic Income Increases
+
+It will be assumed here that we can fund a basic income from environmental taxes. This would pay a basic income of £4000, but this would not be uprated with inflation. In order to acheive our target of a basic income of £6000 per person, the addition would be funded by actual securities purchased in the market. The money raised to fund these purchases would be from the following sources: taxes on company profits or wealth, money purchase of overseas securities. The allocation of the tax paid would be to everyday people according to the tax paid, up to some maximum value per year.
+
+So for example if £2000 saving would be put into securities yielding 5% per year, then the basic income next year (and thereafter) would be 5%\*£2000 = £100 extra per year. There would be two ways to earn these credits.
+
+There would be two methods for saving this £1000. First, for every £ you pay in income tax, you might get £1 of securities set aside for you. Second, the local authority or national government could pay you for doing various community actions.
+
+Communities need maintenance. Public goods need to be paid for. This creates a basic income scheme very much like the sort of scheme Beveridge intended, and also the welfare schemes that many countries have, which have a 'contributory' component. In other words, if you don't work,
+
+It is intended to be the sort of scheme that represent the and financial
+interests of 99% of the population and the value set of 80% of the population, that build a broader coalition than egalitarianism alone to include community, the work ethic, as well as simiplification and the national interest. Over time, the scheme would move to being 'funded' perhaps by taxing multinational's shares apportioned by sales so that ownership over time moves to the fund(s) paying the basic income - a sovereign wealth fund in other words.
+
+In summary, the scheme encourages community involvement, eliminates the disincentive effects and deadweight cost of income tax for everyone earning less than £50K per annum, and makes BI more palatable to people that subscribe to ideas that our communities, public physical infrastructure and public goods need maintenance and that work should be rewarded. All at no additional cost.
+
+## A basic income with a tax contribution record.
+
+The basic idea is as follows:
+
+- Every current citizen is granted a right to a basic income of £4000 per
+  year.
+- Income tax paid (at 40%) between 0 and 10K is set aside to buy securities
+  and thus increments additional amount to the basic income
+- Whilst income between 0 and 10K is taxed, the taxpayer increases his or her
+  benefit entitlement in so doing, with an exactly equivalent value.
+- Community actions could also be paid in this benefit
+
+## Politics of Citizens Dividend Scheme
+
+It seems to me that the major problem with basic income is that people aren't happy with giving money for nothing. If however, it was funded, and there were local organisations with balance sheets paying basic income out of a funded balance sheet, then this would be perfect, because the income would not be seen to be coming out of taxation. It would of course then reduce the tax burden for the state. Taking the population seriously means that taking seriously the idea that people will not just be interested in 'money for nothing'. Perhaps it also means that people are interested in value for value created. But if you create value in a community you should get a reward.
+
+For the last few years, Britain has struggled with the idea of freedom of
+movement. The UK, and particularly London, are attractive places for people across the EU to move to, partly because of the English language, partly because the economy was booming, and partly because the international and multicultural nature of London in particular was very welcoming. But it has become clear that some portion of the existing population did not feel much economic benefit from this. A basic income if related to a real or notional personal wealth fund could allow smooth earning of basic income by citizens and then for new residents to 'buy in' to this fund.
+
+## Implementation
+
+**Step 1: Introduction of Payment Card**
+
+The citizen's dividend system would be introduced as a payment card for all citizens (similar to an oyster card).
+
+**Step 2: Simplifying Universal Credit**
+
+Universal credit works like this: You can opt into the system, if you have been on another benefit and you are in an area that UC has been rolled out to. Universal credit replaces the following benefit types: Child Tax Credit; Housing Benefit; Income Support; income-based Jobseeker's Allowance (JSA): income-related Employment and Support Allowance (ESA): Working Tax Credit. Once you are in the system, it works like this: You have a standard payment, that is set up as follows: - If you are are getting help with housing: you get a payment
+of X per year, not including housing costs. - If you are not getting help with housing: you get a payment of Y per year.
+
+For those people in the universal credit system, replace it with a universal payment and a standard benefits withdrawal rate of 40%. Now, a benefits recipient would receive a universal benefit of ?4000 per year , and pay a standard tax of 40% on all income coming in.
+
+**Step 3: Simplifying Income Tax**
+
+For people working, replace it with a basic income and the elimination of the personal threshold. Simultaneously simplify the income tax, employees and employers system to a standard rate of 40% and a higher rate of 60% for the first percentile only. If you are in the PAYE system you get the basic income.
+
+Now these two groups are on a basic income: - People earning over the personal allowance - People qualifying for universal credit (how many are there?), and legacy benefits to be replaced by universal credit. The participation basic income would be paid in two circumstances. First, you are in work. Second, you are in receipt of universal benefits and the legacy benefits that universal benefit allows for.
+
+**Step 4: Reduce Income taxes, Increase Externality Taxes**
+
+The third step is to reduce again the basic rate of income tax, and replace it with the carbon tax, at the same time bringing into the scheme those people who aren't either recipients of universal credit, or full time workers above the personal allowance (as was prior to the introduction of the scheme.
+
+**Step 5: Basic Property Tax Free Allowance**
+
+We adopt the same approach to property as with income. We first consider the people who are taxed and the people on benefits and we adopt the same allowances for these two groups. Those owning property and those on housing benefits should have the same benefits. We then extend this allowance to all.
+
+
+# 7.9 Guaranteed Job and Skills Training
 
 We would also propose a guaranteed job and skills training program, operating in conjunction with the Citizen's Income.  For example we propose taking around 250,000 people into full technical apprenticeships each year.
 
@@ -435,3 +611,4 @@ Local authorities can use the scheme to get more funding.  This will contribute 
 Guaranteed jobs could displace existing workers.  Some employers that have people already could take the free labour and fire the people they already have.  This occurrence may be difficult to prevent. In the worst case scenario, people will be rotated through the skills program.  
 
 A high skilled economy is inevitably more inflexible as it takes longer to get particular skillsets. Computer Technicians cannot easily retrain as brain surgeons. Also, certain work is only suitable for those with very high academic ability.  This scheme would not be of great assistance as regards those kinds of skills.
+
