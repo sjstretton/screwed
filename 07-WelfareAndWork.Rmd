@@ -14,73 +14,73 @@ link-citations: yes
 ## Summary 
 
 - Work plays a major role in modern life, yet it can be difficult to define precisely.  Work can be purposeful and fulfilling (work as leisure) or it can be unsatisfying drudgery (work as toil).  
-- Work can be of benefit to society (e.g. Nursing), or it can be harmful (e.g. Advertisement for junk-food).  Benefit and harm are often not reflected in salaries.
 
-- In the UK, there is has been a decrease in unemployment but growth in low income, low-skilled and insecure work.  There has been an increase in people relying on tax credits to top up their wages.
+- Work can be of benefit to society (e.g. nursing), or it can be harmful (e.g. creating advertisements for junk-food).  Benefit and harm are often not reflected in salaries.
 
-- Many people feel overqualified and dissatisfied with their work.  There has been an increase in the numbers of people working excessively long hours (NB: I don't know if this is true, workhouses?).  This is associated with increased rates of heart disease, mental illness, diabetes and stroke.
+- In the UK, there has been a decrease in unemployment, but proportional growth in low income, low-skilled and insecure work.  There has been an increase in people relying on tax credits to top up their wages.
+
+- Many people feel overqualified and dissatisfied with their work.  There has been an increase in the numbers of people working excessively long hours (NB: I don't know if this is true, workhouses?).  This is associated with increased rates of heart disease, mental illness, diabetes, and stroke.
 
 - There is a relationship between the labour market and welfare.  When work is precarious, there is a need for unemployment benefit to plug the gaps.  Illness from overwork may lead to a need for Employment and Support Allowance or disability payment.
 
 - The current British welfare system is unsuitable for the needs of today's workforce.
 
-- The current system discourages people from transitioning into work.  There is also a stigma associated with receiving benefits, contributing to a non-take up of benefit by people who are entitled to it.  Administrative delays and assessment mistakes are also rife.
+- The current system discourages people from transitioning into work.  There is also a stigma associated with receiving benefits, contributing to a non-take up of benefit by people who are entitled to it. Administrative delays and assessment mistakes are also rife.
 
-- Any new welfare system should be flexible, avoid disruptions in income, be empowering, promote work-life balance, be non-stigmatising, simple, avoid benefit trap, be modern and sufficient to live on.
+- Any new welfare system should: be flexible, avoid disruptions in income, be empowering, promote work-life balance, be non-stigmatising, simple, avoid benefit trap, be modern, and sufficient to live on.
 
-- Citizens Income would meet many though not all of the above requirements.  It is an income, unconditionally granted to all, on an individual basis, without means test or work requirement.
+- Citizens Income would meet many - though not all - of the above requirements.  It is an income, unconditionally granted to all, on an individual basis, without means test or work requirement.
 
-- Guaranteed Jobs and Skills training could be used to improve the skill level of people in deprived communities.  A successful program would help people discover what work people would like to do and would be targeted towards skills needed by employers.  
+- Guaranteed Jobs and Skills training could be used to improve the skill level of people in deprived communities.  A successful program would help people discover what work people would like to do, and would be targeted towards skills needed by employers.  
 
+> *"I think there's a lot of pressure in this country to work when you have kids, and I don't think that's true of everywhere.You think of somewhere like Germany, when you are at home with your kids that's OK, but here there's pressure all the time to be out working"* 'Laurie',single parent
 
-> '*I think there's a lot of pressure in this country to work when you have kids and I don't think that's true of everywhere.You think of somewhere like Germany, when you are at home with your kids that's OK ' but here there's pressure all the time to be out working*'.' 'Laurie',single parent
+> *"I also just feel that bringing up a child is working! Why is that not given the status?"*'Ray', single parent.
 
-> '*I also just feel that bringing up a child is working! Why is that not given the status?*' 'Ray', single parent.
+> *"I have a job with a really flexible employer, but I do get called up at short notice and it's incredibly stressful."* 'Martina'
 
->*'I have a job with a really flexible employer, but I do get called up at short notice and it's incredibly stressful*.' ' 'Martina'
-
-> '*If you are on a zero-hour contract, you are already not going to be earning much, so how do you pay for childcare to cover those times? It's not unreasonable for people to have some kind of predictability in the workplace*.''' Keira'
+> *"If you are on a zero-hour contract, you are already not going to be earning much, so how do you pay for childcare to cover those times? It's not unreasonable for people to have some kind of predictability in the workplace."* Keira'
 
 
 # 7.1 What is Work?
 
 '*We shall honour those who can teach us how to pluck the lilies of the field who toil not, neither do they spin*' [@Keynes1930]
 
-`r tufte::newthought('Those words were written')`in 1930 by John Maynard Keynes, the eminent economist, in an essay entitled Economic Possibilities for our Grandchildren'.  In the essay, Keynes predicted that in 100 years  time, people in the developed world would be working for about 15 hours per week on average. He claimed that this would be because of rapid technological advancement and productivity growth, meaning people could work less and still meet their needs.  He thought that we would have more leisure time, and worried about how people might use it.  This prediction was made for the year 2030, and we are far still from that point.
+`r tufte::newthought('Those words were written')`in 1930 by John Maynard Keynes, the eminent economist, in an essay entitled Economic Possibilities for our Grandchildren.  In the essay, Keynes predicted that in 100 years' time, people in the developed world would be working for about 15 hours per week on average. He claimed that because of rapid technological advancement and productivity growth,  people would work less and still meet their needs.  He thought that we would have more leisure time, and worried about how people might use it.  This prediction was made for the year 2030, just a few years away. We are still far away from the conditions of life and work he imagined.
 
-As explained by Keynes biographer, Lord Edward Skidelsky, in 'How Much is Enough' [@Skidelsky2013], Keynes was largely correct in his predictions on technological advancement. However, we have not seen a commensurate decrease in working hours or the wage growth that would allow society to meet its needs with reduced   working hours for its citizens.  From the latest ONS figures, full-time workers in the UK put in an average of 37.5 hours per week. Those working part-time work on average 16.1 hours per week [@ONS2016b]. So, even what we consider nowadays to be a 'part-time' working schedule is greater than Keynes' predictions.  
+As explained by Keynes' biographer, Lord Edward Skidelsky, in 'How Much is Enough' [@Skidelsky2013], Keynes was largely correct in his predictions on technological advancement. However, we have not seen a commensurate decrease in working hours or the wage growth that would allow society to meet its needs with reduced working hours for its citizens. From the latest ONS figures, full-time workers in the UK put in an average of 37.5 hours per week. Those working part-time work on average 16.1 hours per week [@ONS2016b]. So, even what we consider nowadays to be a 'part-time' working schedule has more weekly hours than Keynes' predictions.  
 
- Work, in the form of paid employment, plays a huge role in our conception and experience of modern life.  Many of us spend more of our waking hours in work environments than at home or in social situations.  Even these basic categories are not fully descriptive, as our work colleagues can often become our friends and spouses, and our homes may also be our offices.  Moreover, the concept of a career (as opposed to merely a 'job') plays a central role in our sense of identity and personal purpose.  One of the most common questions asked when meeting someone is, 'What do you do'?  Those without an impressive answer may feel a sense of personal shame at being unable to join in on this modern introduction ritual [@YouGov2015]. This is no surprise - for most of us, the importance of our role in the workforce and the centrality of a career to our personhood has been drummed into us through the questions asked in our childhoods such as 'What will you be when you grow up?'
+Work, in the form of paid employment, plays a huge role in our conception and experience of modern life.  Many of us spend more of our waking hours in work environments than at home or in social situations. Even these basic categories are not fully descriptive, as our work colleagues can often become our friends and spouses, and our homes may also be our offices. Moreover, the concept of a career (as opposed to merely a 'job') plays a central role in our sense of identity and personal purpose. One of the most common questions asked when meeting someone is, 'What do you do'? Those without an impressive answer may feel a sense of personal shame at being unable to join in on this modern introduction ritual [@YouGov2015]. This is no surprise - for most of us, the importance of our role in the workforce and the centrality of a career to our personhood has been drummed into us through the questions asked in our childhoods such as 'What will you be when you grow up?'
 
 ## Defining work as Leisure or Toil
 
-For such a widely used term, the specific meaning of 'work' seems strangely hard to pin down.  A standard definition might be 'the exertion of effort in exchange for remuneration', although that would not account for unpaid domestic labour or the efforts of entrepreneurs and artists who are yet to see income from their activities.  Even within this definition, the breadth of experiences covered is striking. For example, handsomely-paid actors who live out their dreams by appearing in films call this activity 'work'.  This is the case even if they would do the same exertions for much less remuneration.  Similarly, an exhausted cleaner, vacuuming office buildings at 2 AM on a very low wage because they need money to pay for rent and food, is also performing' work'.  
+For such a widely used term, the specific meaning of 'work' seems strangely hard to pin down.  A standard definition might be 'the exertion of effort in exchange for remuneration,' although that would not account for unpaid domestic labour or the efforts of entrepreneurs and artists who are yet to see income from their activities.  Even within this definition, the breadth of experiences covered is striking. For example, handsomely-paid actors who live out their dreams by appearing in films call this activity 'work'.  This is the case even if they would perform the same exertions for much less remuneration.  Similarly, an exhausted cleaner, vacuuming office buildings at 2 AM on a very low wage because they need money to pay for rent and food, is also performing 'work'.  
 
-Work is often talked about by politicians as though it is an absolute good.  To some, to be 'in work' is always better than to be 'out of work', no matter what the job is, or what other worthwhile activities the 'out-of-work' person might be performing [@PatrickWintour2010].  Slogans about getting people into work are regularly parroted, and often precede restrictions on access to benefits.  Yet, as the above example demonstrates, work can be both a purposeful and fulfilling activity which a person engages in for its own sake and a drudgery which a person does purely for the purpose of remuneration.  This difference is clarified by Skidelsky, who makes a useful distinction between work as 'leisure' and work as 'toil'.  *Leisure* is described as activity done for its own sake, because it is intrinsically purposeful to the person performing the activity, rather than for an extrinsic reward. Notably, this definition of leisure does not equate to idleness.  As Skidelsky writes, 
+Work is often talked about by politicians as though it is an absolute good. To some, to be 'in work' is always better than to be 'out of work', no matter what the job is, or what other worthwhile activities the 'out-of-work' person might be performing [@PatrickWintour2010].  Slogans about getting people into work are regularly parroted, and often precede restrictions on access to benefits. Yet, as the above example demonstrates, work can be a purposeful and fulfilling activity which a person engages in for its own sake, or a drudgery which a person does purely for the purpose of remuneration. This difference is clarified by Skidelsky, who makes a useful distinction between work as 'leisure' and work as 'toil'. *Leisure* is described as activity done for its own sake, because it is intrinsically purposeful to the person performing the activity, rather than for an extrinsic reward. Notably, this definition of leisure does not equate to idleness.  As Skidelsky writes, 
 
 > '*The sculptor engrossed in cutting marble, the teacher intent on imparting a difficult idea, the musician struggling with a scene, the scientist exploring [...] space and time. Such people have no other aim other than to do well at what they are doing.  They may receive an income for their efforts,but that income is not what motivates them.'* [@Skidelsky2013]
 
-Toil, on the other hand, is activity with no intrinsic value to the person performing it.  It is done solely for an extrinsic end, usually a paycheck. Of course, this division is not clear cut; a lawyer might be engaging in leisure when fighting a cause they believe in, and toiling when they are not.  An artist who sells a few paintings may be engaging in leisure, but also has to toil as a taxi driver to make ends meet.  An activity which is fun and enjoyable once per week, may become toil when it is performed on a punishing 40 hour-a-week schedule.  So, these concepts are limited, but useful, because they help us to direct ourselves towards what we want more of in society (purposeful activity) and what we want less of (drudgery). We therefore apply these terms in our discussion of welfare and work, as they help better flesh out the issues that can arise with policies geared at 'getting people back into work'. 
+Toil, on the other hand, is activity with no intrinsic value to the person performing it.  It is done solely for an extrinsic end, usually a paycheck. Of course, this division is not clear cut; a lawyer might be engaging in leisure when fighting a cause they believe in, and toiling when they are not.  An artist who sells a few paintings may be engaging in leisure, but also has to toil as a taxi driver to make ends meet.  An activity which is fun and enjoyable once per week, may become toil when it is performed on a punishing 40 hour-a-week schedule.  So these concepts are limited, but useful, because they help us to direct ourselves towards what we want more of in society (purposeful activity) and clarify what we want less of (drudgery). We therefore apply these terms in the following discussion of welfare and work, as they help better flesh out the issues that can arise with policies geared at 'getting people back into work'. 
 
 ## Work as Benefit or Harm
 
-The concept of work is also broad when taken to signify benefit or harm.  In its common usage, it is taken to describe both activities which are beneficial to society and activities which are socially destructive. The activity performed by a teacher, for example, is thought to be socially useful.  A good teacher helps children to develop into thoughtful, mature adults. A teacher imparts valuable knowledge and skills which prepare students for further study, future employment and life in the outside world. This way, educated students can then go on to make their own valuable contributions.  Teachers' activities are essential for all kinds of social progress and social cohesion.
+The concept of work is also broad in relation to benefit or harm.  In its common usage, 'work' is a word used to describe both activities which are beneficial to society and activities which are socially destructive. The activity performed by a teacher, for example, is generally considered socially useful. A good teacher helps children to develop into thoughtful, mature adults. A teacher imparts valuable knowledge and skills which prepare students for further study, future employment, and life in the outside world. This way, educated students can then go on to make their own valuable contributions.  Teachers' activities are essential for all kinds of social progress and social cohesion.
 
-Consider then the work of an advertising executive who designs campaigns that promote tobacco, alcohol or online gambling.  Their exertions at work are designed to encourage impulsive purchases, which then may lead to addiction and illness.  The social costs of such outcomes can then have downstream effects on social provision like health services, on welfare and on the prison system.  Much (though not all) advertising work is an effort to create a sense of need or desire in people which is not already present, or to create a sense of inadequacy which (it is promised) will be relieved by purchase of the advertised product.  The result is often status anxiety, with social comparisons between those who 'have' the desired goods and those who do not, and wastage as 'obsolete', but still functional, items become undesirable. This also leads to increased consumption of the earth's raw materials.  The New Economics Foundation has attempted to quantify the social value contributed by some work, and the social costs caused by other work.  In their report, 'A Bit Rich', they found that 'for every '£1 of value created by an advertising executive, '£11.50 is destroyed.'  By contrast, they found that for every '£1 paid to a hospital cleaner, '£10 is created in social value [@NewEconomicFoundation2009].
+In contrast, consider the work of an advertising executive who designs campaigns that promote tobacco, alcohol, or online gambling. His exertions at work are designed to encourage impulsive purchases, which then may lead to addiction and illness. The social costs of such outcomes can then have downstream effects on social provision like health services, welfare, and the prison system. Much (though not all) advertising work is an effort to create a sense of need or desire in people which is not already present, or to create a sense of inadequacy which (it is promised) will be relieved by purchase of the advertised product. The result is often status anxiety, with social comparisons between those who 'have' the desired goods and those who do not, and wastage as still-functional but 'obsolete' items become undesirable. This leads to unnecessary increases in consumption of the earth's raw materials. The New Economics Foundation has attempted to quantify the social value contributed by some work, and the social costs caused by other work. In their report, A Bit Rich, they found that "for every '£1 of value created by an advertising executive, £11.50 is destroyed." By contrast, they found that for every "£1 paid to a hospital cleaner, £10 is created in social value." [@NewEconomicFoundation2009]
 
-Consider also the work of tax accountants who specialize in tax minimization for the super rich.  Such individuals are often well paid and spend their time finding loopholes in the tax system to enable companies and wealthy individuals to avoid paying tax. It is estimated that '£12 billion is lost to the government from companies and '£13 billion from individuals each year due to tax avoidance.  These activities are harmful to society as a whole, yet they are also considered to be 'work'.  According to the New Economics Foundation, tax accountants destroy '£47 of value for every pound in value they generate.
+Consider also the work of tax accountants who specialize in tax minimization for the super rich. Such individuals are often well-paid. They spend their time finding loopholes in the tax system to enable companies and wealthy individuals to avoid paying tax. It is estimated that £12 billion is lost to the government from companies and £13 billion from individuals each year due to tax avoidance.  These activities are harmful to society as a whole, yet they are also considered to be 'work'.  According to the New Economics Foundation, tax accountants destroy £47 of value for every pound in value they generate.
 
-There are, of course, forms of work which neither greatly benefit nor greatly harm society.  There may also be work which appears not to make any contribution, but which may lead to a socially beneficial outcome after a long time. Few people could have imagined, for example, that Charles Darwin's curious hobby of cataloguing plants and animals would lead to a theory which would underpin major scientific and medical developments.  So we cannot always tell when work is socially beneficial, but at a basic level we should try to incentivize that which we know to be beneficial, and reduce that which we know to be harmful.  
+There are, of course, forms of work which neither greatly benefit nor greatly harm society. There may also be work which appears not to make any contribution, but which may lead to a socially beneficial outcome after a long time. Few people could have imagined, for example, that Charles Darwin's curious hobby of cataloguing plants and animals would lead to a theory which would underpin major scientific and medical developments. So we cannot always tell when work is socially beneficial, but at a basic level, we should try to incentivize that which we know to be beneficial, and reduce that which we know to be harmful.  
 
 ## Work, value and pay
 
-There is no necessary correlation between pay and the kinds of work which are socially beneficial.  If anything, the opposite is often true. Using the examples mentioned, the tax accountants and advertising executives are vastly better paid than the teachers, despite the perhaps dubious outcomes from the former options. We could take this point further and observe that it is possible to perform activities which are extremely socially useful, but receive no remuneration at all.  As they lack remuneration, there has been debate as to whether to term these activities as 'work', but activities such as child-rearing, caring for elders, volunteer work and other forms of unpaid activity are often of great value to society.  We should keep this point in mind as we consider the role of welfare and welfare recipients in society.  Although people may be in receipt of benefits because they have no or little income from paid work, they may in fact be performing unpaid work which is socially beneficial [@Webber2016].
+There is no clear correlation between pay and the kinds of work which are socially beneficial. If anything, the opposite is often true. Using the examples mentioned, tax accountants and advertising executives are vastly better paid than the teachers, despite the often dubious outcomes of work done by the former two kinds of professional. We could take this point further and observe that it is possible to perform activities which are extremely socially useful, but receive no remuneration at all. Since they lack remuneration, there has been debate as to whether to term these activities as 'work', but activities such as child-rearing, caring for elders, volunteer work and other forms of unpaid activity are often of great value to society.  We should keep this point in mind as we consider the role of welfare and welfare recipients in society. Although people may be in receipt of benefits because they have no or little income from paid work, they may in fact be performing unpaid work which is socially beneficial [@Webber2016].
 
 # 7.2 Work in the UK
 
 ## Wages and the growth of low-skilled work
 
-With those broader considerations picture in mind, we can consider the status quo for work here in the UK.  In the three months leading up to May 2016, the UK unemployment rate fell to its lowest figure since October 2005.  The below graph shows the unemployment rate from March 2011 to March 2016 [@RichardClegg2016].
+With those broader considerations in mind, we can consider the status quo for work here in the UK. In the three months leading up to May 2016, the UK unemployment rate fell to its lowest figure since October 2005.  The below graph shows the unemployment rate from March 2011 to March 2016 [@RichardClegg2016].
 
 |![Image](ChapterPictures/11-1-UKUnemploymentRate.png)|
 |:--:|
@@ -88,17 +88,17 @@ With those broader considerations picture in mind, we can consider the status qu
 
 
 
-The number of employed people reached a record high of 74.4%. On the surface, this seems to be great news, but much the same as the concept of 'work', the employment rate hides a myriad of experiences.  
+The number of employed people reached a record high of 74.4%. On the surface, this seems to be great news, but just like the concept of 'work', the 'employment rate' hides a myriad of experiences.  
 
-Firstly, employment often does not provide sufficient income to cover an individuals essential outgoings.  According to research by the CIPD Institute in 2014, in-work poverty in the UK has grown by 20% in the past decade [@CIPD2014]. According to the New Policy Institute, in 2012, 4.3 million working families were receiving some form of welfare benefit, with the vast majority receiving support in the form of tax credits. While the level of employment is at a  high not seen since the early 1970s, the annual rate of growth in wage earnings is slowing. 
+Firstly, employment often does not provide sufficient income to cover an individual's essential outgoings. According to research by the CIPD Institute in 2014, in-work poverty in the UK has grown by 20% in the past decade [@CIPD2014]. According to the New Policy Institute, in 2012, 4.3 million working families were receiving some form of welfare benefit, with the vast majority receiving support in the form of tax credits. While the level of employment is at a  high not seen since the early 1970s, the annual rate of growth in wage earnings is slowing. 
 
 |![Image](ChapterPictures/11-2-UpwardMobility.jpg)
 |:--:|
 |*Figure 11.2 - Cartoon showing the folies of upward mobility and the working poor*|
 
-Economics editor Larry Elliot [@LarryElliott2016] suggests three reasons why this might be occurring.  Firstly, he  suggests that the UK is attracting people from other EU countries, so employers can comfortably find workers without increasing wages (Brexit may well put a dent in the number of EU citizens wanting to come to the UK).  He believes that restrictions on public sector pay have been a factor.  Finally, the jobs being created tend to be those which are low paid, such as those in hospitality.  The CIPD Institute suggests that the government has taken a 'low road' approach to industrial policy, whereby the workforce are relatively disposable, providing relatively standardized goods and services at a low price and firms come to the UK because of the country's low corporate tax rates.  They argue;
+The Guardian economics editor Larry Elliot [@LarryElliott2016] suggests three reasons why this might be occurring. Firstly, he  suggests that the UK is attracting people from other EU countries, so employers can comfortably find workers without increasing wages (Brexit may well put a dent in the number of EU citizens wanting to come to the UK). He believes that restrictions on public sector pay have been a factor. Finally, the jobs being created tend to be those which are low-paid, such as those in hospitality. The CIPD Institute suggests that the government has taken a 'low road' approach to industrial policy, whereby the workforce are relatively disposable, providing relatively standardized goods and services at a low price, and firms come to the UK because of the country's low corporate tax rates.  They argue:
 
- '*Not only does a drift towards a low-road labour market and economy make for unfulfilling working lives for many (with associated stress and health costs attached), it supports the increase of low-skilled, low-paid work, helps fuel the growth in 'in-work' poverty, and at least some of the costs of employers adopting such practices are being passed on to the taxpayer and government via in-working tax credits that top up low wages*." [@CIPD2014]
+*"Not only does a drift towards a low-road labour market and economy make for unfulfilling working lives for many (with associated stress and health costs attached), it supports the increase of low-skilled, low-paid work, helps fuel the growth in 'in-work' poverty, and at least some of the costs of employers adopting such practices are being passed on to the taxpayer and government via in-working tax credits that top up low wages."* [@CIPD2014]
 
 ## Underemployment and dissatisfaction at work
 
@@ -340,9 +340,9 @@ According to Professor of Development Studies Guy Standing, allowing people to g
 
 ## Manitoba, Canada
 
-Between 1974 and 1978, the Canadian government ran a field experiment in the town of Dauphin,Canada.  As part of the experiment, any family without income from other sources would receive a dividend amounting to 60% of the 'Statistics Canada Low Income Cut-Off' - (called LICO [@StatisticsCanada2018]). Every dollar of income from other sources would reduce the payments by 50cents.  Payments were indexed to cost of living.  This meant a particularly significant increase for people who did not qualify for welfare under traditional schemes, such as the elderly, single, employable males and the working poor.  Those who already received social assistance would see little change in their income.
+Between 1974 and 1978, the Canadian government ran a field experiment in the town of Dauphin,Canada. As part of the experiment, any family without income from other sources would receive a dividend amounting to 60% of the 'Statistics Canada Low Income Cut-Off' - (called LICO [@StatisticsCanada2018]). Every dollar of income from other sources would reduce the payments by 50cents.  Payments were indexed to cost of living. This meant a particularly significant increase for people who did not qualify for welfare under traditional schemes, such as the elderly, single, employable males and the working poor. Those who already received social assistance would see little change in their income.
 
-The experiment ended without an analysis or report of findings, but in 2010 a Canadian social scientist, Dr. Evelyn Forget, uncovered the raw data.  She found that compared with a control group,for those receiving the income there was a significant reduction in hospitalisation, especially for accident, injury and mental illness.  Contact with physicians regarding mental illness also reduced during the period. They found no increase in fertility or family dissolution.  A greater proportion of students also stayed in school to Grade 12. Dr Forget concluded: 'These results would seem to suggest that a Guaranteed Annual Income, implemented broadly in society, may improve health and social outcomes at the community level.' [@Forget2011]
+The experiment ended without an analysis or report of findings, but in 2010 a Canadian social scientist, Dr. Evelyn Forget, uncovered the raw data. She found that compared with a control group,for those receiving the income there was a significant reduction in hospitalisation, especially for accident, injury and mental illness. Contact with physicians regarding mental illness also reduced during the period. They found no increase in fertility or family dissolution.  A greater proportion of students also stayed in school to Grade 12. Dr. Forget concluded: 'These results would seem to suggest that a Guaranteed Annual Income, implemented broadly in society, may improve health and social outcomes at the community level.' [@Forget2011]
 
 ## Arguments in favour of a Citizens Dividend
 
@@ -362,7 +362,7 @@ As Simon Duffy of the Centre for Welfare Reform notes, 'Even on its own such a s
 
 ## It reduces the stigma of receiving benefits
 
-The study also found that countries with benefit systems based on citizenship or contribution ,see lower levels of benefit stigma than those with benefits based on mean-testing [@Duffy]. The basic income would be universal and therefore is less likely to induce social stigma.  It may not completely remove stigma of course, as there may be some stigma towards those who receive the benefit and do not attempt to find work.  
+The study also found that countries with benefit systems based on citizenship or contribution, see lower levels of benefit stigma than those with benefits based on mean-testing [@Duffy]. The basic income would be universal, and therefore is less likely to induce social stigma.  It may not completely remove stigma of course, as there may be some stigma towards those who receive the benefit and do not attempt to find work.  
 
 ## It promotes freedom & independence, without compulsion
 
@@ -391,7 +391,7 @@ We propose a return to universal benefits with 'means testing' performed by the 
 
 There will be different rates for children (replacing child benefit and child tax credit, paid to mothers), working-age adults (replacing income support) and pensioners (equivalent to the existing state pension). It provides all UK citizens with the minimum amount of income. We also propose to offset payment of Citizen's Dividend against other taxes so taxpayers only receive a net bill or payment.
 
-In addition, there will need to be further payments for particular categories of people with specific needs -- for example, disabled people, the elderly, carers and mothers with children. We propose that these payments would be made on a similar and consistent basis to the Citizen's Dividend described above. There will obviously need to be changes to the tax system in order to pay for these universal benefits but the system of government accounting should account for a means-tested benefit and a taxable universal benefit with increased income taxes the same way.
+In addition, there will need to be further payments for particular categories of people with specific needs -- for example, disabled people, the elderly, carers and mothers with children. We propose that these payments would be made on a similar and consistent basis to the Citizen's Dividend described above. There will obviously need to be changes to the tax system in order to pay for these universal benefits, but the system of government accounting should account for a means-tested benefit and a taxable universal benefit with increased income taxes the same way.
 
 We also propose to offset payment of Citizen's Dividend against taxes. This would specifically apply to those taxes that are highly visible such as property taxes, so that individuals will receive or pay only the net amount of either taxes or benefits. 
 
@@ -402,17 +402,18 @@ The ideal education and welfare system include not only a (low) citizens income,
 
 Any welfare system is complex, but the basic elements are simple.
 
-Firstly, there are some universal benefits that are paid to everyone, only conditional on age. Examples of these might include universal forms of 
+Firstly, there are some universal benefits that are paid to everyone, only conditional on age. Examples of these might include universal forms of ...
 
-Secondly there are categories which mean people get (more) benefits, for example if your are a carer or disabled or long-term ill. For these, your status needs to be verified.
+Secondly, there are categories which mean people get (more) benefits, for example if your are a carer or disabled or long-term ill. For these, your status needs to be verified.
 
 Thirdly, there's a system for taking money off people as they earn more. In the benefits system this is called 'means testing' whereas in the tax system this is called 'income tax'. Means testing is occasionally done, not through income but through wealth, but we stick to the simple case here.
 
-Fourth, the benefit system often relates to a system of taxes and records of those taxes. Taxes and national insurance contributions are again similar ideas, but the at least in principle social security conttributions gives a 'contribution record'. 
+Fourthly, the benefit system often relates to a system of taxes and records of those taxes. Taxes and national insurance contributions are again similar ideas, but the at least in principle social security conttributions gives a 'contribution record'. 
 
-There's two other features that we won't comment on here, for simplicity sake.^[Fifth, in some systems, the quantity of benefits of unemnpkloyment benefits is sometimes related to your current income. In addition it sometimes degrades over time.
+There are two other features that we won't comment on here, for simplicity's sake.^
+[Fifth, in some systems, the quantity of benefits of unemnpkloyment benefits is sometimes related to your current income. In addition it sometimes degrades over time.
 
-Sixthly, there is often specific help to get people into work, or higher skilled work, such as apprentiship schemes.]
+Sixth, there is often specific help to get people into work, or higher skilled work, such as apprentiship schemes.]
 
 So setting up a new system is really actually quite simple: 
 We need some universal benefits, related only to age
@@ -425,7 +426,6 @@ Finally we suggest help for increasing people's skills by integrated work and tr
 We discuss this approach below.
 
 --------------
-
 
 
 # 7.8 Introducing a Citizens Dividend
@@ -513,8 +513,7 @@ In summary, the scheme encourages community involvement, eliminates the disincen
 
 The basic idea is as follows:
 
-- Every current citizen is granted a right to a basic income of £4000 per
-  year.
+- Every current citizen is granted a right to a basic income of £4000 per year.
 - Income tax paid (at 40%) between 0 and 10K is set aside to buy securities
   and thus increments additional amount to the basic income
 - Whilst income between 0 and 10K is taxed, the taxpayer increases his or her
@@ -590,7 +589,7 @@ If you just had a workfare scheme, then poor people would be compelled to take a
 
 ## Tailoring jobs to skill gaps
 
-Companies can give an idea of what skills are missing.  If there is a situation in which skills are missing, people can be provided with combined training courses and work experience. In the beginning, there will be more training than working and then more working than training as individuals progress. Training will be targeted to particularly deprived areas. The idea is to upskill people within a 2 month time period, for lower skilled work.  There would be conditionality attached to payment, with possible bonuses for high performance. 
+Companies can give an idea of what skills are missing.  If there is a situation in which skills are missing, people can be provided with combined training courses and work experience. In the beginning, there will be more training than working and then more working than training as individuals progress. Training will be targeted to particularly deprived areas. The idea is to upskill people within a two month time period, for lower skilled work.  There would be conditionality attached to payment, with possible bonuses for high performance. 
 
 ## Organisations providing jobs
 
@@ -608,7 +607,6 @@ Local authorities can use the scheme to get more funding.  This will contribute 
 
 ## Potential issues or limitations of the scheme
 
-Guaranteed jobs could displace existing workers.  Some employers that have people already could take the free labour and fire the people they already have.  This occurrence may be difficult to prevent. In the worst case scenario, people will be rotated through the skills program.  
+Guaranteed jobs could displace existing workers. Some employers that have people already could take the free labour and fire the people they already have. This occurrence may be difficult to prevent. In the worst-case scenario, people will be rotated through the skills program.  
 
-A high skilled economy is inevitably more inflexible as it takes longer to get particular skillsets. Computer Technicians cannot easily retrain as brain surgeons. Also, certain work is only suitable for those with very high academic ability.  This scheme would not be of great assistance as regards those kinds of skills.
-
+A high-skilled economy is inevitably more inflexible as it takes longer to get particular skillsets. Computer technicians cannot easily retrain as brain surgeons. Also, certain work is only suitable for those with very high academic ability.  This scheme would not be of great assistance as regards those kinds of skills.
