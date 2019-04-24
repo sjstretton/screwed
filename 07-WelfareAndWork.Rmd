@@ -415,8 +415,8 @@ There are two other features that we won't comment on here, for simplicity's sak
 Sixth, there is often specific help to get people into work, or higher skilled work, such as apprentiship schemes.]
 
 So setting up a new system is really actually quite simple: 
-We need some universal benefits, related only to age
-We need a system of conditionality, based on disabled or sickness or other status. This is complex, and out of scope of this book, but we propose that these conditions simply raise the non-income dependent benefit level for those who have these conditions. It's conceptually simple: if you are verified to have such a status, you get more money. But we don't outline in detail the status conditions and the increase in benefits here.
+- We need some universal benefits, related only to age
+-  We need a system of conditionality, based on disabled or sickness or other status. This is complex, and out of scope of this book, but we propose that these conditions simply raise the non-income dependent benefit level for those who have these conditions. It's conceptually simple: if you are verified to have such a status, you get more money. But we don't outline in detail the status conditions and the increase in benefits here.
 We need a system of taking money off people as they get higher income. We propose using income tax rather than a separate benefits system
 We need a system of contribution records. We suggest merging Income Tax, National Insurance and Means Testing into a *single* tax at a rate of around 40% for the bottom 99% of the population. Since we are replacing means testing there would be *no personal threshold*. However, the payments of the first 4000 pounds of tax would be consisidered a 'contribution record'. The government would aim to purchase an equivalent amount of asssets. Those assets would uprate the unconditional benefits with an additional, funded 'basic property' allowance.
 
@@ -534,7 +534,9 @@ The citizen's dividend system would be introduced as a payment card for all citi
 
 **Step 2: Simplifying Universal Credit**
 
-Universal credit works like this: You can opt into the system, if you have been on another benefit and you are in an area that UC has been rolled out to. Universal credit replaces the following benefit types: Child Tax Credit; Housing Benefit; Income Support; income-based Jobseeker's Allowance (JSA): income-related Employment and Support Allowance (ESA): Working Tax Credit. Once you are in the system, it works like this: You have a standard payment, that is set up as follows: - If you are are getting help with housing: you get a payment
+Universal credit works like this: You can opt into the system, if you have been on another benefit and you are in an area that UC has been rolled out to. Universal credit replaces the following benefit types: Child Tax Credit; Housing Benefit; Income Support; income-based Jobseeker's Allowance (JSA): income-related Employment and Support Allowance (ESA): Working Tax Credit. Once you are in the system, it works like this: You have a standard payment, that is set up as follows: 
+
+- If you are are getting help with housing: you get a payment
 of X per year, not including housing costs. - If you are not getting help with housing: you get a payment of Y per year.
 
 For those people in the universal credit system, replace it with a universal payment and a standard benefits withdrawal rate of 40%. Now, a benefits recipient would receive a universal benefit of ?4000 per year , and pay a standard tax of 40% on all income coming in.
@@ -543,7 +545,12 @@ For those people in the universal credit system, replace it with a universal pay
 
 For people working, replace it with a basic income and the elimination of the personal threshold. Simultaneously simplify the income tax, employees and employers system to a standard rate of 40% and a higher rate of 60% for the first percentile only. If you are in the PAYE system you get the basic income.
 
-Now these two groups are on a basic income: - People earning over the personal allowance - People qualifying for universal credit (how many are there?), and legacy benefits to be replaced by universal credit. The participation basic income would be paid in two circumstances. First, you are in work. Second, you are in receipt of universal benefits and the legacy benefits that universal benefit allows for.
+Now these two groups are on a basic income: 
+
+- People earning over the personal allowance 
+- People qualifying for universal credit (how many are there?), and legacy benefits to be replaced by universal credit. 
+
+The participation basic income would be paid in two circumstances. First, you are in work. Second, you are in receipt of universal benefits and the legacy benefits that universal benefit allows for.
 
 **Step 4: Reduce Income taxes, Increase Externality Taxes**
 
@@ -552,7 +559,6 @@ The third step is to reduce again the basic rate of income tax, and replace it w
 **Step 5: Basic Property Tax Free Allowance**
 
 We adopt the same approach to property as with income. We first consider the people who are taxed and the people on benefits and we adopt the same allowances for these two groups. Those owning property and those on housing benefits should have the same benefits. We then extend this allowance to all.
-
 
 # 7.9 Guaranteed Job and Skills Training
 

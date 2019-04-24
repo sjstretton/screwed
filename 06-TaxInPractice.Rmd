@@ -93,14 +93,15 @@ Moreover, due to its complexity, there are several interplays between different 
 
 The issues that surround implementation are offshoots of the system’s complexity. Unintended consequences of taxes can arise from weak communication and poor implementation of new policies. 
 
-##Public acceptance
+## Public acceptance
+
 The perceptions of tax as an inevitable evil aren't helpful for its implementation. Fears of government tax grabs and regressive impacts can mean that even policies that appear well-designed in principle can fail in practice. It is important to consider the communication strategy during the implementation process, and to explain the public purposes for which revenues raised from taxes are spent. 
 
 A paper published by Demos, a cross-party think tank, suggests a number of ways that taxes can be designed to make them more politically acceptable. An overriding comment is that voters and citizens are increasingly wary of bureaucratic 'black holes' of spending - an issue that came to light in the MP expenses scandal over the last decade. Finding that taxpayers' money had been frittered onto, amongst other things, expensive duck-houses for MPs was a factor in decreasing the perceived legitimacy of government tax revenue. As the authors  describe, "Government appears as a black hole into which resources disappear." [@Mulgan1993] This paper sets out three mechanisms by which taxes can be made palatable to a voting public.
 
 Firstly, taxes should be 'hypothecated,' i.e. taxes can be clearly linked to the specific public goods provision enabled by revenues raised. We can see this in the case of carbon-tax theory, which a number of studies have examined to determine the most politically viable avenues for allocation of these new revenues. A recent study by the Oxford Martin School found that how the design of carbon pricing reforms incorporated this issue was directly linked to their longer-term success [@OurWorldinData2018]. An overarching finding was that the visibility of the spending enabled by revenues was a key factor, which could materialise in the form of green infrastructure investments, tax rebates, and consumer subsidies, or even direct transfers to households. The latter methods have the benefit of tackling the potentially regressive impacts of carbon taxes, which are consumption-based and therefore tend to hit poorer households harder than richer consumers.  
 
-'Regressive' means that the burden of the tax falls proportionately harder on the poor than on the prosperous. With consumption taxes, even though the latter may be paying more in absolute terms, as a percentage of disposable income, the poor pay more. Taxes like VAT, National Insurance, Vehicle Excise Duty, and council tax fall under this category.  British Columbia is an example of success in this respect, having directly rebated households with the proceeds from their nascent carbon taxation scheme. Public acceptance rates of this scheme have thus been maintained. Compare this to the poorly communicated fuel levy placed in France towards the end of 2018 and the resultant ‘Gilet Jaune’ protests, and the importance of clear communication about the purposes to which a tax policy is put become clear. 
+'Regressive' means that the burden of the tax falls proportionately harder on the poor than on the prosperous. With consumption taxes, even though the latter may be paying more in absolute terms, as a percentage of disposable income, the poor pay more. Taxes like VAT, National Insurance, Vehicle Excise Duty, and council tax fall under this category. British Columbia is an example of success in this respect, having directly rebated households with the proceeds from their nascent carbon taxation scheme. Public acceptance rates of this scheme have thus been maintained. Compare this to the poorly communicated fuel levy placed in France towards the end of 2018 and the resultant ‘Gilet Jaune’ protests, and the importance of clear communication about the purposes to which a tax policy is put become clear. 
 
 ![5-3-taxtrust](ChapterPictures/5-3-taxtrust.png)
 
@@ -111,7 +112,7 @@ The second recommendation from Demos' paper was that voters "should have more in
 
 Thirdly, local spending should be tied to local taxes, so that high levels of visibility can be maintained for local voters. Councils should be allowed to determine local spending to an extent that is agreed on by their electorates. This feeling of buy-in is not only important on the lower income levels of UK society, as we shall explore in the next section on tax avoidance. Citizen buy-in is an important factor for ensuring sustainability within the system. 
 
-##Tax avoidance strategies
+## Tax avoidance strategies
 
 As Theresa May said in 2017, "Taxes are the price we pay for living in a civilised society." [@Houlder2017] Speaking in the wake of the tax avoidance scandal that implicated a number of well-known celebrities, including Jimmy Carr and Bono, the Prime Minister spoke for a cross-party majority when she attacked those who evaded and avoided tax. However, given the large number of reliefs, loopholes, and rebates that continue to exist in the over-complex system we have, it's difficult to say whether her concern was genuine or feigned. 
 
@@ -121,25 +122,24 @@ HMRC has started to tackle tax avoidance more strongly in recent years, with "to
 
 Knowledge is power - not least when it comes to tax avoidance and evasion. It therefore seems relevant to outline the most common methods of tax avoidance and evasion that high-net-worth individuals engage in. The HMRC itself regularly publishes a breakdown of the tax evasion and avoidance strategies which it is aware of. [@HMRC2018b] 
 
-1)    Tax Havens
+Following this, we can see that these strategies include:
 
-2)    Shell companies
+1) Tax Havens
+2) Shell companies
+3) Equity swaps
+4) Avoiding capital gains tax
+5) Evading estate tax/inheritance tax
+6) Shell trust funds
+7) Incorporating
+8) Payments in kind
+9) Life insurance borrowing
+10) Real estate borrowing
 
-3)    Equity swaps
+We will not be able to tackle every accounting problem. Our approach is twofold:
+- a much simpler system of income tax with fewer marginal rates and fewer taxes (with the aim to eliminate the separate benefits-means-testing system, employers and employees National Insurance, and yet retain a system of tax contribution records)
+- some totally new taxes (such as a land value tax and and upstream carbon taxes) that be designed well to start with.
 
-4)    Avoiding capital gains tax
-
-5)    Evading estate tax/inheritance tax
-
-6)    Shell trust funds
-
-7)    Incorporating
-
-8)    Payments in kind
-
-9)    Life insurance borrowing
-
-10)   Real estate borrowing
+In other words we follow Einstein who suggested: 'make it as simple as possible, but no simpler'.
 
 # 6.3 Conclusions
 
@@ -147,14 +147,16 @@ It is clear from the foregoing that the UK's existing taxation and benefits syst
 
 Accordingly, it’s important to draw out some recommendations for how policy makers should adapt the tax system to fix these implementation issues. Communication, clarity, and enforcement are all aspects of this transition. 
 
-What is taxed should be concrete and objective. It should not depend on the honesty of those declaring the tax, and it should not penalize the honest relative to the dishonest. The tax system should not contain 'tax arbitrages,' and should not allow for dishonesty. This would help to combat the issues of public acceptance and administrative complexity. The costs and time-commitment of administering the system should never be excessive. Streamlining the tax code to simplify the number of tax rates, directly tying benefits to the purposes of taxes that are applied, and severely limiting the number of exemptions should be among the steps taken. Above all, the tax and benefit system should be capable of being easily understood by the public.
+What is taxed should be concrete and objective. It should not depend on the honesty of those declaring the tax, and it should not penalize the honest relative to the dishonest. The tax system should not contain 'tax arbitrages', and should not allow for dishonesty. This would help to combat the issues of public acceptance and administrative complexity. 
+
+The costs and time-commitment of administering the system should never be excessive. Streamlining the tax code to simplify the number of tax rates, directly tying benefits to the purposes of taxes that are applied, and severely limiting the number of exemptions should be among the steps taken. Above all, the tax and benefit system should be capable of being easily understood by the public.
 
 In terms of public acceptance, the purposes and targets of taxes should be well communicated and clear. As outlined in the previous chapter, following clear principles when taxes are created, so that they are practical, beneficial, and fair, is essential to ensure that they will be successfully launched. Tax should either fall on things that *don't go away* when we tax them (e.g. land) or things that we *want to have go away* when we tax them (e.g. fossil fuel use, or excessive sugar consumption).
 
-It is important to our everyday lives that the tax and benefit system works well. As we've shown, income tax and consumption tax revenues are the lifeblood of public services like the NHS, the educational system, and social security. There is buy-in on the welfare side. Most individuals in this country will benefit from a public payment of some kind, from healthcare to child benefit to the state pension, within their lifetimes. Creating the same level of connection with the taxation system is an essential component of the system's public acceptance and sustainability. 
+It is important to our everyday lives that the tax and benefit system works well. As we've shown, income tax and consumption tax revenues are the lifeblood of public services like the NHS, the educational system, and social security. 
 
-The key mechanisms by which the UK raises revenue, redistributes income, and nudges corporations and individuals towards the right choices, have been neglected and left to rust, out-of-step with the times we live in. There is no shortage of popular support for reform. Indeed, consensus seems to be on the side of the need for improving and simplifying the current tax and welfare system. 
+There is buy-in on the welfare side. Most individuals in this country will benefit from a public payment of some kind, from healthcare to child benefit to the state pension, within their lifetimes. Creating the same level of connection with the taxation system is an essential component of the system's public acceptance and sustainability. 
 
-As we will explore in coming chapters in more detail, things are changing, but not enough. Proposals put in place that aim to move towards a universal credit system have ignored the need for the changes to be practical, beneficial, and fair. HMRC’s attempts to reduce tax evasion have yet to do much to solve the problem. And destructive behaviours, especially by corporations, have yet to be effectively targeted through the use of taxation. There is still a long way to go to implement our high principles in practice. 
+The key mechanisms by which the UK raises revenue, redistributes income, and nudges corporations and individuals towards choices in the public interest, have been neglected and left to rust, out-of-step with the times we live in. There is no shortage of popular support for reform. Indeed, consensus seems to be on the side of the need for improving and simplifying the current tax and welfare system. 
 
- 
+As we will explore in coming chapters in more detail, things are changing, but not enough. Proposals put in place that aim to move towards the Universal Credit system have ignored the need for the changes to be practical, beneficial, and fair. HMRC’s attempts to reduce tax evasion have yet to do much to solve the problem. And destructive behaviours, especially by corporations, have yet to be effectively targeted through the use of taxation. There is still a long way to go to implement our high principles in practice. 
