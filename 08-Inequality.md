@@ -170,7 +170,7 @@ Broadly speaking, we have seen:
 - The top 1% income share is increasing quickly.
 - Wealthy people tend to be on high incomes. Those with little wealth tend to be on low incomes.
 
-Understanding the above graphs and figures requires us to look behind the figures and consider how different groups earn and use their income. At the lower end, there are those who earn their income through labour, and who must pay housing costs. They have very little disposable income and are unlikely to have much income available to invest in secondary wealth generation. They may have seen their wages stagnating [@Khan2016], while the real value of their wages decreases [@Tily2016]. At the other extreme are those who have high incomes and are able to make additional income through purchasing assets. As we have seen, increases in asset values (particularly property assets) have driven an increase in the wealth of the very rich. With assets comes income through dividends, rent, and capital gains. This appears to be contributing to growing inequality of both wealth and income. 
+Understanding the above graphs and figures requires us to look behind the figures and consider how different groups earn and use their income. At the lower end, there are those who earn their income through labour, and who must pay housing costs. They have very little disposable income and are unlikely to have much income available to invest in secondary wealth generation. They may have seen their nominal wages stagnating [@Khan2016], while the real value of their wages decreases [@Tily2016]. At the other extreme are those who have high incomes and are able to make additional income through purchasing assets. As we have seen, increases in asset values (particularly property assets) have driven an increase in the wealth of the very rich. With assets comes income through dividends, rent, and capital gains. This appears to be contributing to growing inequality of both wealth and income. 
 
 Quoted in the Financial Times, the general secretary of the Trade Union Congress, Frances O'Grady, put it this way:
 
@@ -180,25 +180,25 @@ Quoted in the Financial Times, the general secretary of the Trade Union Congress
 
 # 7.5 Effects of inequality
 
-But is this inequality in itself really such a problem? If we could ensure that all citizens have their basic wants covered, does it matter if the rich are getting richer?  Surely dealing with absolute wealth in this way and ensuring a basic standard of living is a more important focus than the relative wealth between rich and poor? 
+But is this inequality in itself really such a problem? If we could ensure that all citizens have their basic wants covered, does it matter if the rich are getting richer? Surely dealing with absolute wealth in this way and ensuring a basic standard of living is a more important focus than the relative wealth between rich and poor? 
 
 It is clear that there is a strong view amongst some circles that inequality is not a problem as long as the poorest have their basic needs met. 
 
-High wealth and income inequality matter for a host of reasons. It causes subtly damaging changes in the way people interact with each other and participate in society. According to the Equality Trust, income inequality is correlated with low civic participation, lower voter turnout and lower levels of cultural activity [@EqualityTrust2014]. There is even evidence that inequality may affect personality [@EqualityTrust2017]. Research comparing US states found, despite adjusting findings for state and person-level socio-demographic factors, that people in less-equal states were 'less agreeable' than those in more-equal states [@DeVries2011]. 
+High wealth and income inequality matter for a host of reasons. It causes subtly damaging changes in the way people interact with each other and participate in society. According to the Equality Trust, income inequality is correlated with low civic participation, lower voter turnout, and lower levels of cultural activity [@EqualityTrust2014]. There is even evidence that inequality may affect personality [@EqualityTrust2017]. Research comparing US states found, despite adjusting findings for state and person-level socio-demographic factors, that people in less-equal states were 'less agreeable' than those in more-equal states [@DeVries2011]. 
 
 A World Bank study on inequality and crime rates reported a strong correlation between violent crime and inequality, both within and between countries.
 
 ## Inequality and Empathy
 
-Psychologist Paul Piff has conducted research [@Piff2010] on a phenomenon called the'empathy gap'. In his experiments, test subjects were artificially placed into social hierarchies. Piff and his colleagues concluded that increased wealth and status in society leads to increased focus on oneself. This, in turn, leads to decreased compassion, altruism and ethical behavior. The opposite is also true. Piff's work suggests that poorer individuals tend to be more generous, charitable, trusting and helpful, compared with their richer counterparts. A related study by Keltner et al, found that 'lower-class individuals' displayed more compassion and sensitivity to the distress of others than their upper-class counterparts [@Stellar2012].
+Psychologist Paul Piff has conducted research [@Piff2010] on a phenomenon called the 'empathy gap'. In his experiments, test subjects were artificially placed into social hierarchies. Piff and his colleagues concluded that increased wealth and status in society leads to increased focus on oneself. This, in turn, leads to decreased compassion, altruism, and ethical behavior. The opposite is also true. Piff's work suggests that poorer individuals tend to be more generous, charitable, trusting and helpful, compared with their richer counterparts. A related study by Keltner et al, found that 'lower-class individuals' displayed more compassion and sensitivity to the distress of others than their upper-class counterparts [@Stellar2012].
 
-Social class and wealth, therefore, appear to be correlated with qualities like compassion and empathy. This may be exacerbated by increasing physical segregation in where the rich and poor live. Poor, rich and average households became less and less likely to live next door to one another between 1970 and 2000 [@DorlingDaniel2007] suggesting that socioeconomic separation has been accompanied by geographical polarisation.
+Social class and wealth, therefore, appear to be negatively correlated with qualities like compassion and empathy. This may be exacerbated by increasing physical segregation in where the rich and poor live. Poor, rich, and average households became less and less likely to live next door to one another between 1970 and 2000 [@DorlingDaniel2007] suggesting that socioeconomic polarisation has been accompanied by geographical segregation.
 
 Surprisingly, there is even evidence that inequality may affect personality. Research in the USA compared less equal US states with more equal states. After adjusting for state and person-level socio-demographic factors, de Vries et al found that people in less equal states were 'less agreeable' than in more equal states.
 
 ## Inequality and Social Problems
 
-Epidemiologists Wilson and Pickett collated a breadth of transnational research comparing inequality and a variety of social measures. Their results were striking. They found that over a wide range of areas, including health, education,social mobility, social cohesion and foreign aid, increased inequality leads to worse outcomes. See, for example, their findings below comparing health and social problems, with income inequality, across rich countries [@Wilkinson2017]. We can see that the US is highest in income inequality and highest in health and social problems. 
+Epidemiologists Wilson and Pickett collated a breadth of transnational research comparing inequality and a variety of social measures. Their results were striking. They found that over a wide range of areas, including health, education, social mobility, social cohesion and foreign aid, increased inequality leads to worse outcomes. See, for example, their findings below, comparing health and social problems with income inequality, across rich countries [@Wilkinson2017]. We can see that the US is highest in income inequality and highest in health and social problems. 
 
 |![Image](ChapterPictures/6-5-Healthandsocialproblems.png)|
 |:--:|
@@ -208,27 +208,27 @@ Epidemiologists Wilson and Pickett collated a breadth of transnational research 
 
 Their message for policy-makers was plain: 
 
->*"(A) clear warning for those who might want to place low public expenditure and taxation at the top of their priorities. If you fail to avoid high inequality, you will need more prison and more police. You will have to deal with higher rates of mental illness, drug abuse and every other kind of problem. If keeping taxes and benefits down leads to wider income differences, the need to deal with ensuing social ills may force you to raise public expenditure to cope ." *[@Wilkinson2010]
+>*"(A) clear warning for those who might want to place low public expenditure and taxation at the top of their priorities. If you fail to avoid high inequality, you will need more prisons and more police. You will have to deal with higher rates of mental illness, drug abuse, and every other kind of problem. If keeping taxes and benefits down leads to wider income differences, the need to deal with ensuing social ills may force you to raise public expenditure to cope."*[@Wilkinson2010]
 
 ## Inequality and Crime Rates
 
-In a study on inequality and crime rates, Lederman et al. found a strong correlation between violent crime and inequality  [@Lederman2002], both within and between countries. In their view;
+In a study on inequality and crime rates, Lederman et al. found a strong correlation between violent crime and inequality  [@Lederman2002], both within and between countries. In their view:
 
-"The correlation reflects causation from inequality to crime rates, even correcting for other crime determinants" 
+*"The correlation reflects causation from inequality to crime rates, even correcting for other crime determinants."* 
 
-Simply put, this means that inequality causes high crime rates, and not vice versa. The mechnism by which this occurs is unclear and may be myriad. Economic inequality may curtail opportunities for some, leading to feelings of hopelessness, inferiority and fear which then lead to violence. Inequality may encourage social competition, and low levels of trust and community cohesion within a society.
+Simply put, this means that inequality causes high crime rates, not vice versa. The mechnism by which this occurs is unclear and may be multifactored. Economic inequality may curtail opportunities for some, leading to feelings of hopelessness, inferiority, and fear which then lead to violence. Inequality may encourage social competition, and low levels of trust and community cohesion within a society.
 
 |![Image](ChapterPictures/6-6-IneqLift.jpg)|
 |:--:|
 |*Figure 6.7: Cartoon showing the relationship between  income inequality and social mobility*|
 
-There is also a strong correlation between high income inequality and low social mobility. Social mobility is the upward or downward movement of people -between social strata in a society. Mobility may be intra-generational (i.e within a generation, such as 'rags to riches' stories, or it may be inter-generational, i.e a change in social status from parents to children.
+There is also a strong correlation between high income inequality and low social mobility. Social mobility is the upward or downward movement of people between social strata in a society. Mobility may be intra-generational (i.e within a generation, as per 'rags to riches' stories), or it may be inter-generational, i.e a change in social status from parents to children.
 
-In an intergenerational study of the American context by researcher Corak,  it was observed that high earnings inequality is likely to be associated with a stagnation in intergenerational mobility. This means that earnings inequality makes societies more 'sticky', such that children are more likely to stay in the same social strata as their parents.
+In an intergenerational study of the American context by researcher Corak, it was observed that high earnings inequality is likely to be associated with stagnation in intergenerational mobility. This means that earnings inequality makes societies more 'sticky,' such that children are more likely to stay in the same social stratum as their parents.
 
 Corak cautions that this outcome is particularly likely if labour market inequalities translate into political power, which then influences whether progressive policy reforms are made. He warns, 
 
->*"Without changes in these underlying factors the transmission of inequality from the current generation to the next will remain a movie that is played to the same script as that viewed by past generations." * [@MilesCorak2011]
+>*"Without changes in these underlying factors, the transmission of inequality from the current generation to the next will remain a movie that is played to the same script as that viewed by past generations." * [@MilesCorak2011]
 
 Figure 6.8 shows the strong correlation between inequality and a measure called 'intergenerational earnings elasticity' (IEE), which is used by social scientists when considering intergenerational social mobility. IEE is the percentage difference in earnings in the child's generation associated with the percentage difference in the parental generation [@MilesCorak2011]. An intergenerational elasticity in earnings of 0.9, for example, means that if father A makes 100% more money than father B, then the son of father A will, as an adult, earn 90% more than the son of father B. An elasticity of 0.2 says this 100% difference between the two fathers would only lead to a 20% difference between the sons. 
 
@@ -239,29 +239,29 @@ The lower the elasticity, the more mobility in the society. Figure 2.5 shows tha
 |*Figure 6.7: Intergenerational earnings elasticity*|
 
 
-This chart is widely known as the 'Gatsby Curve'. It is so named after the character of Jay Gatsby in the famous novel by F. Scott Fitzgerald. In the novel, Jay Gatsby tries in vain to raise his social standing by becoming very  The novel is set in the 1920s, when there was high inequality of wealth, and very low social mobility.
+This chart is widely known as the 'Gatsby Curve'. It is so named after the character of Jay Gatsby in the famous novel by F. Scott Fitzgerald. In the novel, Jay Gatsby tries in vain to raise his social standing by becoming very rich. The novel is set in the 1920s, when there was high inequality of wealth and very low social mobility.
 
-One suggested reason for the correlation between inequality and intergenerational earnings mobility is unequal access to educational opportunities. This is exacerbated by  poor social and family relationships, which then inhibit learning. The below image is from a 1916 advertisement for a vocational school, and suggests that education is a pathway to upward social mobility.
+One suggested reason for the correlation between inequality and intergenerational earnings mobility is unequal access to educational opportunities. This is exacerbated by poor social and family relationships, which then inhibit learning. The below image is from a 1916 advertisement for a vocational school, and suggests that education is a pathway to upward social mobility.
 
 |![Image](ChapterPictures/6-8-AdvertisementPromotingEducation.png)|
 |:--:|
 |*Figure 6.9: Advertisement promoting education as a route to upward mobility*|
 
-These findings offer insights into how intergenerational poverty and welfare dependency have a real structural basis and are not entirely within the control of an individual's willingness, effort or merit.
+These findings offer insights into how intergenerational poverty and welfare dependency have a real structural basis, and are not entirely within the control of an individual's willingness, effort, or merit.
 
 ## Inequality and Liberty
 
-If we accept the evidence that economic inequality lead to negative social outcomes, might we nevertheless also argue that inequality is a necessary and inevitable outcome of a free society and equality before the law?  In his book 'The Constitution of Liberty', political philosopher Fredrich Hayek argued,
+If we accept the evidence that economic inequality lead to negative social outcomes, might we nevertheless also argue that inequality is a necessary and inevitable outcome of a free society and equality before the law?  In his book 'The Constitution of Liberty', political philosopher Fredrich Hayek argued:
 
 > *"From the fact that people are very different it follows that, if we treat them equally, the result must be inequality in their actual position, and that the only way to place them in an equal position would be to treat them differently. Equality before the law and material equality are therefore not only different but are in conflict with each other; and we can achieve either one or the other, but not both at the same time."*
 
-Hayek also argues that an attempt to achieve complete material equality between people, can only come at the expense of freedom,
+Hayek also argues that an attempt to achieve complete material equality between people can only come at the expense of freedom:
 
 >*"While an equality of rights under a limited government is possible and an essential condition of individual freedom, a claim for equality of material position can be met only by a government with totalitarian powers."*  [@Hayek1944]
 
 One response would be to say that in objecting to extremes of inequality, one is not advocating strict equality of outcome for all. 
 
-The obvious problem with Hayek's argument is that distribution according to merit is just one conception of social justice. Consider the principles of fair equality of opportunity, and raising the lowest social position as much as possible." The point being that extreme inequality needs to be eliminated to create a level playing field where individuals are given the opportunity to demonstrate their merit [@Lister2011].
+The obvious problem with Hayek's argument is that distribution according to merit is just one conception of social justice. Consider the principles of fair equality of opportunity, and the societal goal of raising the lowest social position as much as possible. We propose that extreme inequality needs to be eliminated to create a level playing field where individuals are given the opportunity to demonstrate their merit [@Lister2011].
 
 ## Wealth Inequality and the Democratic Process
 
@@ -270,46 +270,44 @@ The obvious problem with Hayek's argument is that distribution according to meri
 |:--:|
 |*Figure 6.10: Cartoon showing wealth inequality in the democratic process*|
 
-Despite Hayek's famous theory on the constitution of liberty, a very real danger of wealth inequality is the threat to the democratic process. Extremes of wealth mean that those at the top, whether they be corporations (as per the above cartoon) or individuals,have disproportionate access to power, and an ability to influence politicians for their own interests. A famous quotation, attributed to noted American Supreme Court Judge Louis D. Brandeis, puts it simply,
+Despite Hayek's famous theory on the constitution of liberty, a very real danger of wealth inequality is the threat to the democratic process. Extremes of wealth mean that those at the top, whether they be corporations (as per the above cartoon) or individuals, have disproportionate access to power, and an ability to influence politicians for their own interests. A famous quotation, attributed to noted American Supreme Court Judge Louis D. Brandeis, put it simply:
 
->"*We can have democracy in this country or we can have great wealth concentrated in the hands of a few, but we cannot have both*." [@Dillard1904]
+>*"We can have democracy in this country or we can have great wealth concentrated in the hands of a few, but we cannot have both."* [@Dillard1904]
 
- There is strong evidence that extremes of wealth inequality lead to so-called 'representational inequality'. Work by Professor Martin Gilens of Princeton University found that in the US, when the policy preferences of the affluent differ from those of the middle-class or poor, there is virtually no relationship between policy outcomes and the desires of less advantaged groups [@Gilens2004]. Policies favored by 20 percent of affluent Americans, have about a one-in-five chance of being adopted, while those favored by 80 percent of affluent Americans are adopted about half the time. In contrast, the support or opposition of the poor or the middle class has no impact on a policy's prospects of being adopted [@Gilens2012].
+There is strong evidence that extremes of wealth inequality lead to so-called 'representational inequality.' Work by Professor Martin Gilens of Princeton University found that in the US, when the policy preferences of the affluent differ from those of the middle-class or poor, there is virtually no relationship between policy outcomes and the desires of less advantaged groups [@Gilens2004]. Policies favored by 20 percent of affluent Americans have about a one-in-five chance of being adopted, while those favored by 80 percent of affluent Americans are adopted about half the time. In contrast, the support or opposition of the poor or the middle class has no impact on a policy's prospects of being adopted [@Gilens2012].
 
-Economist Dabla-Norris notes in a 2015 IMF report [@Dabla-Norris2015], that income inequality can have serious consequences for political stability, saying,
+Economist Dabla-Norris notes in a 2015 IMF report [@Dabla-Norris2015] that income inequality can have serious consequences for political stability, saying:
 
->"*Widening inequality also has significant implications for growth and macroeconomic stability, it can concentrate political and decision making power in the hands of a few, lead to a suboptimal use of human resources, cause investment-reducing political and economic instability, and raise crisis risk.*"
+>*"Widening inequality also has significant implications for growth and macroeconomic stability, it can concentrate political and decision making power in the hands of a few, lead to a suboptimal use of human resources, cause investment-reducing political and economic instability, and raise crisis risk."*
 
 ## Inequality and Growth
 
-Some would argue that inequality is nevertheless necessary for economic growth. Inequality is thought by some to encourage entrepreneurialism [@Matthews2016] and the wealthy are thought to invest in the economy. It is also claimed that when the state redistributes wealth through taxation and benefits, resources are lost through administration and bureaucracy. However, recent research by the Organization for Economic Cooperation and Development (OECD) suggests that even this purely economic argument is on shaky ground. Its 2014 analysis found that income inequality has a negative and statistically significant impact on growth. 
+Some would argue that inequality is nevertheless necessary for economic growth. Inequality is thought by some to encourage entrepreneurialism [@Matthews2016] and the wealthy are thought to invest in the economy. It is also claimed that when the state redistributes wealth through taxation and benefits, resources are lost through administration and bureaucracy. However, recent research by the Organization for Economic Cooperation and Development (OECD) suggests that even this purely economic argument is on shaky ground. Its 2014 analysis found that high levels of income inequality have a statistically significant negative impact on growth. 
 
-The study found that, 
+The study found that: 
 
 >*"Rising inequality is estimated to have knocked more than 4 percentage points off growth in half of the (OECD) countries over two decades. On the other hand, greater equality prior to the crisis helped GDP per capita in a few countries, notably Spain."*  [@OE2014] 
 
-Furthermore, while there is evidence that the promise of wealth is a strong motivator for entrepreneurs, the majority of the top 1% in the US, are not entrepreneurs but are executives, managers, supervisors, and financial professionals [@Bakija2012].
+Furthermore, while there is evidence that the promise of wealth is a strong motivator for entrepreneurs, the majority of the top 1% in the US are not entrepreneurs - they are executives, managers, supervisors, and financial professionals [@Bakija2012].
 
-These findings reinforce the work of Piketty previously examined on inequality and 'low growth capitalism'. 
+These findings reinforce the work of Piketty on inequality and 'low growth capitalism.' 
 
 In this section, we have considered the effects of inequality in terms of its impact on empathy, social problems, crime rates, and social mobility. Contrary to claims that income and wealth inequality are necessary for liberty and growth, we see evidence that inequality threatens a functional democracy and growing economy.
 
 # 7.6 How much inequality do people want in society?
 
-We've seen above that income inequality and wealth inequality are associated with very undesirable social consequences. However, most would not welcome an economic system in which everyone received exactly the same amount. There has been some research from the US, as to what distribution of wealth people believe there should be in society. 
+We've seen above that income inequality and wealth inequality are associated with very undesirable social consequences. However, most would not welcome an economic system in which everyone received exactly the same amount. There has been some research from the US as to what distribution of wealth people believe there should be in society. 
 
 In a 2011 study by Dan Ariely and Michael Norton [@Norton2011], a nationally representative online panel of Americans were asked to estimate the current distribution of wealth in the USA, and to describe a distribution they deemed 'just'. The results were striking. All demographic groups (including Republicans and the wealthy) desired a more equal distribution than the actual US wealth distribution. Secondly, all groups vastly underestimated wealth inequality in the US, estimating that the top quintile held about 59% rather than the actual amount of about 84%.
 
-The below chart shows the distribution which the participants estimated was the case, the participants' ideal distribution and the actual US wealth distribution. We can see that the participants' estimated distribution is as far from the actual distribution as their ideal distribution is from their estimated distribution of wealth inequality in the US.
+The below chart shows the distribution which the participants estimated was the case, the participants' ideal distribution, and the actual US wealth distribution. We can see that the participants' estimated distribution is as far from the actual distribution as their ideal distribution is from their estimated distribution of wealth inequality in the US.
 
 |![Image](ChapterPictures/6-10-UnitedStatesWealthDistributionActualEstimatedandIdeal.png)|
 |:--:|
 |*Figure 6.11: United States wealth distribution - Actual, Estimated and Ideal as surveyed*|
 
 
-The researchers concluded two main points.
-
-First that a large, nationally representative sample of Americans seems to prefer to live in a country more like Sweden than like the United States. Americans also construct ideal distributions that are far more equal than they estimated the United States to be; estimates which themselves were far more equal than the actual level of inequality.
+The researchers concluded two main points. First, that a large, nationally representative sample of Americans seems to prefer to live in a country more like Sweden than like the United States. Americans also construct ideal distributions that are far more equal than they estimated the United States to be - estimates which themselves were far more equal than the actual level of inequality.
 
 Second, there was much more consensus than disagreement across groups from different sides of the political spectrum about this desire for a more equal distribution of wealth, suggesting that Americans may possess a commonly held "normative" standard for the distribution of wealth despite the many disagreements about policies that affect that distribution, such as taxation and welfare.
 
