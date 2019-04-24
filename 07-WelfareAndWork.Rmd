@@ -15,36 +15,36 @@ link-citations: yes
 
 - Work plays a major role in modern life, yet it can be difficult to define precisely.  Work can be purposeful and fulfilling (work as leisure) or it can be unsatisfying drudgery (work as toil).  
 
-- Work can be of benefit to society (e.g. nursing), or it can be harmful (e.g. creating advertisements for junk-food).  Benefit and harm are often not reflected in salaries.
+- Work can be of benefit to society (e.g. nursing), or it can be harmful (e.g. creating advertisements for junk-food). Benefit and harm are often not reflected in salaries.
 
-- In the UK, there has been a decrease in unemployment, but proportional growth in low income, low-skilled and insecure work.  There has been an increase in people relying on tax credits to top up their wages.
+- In the UK, there has been a decrease in unemployment, but proportional growth in low income, low-skilled and insecure work. There has been an increase in people relying on tax credits to top up their wages.
 
-- Many people feel overqualified and dissatisfied with their work.  There has been an increase in the numbers of people working excessively long hours (NB: I don't know if this is true, workhouses?).  This is associated with increased rates of heart disease, mental illness, diabetes, and stroke.
+- Many people feel overqualified and dissatisfied with their work. There has been an increase in the numbers of people working excessively long hours (NB: I don't know if this is true, workhouses?). This is associated with increased rates of heart disease, mental illness, diabetes, and stroke.
 
-- There is a relationship between the labour market and welfare.  When work is precarious, there is a need for unemployment benefit to plug the gaps.  Illness from overwork may lead to a need for Employment and Support Allowance or disability payment.
+- There is a relationship between the labour market and welfare. When work is precarious, there is a need for unemployment benefits to plug the gaps. Illness from overwork may lead to a need for Employment and Support Allowance or disability payment.
 
 - The current British welfare system is unsuitable for the needs of today's workforce.
 
-- The current system discourages people from transitioning into work.  There is also a stigma associated with receiving benefits, contributing to a non-take up of benefit by people who are entitled to it. Administrative delays and assessment mistakes are also rife.
+- The current system discourages people from transitioning into work. There is also a stigma associated with receiving benefits, contributing to a non-take up of benefit by people who are entitled to it. Administrative delays and assessment mistakes are also rife.
 
-- Any new welfare system should: be flexible, avoid disruptions in income, be empowering, promote work-life balance, be non-stigmatising, simple, avoid benefit trap, be modern, and sufficient to live on.
+- Any new welfare system should: be flexible, avoid disruptions in income, be empowering, promote work-life balance, be non-stigmatising, simple, avoid benefits trap, be modern, and sufficient to live on.
 
 - Citizens Income would meet many - though not all - of the above requirements.  It is an income, unconditionally granted to all, on an individual basis, without means test or work requirement.
 
 - Guaranteed Jobs and Skills training could be used to improve the skill level of people in deprived communities.  A successful program would help people discover what work people would like to do, and would be targeted towards skills needed by employers.  
 
-> *"I think there's a lot of pressure in this country to work when you have kids, and I don't think that's true of everywhere.You think of somewhere like Germany, when you are at home with your kids that's OK, but here there's pressure all the time to be out working"* 'Laurie',single parent
+> *"I think there's a lot of pressure in this country to work when you have kids, and I don't think that's true of everywhere.You think of somewhere like Germany, when you are at home with your kids that's OK, but here there's pressure all the time to be out working"* 'Laurie,' single parent
 
-> *"I also just feel that bringing up a child is working! Why is that not given the status?"*'Ray', single parent.
+> *"I also just feel that bringing up a child is working! Why is that not given the status?"* 'Ray', single parent.
 
 > *"I have a job with a really flexible employer, but I do get called up at short notice and it's incredibly stressful."* 'Martina'
 
-> *"If you are on a zero-hour contract, you are already not going to be earning much, so how do you pay for childcare to cover those times? It's not unreasonable for people to have some kind of predictability in the workplace."* Keira'
+> *"If you are on a zero-hour contract, you are already not going to be earning much, so how do you pay for childcare to cover those times? It's not unreasonable for people to have some kind of predictability in the workplace."* 'Keira'
 
 
 # 7.1 What is Work?
 
-'*We shall honour those who can teach us how to pluck the lilies of the field who toil not, neither do they spin*' [@Keynes1930]
+*"We shall honour those who can teach us how to pluck the lilies of the field who toil not, neither do they spin"* [@Keynes1930]
 
 `r tufte::newthought('Those words were written')`in 1930 by John Maynard Keynes, the eminent economist, in an essay entitled Economic Possibilities for our Grandchildren.  In the essay, Keynes predicted that in 100 years' time, people in the developed world would be working for about 15 hours per week on average. He claimed that because of rapid technological advancement and productivity growth,  people would work less and still meet their needs.  He thought that we would have more leisure time, and worried about how people might use it.  This prediction was made for the year 2030, just a few years away. We are still far away from the conditions of life and work he imagined.
 
@@ -132,39 +132,39 @@ Clearly, the current status of work in the UK today is far from the future which
 
 > *"Trying to work full time (which is necessary!) and look after my father caused me to almost get to breaking point.This is when I was advised to contact social services about direct payments. I have since found out that I could have received direct payments for the past three years due to my father's condition, but nobody advised our family of this"* 'Sara,' carer
 
-> *"Even though I had been actively looking for work, and proved I was, when I spoke to my local centre about my difficulties in leaving my house, I was spoken to like a "benefit bum" and was sanctioned with absolutely no benefits for FIVE WEEKS. I was finished. I got more into debt, and had to rely on family to help me out. I really think a lot of the problems in people not finding work is down to the advisors in Job Centres who make claimants feel dumb, worthless and who obviously need extra help. I truly think this is where the government need to start, rather than just slashing people's payments."* 'Martin, age 25.  After becoming unemployed, he started receiving JSA. He became depressed while unemployed and missed an appointment, leading to benefit sanction. 
+> *"Even though I had been actively looking for work, and proved I was, when I spoke to my local centre about my difficulties in leaving my house, I was spoken to like a "benefit bum" and was sanctioned with absolutely no benefits for FIVE WEEKS. I was finished. I got more into debt, and had to rely on family to help me out. I really think a lot of the problems in people not finding work is down to the advisors in Job Centres who make claimants feel dumb, worthless and who obviously need extra help. I truly think this is where the government need to start, rather than just slashing people's payments."* 'Martin,' age 25.  After becoming unemployed, he started receiving JSA. He became depressed while unemployed and missed an appointment, leading to benefit sanction. 
 
 > *"I'm sick of the government only describing the working as 'the strivers'. I AM a striver too, I worked incredibly hard to get into the best university in the country, but I can't work. That isn't MY fault. But I am STRIVING to get better and make a decent contribution to society. I wish I could give those ministers in the multimillion pound homes a piece of my mind."* 'Bernadette,' aged 18, has clinical depression.
 
 ## What is Welfare?
 
-People who are unable to find work, are too ill to work, are retired from work, are too young to work or whose work doesn't generate a livable income, still need the means to live.  They still have to pay for food, shelter, heating, medical care, transport and family costs.  This is where government assistance, known alternatively as 'social security', 'social insurance', 'welfare' and 'benefits', comes in.  Welfare exists to prevent people from becoming destitute. It aims, at the bare minimum, to provide a minimum standard of living.
+People who are unable to find work, are too ill to work, are retired from work, are too young to work, or whose work doesn't generate a livable income, still need the means to live.  They still have to pay for food, shelter, heating, medical care, transport, and family costs. This is where government assistance, known alternatively as 'social security', 'social insurance', 'welfare', and 'benefits', comes in. Welfare exists to prevent people from becoming destitute. It aims to provide a bare minimum standard of living.
 
-The origin of the welfare state may be traced back to late Victorian Britain, during which liberal policymakers responded to the widespread squalor, poverty and criminality prevalent during industrial revolution. The modern welfare state was formed amidst the idealism of the post-WWII period, and it was set up to tackle the 'Five Giant Evils'; Want (Poverty), Disease, Ignorance, Squalor (Homelessness) and Idleness(Unemployment) as described by William Beveridge [@Beveridge1942]. The Labour Party sought to eliminate these evils in their pledge to provide for the people of the United Kingdom 'from the cradle to the grave' through their victory in the 1945 general election. The plan for the welfare state was visionary, in the sense that it was motivated by a vision of the future which could be much better than the present and the past.  
+The origin of the welfare state may be traced back to late Victorian Britain, during which liberal policymakers responded to the widespread squalor, poverty, and criminality prevalent during industrial revolution. The modern welfare state was formed amidst the idealism of the post-WWII period, and it was set up to tackle the 'Five Giant Evils': Want (Poverty), Disease, Ignorance, Squalor (Homelessness), and Idleness(Unemployment) as described by William Beveridge [@Beveridge1942]. The Labour Party sought to eliminate these evils in their pledge to provide for the people of the United Kingdom "from the cradle to the grave" through their victory in the 1945 general election. The plan for the welfare state was visionary, in the sense that it was motivated by a vision of the future which could be much better than the present and the past.  
 
 |![Image](ChapterPictures/11-4-BeveridgeEvils.jpg)
 |:--:|
 |*Figure 11.4 - Beveridge and society's five evils*|
 
 
-Philosophically, it had two moral underpinnings.  Firstly, it was based on reciprocity. This is the idea that if you've paid in, you're entitled to take out. Secondly, it had an absolute moral position, which said that whether a person had contributed or not it would be wrong to allow them to become destitute.  Thus, a multifaceted welfare system emerged in the United Kingdom, built from a raft of different policies to protect the citizens from destitution. These include social insurance for the unemployed and sick and those injured at work, a national health service, free education, council housing and increased employment through public spending.  
+Philosophically, it had two moral underpinnings.  Firstly, it was based on reciprocity. This is the idea that if you've paid in, you're entitled to take out. Secondly, it had an absolute moral position, which said that whether a person had contributed or not, it would be wrong to allow them to become destitute. Thus, a multifaceted welfare system emerged in the United Kingdom, built from a raft of different policies to protect the citizens from destitution. These include social insurance for the unemployed and sick and those injured at work, a national health service, free education, council housing, and increased employment through public spending.  
 
- The welfare state has grown rapidly since its inception. In 2015/16, the total benefit pay out, (including the state pension) by the Department for Work and Pensions is expected to amount to about '£171 billion (23% of public spending) [@Fullfact2015]. This does not include the costs of administering the benefits.  '£116 billion is projected to be spent on benefits for pensioners (including state pension) and '£53 billion on working age people.  Benefits and tax credits together are projected to amount to '£210 billion in 2015 [@Fullfact2015].
+The welfare state has grown rapidly since its inception. In 2015/16, the total benefit pay out, (including the state pension) by the Department for Work and Pensions is expected to amount to about £171 billion (23% of public spending).[@Fullfact2015] This does not include the costs of administering the benefits. £116 billion is projected to be spent on benefits for pensioners (including state pension) and £53 billion on working age people. Benefits and tax credits together are projected to amount to £210 billion in 2015 [@Fullfact2015].
 
-There is, of course, a sympathetic relationship between the issues with work outlined above, and demand for the welfare system.  With increasing numbers of people in low wage jobs, there is a parallel increase in the need for supplementary income from the state insurance mechanisms. 
+There is, of course, a sympathetic relationship between the issues with work outlined above, and demand for the welfare system. With increasing numbers of people in low-wage jobs, there is a parallel increase in the need for supplementary income from the state insurance mechanisms. 
 
 |![Image](ChapterPictures/11-5-RealWages2009.png)
 |:--:|
 |*Figure 11.5 - Drop in real wages growth since 2009*|
 
-With an increase in precarious, short-term jobs comes an increased need for unemployment benefit to fill in the gaps in employment.  Overwork and unhealthy work habits can lead to illness which then require the payment of Employment and Support Allowance.  Built around the model of long-term employment with a single employer, the current welfare state is unsuited to the demands of today's working environments.
+With an increase in precarious, short-term jobs comes an increased need for unemployment benefit to fill in the gaps in employment. Overwork and unhealthy work habits can lead to illness, which then require the payment of Employment and Support Allowance. Built around the model of long-term employment with a single employer, the current welfare state is unsuited to the demands of today's working environments.
 
-Today's welfare state covers five main groups of welfare spending: 
+Today's welfare state covers five main categories of welfare spending: 
 
-1. Incapacity, Disability and Injury  benefits
+1. Incapacity, Disability and Injury Benefits
 2. Pension Spending
 3. Unemployment Benefits
-4. Housing (including Housing Benefit and Rent rebate)
+4. Housing (including Housing Benefit and Rent Rebate)
 5. Family Benefits, Income Support and Tax Credit
 
 
@@ -172,9 +172,9 @@ Today's welfare state covers five main groups of welfare spending:
 
 ## The 'benefit trap'
 
-One of the problems with means-tested benefits is that they can create a disincentive to seeking paid employment.  A person receiving benefits may find that their benefits cease when they take a job, and they also pay tax on their earnings, which often leaves them scarcely better off than they were on benefits.  The current system is engaged in a shift from a sharp cut off point to a gradual phase out. With the former, when the costs of commuting to work and/or childcare are taken into account, this creates a strong disincentive for the unemployed to take up a low wage job. 
+One of the problems with means-tested benefits is that they can create a disincentive to seeking paid employment. A person receiving benefits may find that their benefits cease when they take a job, and they also pay tax on their earnings, which often leaves them scarcely better off than they were on benefits. The current system is engaged in a shift from a sharp cut-off point to a gradual phase-out. With the former, when the costs of commuting to work and/or childcare are taken into account, this creates a strong disincentive for the unemployed to take up a low-wage job. 
 
-The below diagram shows how benefits taper off as take home pay increases, for a lone parent with two children.  We can see that the parent could hold a job which makes '£175 per week, and along with benefits, will receive a net income of around '£570 per week.  If the lone parent decides to increase her income from paid work (usually by increasing working hours), to '£400 per week, she will be barely making any more in net income than she was before - around '£590 per week. 
+The diagram below shows how benefits taper off as take home pay increases, for a lone parent with two children. We can see that the parent could hold a job which makes £175 per week, and along with benefits, will receive a net income of around £570 per week. If the lone parent decides to increase her income from paid work (usually by increasing working hours), to '£400 per week, she will be barely making any more in net income than she was before - around £590 per week. 
 
 |![Image](ChapterPictures/11-6-ParentingCosts.png)
 |:--:|
@@ -186,8 +186,7 @@ Similarly the below chart shows how increases in household incomes can provide '
 |:--:|
 |*Figure 11.7 - How tax rates rise and fall*|
 
-When we add the means-testing of benefits, the situation is even worse. For every '£1 earned, 70p or more of benefits are withdrawn. This is clearly a disincentive
-to work, a 'welfare trap'.
+When we add the means-testing of benefits, the situation is even worse. For every £1 earned, 70p or more of benefits are withdrawn. This is clearly a disincentive against work, a 'welfare trap'.
 
 |![Image](ChapterPictures/11-8-MTR.png)|
 |:--:|
@@ -195,11 +194,11 @@ to work, a 'welfare trap'.
 
 ## Administration 
 
-Many benefits require claimants to inform the Department of Work and Pensions of any changes of circumstances which may affect their benefits.  Such changes may include, for example, a decline or improvement in an illness which may affect one's capacity to work, or affect one's living support needs.  A gift of some money may affect someone's Job Seeker's Allowance.  In many cases, the claimant is obliged to volunteer the information to the DWP.  In some cases, (as for ESA and PIP), capability assessments are made by the department.
+Many benefits require claimants to inform the Department of Work and Pensions of any changes of circumstances which may affect their benefits.  Such changes may include, for example, a decline or improvement in an illness which may affect one's capacity to work or affect one's living support needs. A gift of some money may affect someone's Job Seeker's Allowance. In many cases, the claimant is obliged to volunteer the information to the DWP. In some cases (as for ESA and PIP), capability assessments are made by the department.
 
-When a change in circumstances affecting entitlement occurs, this can often mean a sudden withdrawal of benefits and a long wait while decisions are appealed.  There are also significant waiting times for people once they have submitted applications but before payments materialise, particularly in the case of JSA and Housing Benefit.  When these gaps in support occur, individuals often experience serious economic hardship and mental stress.
+When a change in circumstances affecting entitlement occurs, this can often mean a sudden withdrawal of benefits and a long wait while decisions are appealed.  There are also significant waiting times for people once they have submitted applications until payments materialise, particularly in the case of JSA and Housing Benefit.  When these gaps in support occur, individuals often experience serious economic hardship and mental stress.
 
-The following real life case studies demonstrate ways in which hardship can occur;
+The following real-life case studies demonstrate ways in which hardship can occur:
 
 **Liam:**
 
