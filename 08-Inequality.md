@@ -276,40 +276,38 @@ Despite Hayek's famous theory on the constitution of liberty, a very real danger
 
 There is strong evidence that extremes of wealth inequality lead to so-called 'representational inequality.' Work by Professor Martin Gilens of Princeton University found that in the US, when the policy preferences of the affluent differ from those of the middle-class or poor, there is virtually no relationship between policy outcomes and the desires of less advantaged groups [@Gilens2004]. Policies favored by 20 percent of affluent Americans have about a one-in-five chance of being adopted, while those favored by 80 percent of affluent Americans are adopted about half the time. In contrast, the support or opposition of the poor or the middle class has no impact on a policy's prospects of being adopted [@Gilens2012].
 
-Economist Dabla-Norris notes in a 2015 IMF report [@Dabla-Norris2015], that income inequality can have serious consequences for political stability, saying,
+Economist Dabla-Norris notes in a 2015 IMF report [@Dabla-Norris2015] that income inequality can have serious consequences for political stability, saying:
 
 >*"Widening inequality also has significant implications for growth and macroeconomic stability, it can concentrate political and decision making power in the hands of a few, lead to a suboptimal use of human resources, cause investment-reducing political and economic instability, and raise crisis risk."*
 
 ## Inequality and Growth
 
-Some would argue that inequality is nevertheless necessary for economic growth. Inequality is thought by some to encourage entrepreneurialism [@Matthews2016] and the wealthy are thought to invest in the economy. It is also claimed that when the state redistributes wealth through taxation and benefits, resources are lost through administration and bureaucracy. However, recent research by the Organization for Economic Cooperation and Development (OECD) suggests that even this purely economic argument is on shaky ground. Its 2014 analysis found that income inequality has a negative and statistically significant impact on growth. 
+Some would argue that inequality is nevertheless necessary for economic growth. Inequality is thought by some to encourage entrepreneurialism [@Matthews2016] and the wealthy are thought to invest in the economy. It is also claimed that when the state redistributes wealth through taxation and benefits, resources are lost through administration and bureaucracy. However, recent research by the Organization for Economic Cooperation and Development (OECD) suggests that even this purely economic argument is on shaky ground. Its 2014 analysis found that high levels of income inequality have a statistically significant negative impact on growth. 
 
-The study found that, 
+The study found that: 
 
 >*"Rising inequality is estimated to have knocked more than 4 percentage points off growth in half of the (OECD) countries over two decades. On the other hand, greater equality prior to the crisis helped GDP per capita in a few countries, notably Spain."*  [@OE2014] 
 
-Furthermore, while there is evidence that the promise of wealth is a strong motivator for entrepreneurs, the majority of the top 1% in the US, are not entrepreneurs but are executives, managers, supervisors, and financial professionals [@Bakija2012].
+Furthermore, while there is evidence that the promise of wealth is a strong motivator for entrepreneurs, the majority of the top 1% in the US are not entrepreneurs - they are executives, managers, supervisors, and financial professionals [@Bakija2012].
 
-These findings reinforce the work of Piketty previously examined on inequality and 'low growth capitalism'. 
+These findings reinforce the work of Piketty on inequality and 'low growth capitalism.' 
 
 In this section, we have considered the effects of inequality in terms of its impact on empathy, social problems, crime rates, and social mobility. Contrary to claims that income and wealth inequality are necessary for liberty and growth, we see evidence that inequality threatens a functional democracy and growing economy.
 
 # 7.6 How much inequality do people want in society?
 
-We've seen above that income inequality and wealth inequality are associated with very undesirable social consequences. However, most would not welcome an economic system in which everyone received exactly the same amount. There has been some research from the US, as to what distribution of wealth people believe there should be in society. 
+We've seen above that income inequality and wealth inequality are associated with very undesirable social consequences. However, most would not welcome an economic system in which everyone received exactly the same amount. There has been some research from the US as to what distribution of wealth people believe there should be in society. 
 
 In a 2011 study by Dan Ariely and Michael Norton [@Norton2011], a nationally representative online panel of Americans were asked to estimate the current distribution of wealth in the USA, and to describe a distribution they deemed 'just'. The results were striking. All demographic groups (including Republicans and the wealthy) desired a more equal distribution than the actual US wealth distribution. Secondly, all groups vastly underestimated wealth inequality in the US, estimating that the top quintile held about 59% rather than the actual amount of about 84%.
 
-The below chart shows the distribution which the participants estimated was the case, the participants' ideal distribution and the actual US wealth distribution. We can see that the participants' estimated distribution is as far from the actual distribution as their ideal distribution is from their estimated distribution of wealth inequality in the US.
+The below chart shows the distribution which the participants estimated was the case, the participants' ideal distribution, and the actual US wealth distribution. We can see that the participants' estimated distribution is as far from the actual distribution as their ideal distribution is from their estimated distribution of wealth inequality in the US.
 
 |![Image](ChapterPictures/6-10-UnitedStatesWealthDistributionActualEstimatedandIdeal.png)|
 |:--:|
 |*Figure 6.11: United States wealth distribution - Actual, Estimated and Ideal as surveyed*|
 
 
-The researchers concluded two main points.
-
-First that a large, nationally representative sample of Americans seems to prefer to live in a country more like Sweden than like the United States. Americans also construct ideal distributions that are far more equal than they estimated the United States to be; estimates which themselves were far more equal than the actual level of inequality.
+The researchers concluded two main points. First, that a large, nationally representative sample of Americans seems to prefer to live in a country more like Sweden than like the United States. Americans also construct ideal distributions that are far more equal than they estimated the United States to be - estimates which themselves were far more equal than the actual level of inequality.
 
 Second, there was much more consensus than disagreement across groups from different sides of the political spectrum about this desire for a more equal distribution of wealth, suggesting that Americans may possess a commonly held "normative" standard for the distribution of wealth despite the many disagreements about policies that affect that distribution, such as taxation and welfare.
 
