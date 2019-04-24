@@ -27,7 +27,7 @@ link-citations: yes
 
 # 7.1 Why does inequality matter?
 
-`r tufte::newthought('Have you ever walked')` through Knightsbridge in London, and watched as expensive cars parked outside designer shops - even as homeless people begged for spare change on the sidewalk nearby? That's a clichéd image of inequality. Homelessness isn't caused by great wealth. However, stagnant working-class and middle-class wages may well be. The greater problem in Britain is that a propertied ownership class is taking a rising share of national income, extracting rents from everyone else, and getting increasingly wealthy whilst the majority are squeezed by higher monthly outlays on everything from rents or mortgage payments to tuition fees for kids in college. 
+`r tufte::newthought('Have you ever walked')` through Knightsbridge in London, and watched as expensive cars parked outside designer shops - even as homeless people begged for spare change on the sidewalk nearby? That's a clichéd image of inequality. The homelessness of some isn't caused by the great wealth of others. However, stagnant working-class and middle-class wages may well be. The greater problem in Britain is that a propertied ownership class is taking a rising share of national income, extracting rents from everyone else, and getting increasingly wealthy whilst the majority are squeezed by higher monthly outlays on everything from rents or mortgage payments to tuition fees for kids in college. 
 
 In this chapter, we will look at how wealth and income are distributed in Britain. As we will see, the distribution is very unequal. We will ask: Is it a problem that some have so much, while others have little? What relationship is there between high incomes and wealth and contributive merit? Do people really get what they deserve?   
 
@@ -150,31 +150,31 @@ Income may come from a variety of sources, such as interest on savings, wages, d
 
 Disposable income may be measured before-housing-costs (BHC) or after-housing-costs (AHC). When considering income, it is important to be precise about the kind of income being discussed. For example, when looking at income inequality, we can see that there is more inequality in income after-housing-costs than in income before-housing-costs, because poorer households tend to spend a higher share of their income on housing than those higher up the income distribution [@McGuinness2016].
 
-In the below chart [@IFS2014], we can see how the share of pre-tax household income going to the top 1% has increased over time. 
+In the chart below [@IFS2014], we can see how the share of pre-tax household income going to the top 1% has increased over time. 
 
 
 |![Image](ChapterPictures/6-4-ShareOfTopIncome.png)|
 |:--:|
 |*Figure 6.5: Share of top % pre-tax income in the UK*|
 
-The top incomes of the top 1% appear to be 'racing away' from the remaining 99%. Data suggests that income inequality within the bottom 99% is remaining reasonably stable or possibly slightly decreasing, while the income shares of the top 1% is increasing. 
+The top incomes of the top 1% appear to be 'racing away' from the remaining 99%. Data suggests that income inequality within the bottom 99% is remaining reasonably stable or possibly slightly decreasing, while the national income share of the top 1% is increasing. 
 
-There exists, of course, a relationship between income inequality and wealth inequality. Income leads to wealth when it is saved up and when it is used to buy assets. Wealth also generates income as shares generate dividends, savings generate interest and property ownership generates rental income. 
+There exists, of course, a relationship between income inequality and wealth inequality. Income leads to wealth when it is saved up and when it is used to buy assets. Wealth also generates income as shares generate dividends, savings generate interest, and property ownership generates rental income. 
 
-Households with great wealth often also receive high incomes. However  we can easily imagine someone who has great wealth in the form of property, investments and bank balance, but who has little income (perhaps a retiree). Similarly, someone may make a significant income, but have debts and high outgoings, so they don't build up wealth (perhaps a young person on a high salary). The effect of a sudden reduction in income or unexpected expenses would have a dramatically different effect on each of them. 
+Households with great wealth often also receive high incomes. However we can easily imagine someone who has great wealth in the form of property, investments, and bank balance, but who has little income (perhaps a retiree). Similarly, someone may make a significant income, but have debts and high outgoings, so they don't build up wealth (perhaps a young person on a high salary). The effect of a sudden reduction in income or unexpected expenses would have a dramatically different effect on each of them. 
 
 Broadly speaking, we have seen:
 
 - Wealth distribution in the UK is very unequal and getting more so.
-- Income distribution is also very unequal but less so than the wealth distribution.
+- Income distribution is also very unequal, but less so than wealth distribution.
 - The top 1% income share is increasing quickly.
 - Wealthy people tend to be on high incomes. Those with little wealth tend to be on low incomes.
 
-Understanding the above graphs and figures requires us to look behind the figures and consider how different groups earn and use their income. At the lower end, there are those who earn their income through labour, and who must pay housing costs. They have very little disposable income and are unlikely to have much income available to invest in secondary wealth generation. They may have seen their wages stagnating [@Khan2016], while the real value of their wages decrease [@Tily2016].  At the other extreme are those who have high incomes and are able to make additional income through purchasing assets. As we have seen, value increases in assets, (particularly property assets) have driven an increase in the wealth of the very rich. With assets comes income through dividends, rent and capital gains. This appears to be contributing to growing inequality of both wealth and income. 
+Understanding the above graphs and figures requires us to look behind the figures and consider how different groups earn and use their income. At the lower end, there are those who earn their income through labour, and who must pay housing costs. They have very little disposable income and are unlikely to have much income available to invest in secondary wealth generation. They may have seen their wages stagnating [@Khan2016], while the real value of their wages decreases [@Tily2016]. At the other extreme are those who have high incomes and are able to make additional income through purchasing assets. As we have seen, increases in asset values (particularly property assets) have driven an increase in the wealth of the very rich. With assets comes income through dividends, rent, and capital gains. This appears to be contributing to growing inequality of both wealth and income. 
 
-Quoted in the Financial Times, the general secretary of the Trade Union Congress, Frances O'Grady put the situation starkly;
+Quoted in the Financial Times, the general secretary of the Trade Union Congress, Frances O'Grady, put it this way:
 
->*"The economy is paying people too little for hard work and too much just for sitting on wealth. It is making Britain more and more unequal, with those who are already rich moving even further ahead of the typical family [@Giles2015]." * 
+>*"The economy is paying people too little for hard work and too much just for sitting on wealth. It is making Britain more and more unequal, with those who are already rich moving even further ahead of the typical family [@Giles2015]."* 
 
 
 
