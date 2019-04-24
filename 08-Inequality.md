@@ -320,13 +320,13 @@ In short:
 
 # 7.7 Is income inequality merited?
 
-We have now seen,that inequality is associated with significant social ills, such as increased crime rates and poor health and longevity outcomes. We have also seen that it may pose real threat to representative democracy and to economic growth. So, there is clear evidence of harm or potential harm arising from wealth inequality in Britain.
+We have now seen that inequality is associated with significant social ills, such as increased crime rates and poor health and longevity outcomes. We have also seen that it may pose a real threat to representative democracy and to economic growth. So, there is clear evidence of harm or potential harm arising from excessive wealth inequality in Britain.
 
-What about fairness?  Has the wealth of the very rich been accumulated through fair means? Remember again the ways of accumulating wealth which we discussed in th beginning of this chapter. There was primary wealth acquisition, occurring through income from economic activity or inheritance. There was also secondary wealth acquisition which involved putting wealth to use in the form of investment, to create more wealth. We said that if the rich arerich because they work hard and 'work smart' and the poor are poor because they do not, then that might be one reason for viewing wealth inequality as fair. 
+What about fairness? Has the wealth of the very rich been accumulated through fair means? Remember again the ways of accumulating wealth which we discussed in the beginning of this chapter. There was primary wealth acquisition, occurring through income from legal or illegal economic activity or inheritance. There was also secondary wealth acquisition which involved putting wealth to use in the form of investment, to accumulate more wealth. We said that if the rich are rich because they work hard and 'work smart' and the poor are poor because they do not, then that might be one reason for viewing wealth inequality as fair. 
 
 ## Inequality due to Income or Inheritance
 
-When it comes to those primary forms of wealth acquisition, we know that unfairness exists. It would be wonderful if everyone had an elderly aunt who could leave them a sizeable inheritance, but that is clearly not the case. Some people have friends who help them get a high-paying job, some do not. Some people go to excellent schools, some do not. Some work, no matter how important to society, pays less than other work. These kinds of unfairness are difficult to tackle, raise many ethical issues and are outside the scope of this book. However, it is worth mentioning that the world is not a level playing field and while attempts can be made, (through for example, inheritance tax and affirmative action policy) to redress unfairness of opportunity to gain primary wealth, attempts to totally eradicate it would probably be futile. They would also probably have serious unintended consequences. As your parent may have told you when you were a child, 'Sometimes life just isn't fair'.
+When it comes to those primary forms of wealth acquisition, we know that unfairness exists. It would be wonderful if everyone had an elderly aunt who could leave them a sizeable inheritance, but that is clearly not the case. Some people have friends who help them get a high-paying job, some do not. Some people go to excellent schools, some do not. Some work, no matter how important to society, pays less than other work. These kinds of unfairness are difficult to tackle, raise many ethical issues, and are outside the scope of this book. However, it is worth mentioning that the world is not a level playing field and while attempts can be made (through inheritance tax and affirmative action policy) to redress unfairness of opportunity to gain primary wealth, attempts to totally eradicate it would probably be futile. They would also probably have serious unintended consequences. As your parent may have told you when you were a child, 'sometimes life just isn't fair.'
 
 |![Image](ChapterPictures/6-11-InheritanceCartoon.jpg)|
 |:--:|
@@ -334,15 +334,15 @@ When it comes to those primary forms of wealth acquisition, we know that unfairn
 
 To what extent is someone's monetary success due to their own work, and to what extent is it their luck or privilege (in terms of genes, or parental support), or a product of the wider society? And to what extent should we reward those who seek money over other objectives?
 
-Income taxation is one of the main ways in which the government affects the income distribution across society. From a purely philosophical point of view it's not easy to determine what the rate of income tax should be. We'll come back to this in the next chapter, when we look at this through the prism of income inequality and the recent historical experience. We'll also consider the equity of processes of wealth growing.
+Income taxation is one of the main ways in which the government affects income distribution across society. From a purely philosophical point of view, it's not easy to determine what the rate of income tax should be. We'll come back to this in the next chapter, when we look at this through the prism of income inequality and recent historical experience. We'll also consider the fairness of different processes of wealth accumulation.
 
 # 7.8 Direct taxes and their redistributive role
 
 ## Income Tax in the UK
 
-Most people, when they think of tax, immediately think of income tax. It is possibly the most noticeably intrusive tax in every individual's life, requiring, as it does, the keeping of records,the filling in of forms and the possible sanctions from the 'tax man'. Unlike VAT, which is added to goods and services we purchase, income tax comes out of our earnings. There is often an added feeling of grievance associated with the sense that the government is taking money for which we have worked very hard.
+Most people, when they think of tax, immediately think of income tax. It is possibly the most noticeably intrusive tax in every individual's life, requiring, as it does, the keeping of records, the filling in of forms, and possible sanctions from the 'tax man.' Unlike VAT, which is added to goods and services we purchase, income tax comes out of our earnings. There is often an added feeling of grievance associated with the sense that the government is taking money for which we have worked very hard.
 
-Income tax is progressive, with different rates of tax payable, according to income. These rates are called 'Bands'. As of 2016, each individual is entitled to a'personal allowance' of £11,000 of non-taxable income. Above this, their income is taxable. Taxable income (i.e. income above the personal allowance) is subject to different tax rates depending upon the band within which it falls. The below table summarises the income tax bands and rates.
+Income tax is progressive, with different rates of tax payable according to income. These rates are called 'Bands.' As of 2016, each individual is entitled to a'personal allowance' of £11,000 of non-taxable income. Above this, their income is taxable. Taxable income (i.e. income above the personal allowance) is subject to different tax rates depending upon the band within which it falls. The table below summarises the income tax bands and rates.
 
 | Band                                                     | Rate             | Income after allowances   2016/17 | Income after allowances  2015/16 |
 | ------------------------------------------------------------ | -------------------- | ----------------------------------------- | ---------------------------------------- |
@@ -351,7 +351,7 @@ Income tax is progressive, with different rates of tax payable, according to inc
 | Higher rate                                                  | 40%                  | £32,001 to £150,000                       | £31,786 to £150,000                      |
 | Additional rate                                              | 45%                  | Over £150000                              | Over £150000                             |
 
-The current top marginal tax rate is 45%. The below chart shows how top marginal tax rates have changed over time for different countries. We can see that the top tax rate for the UK was very high during the Second World War and in the late 1970s. The rate dropped sharply during the prime ministership of Margaret Thatcher in the 1980s.
+The current top marginal tax rate is 45%. The below chart shows how top marginal tax rates have changed over time for different countries. We can see that the top tax rate for the UK was very high during the Second World War and in the late 1970s. The top rate dropped sharply during the prime ministership of Margaret Thatcher in the 1980s.
 
 |![Image](ChapterPictures/6-12-TopIncomeMTR.png)|
 |:--:|
@@ -371,7 +371,7 @@ According to these ONS figures in 2014/15, the richest fifth of the population p
 
 In 2014/15, after direct taxes, the average incomes of the richest fifth of households was five and a half times that of the poorest fifth (£67,000 and £12,300 per year respectively).
 
-Income Tax made up the largest proportion of direct tax paid by the richest fifth of the population. Income tax is the most progressive of the direct taxes and thus has the biggest effect on reducing income inequality. The below chart compares the progressivity of income tax, National Insurance Contributions and Council Tax. A positive value indicates progressivity.
+Income tax made up the largest proportion of direct tax paid by the richest fifth of the population. Income tax is the most progressive of the direct taxes and thus has the biggest effect on reducing income inequality. The below chart compares the progressivity of income tax, National Insurance Contributions and Council Tax. A positive value indicates progressivity.
 
 |![Image](ChapterPictures/6-14-IncomeProgressivityTax.png)|
 |:--:|
@@ -387,7 +387,7 @@ Earlier, we discussed the top 1%, and evidence that their share of total income 
 |:--:|
 |*Figure 6.16: Correlation between top 1% income shares and top MTR*|
 
-Immediately we can see a strong oppositional relationship, whereby a high marginal tax rate is generally correlated with a lower income share. So again, in the roaring 20s, we have a lower top marginal tax rate of about 25%, and the income share of the top 1% reaching a height of around 23%. During the depression of the 1930s and the Second World War, there in an increase in the top marginal tax rate and a severe reduction in the top 1% income share. During the 1980s, another drop in the top marginal tax rate and and an increase in the top 1% income share once more. So, this suggests a strong direct relationship between an increase in top marginal tax rates and a decrease in the top 1% income share. 
+Immediately we can see a strong oppositional relationship, whereby a high marginal tax rate is generally correlated with a lower income share. So again, in the roaring 20s, we have a lower top marginal tax rate of about 25%, and the income share of the top 1% reaching a height of around 23%. During the depression of the 1930s and the Second World War, there was an increase in the top marginal tax rate and a severe reduction in the top 1% income share. During the 1980s, another drop in the top marginal tax rate and and an increase in the top 1% income share once more. So, this suggests a strong direct relationship between an increase in top marginal tax rates and a decrease in the top 1% income share. 
 
 The pattern is also evident if we compare different countries. The below chart shows the top tax rate and 1% share for a variety of countries in 2004-2008.
 
@@ -395,25 +395,25 @@ The pattern is also evident if we compare different countries. The below chart s
 |:--:|
 |*Figure 6.17: Top 1% share and top MTR for various countries in 2004-8*|
 
-Again the top marginal tax rate appears to have an inverse relationship with top 1% income share. Those with the lowest 1% income share are the Nordic countries, with top marginal tax rates of between 55 and 60%. The UK and US, with lower top marginal tax rates of 40% and under, are also among the highest in 1% income share. There are anomalies, however,which indicate that top marginal tax rate is not the only factor contributing to the 1% income share. Germany is a bit of an outlier, perhaps due to tax deductions.
+Again the top marginal tax rate appears to have an inverse relationship with top 1% income share. Those with the lowest 1% income share are the Nordic countries, with top marginal tax rates of between 55 and 60%. The UK and US, with lower top marginal tax rates of 40% and under, are also among the highest in 1% income share. There are anomalies, however, which indicate that top marginal tax rate is not the only factor contributing to the 1% income share. Germany is a bit of an outlier, perhaps due to tax deductions.
 
-So, we conclude by arguing that firstly, the progressivity of income tax is welcome; and that atop marginal rate of around 60% is probably necessary to keep a moderate and stable income and wealth share of the top 1%. Reforming deductions and other complexities that the rich can exploit is another possible area of focus.
+So, we conclude by arguing that firstly, the progressivity of income tax is welcome; and that a top marginal rate of around 60% is probably necessary to keep a moderate and stable income and wealth share of the top 1%. Reforming deductions and other complexities that the rich can exploit is another possible area of focus.
 
 # 7.9 Income tax: The details
 
- Income tax is the tax which most people think of first when they think about tax. As the name implies, it is a tax which people pay on their income, which can include money earned from employment and or self-employment, state benefits, some pensions, rental income, investment income, income from trusts and work benefits. Some income is exempt from tax, for example; interest on savings and tax-exempt accounts.
+Income tax is paid on income, which can include money earned from employment or self-employment, state benefits, some pensions, rental income, investment income, income from trusts, and work benefits. Some income is exempt from tax - for example interest on savings in tax-exempt accounts.
 
 ## How is it paid?
 
- There are several ways in which income tax is paid, which vary in general according to whether the taxpayer is an employee, self-employed and/or in receipt of benefits. There is generally no minimum age for paying most income taxes, therefore even children who earn have income over the tax-free threshold will be required to pay tax.
+There are several ways in which income tax is paid, which vary according to whether the taxpayer is an employee, self-employed, and/or in receipt of benefits. There is generally no minimum age for paying most income taxes - therefore even children who receive income over the tax-free threshold will be required to pay tax.
 
 **Employees**
 
-Employees in Britain have income tax taken out of their pay packet before they are paid their wages. This is called Pay As You Earn (PAYE). Employers determine the tax payable by using the employee's tax code. This is a code which HMRC gives each taxpayer for tax assessment purposes, and which delineates their income tax bracket
+Employees in Britain have income tax taken out of their pay packet before they are paid their wages. This is called Pay As You Earn (PAYE). Employers determine the tax payable by using the employee's tax code. This is a code which HMRC gives each taxpayer for tax assessment purposes, and which delineates their income tax bracket.
 
 **State benefits** 
 
-Those whose only income is state benefits may not have to pay any tax. In some cases, HMRC will require those on state benefits to submit a self-assessment tax return. This is a form (available online or in paper form)  which stipulates an individual's income and is used by HMRC to calculate tax owed. The below table shows which benefits are taxable and which are not.
+Those whose only income is state benefits may not have to pay any tax. In some cases, HMRC will require those on state benefits to submit a self-assessment tax return. This is a form (available online or in paper form)  which stipulates an individual's income and is used by HMRC to calculate tax owed. The table below shows which benefits are taxable and which are not.
 
 **Self-employed** 
 
@@ -421,7 +421,7 @@ Those who are self-employed, such those those operating as a sole trader,  will 
 
 **Foreign Income**
 
-In some cases, a person may be required to pay tax on foreign income. This is income from outside England,Scotland, Wales, Northern Ireland or other parts of the world. Whether a person is required to pay tax on foreign income will depend on whether they are considered 'resident in the UK'for tax purposes. Those who are not resident in the UK will not have to pay tax on foreign income. UK residents pay tax on such foreign income. Special rules exists for UK residents who are 'domiciled' abroad. Foreign income includes wages if a person has worked abroad, foreign investments and savings interest, rental income on overseas property and income from pensions held overseas. 
+In some cases, a person may be required to pay tax on foreign income. This is income from outside England, Scotland, Wales, or Northern Ireland. Whether a person is required to pay tax on foreign income will depend on whether they are considered 'resident in the UK' for tax purposes. Those who are not resident in the UK will not have to pay tax on foreign income. UK residents pay tax on such foreign income. Special rules exists for UK residents who are 'domiciled' abroad. Foreign income includes wages if a person has worked abroad, foreign investments and savings interest, rental income on overseas property, and income from pensions held overseas. 
 
 | Taxable  State Benefits                                      | Non-taxable  state benefits                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -447,11 +447,11 @@ In some cases, a person may be required to pay tax on foreign income. This is in
 
 ## Personal Allowance
 
-Most people will not pay tax on all of their income. Rather, there is aset amount of income which a person can keep tax free. This is known as the 'Personal Allowance'. Income above the personal allowance is taxable. As of 2017, the standard Personal Allowance is £11,500. Thus, for most people, income up to £11,500 will be tax free and income above this amount is taxable. Those whose income is greater than £100,000 will have a smaller tax free personal allowance ^[The Personal Allowance goes down by £1 for every £2 that the 'adjusted net income' is above £100,000.]. Those in receipt of Marriage Allowance or Blind Person's Allowance have a greater Personal Allowance.
+Most people will not pay tax on all of their income. Rather, there is a set amount of income which a person can keep tax-free. This is known as the 'Personal Allowance.' Income above the personal allowance is taxable. As of 2017, the standard Personal Allowance is £11,500. Thus, for most people, income up to £11,500 will be tax free, and income above this amount is taxable. Those whose income is greater than £100,000 will have a smaller tax-free personal allowance ^[The Personal Allowance goes down by £1 for every £2 that the 'adjusted net income' is above £100,000.]. Those in receipt of Marriage Allowance or Blind Person's Allowance have a greater Personal Allowance.
 
 ## Tax Bands
 
-Above the personal allowance,income is taxable. However it is not all taxable at the same flat rate. The tax rate progressively increases in 'bands' as the amount of income increases. That is why income tax is known as a'progressive' tax - the rate increases as income increases. These rates are known as 'marginal tax rates'. The below table shows the tax bands for the UK (with the exception of Scotland, which has different rates).
+Above the personal allowance,income is taxable. However it is not all taxable at the same flat rate. The tax rate progressively increases in 'bands' as the amount of income increases. That is why income tax is known as a 'progressive' tax - the rate increases as income increases. These rates are known as 'marginal tax rates.' The below table shows the tax bands for the UK (with the exception of Scotland, which has different rates).
 
 | Tax Band        | Taxable income   | Tax rate |
 | ------------------- | -------------------- | ------------ |
@@ -462,23 +462,22 @@ Above the personal allowance,income is taxable. However it is not all taxable at
 
 Income above £150,000, is taxed at the Additional Rate of 45%. 
 
-So, for example, a person who had an income of £50,000, would calculate their tax payable as As can be seen above, the personal allowance is effectively a 0% tax rate on the first £11,500. The basic rate of 20% applies on income above £11,501 and up to £45,000. Any income between  £45,001 and £150,000 is taxed at the higher rate of 40%. follows; they are entitled to the personal allowance of £11,500, leaving £38,500 of taxable income. The next £33,499 (£45,000 - £11,501) is taxable at 20%. The income above and including £45,001 is taxable at 40%. So, a calculation of tax owed would be:
+So, for example, a person who had an income of £50,000 would calculate their tax payable as follows. As can be seen above, the personal allowance is effectively a 0% tax rate on the first £11,500. The basic rate of 20% applies on income above £11,501 and up to £45,000. Any income between £45,001 and £150,000 is taxed at the higher rate of 40%.  
 
  (£33499 x 0.2) + (£4999 x 0.4) = £6699.8 + £1999.6 = £8699.4.
-
 
 
 ## Savings and Dividend Allowances and Tax Relief
 
 There are some other specific circumstances in which one might pay less income tax. 
 
-Tax relief: Tax Relief allows taxpayers to reduce the tax they pay or to get some tax repaid back. Tax relief may be available to people who pay personal pension contributions, charity donations, maintenance payments and to those working in special circumstances.. Tax relief also applies to work or business expenses. Self-employed persons may be able to claim tax relief for certain business expenses, while employees may claim tax relief for some expenses incurred for the performance of the job.
+Tax relief: Tax Relief allows taxpayers to reduce the tax they pay or to get some tax repaid. Tax relief may be available to people who pay personal pension contributions, charity donations, or maintenance payments, and to those working in special circumstances. Tax relief also applies to work or business expenses. Self-employed persons may be able to claim tax relief for certain business expenses, while employees may claim tax relief for some expenses incurred during the performance of their job.
 
-Generally, tax is payable on interest earned from savings accounts and on any dividends earned from shares owned. However, for these two sources of income, tax relief may be applicable depending on how the investments are disposed or reinvested. 
+Generally, tax is payable on interest earned from savings accounts, and on any dividends earned from shares owned. However, for these two sources of income, tax relief may be applicable, depending on how the investments are disposed or reinvested. 
 
 ## Savings interest allowance
 
-In the case of savings interest, the size of the allowance depends on how much 'other' (i.e non savings interest) income the taxpayer has. If the total amount of 'other' income is less than £16,500, then they will be eligible for a maximum savings interest allowance of £5,000. This is called the 'starting rate'. The starting rate will be reduced by £1 for every £1 of other income above the Personal Allowance. Those whose 'other' income is greater than or equal to £16,500, will not be eligible for the 'starting rate' of savings allowance.
+In the case of savings interest, the size of the allowance depends on how much 'other' (i.e non savings interest) income the taxpayer has. If the total amount of 'other' income is less than £16,500, then they will be eligible for a maximum savings interest allowance of £5,000. This is called the 'starting rate.' The starting rate will be reduced by £1 for every £1 of other income above the Personal Allowance. Those whose 'other' income is greater than or equal to £16,500 will not be eligible for the 'starting rate' of savings allowance.
 
 HMRC offer the following example of a savings allowance calculation on their website (we paraphrase for clarity) [@HMRC];
 
@@ -490,7 +489,7 @@ HMRC offer the following example of a savings allowance calculation on their web
 
 >*Therefore, as Mark's savings interest is £200, which is under his allowance, he doesn't pay tax on his savings interest"* 
 
-The starting rate is not the only way in which one can avoid paying tax on savings interest. Depending on which tax band a taxpayer's income falls in (Basic, Higher or Additional), the taxpayer may get up to £1000 savings interest tax free. The below table shows the different allowances for the respective tax bands.
+The starting rate is not the only way in which one can avoid paying tax on savings interest. Depending on which tax band a taxpayer's income falls in (Basic, Higher or Additional), the taxpayer may get up to £1000 savings interest tax-free. The below table shows the different allowances for the respective tax bands.
 
 | Income Tax band | Tax-free savings income |
 | ------------------- | --------------------------- |
@@ -498,13 +497,13 @@ The starting rate is not the only way in which one can avoid paying tax on savin
 | Higher  rate        | £500                |
 | Additional  rate    | £0                  |
 
-The savings covered by the allowance include bank and building society allowances, savings and credit union accounts, unit trusts, investment trusts and investment companies and peer to peer lending. Also, government or company bonds, life annuity payments and some life insurance contracts. Savings which are already in tax-free accounts (eg ISAs), are not included in the allowance.
+The savings covered by the allowance include bank and building society allowances, savings and credit union accounts, unit trusts, investment trusts, investment companies, and peer to peer lending. Also, government or company bonds, life annuity payments, and some life insurance contracts. Savings which are already in tax-free accounts (eg ISAs) are not included in the allowance.
 
 ## Dividends
 
 No tax is payable on the first £5,000 of dividends received in the tax year. Above this allowance, the tax payable depends upon which income tax band the taxpayer is in. The below table shows the dividend tax rate for various tax bands.
 
-This area of income tax is somewhat complex. For further information, HMRC offers a detailed factsheet 
+This area of income tax is somewhat complex. For further information, HMRC offers a detailed factsheet. 
 
 | Tax band     | Tax rate on dividends over £5000 |
 | ---------------- | ------------------------------------ |
@@ -514,7 +513,7 @@ This area of income tax is somewhat complex. For further information, HMRC offer
 
 # 7.10 National insurance explainer
 
-Originally, National Insurance (NI) did resemble an insurance program. It began in 1911, whereby employees would pay a portion of their wages into the scheme, and could claim from it if they fell ill or became unemployed. In this sense, it was very much a contribution-based system, whereby 'those who paid in, could take out'. Now, workers pay National Insurance to build up an entitlement to claim several social benefits. One's entitlement to benefits, depends on the'Class' of National Insurance one pays.
+Originally, National Insurance (NI) did resemble an insurance program. It began in 1911, whereby employees would pay a portion of their wages into the scheme, and could claim from it if they fell ill or became unemployed. In this sense, it was very much a contribution-based system, whereby 'those who paid in, could take out'. Now, workers pay National Insurance to build up an entitlement to claim several social benefits. One's entitlement to benefits depends on the 'Class' of National Insurance one pays.
 
 ## NI Classes and Contributions:
 
@@ -547,9 +546,9 @@ These are voluntary contributions which can be paid to fill or avoid gaps in a p
 
 Class 4 contributions are paid by self-employed people earning profits over £8,164 a year. For 2017-18, the rate is 9% on profits between £8,164 and £45,000, and 2% on profits over £45,000.
 
-People who are employed and self-employed will pay Class 1 contributions on their wages, and Class 2 or 4contributions on their self-employment income.
+People who are employed and self-employed will pay Class 1 contributions on their wages, and Class 2 or 4 contributions on their self-employment income.
 
- Employed people continue to pay NI until they reach State Pension age. Self-employed people who  pay Class 2 contributions, will pay until they reach State Pension age while those who pay Class 4 contributions will pay until April 6 of the year they reach State Pension age.
+Employed people continue to pay NI until they reach State Pension age. Self-employed people who pay Class 2 contributions will pay until they reach State Pension age, while those who pay Class 4 contributions will pay until April 6 of the year they reach State Pension age.
 
 ## National Insurance Benefits:
 
@@ -559,7 +558,7 @@ The table at the bottom shows which benefits are available to which NI Class pay
 
 ## National Insurance Credits for those unable to pay
 
-Those who are not paying National Insurance Contributions, for example the unemployed or ill, may receive National Insurance Credits. Those on Jobseeker's Allowance (JSA) or Employment and Support Allowance (ESA) will receive Class 1 credits automatically, while those who meet the conditions for JSA or ESA but are not receiving them, can apply for NI Credits. There are also credits available (after satisfying conditions) for those on other types of payments. This includes maternity, paternity or adoption pay, carers and foster carers, carers, those on working tax credit, those on universal credit, and some other groups.
+Those who are not paying National Insurance Contributions, for example the unemployed or ill, may receive National Insurance Credits. Those on Jobseeker's Allowance (JSA) or Employment and Support Allowance (ESA) will receive Class 1 credits automatically, while those who meet the conditions for JSA or ESA, but are not receiving them, can apply for NI Credits. There are also credits available (after satisfying conditions) for those on other types of benefit payments. This includes maternity, paternity or adoption pay, carers and foster carers, carers, those on working tax credit, those on universal credit, and some other groups.
 
 
 | Benefit                                          | Class 1:  employees | Class 2:  self-employed | Class 3:  voluntary contributions |
@@ -586,7 +585,7 @@ We've seen that growing inequality in a society can lead to negative consequence
 
 - Political problems with growing inequality -> Oligarchy. Monopoly/Oligarchy can also lead to increased rents and inefficient production of goods.
 
-We do have to balance these arguments against the idea of incentives. How does a government decide what should be taxed? Should this be income or consumption according to the above arguments? Should it be companies or individual wealth that are targeted, or rather, in what proportions? And are the Government's nudges towards 'better' choices removing the freedom of individuals to choose? Will there be fears of paternalistic government?
+We do have to balance these arguments against the idea of incentives. How does a government decide what should be taxed? Should this be income or consumption? Should it be companies or individual wealth that are targeted, or rather, in what proportions? And are the Government's nudges towards 'better' choices reducing the freedom of individuals to choose? Is paternalistic government a good thing or a bad thing?
 
 If it is the case that consumption taxes, like VAT, are regressive, then this highlights the need to evaluate the broader systemic progressivity of the entire tax system, and its net effects on different income groups. We prioritise this in our proposals section, whereby the inequality of the system is one of our key evaluatory metrics. 
 
@@ -601,22 +600,21 @@ Poorer people make most of their income through wages and hold little wealth in 
 |*Figure 6.18 -  The rich get richer through secondary wealth creation*|
 
 
-So, as their wealth increases faster than poorer people's wages grow, the gap between rich and poor will tend to increase. There is a kind of unfairness built into the system, which operates in favour of those with wealth.
+So, as revenue-generating property owners' wealth increases faster than poorer people's wages grow, the gap between rich and poor will tend to increase. There is unfairness built into the system; it works in favour of those who have already accumulated wealth, making them wealthier in a self-reinforcing spiral that requires less and less effort on the part of the wealthier the richer they get.
 
-But why? Wouldn't we expect that financial capital available to invest would be diverted into high-yield 'low hanging fruit' investments first, and that over time competition over these promising investments pushed the returns down? 
+But why? Wouldn't we expect that financial capital available to invest would be diverted into high-yield 'low hanging fruit' investments first, and that over time, competition over these promising investments pushed the returns down? 
 
-For sure, improving technology would create new investments, but even that should in the end lead to more competition and eventually reduced yields for investors? Why, then did Piketty find that the return on financial investment outstripped the growth in wages over the long term? ^[And then, if wealth is consequently better distributed, the option of more leisure time and less toil, as Keynes once hoped for]
+For sure, improving technology would offer new investment opportunities, but in principle, even that should lead to more competition and eventually reduced yields for investors. Why then did Piketty find that the return on financial investment outstripped the growth in wages over the long term? ^[And then, if wealth is consequently better distributed, the option of more leisure time and less toil, as Keynes once hoped for]
 
-To answer this question we have to distinguish between the two meanings of the word 'investment'. The first and primary meaning of 'investment' is the creation, or building, of a new physical asset. So we can talk of a manufacturing company investing in new equipment. This is investment in the *economic* sense.
+To answer this question we have to distinguish between the two meanings of the word 'investment.' The first and primary meaning of 'investment' is the creation, or construction, of a new physical asset; for example, imagine a manufacturing company investing in new equipment. This is investment in the *economic* sense.
 
-The second meaning of the word is in the *financial sense*. I invest if I buy a financial asset which I hope to give me a financial return. This is 'investment' in the financial sense.^[We can also talk of 'placing our money' somewhere, and French has a separate word for a purely financial, not real, investment - a '*placement*'] There are some financial investments that are also economic investments. Classical economists talk about factories as 'capital' goods. ^[The related distinction between capital and land (in classical economic terms) is considered in more detail at the end of part 3] Such investments are *expandable*. As new funds become available, more factories are built. An investor who builds a new factory competes with another factory down the road. The competition reduces prices and the rate of profit falls overall. Even purchasing pre-existing assets can sometimes be part of this process, if the underlying asset is expandable, and that purchase leads to some physical investment elsewhere in the system. 
+The second meaning of the word is in the *financial sense*. I invest if I buy a financial asset which I hope will give me a financial return. This is 'investment' in the financial sense.^[We can also talk of 'placing our money' somewhere, and French has a separate word for a purely financial, not real, investment - a '*placement*'] There are some financial investments that are also economic investments. Classical economists talk about factories as 'capital' goods. ^[The related distinction between capital and land (in classical economic terms) is considered in more detail at the end of part 3] Such investments are *expandable*. As new funds become available, more factories are built. An investor who builds a new factory competes with another factory down the road. The competition reduces prices and the rate of profit falls overall. Even purchasing pre-existing assets can sometimes be part of this process, if the underlying asset is expandable, and that purchase leads to some physical investment elsewhere in the system. 
 
-But there are some financial investments that are not economic investments. We talk of these as 'pseudo-investments'. The critical thing about these pseudo-investments is that they are not expandable: they are fixed. *Their return is not competed away* when funds are plentiful. Rather the price of the assets goes up. A typical example is land. The amount of land in central London is fixed. It cannot expand.Another example would be shares in monopolies, or even other companies existing outside the perfect competition beloved of economists.
+But there are some financial investments that are not economic investments. We describe these as 'pseudo-investments.' The critical thing about these pseudo-investments is that they are not expandable: they are fixed. *Their return is not competed away* when funds are plentiful. Rather, the price of these assets goes up. A typical example is land. The amount of land in central London is fixed. It cannot expand. Another example would be shares in monopolies, or even other companies existing outside the perfect competition beloved of economists.
 
-So what does this mean for the inequality of wealth? Well if wealth is primarily composed of 'expandable' forms like factories, then greater availability of investible funds will lead to better growth. That growth will compete away the returns of investors as the profit rate falls. If however, wealth is composed primarily of non-expandable forms like land and companies in monopoly positions, then as individuals save and demand assets, these assets will just go up in price, making the richer even richer.
+So what does this mean for the inequality of wealth? Well, if wealth is primarily composed of 'expandable' forms like factories, then greater availability of investible funds will lead to better growth. That growth will compete away the returns of investors as the profit rate falls. If however wealth is composed primarily of non-expandable forms like land and companies in monopoly positions, then as individuals save and demand assets, these assets will just go up in price, making the richer even richer.
 
-
-These methods of the rich getting richer are not only unfair, as the monopolist or landowner need not work for the increases in wealth, but  are also economically inefficient as the monopolist overcharges and also pulls scarce investment funds away from productive investments.
+These methods of the rich getting richer are not only unfair, as the monopolist or landowner need not work for the increases in wealth. They are also economically inefficient, as the monopolist overcharges and also pulls scarce investment funds away from productive investments.
 
 The MIT PhD student Matthew Rognlie noted that Piketty's conclusion depends on housing being included in what Piketty calls 'capital' (wealth) [@Matthews]. Without housing, the return on wealth ownership no longer outstrips the growth in the economy. The share of GDP going to capital when housing is excluded is even falling slightly. 
 
@@ -624,25 +622,25 @@ The MIT PhD student Matthew Rognlie noted that Piketty's conclusion depends on h
 |:--:|
 |*Figure 6.19 -  Capital income displacing labour income*|
 
-This is consistent with our argument, if housing is closer in nature to land (i.e. non-expandable, local monopoly) than capital. To properly test the hypothesis, we'd need to disaggregate the land element from housing (relatively straightforward) and the monopoly element from companies (much less straightforward). However, the data is at least broadly supportive of the case suggested by Piketty's economic theory.
+This is consistent with our argument, if housing is closer in nature to land (i.e. non-expandable, local monopoly) than capital. To properly test the hypothesis, we'd need to disaggregate the land element from housing (relatively straightforward) and the monopoly element from companies (much less straightforward). However, the data is at least broadly supportive of the case suggested by Piketty's economic hypothesis.
 
 # 7.13 Conclusions
 
-To summarise, economic theory tells us that there are some particular ways in which the wealthy are able to accumulate wealth which we propose to be unfair and unproductive to the economy.: Land, Monopoly, and the interplay between interest rates and asset values. 
+To summarise, economic theory tells us that there are some particular ways in which the wealthy are able to accumulate wealth which we propose to be unfair and unproductive to the economy: Land, Monopoly, and the interplay between interest rates and asset values. 
 
 **Land**
 
 Wealthy people make a large proportion of their wealth through increases in the value of land which they own. When we talk about land, we are primarily concerned with the land on which urban buildings stand. This is the part of its value associated with *location*. Land is fixed in supply, and when certain locations become more desirable (such as London), supply cannot increase to meet demand. 
 
-The result is a localised price increase and the increase in wealth of people who own land in the area in the form of land value. It is important to remember that this value was not created by the landowner, but rather by the people who made the location more desirable. These external value drivers include the government for creating transport links, schools and parks; business owners for creating jobs, cafes, shops and services; and the community, by building community-links and atmosphere. All of these creations increase the desirability of the land in a particular location. This in turn increases its value. Under the UKs current system, the landowner is able to keep this value increase.
+The result is a localised price increase and an increase in wealth of people who own land in the area. It is important to remember that this value was not created by the landowner, but rather by the people who made the location more desirable. These external value drivers include the government, by creating transport links, schools, and parks; business owners, by creating jobs, cafes, shops, and services; and the community, by building community-links and cultural ambience. All of these creations increase the desirability of the land in a particular location. This in turn increases its value. Under the UK's current system, the landowner is able to keep this value increase.
 
-We believe that this is unfair, as the community as a whole produces the wealth and we propose a Land Value Tax to address this unfairness. We go into detail about this topic in Chapter eight.
+We believe this is unfair, since the community as a whole produces the wealth, and we propose a Land Value Tax to address this unfairness. We go into detail about this topic in chapter eight.
 
 **Monopoly**
 
->*'The head of one of the largest manufacturing firms in the United States said to me recently, "It is not on our ordinary business that we make our money; it is where we can get a monopoly." And this, I think, is generally true.'* [@George]
+>*"The head of one of the largest manufacturing firms in the United States said to me recently, "It is not on our ordinary business that we make our money; it is where we can get a monopoly." And this, I think, is generally true."* [@George]
 
-A 'monopoly' is a stranglehold on a particular desired product, asset or service. As in the case of landowners, who are themselves a sort of monopolist, the monopolists get rich because of a lack of competitors in the market, which allows them to set any price. This means that their profits are far above the efficent level that would be set in a freely competitive market. Natural monopolies can exist when the economies of scale in running a particular business mean that it is more efficient to be large and carpet market share. The figure below summarises these concepts of competition and monopoly. 
+A 'monopoly' is a stranglehold on a particular desired product, asset or service. As in the case of landowners, who are themselves a sort of monopolist, monopolists get rich because of a lack of competitors in the market, which allows them to set nearly any price they like. This means that their profits are far above the efficent level that would be set in a freely competitive market. Natural monopolies can exist when the economies of scale in running a particular business mean that it is more efficient to be large, and market share is captured on a winner-takes-all basis. The figure below summarises concepts of competition and monopoly. 
 
 |![image](OtherPictures/Monopoly.png)|
 |:--:|
@@ -650,9 +648,9 @@ A 'monopoly' is a stranglehold on a particular desired product, asset or service
 
 **As Interest Rates Fall, the value of Assets appreciates**
 
-Another effect is closely related and acts to accentuate the monopoly effects. As real investments get exhausted, rates of return on real investments may fall. In addition, the central bank can cut its interest rates to stimulate the economy. This encourages people to take on loans and through high indebtedness we can get accustomed to a low interest rate situation. This relationship has important price effects on land and other monopolies.
+Another effect is closely related, and acts to accentuate monopoly effects. As real investments get exhausted, rates of return on real investments may fall. In addition, the central bank can cut its interest rates to stimulate the economy. This encourages people to take on loans, and through high indebtedness, we can get accustomed to a low interest rate situation. This relationship has important price effects on land and other monopolies.
 
-Wealthy people can see increases in their wealth when interest rates go down. The interest rate determines the ratio of the return on an asset to the capitalised value. For example, as interest rates fall people can afford to borrow more to buy a house. There will therefore be an increase in the ratio of the purchase price of the house to the rent that such a house will command. This is also true of other forms of wealth, like company shares. Of course if the interest rate goes up, then the opposite happens. Since the early 1980s, there has been a fall in interest rates to the current day historically low levels. Asset values have ticked up. 
+Wealthy people can see increases in their wealth when interest rates go down. The interest rate determines the ratio of the return on an asset to the capitalised value. For example, as interest rates fall, people can afford to borrow more to buy a house. There will therefore be an increase in the ratio of the purchase price of the house to the rent that such a house will command. This is also true of other forms of wealth, like company shares. Of course if the interest rate goes up, then the opposite happens. Since the early 1980s, there has been a fall in interest rates to the current historically low levels. Asset values have accordingly ticked up. 
 
 
 The figure below summarises how these factors can contribute to increased income inequality.
@@ -663,6 +661,6 @@ The figure below summarises how these factors can contribute to increased income
 
 **Summary**
 
-We've seen that wealth and income inequality can have deleterious social effects. We've noted the importance of income tax as a progressive tax reducing income inequality. We've also noted three methods of wealth acquisition that are both economically inefficient and unjust: land ownership, monopolies, and related unearned capital gains due to falling interest rates. In the next two chapters we will look at corporate structures; after that we will consider land; and finally environment and resource rents.
+We've seen that wealth and income inequality can have deleterious social effects. We've noted the importance of income tax as a progressive tax reducing income inequality. We've also noted three methods of wealth acquisition that are both *economically inefficient* and *unjust:* Land ownership, monopolies, and related unearned capital gains due to falling interest rates. In the next two chapters, we will look at corporate structures; after that we will consider land; and finally, environment and resource rents.
 
 ---
