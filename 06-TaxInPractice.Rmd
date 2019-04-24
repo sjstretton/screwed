@@ -44,7 +44,7 @@ The wide range of tax bases has, however, remained, making the UK tax codes one 
 
 This complexity also has consequences for HMRC itself. It is the second-largest government department in terms of staff numbers. The administrative cost of running this organisation is substantial, running at £3.3 billion in 2016-17 [@NAO2017].
 
-Part of the reason behind the complexity is the range of purposes which taxes are intended to achieve. Raising revenue for government spending is clearly the primary objective of income tax and national insurance contributions. VAT's purposes include influencing spending choices. Carbon and environmental taxes are meant to change behaviour and regulate pollution. And the levels of child tax credits, income allowance, and housing provision are examples of the goal of redistributing income in the UK.  
+Part of the reason behind the complexity is the range of purposes which taxes are intended to achieve. Raising revenue for government spending is clearly the primary objective of VAT, income tax, and national insurance contributions. Carbon and environmental taxes are meant to change behaviour and regulate pollution. And the levels of child tax credits, income allowance, and housing provision are examples of the goal of redistributing income in the UK.  
 
 As it stands, the tax system already makes a substantial contribution to these three goals. Taxes pay for the majority of government spending; taxes already redistribute income significantly; and taxes on activities that are harmful to the environment and to health have been levied to discourage those activities.
 
