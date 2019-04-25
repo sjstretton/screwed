@@ -9,9 +9,9 @@ bibliography: Library/libraryCopy.bib
 link-citations: yes
 ---
 
-# PART 12: ENVIRONMENT, HEALTH AND RESOURCES
+# PART 12: ENVIRONMENT, HEALTH, AND RESOURCEs
 
-## Summary
+# 12.1 Introduction
 
 > *'Future generations are unlikely to condone our lack of prudent concern for the integrity of the natural world that supports all life'*  [@Carson1962]
 
@@ -19,41 +19,118 @@ link-citations: yes
 >
 > `r tufte::quote_footer('---  H.R.H. Prince Carlos de Bourbon de Parme (2014)')`
 
-`r tufte::newthought('The earth is facing')` a great number of environmental problems; many of which are caused or contributed to by human economic activity. Everything - from the lakes we drink from, the air we breathe, and the food we eat - is being impacted by irresponsible human action. 
+`r tufte::newthought('The Earth is facing')` a great number of environmental problems; many of which are caused or contributed to by human economic activity. Everything - from the lakes we drink from, the air we breathe, and the food we eat - is being impacted by irresponsible human action.
+
+This chapter is devoted to reducing the harm caused to the environment and human health by economic activity such as burning fossil fuels or excessive production and consumption of red meat. We also investigate the distributional effects of resource extraction and consumption, in particular the financial surplus that accrue to whoever controls the land on which they are extracted from.
 
 |![image](OtherPictures/EnvironmentalIssues.png)|
 |:--:|
 |*Figure 12.1 Key Environmental Issues*|
 
-This economic activity often causes damage which is not accounted for by the polluting parties themselves, but rather borne by those who have done little to cause them. Manufacturing businesses in China pumping out CO~2~ into the atmosphere have little or no obligation to pay for the damage that climate change causes in communities and countries across the world.  Resulting  Damage costs often can be ignored because they affect third parties and may be difficult to quantify, and difficult to locate the direct source for.   These costs are known as 'negative externalities'
+Economic activity often causes damage which is not accounted for by the polluting parties themselves, but rather borne by those who have done little to cause them. Manufacturing businesses pumping out CO~2~ into the atmosphere have little or no obligation to pay for the damage that climate change causes in communities and countries across the world. Resulting 'damage costs' often can be ignored because they affect third parties and may be difficult to quantify, and difficult to locate the direct source for.  These costs are known as 'negative externalities'
 
-Negative externalities can be accounted for (or 'internalised') if an economic actor has to pay for the cost of the damage via a tax.  This is known as a Pigouvian tax (after Arthur Pigou), and are thought to disincentivise the damage-causing economic activity. The idea is that people will be motivated to find less damaging alternatives to the polluting economic activities when these damage costs fall on them. They act not altruistically, but to reduce their tax bill [@Pigou1932].
+Negative externalities can be accounted for (or 'internalised') if an economic actor has to pay for the cost of the damage via a tax. This is known as a Pigouvian tax (after Arthur Cecil Pigou, a British economist), and are thought to disincentivise the damage-causing economic activity. Companies and individuals will be motivated to find less damaging alternatives to the polluting economic activities when these damage costs fall on them. They act not altruistically, but to reduce their tax bill [@Pigou1932].
 
-There are some difficulties with applying Pigouvian taxes.  Pigouvian taxes can be difficult to quantify, costly to apply, and they may fall harder on those with lower incomes.  However, we may be able to use Pigouvian taxes to reduce other taxes, i.e. a 'Green Tax Shift'.  This could be particularly beneficial if they replace taxes on productive activities (a double-dividend).
+There are some difficulties with applying taxes on resource consumption and environmental or health bads. Such taxes can be difficult to quantify, costly to apply, sometimes unpopular, and they may fall harder on those with lower incomes. In particular the 'incentive' effect of a green tax may need to be substantial in order to have the desired effect; but high externality taxes can often be unpopular. Thus in using the revenues from environmental taxes we can focus on the possible economic co-benefits of them on one hand, or we can focus on political resistance to them.
 
-# 12.1 Taxing Bads
+If we are focussed on the economic, we may be able to use Pigouvian taxes to reduce other taxes, i.e. a 'Green Tax Shift'. This could be particularly beneficial if they replace taxes on productive activities (a double-dividend). 
 
-The world faces a range of environmental problems which seem to be steadily getting worse. Ocean acidification, It is evident that these are mostly caused or worsened by human activity ^[Insert reference about human activity causing climate change]. We humans have developed bad habits that we cannot seem to break, often because there is no economic incentive to change. Why do we allow such tremendous environmental destruction to result from our economic activity, and why should we care? How could the tax system alter the balance of incentives?
+^^
 
-Many of these environmental problems are caused by economic activity ^[actions involving the production, distribution and consumption of goods and services]. We are familiar with the example of effluent from a factory poisoning nearby waterways for the surrounding community.  This is possible because the factory doesn't have to pay for the damage they cause.  Another way of saying this is that the factory operators don't have to account for the full cost of their activities. 
+On the other hand, if we are focused on environmental issues and political acceptability, we may refrain from raising net funds from the tax shift. Instead we may wish to give the money back to the population. We discuss two possible strategies here, an output subsidy on goods produced (especially electricity), and a payment to everyone in society (a citizen's dividend)
 
-If I chop down a forest to sell the timber, the price at which I sell it will account for my expenses incurred in chopping down the trees, the cost of my labour, and any permits required.  The price will *not* have accounted for the cost of destroying the ecological goods and services^[Ecological goods and services (EG&S) are the benefits arising from the ecological functions of ecosystems. Such benefits accrue to all living organisms, including animals and plants, rather than to humans alone.] [@LandStewardshipCentreofCanada2018] that the trees were providing to their local environment. 
+In relation to natural resources there is a second important concept -- Resource Rent. We have been familiar with the notion of rent from our chapter on land.^[Land rent is the payment made to the landowner by the occupier of the land, whether land has buildings on it or not. It is the private value associated with ownership of the land, net of any costs associated with making use of the land. So the land rent of a landowner's field is roughly the value of the land (strictly speaking, the unimproved land) if he were to rent the land out on the open market. This rental value is clearly closely associated with the surplus that the land can producte - value of the foodstuffs that he produces, net the costs of his time and other expenditures needed to get those resources to market. Resource rent is similar but is calculated per unit of a commodity.]
+
+Resource rent the excess of the sale price of the resource over the cost of production. And, just like land rent, it is associated with control of the rights to extract the natural resource from a piece of land. So the resource rent of oil extracted in a certain place is the sale price of the oil minus the cost of extraction.
+
+
+Thus in the economics of environment and resources we distinguish two sorts of argument. The first criticism is that the world economy is doing radically the wrong activities, because the cost on the environment is not considered. The second critique is that the purchase of resources gives large transfer payments to those who diserve them least. But the two are linked. As Al Gore once put it "We're borrowing money from China to buy oil from the Persian Gulf to burn it in ways that destroy the planet. Every bit of that's got to change."
+
+We will deal with resource rents: ie the distributional consequences of the production side of resources in the next section, and then devote the rest of the chapter to negative externalities and other bads from the perpective of consumption..
+
+# 12.2  Resource Rents ^^
+
+Resource rents represent unearned income in the form of natural resources yet to be extracted. Resource revenues are different to general government revenues in two key ways. First, revenues are volatile because they are driven largely by volatile commodity prices, and they are, in principle, temporary. Secondly, natural resources represent the commons: all citizens have an equal claim on them, and unlike income-based government revenues, they have not been appropriated from anyone so represent 'distributions' as opposed to 'redistributions' [@Segal2012].
+
+However, a large body of work suggests that having a large resource sector has adverse affects on a country's economy, institutions and politics. These effects are collectively known as the 'resource curse [@Ploeg2011]. A key part of these arguments is that resource revenues are frequently misused, wasted, or lost to corruption [@Segal2012]. However, a statistical review found that in general resource wealth does not  cause poor institutional or political outcomes such as a tendency for authoritarianism [@Haber2011]. Resource rents also have significant potential to increase the welfare of citizens, if correctly managed.
+
+We will argue here for *competion* over the capture of resource rents. Oil producers can be taxed or nationalised, as already happens in the UK and elsewhere. Furthermore big oil producers could reduce their production in order to increase the oil price (although this might stimulate competors). This is the *producer side* capture of resource rents. 
+
+But also, through the same taxes that correct for externalities (Carbon taxes and taxes on rare metal consumption for example), *consuming countries* can also attempt to lower the global market price of resources such as fossil fuels, and therefore their bil resource rentsl. Here, therefore we recommend coordinated taxes on externalities and resource rents not only to reduce transfer payments from resource consuming to resource producing countries. 
+
+Potential competion between consumer and producer countries to capture resource rents could be benefitial to the environment too. We are used to rent seeking being negative This 'rent seeking' game, could reduce the overall amount of resources extracted.
+
+
+## Producer Country Capture of Resource Rents
+The notion of 'resource nationalism', in the sense that resources belong to the country in which they are located and should be used for that country's benefit, is a principle codified in numerous international treaties on human rights. This is actually a relatively recent development. Paul Segal of King's College London explains this historic shift [@Segal2012]:
+
+> *'The twentieth century saw a dramatic reorientation of resource ownership rights. First the principle that subsoil resources are owned by governments as opposed to private landowners was settled in almost all countries (private land in the US being the only major exception), with private agents gaining access to them through regulated contracts...*
+>
+> *...More dramatically, decolonisation led to an assertion of the rights of developing country governments and a massive swing in bargaining power in their favour, away from the international mining companies and their rich-country owners that had dominated the industry. The development of national oil and mining companies was part of this trend.'* 
+
+In some parts of the world, resource rents have been used to create schemes known as 'severance tax trust funds', which have specific remits to invest in projects for various kinds of public benefit. The Alaska Permanent Fund, created in 1976, is perhaps the best-known example. The fund pays a per-capita dividend to citizens, based on the principle of common ownership. Severance tax trust funds are also in place in Montana, New Mexico, Utah, North Dakota and Wyoming.
+
+Philosopher Thomas Pogge has advanced an alternative vision for resource rents that is based not on resource nationalism, but resource globalism. Pogge presented his idea of a 'global resources dividend' as a means of tackling global poverty [@Pogge1998]. However, such a system would require significant international coordination, and critics have suggested the distributive effects could anyway harm poor nations that are not resource-rich [@Hayward2005].  We propose that UK producer resource rents could help contribute to a national citizen's dividend.
+
+
+## Consumer Country Capture of Resource Rents
+
+This use of resource consuimption taxes to *reduce* resource rents is an additional justification for taxes on fossil fuels and other externalities. Indeed, we argue, the optimal coordinated tax would include the optimal capture of rent as well as the global extenalities. 
+
+Firstly, just like the landlord in our desert island story, resource rent is a surplus without any associated obligation. It's associated with the violence of whichever group has seized effective control of the rents in the first place, or has bought such control with funds found from other sources. Perhaps because decause resource rent is associated with violence and control more than any specific competence, it seems that resource rents are often associated with authoritarian regimes (e.g. Saudi Arabia) or with states with a large degree of conflict (e.g. DR Congo). 
+
+Thus whilst the battle for resource rents between consuming countries (who want to reduce the price of fossil fuels and other resources) and producting countries (who want to increase the market price of fossil fuels) seems like a zero sum game, in fact the payments often make violence, terrorism or inequality worse - they are a lose-lose proposition for the people of both countries. What's more they do not encourgage developing countries to move up the value chain.
+
+Second, increased resource rent is associated with transfers between countries. But if the resource rent goes up, just like if your landlord puts up the rent, there is no extra value for the extra money. In other words, the price of fossil fuels is a monopoly price not a cost of production. These transfer payments from resource importers to resource exporters can have some serious consequences. 
+
+Consider the 1970s oil shocks, where after both shocks, oil importers suddenly paid oil exporters roughly four times more for a barrel of oil, could actually be compared to the reparations extracted by 1920s Germany. Both involved payments of hard currency (gold, or dollars) for no additional value in the other direction. It's no surprise that these payments (for much more expensive oil and for war reparations) caused a combination of low growth and high inflation. 
+
+What is the consequence of this? There is a collective interest in resource consuming countries reducing their consumption, to reduce the payments. In other words, it's possible that reducing the demand for fossil fuels could reduce their open market price and thus improve the economic well being of consuming countries.
+
+Third, policies to reduce climate change often are associated only on the demand side. The implicit assumption is often that oil and other fossil fuels are priced according to the cost of production. Of course there is a margin of production, but there is also monopoly-control (OPEC), and 'easy oil areas'. What is the implication for cimate change policy? Well to tackle climate change we really need to leave fossil fuel in the ground. That means *increasing* the post tax price to reduce demand, but also *reducing* the pre-tax open market price of fossil fuels. In that way, only the easiest to extract fossil fuels will be so extracted.
+
+This viewpoint also shows how challenging tackling climate change is. If action reduces the price of fossil fuels, this price fall may also increase demand in other parts of the world. This 'rebound effect' cautions against the idea that the global emissions reduction associated with a national emissions reduction is the same as the original national emissions reduction. Thus coordinated action is essential.
+
+## The Case for Coordinated Resource Rent Taxes
+
+Here we discuss coodrdination of countries to reduce the pre-tax price of fossil fuels. It may seem perverse but to prevent fossil fuels being extracted, their pretax price should fall below the cost of production. This means that the'resource rent' would be reduced to zero. 
+
+An internationally-coordinated tax on the consumption of resources (e.g. oil and other fossil fuels, but also other scarce metals) is therefore something of a 'super-land value tax'. It's as efficient as a land value tax, but more so because it prevents the flow of resource rents out of the country. It is the opposite of the 'oil price shock' of the 1970s. It could be used to subsidise efficient urban transportation, which is also likely to have positive co-benefits. 
+
+^[Snippet to be delted: Unlike in countries without resources where the incentives are to work hard and produce valuable products, in resource-rich countries, the incentives are to be powerful enough to control the resources. This is called the resource curse and we can see that those regions which contain great oil reserves also contain repressive regimes and political instability.Furthermore, high resource rents  involve a transfer of money from consuming to producing countries which is against the interest of the consuming countries. Therefore, it would be in consumers' interests to reduce the rent by limiting consumption of oil through taxes and other measures. 
+
+Resource rent taxes can be charged both by consumers and by producers. In that way there is competition between the two. There is already a tax on profits from extraction of north sea oil and an aggregates levy. These should be retained.
+
+There could also be a rents tax on oil imposed by coordinated internationally between oil-consuming countries. We propose an internationally-coordinated tax on oil consumption. This should be increased to reduce the open-market price of oil. Such a tax is essential to reduce new exploration and the environmental damage it may cause. It would also reduce trade deficits. Taxes on extraction of oil should be retained. In principle they should include extraction of any other high-rent natural resources, although oil appears to be the only relevant natural resource in the case of the UK. Such taxes should be coordinated between oil-consuming countries. Also, tackling climate change requires that fossil fuels are no longer extracted. In order for this to happen, the value of those fossil fuels on the open market needs to be low or zero. In other words, the rent needs to be captured by taxes in the consuming countries. A resource rent tax is, in effect, a land value tax on resource rents which would otherwise be captured overseas.  ]
+
+## Towards a Total Fossil Phase Out
+
+Whilst we are on the topic of the production side of fossil fuels, it might be worth making a comment that may seem out of place as we have not yet discussed climate change or carbon taxes in detail. There may also be a case for setting a total fossil fuel phase out date, as a sort of forward-looking regulation. In this case, it would be an expected norm of behaviour that no fossil fuels are extracted from the ground after that date. Now clearly it's going to be hard for the whole world to agree on this norm. So it's therefore a question of how such a norm could be defined and then gradually extended. The financial system may provide a pressure point. Certain investments can be classified as 2C compliant, or only consistent with a higher temperature target. Such a process of classification can then lead to financial disenefits of those financial institutions investing in anything related to new fossil fuel extraction.
+
+
+# 12.3 Taxing Bads
+
+Having dealt with resource rents, we now move on to the other main topic, negative externalities or 'bads. The world faces a range of environmental problems which seem to be steadily getting worse. Ocean acidification, climate change, fishery depletion, water resource depletion and plastics in the oceans. It is evident that these are mostly caused or worsened by human activity. We humans have developed bad habits that we cannot seem to break, often because there is no economic incentive to change. Why do we allow such tremendous environmental destruction to result from our economic activity, and why should we care? How could the tax system alter the balance of incentives?
+
+Many of these environmental problems are caused by economic activity ^[actions involving the production, distribution and consumption of goods and services]. We are familiar with the example of effluent from a factory poisoning nearby waterways for the surrounding community. This is possible because the factory doesn't have to pay for the damage they cause. Another way of saying this is that the factory operators don't have to account for the full cost of their activities. 
+
+If I chop down a forest to sell the timber, the price at which I sell it will account for my expenses incurred in chopping down the trees, the cost of my labour, and any permits required. The price will *not* have accounted for the cost of destroying the ecological goods and services^[Ecological goods and services (EG&S) are the benefits arising from the ecological functions of ecosystems. Such benefits accrue to all living organisms, including animals and plants, rather than to humans alone.] [@LandStewardshipCentreofCanada2018] that the trees were providing to their local environment. 
 
 The trees may have been slowing the rate of water run off and preserving soil structure. Now they are gone, the soil will be eroded faster  and the fertility of the land will be reduced. Further downstream, the flood-risk is increased and the productivity of irrigation infrastructure and a hydroelectric power project are reduced. These trees are no longer absorbing carbon dioxide from the air and storing the carbon in their biomass. If any of the timber is used as fuel, the stored carbon will be returned to the atmosphere in the form of Carbon Dioxide, so I have increased the atmospheric concentration of a greenhouse gas that contributes to climate change. 
 
 Yet I have had to pay for none of the costs incurred by these damages. I do not pay to stabilise the soil, or for flood damages to the local village, or for the reduced productivity of farmland in the area. I simply did not have to consider these costs when I was judging whether it made economic sense for me to cut down the trees. 
 
-There are a number of underlying reasons why environmental and social damages occur. Rational Choice Theory contends that it is because economic agents ^[individuals and institutions that engage in economic activity] tend only to consider costs to themselves.  Most, if not all, such damages tend to be incurred upon third parties and so the party causing the damage does not consider them.  This was the case in my (hypothetical) example in which I cut down the forest.  The damage I caused was suffered directly by others, so I didn't consider it.  
+There are a number of underlying reasons why environmental and social damages occur. Rational Choice Theory contends that it is because economic agents ^[individuals and institutions that engage in economic activity] tend only to consider costs to themselves. Most, if not all, such damages tend to be incurred upon third parties and so the party causing the damage does not consider them. This was the case in my (hypothetical) example in which I cut down the forest. The damage I caused was suffered directly by others, so I didn't consider it. 
 
 It is also the case that many damages do not immediately manifest or else are not plainly visible and so do not contribute to the knowledge that informs economic value. However, William Forster Lloyd's famous theory of the 'tragedy of the commons' [@Lloyd1833] suggests that even when resource users know that their activities will contribute to collective exploitation and are thus not in the common good, many independent individual actors will continue to pursue their own self-interest. 
 
-The cost of raising and harvesting my trees, as well as the costs paid by the distributors and consumers of the timber, are examples of 'private costs'. They are costs incurred by participants of economic activity. We define the full cost of an activity, including damages caused, as the 'social cost' or 'damage cost'.  In the example above, the social cost is the cost to the soil, the atmosphere, the fisheries, the irrigation infrastructure, the hydroelectric project, flood security and other attendant costs. 
+The cost of raising and harvesting my trees, as well as the costs paid by the distributors and consumers of the timber, are examples of 'private costs'. They are costs incurred by participants of economic activity. We define the full cost of an activity, including damages caused, as the 'social cost' or 'damage cost'. In the example above, the social cost is the cost to the soil, the atmosphere, the fisheries, the irrigation infrastructure, the hydroelectric project, flood security and other attendant costs. 
 
 The difference between the two private costs and the social cost ' the costs that are left out of free market prices ' are called 'negative externalities'. 'Positive externalities' also exist where environmental or social benefit is provided by activities but not accounted for in prices. The benefit that a landowner gets from developments in nearby infrastructure, public services or the general economy, is an example of a positive externality ^['Positive externalities' also exist where environmental or social benefit is provided by activities but not accounted for in prices. The benefit that a landowner gets from developments in nearby infrastructure, public services or the general economy, is an example of a positive externality *received* by a private agent. Private agents can also *produce* positive externalities. An example of this might be a beautiful building or a cafe with charm and character. 
 
 This concept was first put forward by a British economist, Arthur Cecil Pigou. In theory this makes for a very elegant and efficient solution to the puzzle. In practice there is a little more complexity involved, but, even so, Pigou certainly led us in the right direction towards recognising and rectifying damages to the environment and society caused by economic activity.
 
-Pigou realised the tremendous implications of this discrepancy in prices. All kinds of activities that appear at first to be profitable might not really be profitable at all, once the full costs are included. We are allowing private profit literally at the expense of others who are damaged by such activity. This, he thought, is simply unacceptable. Pigou then devised a relatively simple solution.  All we have to do is calculate the value of the 'negative externality' and levy a tax of that amount so that the private cost is equivalent to the social cost. This is known as a Pigovian tax [@Pigou1932].
+Pigou realised the tremendous implications of this discrepancy in prices. All kinds of activities that appear at first to be profitable might not really be profitable at all, once the full costs are included. We are allowing private profit literally at the expense of others who are damaged by such activity. This, he thought, is simply unacceptable. Pigou then devised a relatively simple solution. All we have to do is calculate the value of the 'negative externality' and levy a tax of that amount so that the private cost is equivalent to the social cost. This is known as a Pigovian tax [@Pigou1932].
 
 |![image](ChapterPictures/9-1-PigovianTax.png)|
 |:--:|
@@ -61,7 +138,7 @@ Pigou realised the tremendous implications of this discrepancy in prices. All ki
 
 In theory, this makes for a very elegant and efficient solution to the puzzle. In practice,there is a little more complexity involved, but even so, Pigou certainly led us in the right direction towards recognising and rectifying damages to the environment and society caused by economic activity. 
 
-# 12.2 Policy Options for Tackling Social and Environmental Damages
+# 12.4 Policy Options for Tackling Social and Environmental Damages
 
 Pigou was particularly concerned that any damages caused to the environment or to people should be paid for. If we get prices right (so that they reflect full social costs), this will in turn discourage activities that would otherwise seem profitable despite causing external damage. 
 
@@ -81,21 +158,18 @@ Sustainable development as defined by the Brundtland report is 'development that
 
 ## Policy options
 
-Pigouvian taxes are not the only weapons at our disposal to solve this problem.  There are a number of ways we could tackle negative externalities to address social and environmental damages.  
+Pigouvian taxes are not the only weapons at our disposal to solve this problem. There are a number of ways we could tackle negative externalities to address social and environmental damages. 
 
 - We could ban or regulate the activities that cause harm ('command and control');
-
 - We could directly or indirectly subsidise desirable behaviours;
-
 - We could create market-based instruments (MBIs) which placing an overall limit on the damage we will allow,  and then distribute or sell tradable rights to contribute to the acceptable damage total ('cap-and-trade');
-
 - We could levy taxes to discourage harmful activities, as Pigou suggested.
 
 ## Command-and-Control
 
 The prohibition of ozone-damaging CFCs ^[Chlorofluorocarbons ' compounds that, when released into the atmosphere, damage the ozone layer that protects humans and other organisms] against damaging Ultraviolet (UV) light) in aerosols is an example of a successful command and control policy. It was effective because it applied to a specific production input (CFCs) that directly caused environmental damage, and because alternative substances were available for substitution. This latter quality meant there was minimal disruption to existing production in terms of input cost, design and manufacturing and other changes to supply. To put this another way, producers of aerosols could easily replace CFCs with other ingredients.
 
-However this kind of solution would not work with many other kinds of environmental problems.  The combination of direct application of regulation to the damaging externality together with very contained and predictable economic effects is unusual within the scope of environmental externalities.  While 'command-and-control' solutions may appear to be the simplest and most direct ways to prevent or restrict damaging activities, the economic impacts tend to be complex and difficult to predict and measure in advance. In some cases, restricting one activity or product may simply cause it to be replaced with another that is equally or even more damaging, meaning net social costs are actually increased. In addition, regulatory mechanisms tend to be expensive to administer, meet high resistance from vested interests, and can be difficult to enforce. Stephen Shavell of Harvard University [@Shavell2011] presents a damning summation:
+However this kind of solution would not work with many other kinds of environmental problems. The combination of direct application of regulation to the damaging externality together with very contained and predictable economic effects is unusual within the scope of environmental externalities. While 'command-and-control' solutions may appear to be the simplest and most direct ways to prevent or restrict damaging activities, the economic impacts tend to be complex and difficult to predict and measure in advance. In some cases, restricting one activity or product may simply cause it to be replaced with another that is equally or even more damaging, meaning net social costs are actually increased. In addition, regulatory mechanisms tend to be expensive to administer, meet high resistance from vested interests, and can be difficult to enforce. Stephen Shavell of Harvard University [@Shavell2011] presents a damning summation:
 
 > *Conventional regulatory policies, which have not accounted for economic responses, have been excessively costly, ineffective, or even counterproductive... the 'tragedy of the commons' might be better described as the 'failure of commons regulation.* 
 
@@ -115,7 +189,7 @@ Our proposals operate in accordance with the 'polluter pays' principle. It is a 
 
 There still remains an alternative to taxation not yet considered: the emissions trading scheme or 'cap and trade' system. We consider this in the context of greenhouse gases. The current EU Emissions Trading Scheme (ETS) is an example of a 'cap-and-trade' system. It *caps* the total volume of greenhouse gas (GHG) emissions from installations and aircraft operators responsible for around half of EU GHG emissions. It then allows *trading* by affected firms of emission allowances so that the property rights to the collective total emissions are assigned to their most economically efficient use (i.e. the highest bidder). The aim is that collective total emissions remain within the cap, and the system acts as a least-cost mechanism to reduce emissions. If an emitting company undertakes measures to reduce their emissions to a level below their assigned portion of the amount permitted by the overall cap, they may sell the excess allowance to other firms. In this way, the market finds an appropriate 'damage cost' for these emissions, and incentivises technological advancement to find less polluting alternatives to current business practices that are affected by the scheme.
 
-In theory this system works by assigning property rights to the ability to 'emit', and allows free trade amongst market participants to ensure these property rights are allocated in the most efficient way along the pareto frontier i.e. where no party can have a utility increase without decreasing the utility of another party. Simply put, people and firms that have the greatest need or desire to emit purchase the greatest number of permits from other economic actors who can reduce emissions or find less polluting alternative business practices.  In this simple model, free exchange leads to a 'pareto optimal division of goods' [@Allcott2018]. In reality however, the initial allocation of these property rights can often mean that although the outcome is economically efficient, it is distributionally unfair. 
+In theory this system works by assigning property rights to the ability to 'emit', and allows free trade amongst market participants to ensure these property rights are allocated in the most efficient way along the pareto frontier i.e. where no party can have a utility increase without decreasing the utility of another party. Simply put, people and firms that have the greatest need or desire to emit purchase the greatest number of permits from other economic actors who can reduce emissions or find less polluting alternative business practices. In this simple model, free exchange leads to a 'pareto optimal division of goods' [@Allcott2018]. In reality however, the initial allocation of these property rights can often mean that although the outcome is economically efficient, it is distributionally unfair. 
 
 The effect is to reduce the production-damage to companies that find it more costly to reduce emissions and to incentivise firms with a lower marginal cost associated with emissions-reduction to decrease their emissions more than it is required of them to do so. 
 
@@ -129,11 +203,13 @@ Well-transitioned environmental taxes can achieve a system that is fair to indus
 
 We will explore this policy option in more detail in the section below as, for reasons of efficiency, ease of application, and incentivising potential technological developments, our proposals predominately focus on environmental taxes.
 
+## A Proposed Approach TO Reducing Bads
 
 
-# 12.3 Taxing Negative Externalities 
 
-As mentioned earlier, the concept of externalities was developed by British economist Arthur Pigou, after whom the term 'Pigouvian taxes' was named.  In simple terms, Pigou argued that the tax per unit of the pollution should equal the damage cost of that unit of pollution (assuming such a thing could be measured). Since the damage cost of a unit of pollution might vary in the quantity of pollution, we should clarify that this rate should normally be measured at the optimal quantity of pollution (that optimum being when overall benefits-costs are maximised). Once that tax had been imposed, the best allocation of resources in an economy could then be provided by the free market [@Pigou1932].
+# 12.5 Taxing Negative Externalities 
+
+As mentioned earlier, the concept of externalities was developed by British economist Arthur Pigou, after whom the term 'Pigouvian taxes' was named. In simple terms, Pigou argued that the tax per unit of the pollution should equal the damage cost of that unit of pollution (assuming such a thing could be measured). Since the damage cost of a unit of pollution might vary in the quantity of pollution, we should clarify that this rate should normally be measured at the optimal quantity of pollution (that optimum being when overall benefits-costs are maximised). Once that tax had been imposed, the best allocation of resources in an economy could then be provided by the free market [@Pigou1932].
 
 A 'marginal' cost is the cost increase in producing one additional unit of a product, i.e. in increasing the margin of production by one increment. A marginal damage cost is therefore the cost associated with the damage of producing one additional unit of the externality-causing product. For example, in the case of carbon dioxide (CO~2~) the marginal damage is the present value of future (worldwide) damages from an extra ton of emissions, accounting for the gradual uptake of CO~2~ from the oceans and delayed adjustment of temperatures to higher concentrations [@Parry2012]. These taxes are theoretically efficient solutions to environmental and social problems because they manipulate price mechanisms in order to modify activities, encouraging more efficient damage-reduction at a lower administrative cost.
 
@@ -147,45 +223,40 @@ According to the IMF therefore, the measure of damage doesn't have to be exact f
 
 ## Four Types of Environmental Taxes
 
-In the UK, environmental taxes raised £48.0 billion in revenue in 2017, which as a percentage of GDP has remained fairly stable since the 1990s - sitting at around 2.2% to 2.8% of national GDP.  40% of these taxes fall on households, rather than companies, with 66% of household expenditure on environmental taxes relating to energy taxes and fuel duty. As for the corporations and services to which these taxes apply, those with high energy usage and transport fuel needs faced the next biggest tax burden. Such data indicates that clever and appropriate targeting of tax bases, alongside appropriate use of revenue to mitigate the regressive impacts of such taxes, is needed to ensure that these are sustainable. 
+In the UK, environmental taxes raised £48.0 billion in revenue in 2017, which as a percentage of GDP has remained fairly stable since the 1990s - sitting at around 2.2% to 2.8% of national GDP. 40% of these taxes fall on households, rather than companies, with 66% of household expenditure on environmental taxes relating to energy taxes and fuel duty. As for the corporations and services to which these taxes apply, those with high energy usage and transport fuel needs faced the next biggest tax burden. Such data indicates that clever and appropriate targeting of tax bases, alongside appropriate use of revenue to mitigate the regressive impacts of such taxes, is needed to ensure that these are sustainable. 
 
-
-
-![Environmental Tax Revenue, ONS 2018](C:\Users\Heather Mckay\Documents\GitHub\TaxHeaven\taxheaven\ChapterPictures\11-EnvironmentalTaxRevenue.PNG)
+![Environmental Tax Revenue, ONS 2018](ChapterPictures/11-EnvironmentalTaxRevenue.PNG)
 
 However, taxes on fossil fuels and carbon content remain a significant proportion of these environmental taxes. OF the £48.0 billion raised, around 3/4 of this was sourced from energy taxes. Such taxes are defined as encompassing taxes on the production and use of energy products like petrol, gas and diesel. The largest single element of the revenue raised was from fuel duty, which applies to fossil fuels such as petrol and diesel. These taxes raised 57% of the total revenue from environmental taxes in 2017. 
 
 Traditional views of environmental taxes are closely linked with climate change. Applying regulatory restrictions to air pollution and greenhouse gases have been the most prominent ways in which Pigouvian taxes have been used. However,  this perspective is highly limited, and the versatility of such policies underestimated. Despite the beneficial impacts from applying environmental taxes to carbon emissions, it must be stated that there are a myriad of other  externality targets to which taxes can, and have, be applied.
 
-  Indeed, environmental taxes can be subdivided into four categories: energy, transport, pollution and resources [@ONS2018]. Examples could include pollution and resource regulation taxes, such as the the 1996 landfill tax. Since the introduction of these taxes, the amount of biodegradable municipal waste sent to landfill in the UK has decreased by 28 million tonnes to 7.7 million tonnes in 2017. Such a reduction can not only be linked to the implementation of this landfill tax, as changing attitudes to recycling or exporting waste may have also had an impact, but it is clear to see that such taxes can have a significant impact on non-climate related pollution. Moreover, the introduction of the 5 pence bag tax in 2015 [@DEFRA2018] has seen a reduction in plastic bag use by 22% in the UK in two years. Nudge theory would suggest that by forcing people to consider and internalise the externality of taking another unnecessary bag, when on average each UK individual was estimated as having around 40 plastic bags already at home, this reduction was rapid and significant. 
+Indeed, environmental taxes can be subdivided into four categories: energy, transport, pollution and resources [@ONS2018]. Examples could include pollution and resource regulation taxes, such as the the 1996 landfill tax. Since the introduction of these taxes, the amount of biodegradable municipal waste sent to landfill in the UK has decreased by 28 million tonnes to 7.7 million tonnes in 2017. Such a reduction can not only be linked to the implementation of this landfill tax, as changing attitudes to recycling or exporting waste may have also had an impact, but it is clear to see that such taxes can have a significant impact on non-climate related pollution. Moreover, the introduction of the 5 pence bag tax in 2015 [@DEFRA2018] has seen a reduction in plastic bag use by 22% in the UK in two years. Nudge theory would suggest that by forcing people to consider and internalise the externality of taking another unnecessary bag, when on average each UK individual was estimated as having around 40 plastic bags already at home, this reduction was rapid and significant. 
 
 Such taxes could also be applied to other 'social bads'. One pertinent example for anyone living in London could be the example of congestion. The city of London has been a pioneer in this area, applying several different scales of congestion taxes to ensure that the city does not being gridlocked, or increased in its levels of dangerous air pollution. In combination with successful provision of affordable public transport, the London congestion tax - introduced in 2003 - has seen a reduction in congestion in central London by 26% in 2006 from the 2002 levels [@CentreforPublicImpact2016]. Other tangential benefits included the reduction in accidents of around 40-70% in the designated congestion zone, alongside the generation of significant public revenues. 
 
-Health taxes can also be a significant benefit from the application of environmental taxes. Taxing cigarettes for example has the dual benefit of reducing pollution, both from disposed cigarette butts and packaging as well as  air pollution from tobacco smoke and its associated health risks, as well as raising revenue for public services. These can include 'the polluter' paying for public health care, mitigating the increased risks of financial burden which their risky behaviour puts onto the state.
+
+# 12.6 Addressing Inequity
 
 It is clear then that there are a number of purposes to which environmental taxes can be applied. We focus on carbon and fuel taxes due to their double dividend of reducing the risk of climate change and ability to raise significant public revenues. However, remembering that the potential tax base of environmental taxes is broad can help us to achieve a range of social objectives. Future examples may include things like taxes on sugar, disposable plastics and other wasteful items that degrade the environment and social well-being in the UK. Consideration must be paid, however, to who faces the brunt of these efforts to improve society, and how implementation of such taxes can be designed to protect those least able to pay. 
-
-# 12.4 Addressing Inequity
 
 Pigouvian taxes have sometimes been criticised for being regressive (disproportionately affecting the less-well-off) and exacerbating social inequity. For example, a flat-rate tax in the United States on carbon might appear to be unfair because data suggests that the percentage of income going to fossil fuel consumption in the lowest decile of income is 10.1% versus 1.5% in the highest decile (Shome, 1995). This is to say that a greater proportion of poor people's income is spent on fossil fuels than that of wealthy people. However, these figures may be affected by the way income is calculated. 
 
 The effect of any specific environmental tax on lower-income households might be evaluated by considering a combination of impacts;
 
 - The direct impact when the price of the taxed good rises and affects household expenditures
-
 - The indirect impact of price increases when taxed goods are used in production of other goods
-
 - The net impact given any improvement in the environment and its effect on welfare and given behavioural changes resulting from changes in the price of the taxed good [@OECD2011]
 
 ## How should revenue be used?
 
-Another important decision affecting the overall social benefit of Pigouvian taxes concerns what should happen to the revenues that are raised. If the tax is regressive, it may be seen as appropriate to use some of the income to provide subsidies that protect low-income households from price increases. However, the effect of this equates to simply exempting some people from the tax  who nonetheless contribute to the externality.  They are not, therefore, incentivised to change their behaviour. This runs counter to the Pigouvian ideal because it reduces the overall effectiveness of the tax. The Organisation for Economic Co-Operation and Development (OECD), a major intergovernmental organisation promoting trade and economic progress, advises that:
+Another important decision affecting the overall social benefit of Pigouvian taxes concerns what should happen to the revenues that are raised. If the tax is regressive, it may be seen as appropriate to use some of the income to provide subsidies that protect low-income households from price increases. However, the effect of this equates to simply exempting some people from the tax  who nonetheless contribute to the externality. They are not, therefore, incentivised to change their behaviour. This runs counter to the Pigouvian ideal because it reduces the overall effectiveness of the tax. The Organisation for Economic Co-Operation and Development (OECD), a major intergovernmental organisation promoting trade and economic progress, advises that:
 
 > *'Attempting to address both environmental issues and distributional concerns within the tax itself risks undermining the ability of the tax to do either. For example, an exemption for low-income families from a tax on heating fuel eliminates the incentive otherwise provided to economise on fuel use and to consider alternatives...*
 >
 > *...Where there are significant negative impacts on, for example, low-income people, these usually are better addressed by other redistributive policy responses*'. 
 
-Some welfare-enhancing options could be to allocate money to public services, or invest in economic growth such that society as a whole is better-off. Alternatively, we could make the tax revenue-neutral by using the money raised to lower other kinds of taxes. This would have the potential to address equity concerns. Economists have also discussed how this kind of 'revenue-recycling' could also make the economy work better by reducing taxes that are damaging to production, thus leading to a 'double-dividend'.   
+Some welfare-enhancing options could be to allocate money to public services, or invest in economic growth such that society as a whole is better-off. Alternatively, we could make the tax revenue-neutral by using the money raised to lower other kinds of taxes. This would have the potential to address equity concerns. Economists have also discussed how this kind of 'revenue-recycling' could also make the economy work better by reducing taxes that are damaging to production, thus leading to a 'double-dividend'.  
 
 ## The 'Double Dividend'
 
@@ -201,11 +272,6 @@ One study assessed the potential for recycling revenues to reduce labour taxes i
 
 Ideally, the distorting effects of individual proposed taxes and the potential of revenue recycling need to be properly evaluated before a judgement can be made on a case-by-case basis. Doing so is complicated by the difficulty of assessing deadweight losses. 
 
-## Coordinated Resource Rent Taxes as LVT at a distance
-
-One thing that is missing from this discussion is the possibility of coordination amongst fossil fuel importing countries to reduce the pre-tax price of fossil fuels. It may seem perverse but to prevent fossil fuels being extracted, their pretax price should fall below the cost of production. This means that the'resource rent'would be reduced to zero. 
-
-An internationally-coordinated tax on resource rents (e.g. oil and other fossil fuels) is therefore something of a 'super-LVT'. It's as efficient as a land value tax, but more so because it prevents the flow of resource rents out of the country.  It is the opposite of the 'oil price shock' of the 1970s. It could be used to subsidise efficient urban transportation, which is also likely to have positive co-benefits. 
 
 ## The Perfect Market: Should We Reduce Deadweight Loss at All Costs?
 
@@ -214,17 +280,61 @@ A market with no distortion whatsoever 'a perfect market' is theoretically creat
 Perfect competition (the market optimum) also relies on perfect information (producers and consumers know prices and the benefit of ownership), there being a large number of buyers and sellers, on no firms having market power to set prices above marginal cost (whereby they could raise prices without losing as many customers to competitors as they should), and on factors of production being fully internationally mobile. It also relies on the assumption that the economic behaviour of individuals is perfectly rational, i.e. people always optimise the benefit they get from their transactions. It also assumes that people are predictable. This is a core assumption of 'rational actor theory' that lies at the heart of neoclassical economics. It is well beyond the scope of this chapter to critique this theory, but it is sufficient to make two key remarks.
 
 First, accurately assessing deadweight loss approaches impossibility when given incomplete knowledge and multiple factors influencing net distortion effects, more so when we can question whether or not some factors are even theoretically predictable. 
+
 Second, and more importantly, to place the primary impetus on reducing the absolute magnitude of deadweight losses incurred by taxation is to assume both that perfect competition creates the welfare maximum across society, and that any lessening of distortions from that ideal is necessarily desirable. If that assumption were held consistently, it would also follow that governments would levy no taxes on labour at all, or indeed on any elastic factor of production (i.e. factors for which a change in price affects the level of supply or demand). 
-In this book we argue for a shift in the overall tax-base toward things that are inelastic in both supply and demand, but not for the  shrinkage of the state because some level of redistribution is necessary to provide an acceptable standard of welfare for all. Also, if we take the example of a progressive tax that disproportionately affects the better-off and redistributes benefits to the less-well-off, the overall welfare gains to society may be increased even though the amount of economic distortion has increased.
 
-These points serve to demonstrate that the reduction of economic distortions,including the deadweight loss of taxation, is only desirable in so far as that reduction represents welfare gains to society as a whole, most notably through redistribution benefits.
+In this book we argue for a shift in the overall tax-base toward things that are inelastic in both supply and demand, but not for the shrinkage of the state -- because some level of redistribution is necessary to provide an acceptable standard of welfare for all. Also, if we take the example of a progressive tax that disproportionately affects the better-off and redistributes benefits to the less-well-off, the overall welfare gains to society may be increased even though the amount of economic distortion has increased.
+
+These points serve to demonstrate that the reduction of economic distortions, including the deadweight loss of taxation, is only desirable in so far as that reduction represents welfare gains to society as a whole, most notably through redistribution benefits.
 
 
-# 12.5 A Green Tax Shift
+# 12.7 Health and Food Taxes ^^
 
-We are proposing that a broad suite of environmental taxes should represent a 'green tax shift'in the UK tax system, whereby increased taxes on resources to internalise environmental and social damages can be accompanied by reduced taxes on labour. This notion resonates with the ideas of Dutch entrepreneur Eckart Wintzen for a 'value extracted tax', which taxes the value that a certain product or raw material extracts from the environment through human use [@VanKamp2003]. Wintzen proposed that such a tax could form the basis of a new system that promoted services above material goods. These ideas have become the basis of the Ex'Tax project, which has explored how such measures might operate across the tax system and provided a case study plan for implementing such a scheme in the Netherlands [@Groothuis2014].
+Taxes on things that are harmful to individuals who are themselves consuming the taxed entity are not the focus of this book. But they clearly exist. There are high taxes on cigarettes and alcohol. There is also a case for taxing unhealthy but cheap products such as sugar and salt in manufactured food. It should be emphasized that this is intended to 
 
-There is a potential issue with replacing labour taxes with environmental taxes in the potential that this has to undermine the stability of government revenue. If an environmental tax discourages a certain kind of behaviour, that tends to reduce returns to the treasury. If a tax rate is linked to damage costs under evolving circumstances and shifting behaviour, it is dynamic and possibly more difficult to rely on than is a levy on labour. Ex'Tax respond to this difficulty with diversity, setting out abroad range of environmental taxes that collectively help to secure stable revenues. Taxes on energy and natural resources are relatively inelastic compared to labour taxes, which means that there is room to increase the rates without causing a decrease in government income. 
+Health taxes can also be a significant benefit from the application of environmental taxes. Taxing cigarettes for example has the dual benefit of reducing pollution, both from disposed cigarette butts and packaging as well as  air pollution from tobacco smoke and its associated health risks, as well as raising revenue for public services. These can include 'the polluter' paying for public health care, mitigating the increased risks of financial burden which their risky behaviour puts onto the state.
+
+In general taxes are not the only part of the approach to reducing bads. We suggest a TEAR approach 'tearing down the old system before it reduces us all to tears'.
+
+1) **T**ax the 'Bad', this is a common and acceptable method
+
+2) Widespread **E**ducation over a protracted period of the citizens
+
+3) The citizenry reaching broad **A**greement, and finally if all else fails
+
+4) Forced **R**estrictions and quotas on the 'bad'
+
+
+
+In the following subsections we go through the main categories of health bads as they are taxed at the moment and as we propose to change the system
+
+## Alcohol and Tobacco
+
+Alcohol and tobacco taxes would be retained as today. There may be a case for harmonisation across Europe, to prevent 'booze cruises'.
+
+## Sugar and Salt Tax on Processed and Prepared Food
+
+Excess sugar intake causes multiple health problems including obesity, type-II diabetes and tooth decay. We propose a simple sugar tax on the manufacture or importation of sugar based on three categories of sugar-like compounds. 
+
+- Class A: 'sugar' (i.e., sucrose, glucose and fructose), including contents of fruit juice. 
+- Class B: synthetic and natural sweeteners with unclear health impacts.
+- Class C: 'unprocessed' sugars in raw fruit and vegetables; starch and other carbohydrates.
+- Class D: salt.
+We would take Class A would have 100% tax (ie. £0.02 or 2p per gram sugar); Class B, would be charged 50%  (ie. 1 pence per gram sugar sweetness-equivalent, but such sweeteners might be reclassified to class A or C with appropriate scientific evidence) and class C 0%. Class D be charged according to salt content.
+
+## Red Meat
+
+Red meat (e.g. beef and lamb) causes *both* health damage to those who eat excessive quantites of it and significant greenhouse emissions, in particular methane. It also involves significant land use (which could be returned to forest). A straightforward way of taxing it would be according to its estimated greenhouse gas emissions, according to the same tax rate per CO2 equivalent as is propoposed below.^[Technically, the Gloabl Warming Potential over 100 years]. The lifecycle emissions per meat type and per gram of meat would need to be approximately estimated. We are not explicitly taxing the health downsides of meat, but the greenhouse gas emissions should also have a health benefit.
+
+## Wholesome Foods
+
+A healthy diet includes plenty of fresh fruit and vegetables, pulses, nuts and other sources of vegtable protein. It's essential that everyone has access to low cost fresh wholesome foods. Therefore any additional taxes on food should be used to encourasge and ensure easy availability of healthy foods, especially in poorer areas. To eat well should be the easy default option.
+
+# 12.8 A Green Tax Shift
+
+Now we move finally on to environmental taxes. We are proposing that a broad suite of environmental taxes should represent a 'green tax shift'in the UK tax system, whereby increased taxes on resources to internalise environmental and social damages can be accompanied by reduced taxes on labour. This notion resonates with the ideas of Dutch entrepreneur Eckart Wintzen for a 'value extracted tax', which taxes the value that a certain product or raw material extracts from the environment through human use [@VanKamp2003]. Wintzen proposed that such a tax could form the basis of a new system that promoted services above material goods. These ideas have become the basis of the Ex'Tax project, which has explored how such measures might operate across the tax system and provided a case study plan for implementing such a scheme in the Netherlands [@Groothuis2014].
+
+There is a potential issue with replacing labour taxes with environmental taxes in the potential that this has to undermine the stability of government revenue. If an environmental tax discourages a certain kind of behaviour, that tends to reduce returns to the treasury. If a tax rate is linked to damage costs under evolving circumstances and shifting behaviour, it is dynamic and possibly more difficult to rely on than is a levy on labour. Ex'Tax respond to this difficulty with diversity, setting out a broad range of environmental taxes that collectively help to secure stable revenues. Taxes on energy and natural resources are relatively inelastic compared to labour taxes, which means that there is room to increase the rates without causing a decrease in government income. 
 
 Ex'Tax also point out that the assumption that labour is a reliable and stable source of government income no longer holds as true as it once did. We live in a globalising world in which jobs move across the globe, and high rates of unemployment, ageing populations and increasing health costs all weaken the stability of traditional labour tax revenues. This reality is certainly applies to the UK [@TUC2017] where the growth of insecure employment is estimated to cost the Exchequer '£4bn a year. For the case study in the Netherlands, the group outline a $33.7b shift in the national tax base from labour to natural resources and consumption. Below is a summary of the measures they suggest: 
 
@@ -236,14 +346,39 @@ Ex'Tax also point out that the assumption that labour is a reliable and stable s
 |                                                              | Electricity tax for large-scale consumers                    |
 |                                                              | Deposit system for metals                                    |
 
-# 12.6 Focusing Tax: The Case of Vehicle Emissions
+^^^^
+Some more green taxes that could be imposed are included below. For taxes that are hard to individually apply, it may be possible to tax or rebate and increased corporate tax according to progress at reducing these impacts. Please see the Corporations chapter for more details on this.
+
+## Scarce Water
+It seems apprpriate to tax the appropriation of scarce water resources. This is particularly important in those areas short of water. 
+
+## Endangered Fish
+Some fish are endangered through overfishing. It's not enough to ensure that fish are fished from sustainable markets, they must not be close substitutes for those in unsustainable fisheries. Certain fish should be banned althogether, others could be taxed if it is practicable,
+
+## Chemical Use in Agriculture
+Pesticides have been implicated in the reduction in insect numbers over recent decades. What exactly is to blame is not completely known. Nevertheless, the overuse of pesticides is of concern.
+
+Fertilisers can cause direct greenhouse gas emissions. In addition the runoff of fertilsers and animal waste can cause problems of eutrophication in water. 
+
+Antibiotics are often used in animal husbandry. But overuse of antibiotics threatens to create a new class of antibiotic-resitant organisms.
+
+## Plastics and Packaging
+Plastics can clog rivers and the seas. There should be an approach to try to reduce packaging by a small tax not only on plastic bags but on all forms of non-degradeable packaging..
+
+## Local Pollution
+Additional local pollution can caused by fossil fuels such as coal, for example SO2, soot (including PM10s), needs to be controlled by taxes or tradable permits. A high carbon tax will pretty much eliminate coal anyway.
+
+## Risk CHARGE
+A more general problem is that risk is not taxed. I can give some examples. Imagine a small oil exploration company drills in the arctic. There's a spill which bankrupts the company. But the damages continue and the company is no longer there to pay. Of consider a bank or a nuclear power station. With the bank, and probably the nuclear plant, there is a risk that the entity will create damages that will have to be 'bailed out' by the state. (In the case of nuclear, this is likely to be much lower than the risk of climate change it mitigates, but the risk, however small, still stands). With bamnks and the financial system there is a clear sense in which during a financial criss, banks have been bailed out by the taxpayer. There is perhaps a case for assessing risks, especially those considered 'uninsurable'. If there is an insurance price available in the market, then this can give some sort of risk for the chance of the state having to step in.
+
+# 12.9 Focusing Tax: The Case of Vehicle Emissions
 
 The difficulties of assessing true damage costs have led to two common adaptations to the original Pigouvian ideal. 
 
 - The first is to use direct taxes that are aimed at meeting specific regulatory standards and priced according to abatement costs rather than set according to the full cost of the externality per-se. In theory this can provide a degree of choice to damaging agents to either pay the tax or (if it is better value) to reduce damages, or a combination of both. If the tax is set high enough, it will be an effective way to meet specific damage-reduction targets. There can be issues if the costs borne by agents are significantly unequal, which we will discuss later in the context of carbon taxes. 
-
 - The second response has been for policymakers to impose consumption taxes on goods that are implicated in environmental damages, rather than directly taxing the sources of the externalities or targets that are commensurate with the damage (where damage increases in direct proportion to the amount of activity undertaken or product used). The issues with this approach are outlined this section using the example of fuel taxes.
 
+The example of vehicle emissions highlights the importance of recognising where multiple externalities are associated with a product or activity and of assessing appropriate optimisation of tax effectiveness.
 
 Policies to reduce vehicle emissions provide a useful set of examples for us to explore the question of where best to target taxes. Vehicles arguably generate at least eight externalities. 
 
@@ -256,9 +391,21 @@ Policies to reduce vehicle emissions provide a useful set of examples for us to 
 7. Roads use high-value land that could be used for other purposes.
 8. The construction and maintenance of roads costs money that could otherwise be allocated elsewhere.
 
-Given that the first two externalities are directly proportional to the volume of fuel consumed (assuming conventional petrol or diesel fuels. Biofuels complicate the overall emissions flux). Their ideal Pigouvian solution is a fuel tax. Taxing fuel directly will discourage its use leading to efficient reduction in those damages. Given that emissions vary with fuel use (because they are also factors of engine efficiency, road surface etc.), the optimal solution here is an emissions tax,but that would be impractical given current technologies [@Anderson2011]. However, a fuel tax still has an estimated two-thirds of the benefits of an optimal tax on emissions [@Fullerton2000].
+These eight externalities, taken together, drive us towards some conclusions on vehicle taxes. 
 
-Congestion is linked to overall vehicle use but is strongly focused on busier times and locations, so a time- and place-based congestion charge, such as has been introduced in London, is the most effective practical solution. However, congestion charging would only be optimised if it accounted for all times and places that congestion occurs, imposing responsive per-mile tolls on congested roads, which may become more feasible with future monitoring technology [@Parry2012]. Injury risk is a composite of a suite of factors including overall mileage,average speed, weather conditions, prevalence of other road-users, and safe driving technique. It therefore evades an optimal tax, but is certainly correlated with overall vehicle use, so its reduction is aligned with taxes that incentivise reduced vehicle use. Infrastructure use and wear is optimally addressed with a mileage tax. The current system of road tax is unfair because it charges all road-users within the same tax-band evenly despite widely different levels of road-use. The tax-band system itself is a form of tax on fuel economy, which is intended to incentivise the use of more fuel-efficient vehicles to reduce pollution effects. This is also flawed.
+Given that the first two externalities are directly proportional to the volume of fuel consumed^[assuming conventional petrol or diesel fuels; biofuels complicate the overall emissions flux] their ideal Pigouvian solution is a fuel tax. Taxing fuel directly will discourage its use leading to efficient reduction in those damages. Given that emissions vary with fuel use (because they are also factors of engine efficiency, road surface etc.), the optimal solution here is an emissions tax,but that would be impractical given current technologies [@Anderson2011]. However, a fuel tax still has an estimated two-thirds of the benefits of an optimal tax on emissions [@Fullerton2000].
+
+Injury risk is a composite of a suite of factors including overall mileage,average speed, weather conditions, prevalence of other road-users, and safe driving technique. It therefore evades an optimal tax, but is certainly correlated with overall vehicle use, so its reduction is aligned with taxes that incentivise reduced vehicle use. Infrastructure use and wear is optimally addressed with a mileage tax. The current system of road tax is unfair because it charges all road-users within the same tax-band evenly despite widely different levels of road-use. The tax-band system itself is a form of tax on fuel economy, which is intended to incentivise the use of more fuel-efficient vehicles to reduce pollution effects. This is also flawed.
+
+
+## Fuel Taxes
+
+Burning fossil fuels causes both global and local environmental problems. In addition, burning oil products in cars causes health problems and car travel is relatively dangerous. A tax on fuel is a way of paying for those costs. 
+
+A fuel tax is a type of consumption tax, and consumption taxes can be very effective at driving consumer behaviour whilst being efficient Pigouvian taxes if a large proportion of the externalities tackled are confined within a particular sector or product class. If an externality has multiple sources ' many ways in which the same kind of damages occur across different types of activity ' such a tax will not be optimal unless it tackles all of those sources. 
+
+
+One important comparison is between fuel taxes and taxes on the cars themselves according to fuel economy.
 
 A US study of tax policy and fuel economy concluded that:
 
@@ -266,13 +413,21 @@ A US study of tax policy and fuel economy concluded that:
 >
 > *...while they do work to improve vehicle fuel economy,the same goals could be achieved at a lower cost to society if policy makers instead directly taxed fuel'* [@Anderson2011]
 
-These eight externalities, taken together, drive us towards some conclusions on vehicle taxes. We support per-mile congestion charges, once appropriate supportive technology becomes available. In the meantime they should be rolled out across cities and other major areas for congestion. We suggest that that the existing road tax with a band system based on engine capacity, plus the existing vehicle excise duty (VED) with exemptions for low-emission vehicles, are inefficient at reducing emissions and can cause rebound effects. Replacing both with a fuel tax would retain universal incentives to reduce vehicle use, (excepting electric vehicles, but they would still be equally liable to pay congestion charges) increase manufacturer incentives to improve fuel efficiency to meet consumer demand, and create a more efficient system for emissions-reduction. The example of vehicle emissions highlights the importance of recognising where multiple externalities are associated with a product or activity and of assessing appropriate optimisation of tax effectiveness.
+The existing road tax with a band system based on engine capacity, plus the existing vehicle excise duty (VED) with exemptions for low-emission vehicles, are inefficient at reducing emissions and can cause rebound effects. Replacing both with a fuel tax would retain universal incentives to reduce vehicle use, (excepting electric vehicles, but they would still be equally liable to pay congestion charges) increase manufacturer incentives to improve fuel efficiency to meet consumer demand, and create a more efficient system for emissions-reduction. But would higher fuel taxes be accepted politically? A better option might be to increase congestion charges.
 
-A fuel tax is a type of consumption tax, and consumption taxes can be very effective at driving consumer behaviour whilst being efficient Pigouvian taxes if a large proportion of the externalities tackled are confined within a particular sector or product class. If an externality has multiple sources ' many ways in which the same kind of damages occur across different types of activity ' such a tax will not be optimal unless it tackles all of those sources. 
+## Congestion Charges
 
-An important environmental purpose of a fuel tax would be to reduce pollution emissions, and a key category within those emissions are greenhouse gases. Yet in the UK, emissions from road transport represent just a quarter of overall greenhouse gas (GHG) emissions (CCC, 2016) so a fuel tax only tackles a quarter of the damaging activities responsible for GHG emissions. So should we not just add taxes on the other causes of GHG emissions?  We should certainly tax those things, but for an effective Pigouvian tax, we need to ensure that the price attributed to the externality itself (the marginal damage cost) is consistently commensurate with the marginal tax rate. In other words, the tax imposed on the other GHG sources needs to be the same, per unit of damage, as the fuel tax. What we need is a price for GHG emissions per unit and a way to apply that cost across all sources.
+Cars travelling at peak times take up limited road space and prevent other car users from reaching their destination in a timely fashion. Road fuel taxes can be seen as implicitly charging for congestion; however, they do so highly imperfectly (because congestion and its cost are concentrated very specific times and places which do not constitute a large proportion of the fuel use)and so we suggest a separate congestion charge. 
 
-# 12.7 Opportunities and Challenges of a Carbon Tax
+Congestion is linked to overall vehicle use but is strongly focused on busier times and locations, so a time- and place-based congestion charge, such as has been introduced in London, is the most effective practical solution. However, congestion charging would only be optimised if it accounted for all times and places that congestion occurs, imposing responsive per-mile tolls on congested roads, which may become more feasible with future monitoring technology [@Parry2012].
+
+We propose to adjust the existing (VED) to become a congestion charge. This would work on a tax and rebate system. Everyone would pay the charge but people would have the option to have a black box in their car which would prove through acceleration, location or time that the driver was not driving in a congested area. Every day that the vehicle was not in congestion would be refunded from the overall tax.
+
+We support per-mile congestion charges, once appropriate supportive technology becomes available. In the meantime they should be rolled out across cities and other major areas for congestion. 
+
+Since there are so many externalities associated with road vehicles, we have considered road fuels separately. Now we consider the impacts of fossil fuels producing carbon dioxide more generally.
+
+# 12.10 Tackling Climate Change: A Carbon Tax
 
 There is an overwhelming consensus in the scientific community that anthropogenic (human-created) GHG emissions are leading to increasing global average temperatures through the greenhouse-effect. Atmospheric CO~2~ is by far the largest contributor to the rapid rate of warming that must be stemmed rapidly if we are to avoid a suite of climate-related issues. 
 
@@ -286,7 +441,7 @@ Because of the sheer unpredictability of the integrated feedbacks between the ea
 
 > '*Suppose I were to tell you that some event 'it could be global warming, or it could be a falling meteor ' is going to lower permanently real GDP by 100 billion starting one century from now. How much would you pay today to avoid that future event? The answer depends on how you trade off dollars today against dollars in the future, which is measured by the discount rate. At a discount rate of 1 percent per year, you would be willing to pay 3.7 USD trillion today. At a discount rate of 5 percent per year, the answer is a mere $15 billion. Plausible changes in the rate of discount can easily change the answer by more than 100-fold. This simple numerical example goes to the heart of a difficult problem: the issue of global warming involves taking costly actions today to avoid adverse outcomes that will occur far in the future. Economists have not yet figured out the best way to calibrate that trade-off.*'[@Mankiw2009]
 
-The models that economists build to simulate the social cost of carbon (SCC) are known as 'integrated assessment models' (IAMs). They combine a climate science model, describing GHG emissions and their impact on temperature, with an economic model, which includes projections of abatement costs and a description of how changes in climate affect output,consumption, and other economic variables. Many are not convinced that these models are reliable.  In a (2013) review of IAMs to date, Robert Pindyck, MIT Professor of Economics, concluded that:
+The models that economists build to simulate the social cost of carbon (SCC) are known as 'integrated assessment models' (IAMs). They combine a climate science model, describing GHG emissions and their impact on temperature, with an economic model, which includes projections of abatement costs and a description of how changes in climate affect output,consumption, and other economic variables. Many are not convinced that these models are reliable. In a (2013) review of IAMs to date, Robert Pindyck, MIT Professor of Economics, concluded that:
 
 > *'The models are so deeply flawed as to be close to useless as tools for policy analysis.'*  [@Pindyck2013]
 
@@ -304,21 +459,52 @@ This would mean that whatever happens, the emissions target will be reached, and
 
 There is considerable future promise for establishing sequestration services which could allow us to set a carbon dioxide price that reflects the cost of negating the emissions externality, and is not simply based on guesswork regarding the damage costs. 
 
+## Other Greenhouse Gases
+
+We shoudl also consider greenhouse gases from sources other than the two mentioned so far (carbon dioxide emissions from fuel combustion and methane from red meat production). Cement production is an important example. In addition, industrial processes sometimes produce non-CO2 greenhouse gases such as SF6, N2O and HFCs. The general rule is that we need a greenhouse gas tax at a consitent rate
+
+
+
+# 12.11 The Urgency of Climate Change and the Transition ^^
+
+So how should we transition to a carbon tax? We deal with this question on early, because, as we see, the design of our carbon tax is of crucial importance to how fast we can decarbonise.
+
 For a practical transition policy, we could implement a broad-based carbon tax at a relatively moderate rate which increases with time. There are several reasons for starting with a lower rate. First, it would establish that there is a social cost of carbon, and that social cost must be internalized in the prices that consumers and firms pay [@Pindyck2013]. Second, it gives polluting firms time to adapt to abatement and develop new technologies toward that end. Third, it allows us to monitor economic impacts more gradually rather than introducing a large shock with unpredictable consequences. 
 
-However we need go one step further. A major issue with even a moderate carbon tax is that it will increase domestic electricity prices. The risk is that we'll end up paying more for our household bills until renewable low-carbon energy sources become cheaper. So called 'feed-in tariffs' have been used in the UK and other European countries to subsidise low-carbon energy sources in the short term, but these are falling out of favour because of their cost. There is potential here to kill two birds with one stone. When we introduce our carbon tax, we could also introduce an electricity subsidy. This would mean that all producers would receive a subsidy payment per unit of electricity produced. Those hit by the carbon tax, the fossil-fuel power stations, would initially have some of those costs mitigated,while low-carbon sources would receive the same subsidy for electricity without having to pay the tax. Over time this subsidy would reduce and eventually be removed, but meanwhile we will have incentivised a smooth transition to low-carbon energy without hitting household bills.  
+However, climate change is becoming increasingly urgent. Is there a more creative way that can get change more rapidly? Perhaops this needs the full force of both the public sector and the private sector.  The necessary role of the public sector (apart from taxes, which we will come back to) is huge, but not fully in the scope of this book.^[We will limit ourselves to a few remarks.
 
-The UK in fact already has a form of small carbon tax in place, called the 'carbon price floor', which was introduced in 2013, and is set as a 'top-up' tax on top of the European Union Emissions Trading System (EU ETS)  ^[(HMRC, July 2016)] [@Grover2016]. Howevrer it does not apply to all domestic imports and, in particular, it does not apply to imports. As Dieter Helm of the University of Oxford explains:
+Let's talk engineering first. The principle alternative energy sources (renewable and nuclear) produce electricity rather than other energy vectors. To meet our climate targets of limiting global temperature rises to 1.5-2C above the pre-industrial requires a *rapid* (two decade) transition to emissions-free energy *globally*. Therefore producing *enough* generation capacity quickly enough is the key challenge. Let's talk about costs
 
-> *'The UK and EU targets are all based upon production and not consumption. They therefore do not link in any clear way to the CO~2~ ppm[parts per millimetre] concentrations at the global level. Hence the abatement cost measures are not strictly carbon ones...*
+For nuclear in particular, the costs are kept down and the speed optimised when a standard design can be deployed and repeated many times. Furthermore, both nuclear and renewables need low interest rates. Government borrowing typically has such low interest rates, and so state investment or a hybrid involving low borrowing costs seems optimal.
+
+Tthe revenues of carbon taxes could be allocated to low carbon energy such as renewables or nuclear. This is closely related to what we suggest later in this section.
+] In addition to this role of the public sector we also argue full force of the private sector to be acting as quickly as is reasonably possible.
+
+How is this possible? Not with just a small and slowly rising carbon tax. For the private sector to come on board as rapidly we need very strong financial incentives.
+
+One option is subsidies rather than taxes. So called 'feed-in tariffs' have been used in the UK and other European countries to subsidise low-carbon energy sources in the short term, but these are falling out of favour because of their cost. Furthermore 'feed in tarrifs' only encourage new electricity capacity, they do nothing at all to discourage dirty generation sources. So Germany, often described as a success story due to its large proportion of renewable electricity, still burns lignite (brown coal), the dirtiest of all energy sources.
+
+But there are also problems with a large carbon tax. A major issue with even a moderate carbon tax is that it will increase electricity prices. The risk is that domstic and industrial customers will be paying increased bills until renewable low-carbon energy sources become cheaper.
+
+Don't we actually want to make electricity *cheaper*? Because the whole economy needs energy and, assuming that we build lots of renewable and nuclear capacity, we also need to transition cars, homes and industry to use electricity rather than fossil fuels directly.
+
+There is potential here to kill two birds with one stone. When we introduce our carbon tax, we could also introduce an electricity subsidy. This would mean that all producers would receive a subsidy payment per unit of electricity produced. Those hit by the carbon tax, the fossil-fuel power stations, would initially have some of those costs mitigated,while low-carbon sources would receive the same subsidy for electricity without having to pay the tax. 
+
+Thus output based subsidies, in the most important case, electricity-output subsidies give the opportunity for a big incentive for clean energy sources, without cost to the taxpayer and without raising electricity bills in the short term. So, for example, a tax of £200/tCO2 would raise the cost of gas electricity by around 8p/kWh. If that was combined with an electricity subsidy of 6p/kWh, gas electricity would be generated at a cost only 2p/kWh hjigher today. But just look at the effect on rewewables and nuclear. They would be almost free, with a subsidy of 8p/kWh covering almost their entire cost of production. And coal would be eliminated entirely, because the net tax on coal would be a crippling 18p/kWh.
+
+Output based subsidies could be used in other sectors too. Consider aluminimum. A tax on carbon inputs to aluminimum could be combined with a subsidy on alumnimum production. But don't we want to tax aluminium consumption too? Well yes, we could tax consumption as well as production, at the same rate. In this case, exports would be exempted from our carbon tax, and imports of aluminium included. What we have then is the starting point to a border tax adjustment in order to consitute a carbon tax based on economic *consumption* rather than *production*.
+
+# 12.12 Borders and Competition: Making a National-Level Carbon Tax Feasible
+
+The UK already has a form of small carbon tax in place, called the 'carbon price floor', which was introduced in 2013, and is set as a 'top-up' tax on top of the European Union Emissions Trading System (EU ETS)  ^[(HMRC, July 2016)] [@Grover2016]. However it does not apply to all domestic production and, in particular, it does not apply to imports. As Dieter Helm of the University of Oxford explains:
+
+> *'The UK and EU targets are all based upon production and not consumption. They therefore do not link in any clear way to the CO~2~ ppm [parts per million] concentrations at the global level. Hence the abatement cost measures are not strictly carbon ones...*
 >
 > *...it is possible to hit the domestic production targets whilst at the same time increasing global emissions.'* [@Helm2009]
 
 To be comprehensive and effective, then, a carbon tax must have a broad tax-base. In other words,it should apply to many things rather than just a few select areas. It also needs to actively incentivise decarbonisation. The carbon emissions implicated in producing most of the products we consume in this country occur in other jurisdictions, because those products are imported. The UK runs a trade deficit, which means we import more than we export. In 2015 we exported £284 billion and imported £411 billion of goods ^[ONS, 2016]. A carbon tax would ideally cover the emissions implicated in all of the goods we produce as well as the goods we import. These CO~2~ emissions resulting from the production, transport and use of goods are known as 'embodied emissions'.
 
-Next we ask what would happen if we started taxing embodied emissions and increased the rate of the carbon tax to better incentivise decarbonisation.
-
-# 12.8 Borders and Competition: Making a National-Level Carbon Tax Feasible
+What would happen if we started taxing embodied emissions and increased the rate of the carbon tax to better incentivise decarbonisation?
 
 If we levy a moderate carbon tax on goods and services produced in the UK as a standalone policy, it will negatively affect domestic competition in international markets. We will have incorporated the carbon externality into pricing, but other jurisdictions may not have, or may have to differing amounts, so while our price is 'right', the global market price will be lower and UK firms will struggle to compete. 
 
@@ -327,6 +513,8 @@ We could potentially avoid this issue by having a carbon tax based on consumptio
 In an ideal world this would actually be doing things the wrong way around. An 'upstream' carbon tax, at the point of extraction, refinement, or electricity production, is the most efficient tax base, because the carbon stored in fossil fuels can be precisely quantified and taxed without having to calculate embodied emissions. This would also lead to savings in administration costs of the tax. A system of rebates could incentivise the development of 'downstream' emissions capture technology [@Parry2012]. The ideal for global CO~2~ emissions reduction is to arrange a global price for carbon that is taxed upstream. International coordination toward this end should be promoted. 
 
 However, for now we need to find an approach that works on a national level. Because of the efficiency losses and generally high administrational costs of downstream tax bases relative to upstream bases, it is still desirable for us to impose a carbon tax on domestic production in high-carbon industries, rather than taxing at the point of consumption, but in order to negate the international competitive effect, we would also need a subsidy on exports, which could simply be arranged as a tax refund. Imports would need to be taxed based on embodied carbon in order to correct for the domestic carbon tax. Systems like this are known as 'border tax adjustments' (BTAs).
+
+In general we can separate two separate types of border tax adjustment. One type, similar to the approach in output based subsidies above, would provide taxes and rebates according to standardised quantities of the major carbon-intensive commodities.
 
 ## Border Tax Adjustments: Feasible and Legal?
 
@@ -342,22 +530,9 @@ A fairer alternative system to this gradual rate reduction would be to form mutu
 
 The General Agreement on Tariffs and Trade (GATT) is multilateral agreement between 128 countries (including the UK) on the terms of fair international trade, and is regulated by the World Trade Organisation (WTO). A detailed analysis by the German Federal Ministry for the Environment found that in principle BTAs seem to be acceptable under GATT, and it is permissible to impose a tariff on imports concurrent with a subsidy on exports of comparable goods and services.
 
- A central tenet of the agreements is that there is no policy discrimination for imports based on country of origin, but the authors argue that there are exceptions written into the agreement that might be feasibly invoked with the justification of protecting the environment as a global resource [@Hilbert2009].
+A central tenet of the agreements is that there is no policy discrimination for imports based on country of origin, but the authors argue that there are exceptions written into the agreement that might be feasibly invoked with the justification of protecting the environment as a global resource [@Hilbert2009].
 
-# 12.9 Resource Rents
 
-Resource rents represent unearned income in the form of natural resources yet to be extracted. Resource revenues are different to general government revenues in two key ways. First, revenues are volatile because they are driven largely by volatile commodity prices, and they are, in principle, temporary. Secondly, natural resources represent the commons: all citizens have an equal claim on them, and unlike income-based government revenues, they have not been appropriated from anyone so represent 'distributions' as opposed to 'redistributions' [@Segal2012].
+# 12.13 Conclusions to the Chapter
 
-However, a large body of work suggests that having a large resource sector has adverse affects on a country's economy, institutions and politics. These effects are collectively known as the 'resource curse [@Ploeg2011]. A key part of these arguments is that resource revenues are frequently misused, wasted, or lost to corruption [@Segal2012]. A statistical review found that in general resource wealth does not  cause poor institutional or political outcomes such as a tendency for authoritarianism [@Haber2011]^[What is being said here?]. Resource rents also have significant potential to increase the welfare of citizens, if correctly managed.
-
-The notion of 'resource nationalism', in the sense that resources belong to the country in which they are located and should be used for that country's benefit, is a principle codified in numerous international treaties on human rights. This is actually a relatively recent development. Paul Segal of King's College London explains this historic shift [@Segal2012]:
-
-> *'The twentieth century saw a dramatic reorientation of resource ownership rights. First the principle that subsoil resources are owned by governments as opposed to private landowners was settled in almost all countries (private land in the US being the only major exception), with private agents gaining access to them through regulated contracts...*
->
-> *...More dramatically, decolonisation led to an assertion of the rights of developing country governments and a massive swing in bargaining power in their favour, away from the international mining companies and their rich-country owners that had dominated the industry. The development of national oil and mining companies was part of this trend.'* 
-
-In some parts of the world, resource rents have been used to create schemes known as 'severance tax trust funds', which have specific remits to invest in projects for various kinds of public benefit. The Alaska Permanent Fund, created in 1976, is perhaps the best-known example. The fund pays a per-capita dividend to citizens, based on the principle of common ownership. Severance tax trust funds are also in place in Montana, New Mexico, Utah, North Dakota and Wyoming.
-
-Philosopher Thomas Pogge has advanced an alternative vision for resource rents that is based not on resource nationalism, but resource globalism. Pogge presented his idea of a 'global resources dividend' as a means of tackling global poverty [@Pogge1998]. However, such a system would require significant international coordination, and critics have suggested the distributive effects could anyway harm poor nations that are not resource-rich [@Hayward2005].  We propose that UK resource rents could help contribute to a national citizen's dividend.
-
-----
+We've argued here for a suite of environmental taxes to tackle climate change and a host of other issues faced by humanity. A carbon tax can initially be rebated on electricity production, thus allowing a higher rate and encouraginga more rapid switch to clean energy sources. Taxes on other greenhouse gases, congestion charging, and other environmental problems are crucial. Environmental taxes are also 
