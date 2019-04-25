@@ -15,94 +15,95 @@ link-citations: yes
 
 - In the UK, buying a house is extremely and increasingly unaffordable for many. This is contributing to other problems, such as homelessness.
 - High house prices are due to high land values. House prices go through boom-and-bust cycles due to land price speculation. This is when people buy land in the hope that it will go up in value. This is not a productive investment, one that leads to economic growth, but rather is a 'pseudo-investment' or placement.
-- Landowners get free value from the work of the community, such as the building of public transit infrastructure or communities invest in local parks. Landowners receive an increase in land values from these external activities, which they themselves have done no work for.
-- Land Value Tax is an effective solution to this unfairness and to the housing boom and bust cycle. It is a tax on land values.
+- Landowners get free value from the work of the community, such as the building of public transit infrastructure or community investment in local parks. Landowners receive an increase in land values from these external activities, which they themselves have done no work to create.
+- Land Value Tax is an effective solution to this unfairness, and to the housing boom-and-bust cycle. It is a tax on land values.
 - LVT is a well-established idea, with multiple benefits. It faces some obstacles, for which there are solutions. The biggest may be political feasibility.
-- Land has been neglected in neoclassical economic theory, and generally is conflated with capital. However, land differs from capital in important ways. Many current problems have arisen from a failure to recognise this distinction.
+- Land has been neglected in neoclassical economic theory, and generally is conflated with capital. However, land differs from capital in important ways. Many current economic problems have arisen from a failure to recognise this distinction.
 
 # 10.1 How bad is the housing affordability problem in the UK?
 
-`r tufte::newthought('The affordability of housing')` is frequently the topic of national debate, but as housing charity Shelter UK warn, we risk becoming so accustomed to the high cost of housing, that we start seeing it as a fact of life [@Shelter2010].
+`r tufte::newthought('The affordability of housing')` is frequently the topic of national debate, but as housing charity Shelter UK warn, we risk becoming so accustomed to the high cost of housing that we end up seeing it simply as a fact of life [@Shelter2010].
 
-The most recent review into this topic was conducted by Lloyds Bank, who found that home affordability (i.e. the ratio between average house prices and local earnings) across UK cities, "has hit its worst level in eight years" [@LloydsBank2016]. The report found that the average UK city house price had risen in 2016 to its highest ever level of £211,880. Average affordability in the last twelve months had increased from 6.2 to 6.6 times annual average earnings. Most notably, the researchers found no cities in the South of England where house prices are less than 7.5 times the average local income.
+The most recent review into this topic was conducted by Lloyds Bank, who found that home affordability (i.e. the ratio between average house prices and local earnings) across UK cities "has hit its worst level in eight years" [@LloydsBank2016]. The report found that the average UK city house price had risen in 2016 to its highest-ever level of £211,880. Average affordability in the last twelve months had increased from 6.2 to 6.6 times annual average earnings. Most notably, the researchers found no cities in the South of England where house prices are less than 7.5 times the average local income.
 
-The below chart shows how the UK house price to real earnings ratio has changed over time. 
+The below chart shows how the ratio of UK house price to real earnings has changed over time. 
 
 |![image](ChapterPictures/8-1-RealWagesvsHousePrices.png) |
 |:--:|
 |*Figure 8.1 - Real Wages vs House Prices*|
 
 
-The ratio is at its highest since April 2008, the beginning of the recession. We can see below that it is particularly hard for first-time buyers to afford a house in London.
+The ratio is the highest it has been since April 2008, at the beginning of the great recession. We can see below that it is particularly hard for first-time buyers to afford a house in London.
 
 |![image](ChapterPictures/8-2-Firsttimebuyer.png)|
 |:--:|
 |*Figure 8.2 - First time buyer earnings to house price ratio across the UK*|
 
-The below chart shows that the gap between the most and the least affordable local authorities has increased since 2002, and this is due to the least affordable
-areas moving further away from the overall affordability ratio [@ONS2016a].
+The below chart shows that the gap between the most and the least affordable local authorities has increased since 2002, and this is due to the least affordable areas moving further away from the overall affordability ratio [@ONS2016a].
 
 |![image](ChapterPictures/8-3-Housepriceaffordability.png)|
 |:--:|
 |*Figure 8.3 - House price affordability compared between Burnley and London*|
 
-There have also been many demographic changes in housing ownership. The below chart shows the percentage of each age group that are home owners, from 1981 to 2014  [@Ough2016].
+There have also been many demographic changes in housing ownership. The chart below shows the percentage of each age group that are home owners, from 1981 to 2014  [@Ough2016].
 
 |![image](ChapterPictures/8-4-Percentageownershipbyage.png)|
 |:--:|
 |*Figure 8.4 - Percentage of each age group that are home owners in England, 1981-2014*|
 
-We can see a dramatic reduction in the percentage of people between the ages of 34-44 owning homes and an increase in the percentage of over 65s owning homes.
+We can see a dramatic reduction in the percentage of people between the ages of 34-44 owning homes, and an increase in the percentage of over 65s owning homes.
 
 ##  The Human Impact
 
-The rising cost of housing is also contributing to growing inequality of wealth. The below chart shows the upper bounds of household net property wealth for each 1% of the net property wealth distribution in 2012. 
+The rising cost of housing is also contributing to growing inequality of wealth. The chart below shows the upper bounds of household net property wealth for each 1% of the net property wealth distribution in 2012. 
 
 |![image](ChapterPictures/8-5-Householdnetpropertywealth2012.png)|
 |:--:|
 |*Figure 8.5 - Upper bounds of household net property wealth in 2012*|
 
-The above graph shows the dramatic inequality in property wealth, but it still does not capture the devastating personal effect that unaffordable housing is having on British people. Shelter UK warns that, 
+The graph above shows dramatic inequality in property wealth, but it still does not capture the devastating personal effect that unaffordable housing is having on British people. Shelter UK warns that: 
 
-> "*Unaffordable housing plays a vital role in changing the way people live and constraining their choices...the high cost of housing is having an impact on all aspects of life, and raises the prospect that, as a result of a collective failure to find solutions, we could be allowing ourselves to drift into a future where we will all ultimately be worse off.*" [@Shelter2010]
+> *"Unaffordable housing plays a vital role in changing the way people live and constraining their choices...the high cost of housing is having an impact on all aspects of life, and raises the prospect that, as a result of a collective failure to find solutions, we could be allowing ourselves to drift into a future where we will all ultimately be worse off."* [@Shelter2010]
 
-A staggering 44% of working families in England (3.7 million families) cut back on essential food and clothing to help pay their rent or mortgage. A further 41% say that housing costs cause them stress and depression [@ShelterEngland2016]. Many are also having to cut back on food and heating, in order to pay for housing costs.
+A staggering 44% of working families in England (3.7 million families) have had to cut back on essential food and clothing to help pay their rent or mortgage. A further 41% say that housing costs cause them stress and depression [@ShelterEngland2016]. With so many families having to cut back on food and heating expenditures in order to pay for housing costs, it's clear that this is a problem striking at the heart of citizens' well-being.
 
 ## Case Study: Michelle and Kevin
 
-Michelle and Kevin rent a small home in Cambridge,where they live with their children. Kevin works full-time for a cleaning company, while Michelle studies for a career in criminal justice. Kevin had previously been self-employed and his income had dropped so low that they fell behind on rent. With Kevin now in full-time employment, they still struggle to get by.
+Michelle and Kevin rent a small home in Cambridge, where they live with their two children. Kevin works full-time for a cleaning company, while Michelle studies for a career in criminal justice. Kevin had previously been self-employed and his income had dropped so low that they fell behind on rent. With Kevin now in full-time employment, they still struggle to get by.
 
-> "*Even though my husband has a new job now and works as many hours as he can, it's constantly hand to mouth. We've cut back on everything to help pay the rent ' including food. When the children are at school the heating isn't on at all, and we only ever buy clothes when we absolutely have to because the little ones have grown out of something*"
+> *"Even though my husband has a new job now and works as many hours as he can, it's constantly hand-to-mouth. We've cut back on everything to help pay the rent - including food. When the children are at school, the heating isn't on at all, and we only ever buy clothes when we absolutely have to because the little ones have grown out of something."*
 
-Michelle and Kevin found that major life decisions, such as moving out of home and starting a family, were being affected by the lack of affordable housing. This is not an isolated problem. 21% of people aged between 18 and 44 said that they were delaying having children because of a lack of affordable housing. Worryingly, 36% of this group expected that housing costs would prevent them from starting a family for another four years. Shelter UK notes that this will create knock on effects for the NHS and other public services, as women are forced to delay pregnancy into their less-fertile years;
+Millions of people are experiencing that major life decisions, such as moving out of their parents' homes into their own home, or starting a family, are being affected by the lack of affordable housing. 21% of people aged 18 to 44 said they were delaying having children because of a lack of affordable housing. Worryingly, 36% of this group expected that housing costs would prevent them from starting a family for at least another four years. Shelter UK notes that this will create knock-on effects for the NHS and other public services, as women are forced to delay pregnancy into their less-fertile years:
 
-> "*If women continue to put off starting a family because of housing costs, this could drive up the numbers experiencing fertility problems, putting more people through the trauma of being unable to conceive. As well as the obvious human impacts, such an outcome could also result in additional financial costs to the NHS in the form of increased demand for fertility treatment*". [@ShelterEngland2016]
+> *"If women continue to put off starting a family because of housing costs, this could drive up the numbers experiencing fertility problems, putting more people through the trauma of being unable to conceive. As well as the obvious human impacts, such an outcome could also result in additional financial costs to the NHS in the form of increased demand for fertility treatment."* [@ShelterEngland2016]
 
-One of the most surprising findings was that 24% of adults have been forced into continuing to live with a partner because they cannot afford to move out, or know someone who has been in this situation. Housing costs are also causing many adults to move back in with their parents or delay ever moving out at all. At the other end of the age spectrum, housing costs are also making it difficult for adult children to live near to, and care for, their aging parents.
+One of the most surprising findings was that 24% of adults have been forced into continuing to live with a partner they are no longer conjugal with, because they cannot afford to move out, or know someone who has been in this situation. Housing costs are also causing many adults to move back in with their parents, or delay ever moving out at all. At the other end of the age spectrum, housing costs are also making it difficult for adult children to live near to, and care for, their aging parents.
 
 ## Case Study : Alan 
 
-Alan lives with his wife in Portsmouth and is an architect. Both of their parents live in Bournemouth and his wife's parents are becoming increasingly frail. Alan and his wife would like to move back to Bournemouth, but their house is in negative equity and house prices in Portsmouth are too high for them. 
+Alan lives with his wife in Portsmouth and is an architect. Both of their parents live in Bournemouth. His wife's parents are becoming increasingly frail. Alan and his wife would like to move back to Bournemouth, but their house is in negative equity and house prices in Portsmouth are too high for them. 
 
 >  *"We can't see any improvement in our situation in the short to medium term. What we really fear is that time is not on our side."*
 
 # 10.2 The Cause of the Housing Crisis
 
-If I was riding in a London cab, and I was to ask the driver why the cost of buying housing in London is so high, he might say to me, 'Well, its obvious! Its supply and demand! There is a huge demand for housing in London. Lots of people want to live here!" At face value this explanation sounds very reasonable, but if I thought a little harder, I might wonder why the cost of other things doesn't increase in the same way. 
+If you were riding in a London cab, and were to ask the driver why the cost of buying housing in London is so high, he might say, 'Well, its obvious! It's supply and demand! There is a huge demand for housing in London. Lots of people want to live here!" At face value, this explanation sounds very reasonable; but if I thought a little harder, I might wonder why the cost of other things doesn't increase in the same way. 
 
-The best way to think of this is by picturing another product here, like mobile phones. There is very high demand for mobile phones. Almost everyone has one and like housing they are generally considered a necessity. However the cost of phones doesn't keep going up and up. Why not?  Also we know that the housing market has boom and bust cycles, where the price in housing increases and increases and then suddenly starts dropping (a boom and bust cycle). Why doesn't the price of mobile phones do that?
+The best way to think of this is by picturing another product, like mobile phones. There is very high demand for mobile phones. Almost everyone has one, and like housing, they are generally considered a necessity. However, the cost of phones doesn't keep going up and up. Why not? 
 
-Of course there is a key difference between housing and mobile phones. That is, we can increase the supply of phones, to meet human demand. Housing is different. Housing has to be built on land and the supply of land is fixed. The taxi driver was right, its is an issue of supply and demand. When demand for phones increases, we can increase supply. The price will stay the same, or even decrease, if there is an over-supply. When demand for housing increases, as it must when populations increase, we cannot increase the amount of land to build it on, so the price of housing (house and land) increases indefinitely.
+Moreover, we know the housing market has boom and bust cycles, where housing price increase for years and years, and then suddenly start dropping (i.e. housing prices go through boom and bust cycles). Why don't the price trajectories of mobile phones do that?
 
-Though we talk about 'house prices' increasing, it would make more sense to speak of 'land prices' increasing. It is the limit to the supply of land that is causing the cost of house + land prices to increase. If we look at valuations in UK regions with high 'house prices', we see that the land value is much higher than the value of the building sitting on it.
+There is a key difference between housing and mobile phones. Phone-makers can increase the supply of phones essentially at will to meet demand. Housing is different. Housing has to be built on land, and the supply of land is essentially fixed (notwithstanding the impressive achievements of the Netherlands in converting seabottom into land by building dikes and pumping away the water from shallow seas). The taxi driver was right in comprehending that this is an issue of supply and demand. When demand for phones increases, we can increase supply. Prices will stay the same, or even decrease, if an over-supply is generated by competing phone-makers, or process improvements reduce production costs. In stark contrast, when demand for housing increases, as it must when populations increase, we cannot increase the amount of land to build on, so the price of housing (house and land) increases indefinitely. Given rising populations, housing prices are a one-way ratchet.
+
+Though we talk about 'house prices' increasing, it would make more sense to speak of 'land prices' increasing. The supply of land is the factor causing the combined cost of house + land prices to increase - not the cost of actually constructing a house. If we look at valuations in UK regions with high 'house prices,' we see that the land value is much higher than the value of the building sitting on it.
 
 As campaigner Edward J. Dodson states,
 
->  *"Actually, "house" prices are not increasing. A housing unit is a form of capital good, and all capital goods depreciate over time. The actual value of a house is best defined as its replacement cost, less any depreciation. Thus, the potential selling price of a house has everything to do with the owner's ongoing maintenance and periodic replacement of systems .... Ongoing efficiencies in the production of the materials that go into constructing a housing unit have resulted in a reduction in construction costs per square foot.*
+>  *"Actually, "house" prices are not increasing. A housing unit is a form of capital good, and all capital goods depreciate over time. The actual value of a house is best defined as its replacement cost, less any depreciation. Thus, the potential selling price of a house has everything to do with the owner's ongoing maintenance and periodic replacement of systems .... Ongoing efficiencies in the production of the materials that go into constructing a housing unit have resulted in a reduction in construction costs per square foot."*
 
 >*"One need look no farther than land acquisition costs for an explanation of why a residential property is an impossible acquisition for a growing segment of the population."* [@Shaxson2016]
 
-If you are not convinced, consider Figure 8.6 below [@Wightman2013]. This graph compares four important costs relating to housing and shows how they have changed over time. The lowest line on the graph, 'Build Costs?, is the cost of actually constructing a house. 'House Price' is the value of the house only and 'Land Price' is the value of the underlying land only. 'Earnings' is the population's average earnings.
+If you're not convinced, consider Figure 8.6 below [@Wightman2013]. This graph compares four important costs relating to housing, and shows how they have changed over time. The lowest line on the graph, 'Build Costs,' is the cost of actually constructing a house. 'House Price' is the value of the house only, and 'Land Price' is the value of the underlying land only. 'Earnings' show the population's average earnings.
 
 We see that while the cost of building houses has remained largely stable between 1986 and 2007, land prices have oscillated dramatically through a boom and bust cycle. The 'House Price' line is most revealing because, while the costs of building houses has stayed the same, the cost of buying them has oscillated - mirroring the 'Land Price' line [@Lloyd2009].
 
@@ -112,13 +113,13 @@ We see that while the cost of building houses has remained largely stable betwee
 
 ## Why then the boom and bust cycle?
 
-As the population increases, the demand for housing increases. Supply doesn't increase, so we would expect the price to steadily increase. Why do we see a boom and bust cycle? 
+As the population increases, the demand for housing increases. Supply doesn't increase, so we would expect the price to steadily increase. Why then do we see a boom and bust cycle? 
 
-This is because of 'land price speculation', whereby people buy land in the anticipation that its price will increase. This is a kind of bet (and a fairly safe one at that). When lots of people buy up land because they think the price will go up, it pushes the price up further. There is a fixed quantity of land, so supply cannot respond to demand. It is very difficult in this environment, for someone to buy a home to live in, because there are plenty of people in the market who simply want land as a way of making money. The price continues to rise until some form of shock occurs, and the value suddenly plummets as people exit the market. After some time, the price starts to climb again as speculators' confidence returns, and they again believe that the land price will increase.  So speculation increases the demand for land and causes prices to increase faster and faster.
+This is because of 'land price speculation,' whereby people buy land in the anticipation that its price will increase. This is a kind of bet (and a fairly safe one at that). When lots of people buy up land because they think the price will go up, it pushes the price up further. There is a fixed quantity of land, so supply cannot respond to demand. It is very difficult, in this environment, for someone to buy a home to live in, because there are plenty of people in the market who simply want land as a way of making money. The price continues to rise until some form of shock occurs, and the value suddenly plummets as people exit the market. After some time, the price starts to climb again as speculators' confidence returns, and they again believe that the land price will increase. So speculation increases the demand for land and causes prices to increase faster and faster.
 
-These land price speculators are treating land as a kind of 'investment'. However, land is not an investment in the economic sense, because no new product or service is produced. No improvement is made. They simply sit on the land, hoping it will increase in value so they can sell it later or borrow against it. 
+These land price speculators are treating land as a kind of 'investment.' However, land is not an investment in an economic sense, because no new product or service is produced. No improvement is made. They simply sit on their ownership titles to land, hoping it will increase in value so they can sell it or borrow against it somewhat later in time. 
 
-The effect of this sort of speculation for people who want to buy homes to live in, and for renters is obvious. The price of homes (on land) go up and up, and so does the cost of renting. This is also a loss for the economy generally, as the money is not put into productive investments which benefit the economy, such as new businesses.
+The impact of land speculation on people who want to buy homes to live in and for renters is obvious. The price of homes goes up and up, and so does the cost of renting. This is also a loss for the economy generally, as money from people's monthly income is spent on rent rather than on other things, which reduces demand for consumer products and hence the jobs involved in producing them. And investors' money is not put into productive investments which benefit the economy, such as new businesses; instead, it is tied up in land speculation.
 
 # 10.3 Fairness and land values
 
