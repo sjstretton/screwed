@@ -23,7 +23,7 @@ So unlike in countries without resources where the incentives are to work hard a
 
 Resource rent taxes can be charged both by consumers and by producers. In that way there is competition between the two. There is already a tax on profits from extraction of north sea oil and an aggregates levy. These should be retained.
 
-There could also be a rents tax on oil imposed by coordinated internationally between oil-consuming countries. We propose an internationally-coordinated tax on oil consumption. This should be increased to reduce the open-market price of oil. Such a tax is essential to reduce new exploration and the environmental damage it may cause. It would also reduce trade deficits. Taxes on extraction of oil should be retained. In principle they should include extraction of any other high-rent natural resources, although oil appears to be the only relevant natural resource in the case of the UK. Such taxes should be coordinated between oil-consuming countries. Also, tackling climate change requires that fossil fuels are no longer extracted. In order for this to happen, the value of those fossil fuels on the open market needs to be low or zero. In other words, the rent needs to be captured by taxes in the consuming countries. A resource rent tax is, in effect, a land value taxon resource rents which would otherwise be captured overseas.  
+There could also be a rents tax on oil imposed by coordinated internationally between oil-consuming countries. We propose an internationally-coordinated tax on oil consumption. This should be increased to reduce the open-market price of oil. Such a tax is essential to reduce new exploration and the environmental damage it may cause. It would also reduce trade deficits. Taxes on extraction of oil should be retained. In principle they should include extraction of any other high-rent natural resources, although oil appears to be the only relevant natural resource in the case of the UK. Such taxes should be coordinated between oil-consuming countries. Also, tackling climate change requires that fossil fuels are no longer extracted. In order for this to happen, the value of those fossil fuels on the open market needs to be low or zero. In other words, the rent needs to be captured by taxes in the consuming countries. A resource rent tax is, in effect, a land value tax on resource rents which would otherwise be captured overseas.  
 
 ## Land use and Maintenance Costs
 
@@ -39,6 +39,30 @@ We propose to adjust the existing road tax to become a congestion charge. This w
 
 Burning fossil fuels causes both global and local environmental problems. In addition, burning oil products in cars causes health problems and car travel is relatively dangerous. A tax on fuel is a way of paying for those costs. 
 Additional local pollution caused by coal, for example SO2, soot (including PM10s), needs to be controlled by taxes or tradable permits. 
+
+# 13.11 Food And Sin Taxes
+
+## Alcohol and Tobacco
+
+Alcohol and tobacco taxes would be retained as today. There may be a case for harmonisation across Europe, to prevent 'booze cruises'.
+
+## Sugar Tax on Processed and Prepared Food
+
+Excess sugar intake causes multiple health problems including obesity, type-II diabetes and tooth decay. We propose a simple sugar tax on the manufacture or importation of sugar based on three categories of sugar-like compounds. 
+
+- Class A: 'sugar' (i.e., sucrose, glucose and fructose), including contents of fruit juice. 
+- Class B: 'near sugar', including maltose etc. and synthetic and natural sweeteners with unclear health impacts.
+- Class C: 'unprocessed' sugars in raw fruit and vegetables; starch and other carbohydrates.
+
+Class A would have 100% tax (ie. £0.01 or 1p per gram sugar); class B, 50%  (ie. 0.5 pence per gram sugar); and class C 0%.
+
+## Salt Tax on Processed and Prepared Food
+
+We propose a simple salt tax on processed foods. This would be charged according to salt content.
+
+
+
+
 
 ## Carbon Tax
 
@@ -64,8 +88,6 @@ CO2 produced during the manufacturing process of a product needs to be estimated
 To make this concept more tangible, we can make an example for UK-made steel. The CO2 produced per kg for this product can be estimated. A corresponding amount would be charged on imports and the same amount would be refunded on exports. For products that are not manufactured in the UK, tariff can be estimated based on general estimation of how much CO2 is produced in making that good. 
 
 Exports would be exempted from the tax. However, since the tax is charged upstream on import and extraction of fossil fuels, a system of refunding similar to VAT needs to be in place. However, the refund for a good being exported and the tariff on the same good being imported need to be the same, to prevent import-export tax arbitrage. 
-
-## 
 
 ## Stacked Carbon Pricing: 
 
@@ -102,25 +124,3 @@ So for example there might be a tax on fossil fuel inputs to electricity generat
 Note therefore that at each stage there is the possibility of production that is not consumed within the country (exports) and consumption that is not produced within the country (imports). Note also how naturally these are dealt with by the tax system.
 
 Production that is not consumed in the home country would be given a carbon tax combined with a per unit subsidy. Thus production at the average carbon intensity would face no net taxes, whereas production more dirty than average would face net taxes and production cleaner than average would face net subsidies.
-
-# 13.11 Food And Sin Taxes
-
-## Alcohol and Tobacco
-
-Alcohol and tobacco taxes would be retained as today. There may be a case for harmonisation across Europe, to prevent 'booze cruises'.
-
-## Sugar Tax on Processed and Prepared Food
-
-Excess sugar intake causes multiple health problems including obesity, type-II diabetes and tooth decay. We propose a simple sugar tax on the manufacture or importation of sugar based on three categories of sugar-like compounds. 
-
-- Class A: 'sugar' (i.e., sucrose, glucose and fructose), including contents of fruit juice. 
-- Class B: 'near sugar', including maltose etc. and synthetic and natural sweeteners with unclear health impacts.
-- Class C: 'unprocessed' sugars in raw fruit and vegetables; starch and other carbohydrates.
-
-Class A would have 100% tax (ie. £0.01 or 1p per gram sugar); class B, 50%  (ie. 0.5 pence per gram sugar); and class C 0%.
-
-## Salt Tax on Processed and Prepared Food
-
-We propose a simple salt tax on processed foods. This would be charged according to salt content.
-
-# 

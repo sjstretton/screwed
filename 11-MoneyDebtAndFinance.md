@@ -37,7 +37,7 @@ The financial crisis of 2007-8, whose interconnected causes are still being teas
 
 Yet despite its failings, the financial sector exists to serve a useful purpose.  As Philip Booth wrote in the 2011 edition of Balance, the British Banker's Association magazine,
 
-> * "Life would be unthinkable without banks.  Not only do banks provide mechanisms to ensure that we can pay each other immediately for the goods and services we consume, they also provide crucial economic functions.  These include screening risk, diversifying risk, reducing transaction costs and providing capital for businesses and credit for consumers.  The flip side is that they provide safe returns for savers.  Without a modern financial system, retirement from work would be more or less impossible." *
+> "Life would be unthinkable without banks.  Not only do banks provide mechanisms to ensure that we can pay each other immediately for the goods and services we consume, they also provide crucial economic functions.  These include screening risk, diversifying risk, reducing transaction costs and providing capital for businesses and credit for consumers.  The flip side is that they provide safe returns for savers.  Without a modern financial system, retirement from work would be more or less impossible." *
 
 Lord Adair Turner, who was the Chairman of the Financial Services Authority from 2008 to 2013 has written in more technical terms on this topic. Turner argues [@FSA2009] that the purpose of the financial system is as follows:
 
@@ -80,7 +80,7 @@ After its implementation, the UK levy increased gradually in each year of its ex
 
 The reduction was in response to complaints from UK banks that it put them at a competitive disadvantage.  In June 2015, the Chief of the British Banker's Association, Anthony Browne, also warned that the levy was costing London jobs and risked causing banks to move their operations overseas, saying:
 
-> * 'The global banks constantly review where they base their business around the world, how much they put in London, New York, Singapore, Tokyo - the trouble is that in London the negative side has got so much longer and positive side shorter. For a lot of them, they've reached a tipping point, and move the operations elsewhere.' *
+> 'The global banks constantly review where they base their business around the world, how much they put in London, New York, Singapore, Tokyo - the trouble is that in London the negative side has got so much longer and positive side shorter. For a lot of them, they've reached a tipping point, and move the operations elsewhere.' *
 
 In fact, although banks threatened to leave the country and HSBC did a long review, none carried out their threat (although the Brexit vote is likely to have a much more serious effect).
 
@@ -92,7 +92,7 @@ The first approach (UK lending) does not discriminate between UK based or non-UK
 
 Whilst reducing the bank levy, in 2011, the government imposed a Bank Corporation Tax surcharge. This is an additional 8% tax on the profits of banking companies above an annual £25 million profit allowance.
 
-There is therefore a key difference in operation between the bank levy and the surcharge. The levy is a tax on the bank's total balance, whereas the surcharge is a tax on profits. The surcharge was projected to raise 6.5 billion pounds between 2016/17 and 2020/21.  Introduced at the same time as the winding down of the bank levy, the surcharge has received mixed reviews from financial institutions.
+There is therefore a key difference in operation between the bank levy and the surcharge. The levy is a tax on the bank's total assets, whereas the surcharge is a tax on profits. The surcharge was projected to raise 6.5 billion pounds between 2016/17 and 2020/21.  Introduced at the same time as the winding down of the bank levy, the surcharge has received mixed reviews from financial institutions.
 
 Some consider that with the removal of the bank levy, and the relatively low Corporation tax rate of 18%, the surcharge is a manageable cost. Others have argued that the surcharge impedes so-called 'Challenger' banks, which are new banks established since the global financial crises.  Many of these formally avoided the bank levy because their liabilities did not exceed the threshold £20 billion.  However, they are now subject to the corporation tax surcharge on their profits.  Some claim that the surcharge will make it difficult for new banks to enter the market and secure investment.
 
@@ -118,7 +118,7 @@ France and Germany have both introduced levies, though they differ from each oth
 
 As we discussed, the UK bank levy was criticised on the basis that it placed banks at a competitive disadvantage. The German bank levy has also drawn some criticism, and debate as to whether it is achieving its goals.   The German levy was intended to generate resources for the fund, and to internalise bank's contributions to systemic risk.  In 2014, Deutsche Bank produced a report, evaluating the effects of the German bank levy on bank behaviour.   They found that the revenues raised through the levy were lower than expected, because of low tax rates and high tax thresholds for exemptions.  They also found that the levy did appear to influence bank behaviour, with evidence of a reduction in lending and higher deposit rates.
 
-However a comprehensive study of bank levies across Europe produced by Michael Kogler of the University of St Gallen Institute of Economics in 2015 [@Kogler2015] found that bank levies tend to lead to a raise in lending rates but do not significantly affect deposit rates.  This suggests that the cost of the levy tends to be passed on to borrowers. They found that the amount passed on to borrowers is determined by bank competition (i.e. where banking markets are concentrated and have low competition),  more of the levy cost is passed on to borrowers through an increased interest rate.  They also found that less of the levy cost is passed on to customers by well-capitalised banks, possibly because they are less exposed to the levy.
+However a comprehensive study of bank levies across Europe produced by Michael Kogler of the University of St Gallen Institute of Economics in 2015 [@Kogler2015] found that bank levies tend to lead to a raise in lending rates but do not significantly affect deposit rates.  This suggests that the cost of the levy tends to be passed on to borrowers. They found that the amount passed on to borrowers is determined by bank competition (i.e. where banking markets are concentrated and have low competition), more of the levy cost is passed on to borrowers through an increased interest rate.  They also found that less of the levy cost is passed on to customers by well-capitalised banks, possibly because they are less exposed to the levy.
 
 ## Conclusion on Bank levies/ bank balance taxes
 
@@ -257,4 +257,4 @@ Money, bonds and other forms of debt involve someone who will pay money back (de
 
 We apply our general principle that we want to tax things that either we want to go away or that don't go away when we tax them. Taxes on debt, especially unproductive debt satisfy this criteria in the sense that we wish to reduce the overall level of debt and to target it towards productive purposes.
 
-It also seems plausible that debt is a tax base that is less likely to move than one on financial transactions, because lending in international markets is difficult, whereas transactions are easily moved both within international financial institutions and offshore. Therefore it seems that a bank balance tax or a tax on unproductive lending (for example mortgage lending) is the right approach. Detailed proposals will not form part of this book, however due to the complexity of the subject.
+It also seems plausible that debt is a tax base that is less likely to move than one on financial transactions, because lending in international markets is difficult, whereas transactions are easily moved both within international financial institutions and offshore. Therefore it seems that a bank balance tax or a tax on unproductive lending (for example mortgage lending) is the right approach. 
