@@ -245,18 +245,15 @@ However,  lets not walk before we can crawl. As with before, knowledge is the mo
 
 A rose by any other name would smell as sweet. The same goes for Unitary Taxation, or 'Formulary apportionment' by its slightly more descriptive title. In more basic terms, this method of taxation tries to tackle the mobile nature of multinational corporations by allocating the profit earned by corporations proportionally to the jurisdictions that they operate in. 
 
+Fairness is the idea embedded at the very heart of this proposal. Fair allocation of tax liability to a fair proportion of a multinational corporation's business activities that are apportionable to  a certain geographical region. 
 
+To illustrate our point, imagine the following. A company with over 1,000 employees in Switzerland, and 1,000 in London is, you'd think, liable to pay taxes in both of the regions designated. However, due to the 2 well-sunned board members residing in the Cayman Islands, the company is able to claim that the majority of their business operations take place in this paradise of a tax-haven. 
 
- allocating profit earned by tax jurisdiction
+ Said company, lets call it Peach, is able to legally avoid paying taxes in the countries in which it operates in reality, by claiming that its core business activities take place in a country that is conveniently subject to a near 0% corporate tax rate. This, it is clear, is a loophole of the largest degree. 
 
-- idea is fair share of business operations --> fair share of liability for tax
-- illustrate point: al business all employeesin one country, 'board member in the caynmans - low tax!' e.g. apple
-- Way to deal with this: unitary taxation
-- [@TaxJustice2019]
+Unitary taxation could be the solution. This term describes a method by which large corporations are taxed by allocating their profits to different jurisdictions. This replaces a confusing plethora of different methods and formulae for determining how much tax should be paid by companies in certain jurisdictions with a single method for calculating this liability. This is named something equally as compelling - the Massachusetts formula. 
 
-![9-CorporationTax-unitarytax](C:\Users\Heather Mckay\Documents\GitHub\TaxHeaven\taxheaven\ChapterPictures\9-CorporationTax-unitarytax.PNG)
-
-Unitary taxation is a method for taxing large corporations which allocates their global profits according to different jurisdictions. So instead of there being a confusing plethora of different formulae for determining how much taxes should be paid in a certain jurisdiction, a standard formula is used. One such formula is the so-called 'Massachusetts formula', which was proposed to be used in the United States for allocating the profits of corporations between various states in which they are based. The formula takes the total worldwide profits, to which are then applied a weighting in each country or other state in which they are based. 
+The Massachusetts formula was initially proposed for use in the United States for allocating the profits of corporations between various states in which they are based. The formula takes the total worldwide profits of a corporation, and then applies to this a weighting based on the proportion of business operations which are located in each country or other state in which they are based. 
 
 The weighting has three components: the proportion of sales, the proportion of assets, and the proportion of employees that are in each jurisdiction. We then take the average of these three weightings. This average weighting is multiplied by the global profits to determine the tax payable in the jurisdiction.
 
@@ -267,6 +264,14 @@ $$CorporationTax_{UK} = t_{CT} * Weighting_{UK} * Global Profits$$
 where $t_{CT}$ is the tax rate and
 
 $$  Weighting_{UK} = \left( \frac{1}{3} \right)* \left( \frac{Sales_{UK}}{Global Sales} + \frac{Assets_{UK}}{Global Assets} + \frac{Employees_{UK}}{GlobalEmployees} \right)$$
+
+- [@TaxJustice2019]
+
+![9-CorporationTax-unitarytax](C:\Users\Heather Mckay\Documents\GitHub\TaxHeaven\taxheaven\ChapterPictures\9-CorporationTax-unitarytax.PNG)
+
+
+
+
 
 ###The Cashflow Tax
 
