@@ -233,15 +233,28 @@ A final concern with the corporation system as it currently stands lies in the r
 
 It's clear then that what is needed to combat these significant issues is substantial reform of the corporate tax system. In as much as the space and issues around corporation tax are complex and challenging to comprehend, so too is their reform. How best to balance the needs for sufficient tax revenue against the increasingly mobile nature of companies is a question that numerous academics and politicians have tried to solve. Building on tax-based incentives to create social 'goods' is another layer of complexity in the mix. 
 
- With any question of reform, it is important first to establish the goal to which we are working. With corporation tax, our ideal is thus. A system of company taxation that rewards exporting companies and all those that invest in physical capital expenditure in the UK. 
+ With any question of reform, it is important first to establish the goal to which we are working. With corporation tax, our ideal is thus. A system of company taxation that rewards exporting companies and all those that invest in physical capital expenditure in the UK. More specifically, we're looking for a way to taxing the wealth and income of the eventual owners of corporations. We would like to do this, so that this group pay their fair share of taxation.
 
-More specifically, we're looking for a way to taxing the wealth and income of the eventual owners of corporations. We would like to do this, so that this group pay their fair share of taxation. These policies should also be applied in such a way that they are not easily avoidable or evadable, and that treats companies fairly. Preventing an international 'race to the bottom' is also a key priority. International cooperation on tax policy is the ideal, but designing a tax policy that doesn't compete on lowering taxation rates is a strong alternative solution. Moreover, creating an attractive environment for exporters, in the short-term, would support the UK's historically poor trade performance. We suggest a proposal that reforms VAT and existing corporation tax system to achieve just this, through the unification of both components under a company cash flow tax. 
+Any reforms should be applied in such a way that they are not easily avoidable or evadable, and that treats companies fairly. Preventing an international 'race to the bottom' is also a key priority. International cooperation on tax policy is the ideal, but designing a tax policy that doesn't compete on lowering taxation rates is a strong alternative solution. Supporting the creation of social 'goods', most commonly translated into discouraging bads, is also a core objective of any reform. Lastly, creating an attractive environment for exporters, in the short-term, would support the UK's historically poor trade performance. We suggest a proposal that reforms VAT and existing corporation tax system to achieve just this, through the unification of both components under a company cash flow tax. 
 
 However,  lets not walk before we can crawl. As with before, knowledge is the most effective tool to start rebuilding any system. To this end then, there are a number of possibilities for reform of corporation tax.  In this section, we'll outline a few of the main proposals for reform, including unitary taxation, the cash-flow tax, and potential tax-rebates for the creation of social goods, before moving on to discussing what the optimal options would be for the society we'd like to create.  
 
 ## Options for reform 
 
 ###Unitary Taxation
+
+A rose by any other name would smell as sweet. The same goes for Unitary Taxation, or 'Formulary apportionment' by its slightly more descriptive title. In more basic terms, this method of taxation tries to tackle the mobile nature of multinational corporations by allocating the profit earned by corporations proportionally to the jurisdictions that they operate in. 
+
+
+
+ allocating profit earned by tax jurisdiction
+
+- idea is fair share of business operations --> fair share of liability for tax
+- illustrate point: al business all employeesin one country, 'board member in the caynmans - low tax!' e.g. apple
+- Way to deal with this: unitary taxation
+- [@TaxJustice2019]
+
+![9-CorporationTax-unitarytax](C:\Users\Heather Mckay\Documents\GitHub\TaxHeaven\taxheaven\ChapterPictures\9-CorporationTax-unitarytax.PNG)
 
 Unitary taxation is a method for taxing large corporations which allocates their global profits according to different jurisdictions. So instead of there being a confusing plethora of different formulae for determining how much taxes should be paid in a certain jurisdiction, a standard formula is used. One such formula is the so-called 'Massachusetts formula', which was proposed to be used in the United States for allocating the profits of corporations between various states in which they are based. The formula takes the total worldwide profits, to which are then applied a weighting in each country or other state in which they are based. 
 
@@ -255,7 +268,7 @@ where $t_{CT}$ is the tax rate and
 
 $$  Weighting_{UK} = \left( \frac{1}{3} \right)* \left( \frac{Sales_{UK}}{Global Sales} + \frac{Assets_{UK}}{Global Assets} + \frac{Employees_{UK}}{GlobalEmployees} \right)$$
 
-## The Cashflow Tax
+###The Cashflow Tax
 
 Another possibility for reform is the so-called Cashflow Tax, sometimes referred to as the 'Dyson Tax' in this book. 
 
@@ -267,9 +280,9 @@ In the language of International tax, it has a 'destination basis' for sales and
 
 Note that cashflow tax can be either positive or negative. If a company locates in the UK but sells abroad, it may have a negative cashflow tax. Thus the cashflow tax encourages companies to locate in the UK. Conversely, if a company sells to the UK but has no UK costs, then it will pay the cashflow tax on all of its sales. In effect, this would be a sales tax not a profits tax. Thus it encourages business to locate in the UK; with the higher the tax rate, the greater the incentive to move.
 
-Thus the cashflow tax satisfies two of our requirements for reform: it reverses the race to the bottom and it gives a boost in the short term to UK manufacturing. Whilst unitary taxation is also a good option, the cashflow tax fulfills more of our objectives.
+Thus the cashflow tax satisfies two of our requirements for reform: it reverses the race to the bottom and it gives a boost in the short term to UK manufacturing. Whilst unitary taxation is also a good option, the cashflow tax fulfils more of our objectives.
 
-## Integrating Cashflow Tax and VAT
+###Integrating Cashflow Tax and VAT
 
 Since the cashflow tax operates on the 'destination' basis for revenue, it is similar in some way to a Value Added Tax, but where UK wage costs are deductible.
 
@@ -277,3 +290,22 @@ Given that we also propose to introduce a comprehensive system of environmental 
 
 We propose that cooperative tax nations would pay only a 20% rate on imports ^[Corresponding to a 25% VAT rate, as the definition is inverse]. This means in effect that payments made to compliant countries would be half-deductible for the purpose of coherence and ease. This clause would not apply to tax havens, which would lack all deductibility so as to discourage use.
 
+
+
+
+
+
+
+
+
+
+
+
+
+## Conclusions
+
+We propose to replace Corporation Tax and VAT with a 'cash flow' tax and taxation at source of all dividends. Whereas a corporation tax is a tax on 'economic profit', a cash flow tax is a tax on net receipts (i.e. retained cash flow). Cash-flow is a destination basis corporate tax, exempting exporters, capital investment and R&D but including interest payments. The basis of the cash flow tax is UK sales and borrowing minus costs, dividends, interest and principal repayments. It therefore exempts capital expenditure and exports. It is similar to a value added tax, where wage expenditures are deductible. The advantage of the cash flow tax is that can be applied to the financial sector and it encourages investment and exporters. With corporation tax, companies can move the jurisdiction they are registered in, and charge losses to high-tax locations and profits to low tax locations. With a cash flow tax, all sales in the UK are taxed, and only UK wage payments are deductible. It applies to all companies that sell in the UK, and 'transfer pricing' becomes irrelevant. It avoids the international 'race to the bottom' among corporate tax rates. 
+
+
+
+****- Publicly quoted companies should have the option to pay the cash flow tax in shares. These shares would accrue to a sovereign wealth fund which would pay the Citizen's Dividend.- A 'monopoly charge' of 5% of the company value (proportional to value added sold to UK consumers,i.e. like VAT) would be imposed on all large companies and on trusts. This tax would be payable in shares to a sovereign wealth fund for children, so that1/20th of the shares of a company or trust would go to such a fund per year.- International wealth transparency tax of 0.1% of assets greater than 5 million pounds- Capital Gains Tax: If the tax paid on retained earnings is less than the average tax paid on dividends, company owners will have an incentive to retain those earnings within the company. The owner of the shares could later sell them. They would therefore pay less tax than if the earnings had been paid out as dividends. Capital gains tax on  shares ownership can be thought of as a crude way to prevent tax avoidance through this route. Capital gains tax also allows those who have achieved unearned capital value increases (for example, due to the fall in long-term interest rates) to contribute properly. Capital gains tax rates should be set consistently to  avoid tax advantages or disadvantages based on legal structure. - Applying an Immigration and Citizenship charge****  
