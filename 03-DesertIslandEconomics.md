@@ -13,7 +13,7 @@ In this economic fable, we will demonstrate Adam Smith's model of growth through
 
 The largest island in the Tea Islands is called 'Great Island.' On Great Island live a few hundred people. Everyone does the same thing, which is a bit of everything. Half the day is spent fishing (including maintenance of the boats and nets), and the other half is spent gathering nuts and berries. This yields 250g of fish and 250g of nuts and berries per person per day. In total, 0.5kg of food is gathered, which is exactly equal to their dietary needs. 
 
-**Specialization and Trade**
+## Specialization and Trade
 
 Then a small group of fishermen discover something. They decide firstly, that they are *only* going to fish, and no longer participate in gathering berries. Whilst they like eating nuts and berries, they argue that they can catch enough fish and *trade* some of the fish they gather with others for nuts and berries. They also split up tasks between themselves. Some of them make nets, others build bigger boats. They can catch more fish by splitting up tasks in this way. By collaborating and specializing they can double their productivity. Whereas before they could only make 500g of food per day, now they collectively can produce 1kg of food per day per fisherman. 
 
