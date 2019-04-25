@@ -123,32 +123,34 @@ The impact of land speculation on people who want to buy homes to live in and fo
 
 # 10.3 Fairness and land values
 
-We mentioned that one cause of increased house and land prices is population increases. However, that is not the full story. There are other reasons why some areas in particular may become more in demand and increase in value. In rural communities, it may be that a farmer has done some work to the improve the land itself, for example, by using new techniques to make the soil more fertile. In most cases though, and particularly in urban areas, the land value goes up without the owner making any improvements to the land itself. 
+We mentioned that one cause of increased house and land prices is population increase. However, that's not the full story. There are other reasons why some areas may become more in demand and increase in value. In rural communities, it may be, for example, that farmers work to the improve the land itself, say by using new techniques to make the soil more fertile. In most cases though, and particularly in urban areas, land value goes up without the owner making any improvements to the land itself. 
 
-One reason why the value of the land goes up in these cases, is because of the work of other members of the community in  growing  and developing  the area around the particular piece of land. A bustling high street, cafes, public transport, well-kept parks - these are all examples of developments which may surround a piece of land and increase its value. In other words, because of government and community activity and investment, the general location becomes more desirable as a place to live and work. That is why we may sometimes exchange the term 'location value' for 'land value'. Unlike the farmer, the owner of the land in this case, has done no work to create the value increase.  
+One reason why the value of the land goes up is because of the work of other members of the community in developing the area around a particular piece of land. A bustling high street, cafes, improved public transport, well-kept parks - these are all examples of developments which can come to surround a piece of land and thereby increase its value, even if the owner of that piece of land has made no improvements to it at all. A location tends to become more desirable as a place to live and work because of government and community activity and investment. That is why we may sometimes exchange the term 'location value' for 'land value.'   
 
-Of course the opposite can sometimes occur. We have seen from the experience of  the American Mid-west that land values can plummet when important local infrastructure or businesses close down, and the local area becomes a less desirable place to live. 
+Of course the opposite can sometimes occur. We have seen from the experience of the American mid-west that land values can plummet when important local infrastructure or businesses close down, and a local area becomes a less desirable place to live. 
 
-The general trend, though, is for land values to increase. In many cases, a landowner captures significant value, due to the work of the wider community. It is appropriate for us to reflect on the fairness of this arrangement.
+The general trend, though, is for land values to increase. In many cases, a landowner captures a great deal of financial value due to the work of the wider community, without himself incurring any expense or effort. It is appropriate for us to reflect on the fairness of this arrangement.
 
-Let us consider some scenarios;
+Let us consider some scenarios:
 
-- If a noisy road is built close to a man's house, and the value of the land and property decrease as a result. Is that fair on him?  
-- If instead, the public as a whole, via the government, create beautiful parks and amenities close to someone's land, and this causes her land to increase in value, is it fair that she keeps the value?  Consider that the rents which her tenants pay may also go up as a result. They have to pay more to live there, but their landlord's land goes up in value. She receives both increased rents and an increase in land value. Is that fair?
+- If a noisy road is built close to a man's house, and the value of his land and property decreases as a result, is that fair on him?  
+- If the public as a whole, via the government, create beautiful parks and amenities close to a woman's land, and this causes her land to increase in value, is it fair that she keeps the value? 
+
+Consider that the rents which her tenants pay may also go up as a result. They have to pay more to live there, but their landlord's land goes up in value. She receives both increased rents and an increase in land value. Is that fair?
 
 ## The Jubilee Line example
 
-When the Jubilee Line on the London Underground was created it cost the public purse £3.5bn. The value of the land around its stations shot up by an estimated £13bn [@Riley2001] and it was private landowners who gained that extra value[@Mitchell] . In particular, the land value around Canary Wharf station increased by £2.8bn, while the land value around Southwark station increased by £800 million [@TransportforLondon2004].  This was an increase in land values that those landowners had done nothing to create. The public paid for the amenity, and those landowners received a windfall. Is that fair?  Should all or at least some of that windfall benefit be shared with the public?
+When the Jubilee Line on the London Underground was created, it cost the public purse £3.5bn. The value of the land around the line's stations shot up by an estimated £13bn [@Riley2001], and it was private landowners who gained that extra value[@Mitchell]. In particular, the land value around Canary Wharf station increased by £2.8bn, while the land value around Southwark station increased by £800 million [@TransportforLondon2004].  This was an increase in land values that landowners adjacent to the Jubilee Line stations had done nothing to create. The public paid for the amenity, and those landowners received a windfall. Is that fair? Should all or at least some of that windfall benefit be shared with the public?
 
-Great minds have already considered this matter. Winston Churchill made his viewpoint clear, 
+Great minds have already considered this matter. Winston Churchill made his viewpoint clear: 
 
->*"Roads are made, streets are made, services are improved, electric light turns night into day, water is brought from reservoirs a hundred miles off in the mountains' and all the while the landlord sits still. Every one of those improvements is affected by the labour and cost of other people and the taxpayers. To not one of those improvements does the land monopolist, as a land monopolist,contribute, and yet by every one of them the value of his land is enhanced."*
+>*"Roads are made, streets are made, services are improved, electric light turns night into day, water is brought from reservoirs a hundred miles off in the mountains, and all the while the landlord sits still. Every one of those improvements is affected by the labour and cost of other people and the taxpayers. To not one of those improvements does the land monopolist, as a land monopolist, contribute, and yet by every one of them the value of his land is enhanced."*
 
 >*"He renders no service to the community, he contributes nothing to the general welfare, he contributes nothing to the process from which his own enrichment is derived ... the unearned increment on the land is reaped by the land monopolist in exact proportion, not to the service, but to the disservice done."*
 
 John Stuart Mill similarly wrote in 1848, 
 
->*"Landlords grow rich in their sleep without working, risking or economising. The increase in the value of land, arising as it does from the efforts of an entire community, should belong to the community and not to the individual who might hold title."* [@mill1848principles]
+>*"Landlords grow rich in their sleep without working, risking, or economising. The increase in the value of land, arising as it does from the efforts of an entire community, should belong to the community, and not to the individual who might hold title."* [@mill1848principles]
 
 More recently, the writer George Monbiot wrote, 
 
@@ -156,49 +158,49 @@ More recently, the writer George Monbiot wrote,
 
 As mentioned, this form of unearned land value increase is particularly prevalent in urban locations. It is less relevant to agricultural locations, where the work done by a farmer does little to affect the value of her neighbour's land. 
 
-Before we consider in detail, how to best address the unique situation of land, and the problems currently associated with it,let us lighten the mood and discuss board games.
+Before we consider in detail how to best address the unique situation of land, and the problems currently associated with it, let us lighten the mood and discuss board games.
 
 # 10.4 The case of Monopoly
 
-Monopoly is a fun game to play, but not necessarily one that leads to familial harmony, at least when playing the standard rules. We all know how Monopoly works - everyone has some starting cash and goes about buying up properties, building houses and charging rent. As players move around the board, they land on properties and pay rent to whoever owns it. In the end, one person owes everything and everyone else is left penniless. This is a parable for our present economy.
+Monopoly is a fun game to play, but not necessarily one that leads to familial harmony, at least when playing the standard rules. We all know how Monopoly works - everyone has some starting cash and goes about buying up properties, building houses, and charging rent. As players move around the board, they land on properties and pay rent to whoever owns them. In the end, one person owes everything, and everyone else is left penniless. This is a parable for our present economy.
 
-Rather less commonly known is the fact that Monopoly was preceded by and evolved from another game, called, 'The Landlord's Game', and  invented and patented by Elizabeth Magie. 
+Rather less commonly known is the fact that Monopoly was preceded by and evolved from another game, called 'The Landlord's Game,' invented and patented by Elizabeth Magie. 
 
 |![image](ChapterPictures/8-7-Monopoly.jpg)|
 |:--:|
 |*Figure 8.7 - The Original Monopoly was first called The Landlord's Game and invented by Elizabeth Magie*|
 
 
-This state of affairs is also present when Oligopolies exist. ^[A state of limited competition, in which a market is shared by a small number of producers or sellers.]
+This state of affairs is also present when oligopolies exist. ^[A state of limited competition, in which a market is shared by a small number of producers or sellers.]
 
-This game had two sets of rules of play. The first set of rules is similar to the rules of Monopoly and similarly led to extreme instability, with the whole board monopolised by one player, and the other players forced into penury and bankruptcy. 
+Magie's game had two sets of rules of play. The first set of rules is similar to the rules of Monopoly, and similarly led to extreme instability, with the whole board monopolised by one player, and the other players forced into penury and bankruptcy. 
 
-The second set of rules in The Landlord's Game led to a very different outcome, however. The game when played by these rules led to a stable and admittedly boring game with no clear winner. Everyone ended up with something. Not quite world peace, or even family peace, but economic peace - at least within the confines of the game.
+The second set of rules in The Landlord's Game led to a very different outcome. The game, when played by these rules, led to a stable and admittedly boring game with no clear winner. Everyone ended up with something. Not quite world peace, or even family peace, but economic peace - at least within the confines of the game.
 
-So what were the different rules that lead to a muchmore stable economic outcome? 
+So what were the different rules that lead to a much more stable economic outcome? 
 
-The 'economically stable' rules involved a tax levied by the central authorities on the value of the land owned by each individual, and distributed back through public services or a per-capita dividend. This could be called, a site valuation tax, a location value tax, but is most often referred to as a 'land-value tax'.
+The 'economically stable' rules involved a tax levied by the central authorities on the value of the land owned by each individual, and distributed back through public services or a per-capita dividend. This is sometimes called a 'site valuation tax' or a 'location value tax,' but is most often referred to as a 'land-value tax.'
 
 # 10.5 Land Value Tax
 
 ## History
 
-Elizabeth Magie intended her game to demonstrate that a single tax on land values could lead to a sustainable economic system in which all benefited. This is the kind of tax which we are proposing.
+Elizabeth Magie intended her game to demonstrate that a single tax on land values could lead to a sustainable economic system in which all benefited. This is the kind of tax we are proposing.
 
-Magie was not the originator of this idea. She was espousing the ideas of a 19th Century self-taught economist named Henry George, who argued that a single tax on land values would be both efficient and fair. It would be fair, because it taxed unearned increases in land values which occur, not due to individual effort or ingenuity, but because of development of infrastructure and the wider economy. It would be efficient, because the quantity of land does not change. He saw that when we tax labour (via income tax) or tax economic activity via sales tax and corporate taxes, we discourage these activities and make the economy less productive. Taxing land values might discourage people from speculating on land, and this would be a good thing as it would only free up funds for more productive investment and free up land for more beneficial purposes.
+Magie was not the originator of this concept. She was espousing the ideas of a 19th Century self-taught economist named Henry George, who argued that a single tax on land values would be both efficient and fair. It would be *fair* because it taxed unearned increases in land values which occur not as a result of individual effort or ingenuity, but because of development of infrastructure and the wider economy. It would be *efficient* because the quantity of land does not change. He suggested that when we tax labour (via income tax) or tax economic activity via sales tax and corporate taxes, we discourage these activities and thereby make the economy less productive. Taxing land values instead might discourage people from speculating on land, and this would be a good thing, as it would free up funds for more productive investment and free up land for more beneficial purposes.
 
 |![image](ChapterPictures/8-8-GeorgeSign.jpg)|
 |:--:|
 |*Figure 8.8 - Everybody works but the vacant lot*|
 
 
-George presented his ideas in a bestselling book, 'Progress and Poverty', and the case for a land value tax was taken up by great thinkers and politicians including the Russian novelist Leo Tolstoy and British politicians, Winston Churchill and David Lloyd George. It was only the intervention of the first World War that prevented the tax being implemented in the UK. The "people's budget" was passed by the pre-war government but had not been yet implemented by the outbreak of World War I. After the war, the government had different priorities and the tax was never implemented.
+George presented his ideas in a bestselling book, 'Progress and Poverty,' and the case for a land value tax was taken up by great thinkers and politicians, including the Russian novelist Leo Tolstoy and British politicians Winston Churchill and David Lloyd George. It was only the intervention of the first World War that prevented the tax being implemented in the UK. The "people's budget" was passed by the pre-war government, but had not yet been implemented by the outbreak of World War I. After the war, the new government had different priorities, and the tax was never implemented.
 
-Though he popularised the single land tax, Henry George could be seen as a follower of the great classical economists. Adam Smith, David Ricardo, John Stuart Mill and Karl Marx all supported land value tax or public ownership of land. David Ricardo developed both the theory and recommendations in 1817 in 'On the Principles of Political Economy and Taxation'. A land value tax was considered the first point of the political program of Marx. The importance and optimality of a land value tax was one of the few things the great classical economists agreed on.
+Though he popularised the single land tax, Henry George could be seen as a follower of the great classical economists. Adam Smith, David Ricardo, John Stuart Mill, and Karl Marx all supported land value tax or public ownership of land. David Ricardo developed both the theory and recommendations in 1817 in his monograph 'On the Principles of Political Economy and Taxation.' A land value tax was considered the first point of the political program of Marx. The importance and optimality of a land value tax was one of the few things the great classical economists agreed on.
 
-In the 20th Century the idea of a single tax on land values was espoused by economist Frank Ramsey  [@Ramsey1927] . He explained that if any one commodity is absolutely inelastic, either for supply or for demand, the whole of the revenue should be collected off it [@Putland2013]. To clarify, when a commodity is inelastic for supply, this means that its supply is (not very) sensitive to changes in price. Likewise, a commodity which is inelastic for demand is one whose demand is not greatly sensitive to changes in price. There are no commodities which are demand inelastic. However there is one which is supply inelastic - land - that is, one cannot increase or decrease the amount of land in existence. 
+In the 20th Century, the idea of a single tax on land values was espoused by economist Frank Ramsey [@Ramsey1927]. He explained that if any one commodity is absolutely inelastic, either for supply or for demand, the whole of the revenue should be collected off it [@Putland2013]. To clarify, when a commodity is inelastic for supply, this means that its supply is (not very) sensitive to changes in price. Likewise, a commodity which is inelastic for demand is one whose demand is not greatly sensitive to changes in price. Oxygen in the air, needed for people to breathe, is an example of a commodity which is demand inelastic (but fortunately it is a part of the commons, freely provided by nature, and not a "commodity" in a financially valuated sense). However, there is one commodity which is supply inelastic: Land. Some marginal tinkering by Dutch dike-builders notwithstanding, and ignoring for now the future impacts of rising sea levels due to increased greenhouse gas concentrations, one cannot, in general, increase or decrease the amount of land in existence. 
 
-Thus many economists over many years have recommended a land value tax, often considering it an 'ideal' tax. The arguments in favour of the the tax include arguments based on justice and arguments based on economic pragmatism. Land Value Tax is rare in this respect.
+That's why many economists over many years have recommended a land value tax, often considering it an 'ideal' tax. The arguments in favour of the the tax include arguments based on justice as well as arguments based on economic pragmatism. Land Value Tax is rare in this respect.
 
 # 10.6 Benefits of Land Value Tax
 
