@@ -257,7 +257,7 @@ The Massachusetts formula was initially proposed for use in the United States fo
 
 The weighting has three components: the proportion of sales, the proportion of assets, and the proportion of employees that are in each jurisdiction. We then take the average of these three weightings. This average weighting is multiplied by the global profits to determine the tax payable in the jurisdiction.
 
-Thus the corporation tax paid in jurisdiction i is given by:
+In mathematical terms, the corporation tax paid in jurisdiction i is given by:
 
 $$CorporationTax_{UK} = t_{CT} * Weighting_{UK} * Global Profits$$
 
@@ -265,13 +265,13 @@ where $t_{CT}$ is the tax rate and
 
 $$  Weighting_{UK} = \left( \frac{1}{3} \right)* \left( \frac{Sales_{UK}}{Global Sales} + \frac{Assets_{UK}}{Global Assets} + \frac{Employees_{UK}}{GlobalEmployees} \right)$$
 
-- [@TaxJustice2019]
+ This picture from the Tax Justice group illustrates the change in a slightly more reader friendly format. As it demonstrates, the change in unitary taxation would be to fairly apportion tax liabilities according to the percentage of actual business operations that occur in different regions. [@TaxJustice2019]
 
 ![9-CorporationTax-unitarytax](C:\Users\Heather Mckay\Documents\GitHub\TaxHeaven\taxheaven\ChapterPictures\9-CorporationTax-unitarytax.PNG)
 
 
 
-
+ The benefits of such a system are clear, and support for the system can be interpreted as being broad. However, the simplified nature of the calculation does not incorporate the difficulty of enforcing such a policy, not the limiting of incentives for countries to relocate to cheaper countries and export their goods and services to a UK market. Another mechanism may be better suited to tackling these shortcomings, and we shall explore this in the following section. 
 
 ###The Cashflow Tax
 
