@@ -233,38 +233,17 @@ A final concern with the corporation system as it currently stands lies in the r
 
 It's clear then that what is needed to combat these significant issues is substantial reform of the corporate tax system. In as much as the space and issues around corporation tax are complex and challenging to comprehend, so too is their reform. How best to balance the needs for sufficient tax revenue against the increasingly mobile nature of companies is a question that numerous academics and politicians have tried to solve. Building on tax-based incentives to create social 'goods' is another layer of complexity in the mix. 
 
- With any question of reform, it is important first to establish the goal to which we are working. With corporation tax, our ideal is thus. A system of company taxation that rewards exporting companies and all those that invest in physical capital expenditure in the UK. We also want to find a solution that avoids the 'race to the bottom' mentality of international corporate tax rates. Here, we suggest a reform of the VAT and existing corporation tax system that achieves just that. Our proposal then is to unify VAT and corporation tax under a company cash flow tax. 
+ With any question of reform, it is important first to establish the goal to which we are working. With corporation tax, our ideal is thus. A system of company taxation that rewards exporting companies and all those that invest in physical capital expenditure in the UK. 
 
- However,  lets not walk before we can crawl. As with before, knowledge is the most effective tool to start rebuilding any system. In this section, we'll outline a few of the main proposals for reform, including unitary taxation, the Massachusetts formula and rebates for social goods, before moving on to discussing what the optimal options would be for the society we'd like to create.  
+More specifically, we're looking for a way to taxing the wealth and income of the eventual owners of corporations. We would like to do this, so that this group pay their fair share of taxation. These policies should also be applied in such a way that they are not easily avoidable or evadable, and that treats companies fairly. Preventing an international 'race to the bottom' is also a key priority. International cooperation on tax policy is the ideal, but designing a tax policy that doesn't compete on lowering taxation rates is a strong alternative solution. Moreover, creating an attractive environment for exporters, in the short-term, would support the UK's historically poor trade performance. We suggest a proposal that reforms VAT and existing corporation tax system to achieve just this, through the unification of both components under a company cash flow tax. 
 
+However,  lets not walk before we can crawl. As with before, knowledge is the most effective tool to start rebuilding any system. To this end then, there are a number of possibilities for reform of corporation tax.  In this section, we'll outline a few of the main proposals for reform, including unitary taxation, the cash-flow tax, and potential tax-rebates for the creation of social goods, before moving on to discussing what the optimal options would be for the society we'd like to create.  
 
+## Options for reform 
 
----
+###Unitary Taxation
 
-Some options for corporation tax then that ensure that these aims are upheld are listed as follows:
-
-- Publicly quoted companies should have the option to pay the cash flow tax in shares. These shares would accrue to a sovereign wealth fund which would pay the Citizen's Dividend.
-- A 'monopoly charge' of 5% of the company value (proportional to value added sold to UK consumers,i.e. like VAT) would be imposed on all large companies and on trusts. This tax would be payable in shares to a sovereign wealth fund for children, so that1/20th of the shares of a company or trust would go to such a fund per year.
-- International wealth transparency tax of 0.1% of assets greater than 5 million pounds
-- Capital Gains Tax: If the tax paid on retained earnings is less than the average tax paid on dividends, company owners will have an incentive to retain those earnings within the company. The owner of the shares could later sell them. They would therefore pay less tax than if the earnings had been paid out as dividends. Capital gains tax on
-  shares ownership can be thought of as a crude way to prevent tax avoidance through this route. Capital gains tax also allows those who have achieved unearned capital value increases (for example, due to the fall in long-term interest rates) to contribute properly. Capital gains tax rates should be set consistently to
-  avoid tax advantages or disadvantages based on legal structure. 
-- Applying an Immigration and Citizenship charge
-
-
-
-What are the objectives of reform of Corporation tax? 
-
-1. We are looking for a way of taxing the wealth and income of the eventual owners of corporations. We would like to do this, so that this group pay their fair share of taxation.
-2. We would like to apply these tax policies in a way that is not easily avoidable or evadable, and that treats companies fairly. 
-3. We would like to prevent or reverse the 'race to the bottom' theory whereby it is seen to be in countries' self-interest to reduce corporate taxes
-4. In the UK context, given our poor trade performance, we would like to help give an advantage exporters in the short term
-
-There are a number of possibilities for reform of corporation tax. We deal here with two.
-
-## Unitary Taxation
-
-Unitary taxation is a method for taxing large corporations which allocates their global profits according to different jurisdictions. So instead of there being a confusing plethora of different formulae for determining how much taxes should be paid in a certain jurisdiction, a standard formula is used. One such formula is the so-called 'Massachussets formula', which was proposed to be used in the United States for allocating the profits of corporations between various states in which they are based. The formula takes the total worldwide profits, to which are then applied a weighting in each country or other state in which they are based. 
+Unitary taxation is a method for taxing large corporations which allocates their global profits according to different jurisdictions. So instead of there being a confusing plethora of different formulae for determining how much taxes should be paid in a certain jurisdiction, a standard formula is used. One such formula is the so-called 'Massachusetts formula', which was proposed to be used in the United States for allocating the profits of corporations between various states in which they are based. The formula takes the total worldwide profits, to which are then applied a weighting in each country or other state in which they are based. 
 
 The weighting has three components: the proportion of sales, the proportion of assets, and the proportion of employees that are in each jurisdiction. We then take the average of these three weightings. This average weighting is multiplied by the global profits to determine the tax payable in the jurisdiction.
 
