@@ -204,33 +204,33 @@ That's why many economists over many years have recommended a land value tax, of
 
 # 10.6 Benefits of Land Value Tax
 
-Land value tax is very much alive within taxation discussion today and is advocated across the political spectrum. Greens MP Caroline Lucas described Land Value Tax as, sensible, efficient, effective and progressive. In the final report of the Mirrlees review [@Mirrlees2010], the economic case for land value tax was described as 'simple, and almost undeniable'. 
+Land Value Tax is very much alive within taxation discussion today, and is advocated across the political spectrum. Greens MP Caroline Lucas described Land Value Tax as "sensible, efficient, effective and progressive." In the final report of the Mirrlees review [@Mirrlees2010], the economic case for land value tax was described as "simple, and almost undeniable." 
 
-The Mirrlees review was a review of the tax system which was commissioned by the Institute for Fiscal Studies in 2010/11. It brought together internationally renowned experts and researchers to 
+The Mirrlees review of the tax system was commissioned by the Institute for Fiscal Studies in 2010/11. It brought together internationally renowned experts and researchers to: 
 
 >*"identify the characteristics of a good tax system for any open, developed economy in the 21st Century, assess the extent to which the UK tax system conforms to these ideals, and recommend how it might realistically be reformed in that direction."*
 
 The review wrote extensively about the merits of land value tax. A section of their findings is below.
 
-> *"The economic case for taxing land itself is very strong and there is a long history of arguments in favour of it. Taxing land ownership is equivalent to taxing an economic rent'to do so does not discourage any desirable activity. Land is not a produced input; its supply is fixed and cannot be affected by the introduction of a tax. With the same amount of land available, people would not be willing to pay any more for it than before, so (the present value of) a land value tax (LVT) would be reflected one-for-one in a lower price of land: the classic example of tax capitalization."*
+> *"The economic case for taxing land itself is very strong, and there is a long history of arguments in favour of it. Taxing land ownership is equivalent to taxing an economic rent - to do so does not discourage any desirable activity. Land is not a produced input; its supply is fixed, and cannot be affected by the introduction of a tax. With the same amount of land available, people would not be willing to pay any more for it than before, so (the present value of) a land value tax (LVT) would be reflected one-for-one in a lower price of land: the classic example of tax capitalization."*
 
 >*"Owners of land on the day such a tax is announced would suffer a windfall loss as the value of their asset was reduced. But this windfall loss is the only effect of the tax: the incentive to buy, develop, or use land would not change. Economic activity that was previously worthwhile remains worthwhile. Moreover, a tax on land value would also capture the benefits accruing to landowners from external developments rather than their own efforts."* [@IFS]
 
 Along with the economic efficiency argument, there are other arguments in favour of Land Value Tax. A summary is found below.
 
-1. Funding Infrastructure: Increases in land tax can be used to fund better infrastructure.
-2. Difficult to avoid/evade: The owners of land cannot re-declare it as being held in an offshore haven. The tax is based on the location of the land not on the location of the individual owning it.
-3. Natural rights: Individual work (labour) is naturally owned by the person who did the work whereas land and natural resources are naturally unowned or shared by all.
+1. Funding infrastructure: Increases in land tax can be used to fund better infrastructure.
+2. Difficult to avoid/evade: The owners of land cannot re-declare it as being held in an offshore haven. The tax is based on the location of the land, not on the location of the individual owning it.
+3. Natural rights: Individual work (labour) is naturally owned by the person who did the work, whereas land and natural resources are naturally unowned, or shared by all.
 4. Fairness: Societies that tax land prevent individuals making an economic return simply by sitting on the land as others create improvements around them.
-5. Incentives to invest productively: If individuals and companies can make money simply by owning land, they will not need to invest in the real economy. The Land Value tax incentivises those with wealth to invest in productive investments.
-6. Economic stability: Speculation on the value of land is associated with credit-based booms and busts. For example, the Japanese late 80's boom and 90's bust or the recent 'great recession', which started the property crash in the U.S.
-7. House Price stability: A Land Value Tax could help to stabilise house prices, giving incentives against disproportionate amounts of capital being tied up in property and unsustainable accumulation of debt. That is, people who are just holding land because they expect the land value to increase, will have an incentive to either use the land productively or sell it. Holding it will become too expensive.
-8. Benefit to Local Government: Taxing land values can enable some of the increase in value that results from a prosperous economy and public investments to be captured by local government. This can provide an incentive for local authorities to support economic growth and development, and potentially an efficient way of financing infrastructure projects [@Wightman2013].^[Alternatively, a national land tax would naturally redistribute from one region to another, but then you'd lose the local connection.]
-9. Removal of counterproductive taxes: many taxes discourage productive behaviors, which we should be incentivising. Land Value Tax would allow us to do away with some of these distorting taxes. Nicholas Boles puts it succinctly in a Financial Times article [@Boles].
+5. Incentives to invest productively: If individuals and companies can make money simply by owning land, they will not feel the need to invest in the real economy. Land Value Tax incentivises those with wealth to invest in productive investments.
+6. Economic stability: Speculation on the value of land is associated with credit-based booms and busts. For example, the Japanese late 80's boom and 90's bust, or the recent 'great recession,' which resulted from the bursting of a massive property speculation bubble in the U.S.
+7. House price stability: A Land Value Tax could help to stabilise house prices, giving incentives against disproportionate amounts of capital being tied up in property and unsustainable accumulation of mortgage debt. That is, people who are just holding land because they expect the land value to increase, will have an incentive to either use the land productively or sell it. Simply holding it will become too expensive.
+8. Benefit to local government: Taxing land values can enable some of the increase in value that results from a prosperous economy and public investments to be captured by local government. This can provide an incentive for local authorities to support economic growth and development, and potentially could become an efficient way of financing infrastructure projects [@Wightman2013].^[Alternatively, a national land tax would naturally redistribute from one region to another, but then you'd lose the local connection.]
+9. Removal of counterproductive taxes: Many taxes discourage productive behaviors which we should instead be incentivising. Land Value Tax would allow us to do away with some of these distorting taxes. Nicholas Boles puts it succinctly in a Financial Times article [@Boles]:
 
-> "*The holy grail for every Treasury economist is a tax that costs little to collect and does not reduce people's incentives to do the things that we want them to do.'..Land Value Tax does not discourage productive behaviour, but would enable us to do  away with counterproductive taxes on labour, production, dwellings, other capital and commerce.*  [@Gaffney2009] 
+> *"The Holy Grail for every Treasury economist is a tax that costs little to collect and does not reduce people's incentives to do the things that we want them to do... Land Value Tax does not discourage productive behaviour, but would enable us to do  away with counterproductive taxes on labour, production, dwellings, other capital, and commerce."*  [@Gaffney2009] 
 
-# 10.7 Does the experience bear out the theory?
+# 10.7 Does experience bear out the theory?
 
 As indicated above, proponents claim that land value taxation can reduce real estate speculation and volatility in house prices. There are two ways in which LVT might have such an effect.
 
