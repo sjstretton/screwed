@@ -426,98 +426,98 @@ For John Stuart Mill,
 
 Thus land (or natural resources) was recognised by classical economists as being distinct from, and on equal footing with, capital and labour. 
 
-However, according to Financial Times economic commentator, Martin Wolf, 'something strange' happened in the transition from Classical to Neoclassical economic thought. 
+However, according to Financial Times economic commentator Martin Wolf, "something strange" happened in the transition from Classical to Neoclassical economic thought. 
 
-> "*In moving from classical to neoclassical economics ' the dominant academic school today 'economists expunged land ' or natural resources. Neoclassical value theory...still makes a great deal of sense. Expunging natural resources from the way economists think about the world does not.*"
+> *"In moving from classical to neoclassical economics - the dominant academic school today - economists expunged land - or natural resources. Neoclassical value theory...still makes a great deal of sense. Expunging natural resources from the way economists think about the world does not."*
 
-Neo-classical orthodoxies tend to conflate land (including natural resources) with capital. They  recognise two factors of production - labour and capital. For Wolf and a growing number of economists, this change is based on erroneous assumptions which are now having disastrous effects;
+Neoclassical economic orthodoxy tends to conflate land (including natural resources) with capital. The neoclassical theorists recognise only two factors of production - labour and capital. For Wolf and a growing number of economists, this change is based on erroneous assumptions, the consequences of which are now having disastrous effects:
 
-"*The idea that land and capital are the same thing is evidently ludicrous. It requires us to believe that the economic machine is self-sustaining ' a sort of perpetual motion machine. Capital is the product of savings and investment. It is the result of human frugality and the invention required to imagine and create new capital goods. Labour is also ' and in today's circumstances, increasingly ' a form of capital. Parents, governments and individual people invest in their own skills, so making themselves more productive.* 
+*"The idea that land and capital are the same thing is evidently ludicrous. It requires us to believe that the economic machine is self-sustaining - a sort of perpetual motion machine. Capital is the product of savings and investment. It is the result of human frugality and the invention required to imagine and create new capital goods. Labour is also - and in today's circumstances, increasingly - a form of capital. Parents, governments and individual people invest in their own skills, so making themselves more productive.* 
 
-*Yet there would be no economy ' indeed no humanity ' without a constant inflow of natural resources into the system: what lies above our heads (the sun and the atmosphere), what lies close to us (the soil, the seas and location itself) and what lies beneath us (fossil fuels, metals and minerals and heat). Humanity does not make these things; it exploits them. Some of these resources are also appropriable and so a source of unearned personal wealth*." [@Wolf2010]
+*Yet there would be no economy - indeed no humanity - without a constant inflow of natural resources into the system: What lies above our heads (the sun and the atmosphere), what lies close to us (the soil, the seas and location itself), and what lies beneath us (fossil fuels, metals and minerals and heat). Humanity does not make these things; it exploits them. Some of these resources are also appropriable and so a source of unearned personal wealth."* [@Wolf2010]
 
 ## The effects of treating land as a kind of capital
 
-According to writer, Martin Adams, this failure to effectively distinguish between land and capital in economic models leads to"incorrect forecasts and faulty economic applications in addressing social issues such as wealth inequality or ecocide." [@Adams2016] This occurs partly because by seeing land as capital, we fail to recognise that the factors which influence the price (land rents) of land are not the same factors which influence the price (interest rates) of Capital.
+According to writer Martin Adams, this failure to effectively distinguish between land and capital in economic models leads to "incorrect forecasts and faulty economic applications in addressing social issues such as wealth inequality or ecocide."[@Adams2016] This occurs partly because by seeing land as capital, we fail to recognise that *the factors which influence the price (land rents) of land are not the same factors which influence the price (interest rates) of capital.*
 
-This erroneous conflation of land with capital also leads to the treatment of land as an investable product, though it is not. Because land generally increases in value,people talk about buying land 'as an investment'. The buy-to-let landlords in the UK who see themselves as investors in property, are not truly investing in the economic sense. Rather, they are parking their money somewhere. This is the case because to be an investment, something new of value must be created.  Land is not investable in the sense that anything new of value is created by the input of money (purchase)/transfer of ownership. 
+This erroneous conflation of land with capital also leads to the treatment of land as an investible product, though it is not. Because land generally increases in value, people talk about buying land 'as an investment.' The buy-to-let landlords in the UK who see themselves as investors in property, are not truly investing in the economic sense. Rather, they are parking their money somewhere - thez are making a *'placement,'* not an investment. This is the case because to be an *investment,* by definition, something which is both new and of value must be created - something that did not previously already exist. Land is not investible in the sense that anything new of value is created by the input of money. Acquiring land involves a mere transfer of ownership - not a creation of new value. 
 
-When money is put into a start-up business, for example, this is a productive investment - it may, in tandem with the efforts of people labouring in the business, create something new, which is of value. This an a productive investment. The purchase of land is nota productive investment as it adds no new goods and services of value to the economy.  Neo-classical economic theory fails to recognise this important distinction. The result of this is policies which allow or encourage people to 'park'their money in property rather than invest it in truly productive areas, such as business and infrastructure. This is a loss to all of us as we all lose out on the creation of new products and services which would benefit us.
+When money is put into start-up businesses producing food, shelving, toys, medical devices, or ultracapacitors, for example, these are productive investments. They may, in tandem with the efforts of people labouring in these businesses, create something new which is of value. The mere purchase of land in the hope that its value will go up later as a city gets generally more expensive, by contrast, is not a productive investment, as it adds no new goods or services of value to the economy. Neo-classical economic theory fails to recognise this important distinction. The results of this are policies which allow or encourage people to park their money in property rather than incentivising them to invest it in truly productive endeaviours, such as factories or new infrastructure. This misallocation of finances leads to less creation of new products and services than would be the case if money were invested, rather than merely 'placed.'
 
-# 10.11 Ways in which Land differs from Capital
+# 10.11 Ways in which land differs from capital
 
-Land has unique characteristics which distinguish itfrom Capital as an economic input. Gaffney emphasises ten primary distinctions;
+Land has unique characteristics which distinguish it from capital as an economic input. Gaffney emphasises ten primary distinctions:
 
-## 1. Land is not produced, nor is it reproducible.
+## 1. Land is not produced, nor is it reproducible
 
-This should be most obvious to everyone. When satellites show us pictures of the earth from space, they show us something which we did not create, yet it exists. "Man at best improves and develops capacitiesinherent in the free gift". 
+When satellites show us pictures of the earth from space, they show us something which we did not create, yet exists: Lands and seas. "Man at best improves and develops capacities inherent in the free gift." 
 
-Capital has been produced by human hand. As Gaffney argues [@Gaffney1994], capital is produced by human investment, thrift and production. It coexists with land, and he argues, this is why microeconomics makesthe error of conflating land and capital. He argues that neoclassical economics deals mainly with relations ofcoexistence and largely ignores relations of sequence, which occur over time,such as the formation and destruction of capital.
+Capital, on the other hand, is produced by human investment, thrift and production.[@Gaffney1994] It coexists with land, and perhaps this is why microeconomics makes the error of conflating land and capital. Gaffney suggests that neoclassical economics deals mainly with relations of coexistence and largely ignores relations of sequence over time, such as the formation and destruction of capital.
 
-"*The life ofcapital, like that of people, is marked by major sacraments of birth, growth,aging and death - all missing from micro theory. Micro deals mainly with howexisting resources are allocated at a moment in time, not how they originate,grow, flourish, reproduce, age, die, and decompose*"
+*"The life of capital, like that of people, is marked by major sacraments of birth, growth, aging, and death - all missing from microeconomic theory. Micro deals mainly with how existing resources are allocated at a moment in time, not how they originate, grow, flourish, reproduce, age, die, and decompose."*
 
 ## 2. Land as 'site' is permanent and recyclable
 
-Essentially, this is to say that land does not get used up (with the exception of extractive natural resources), destroyed or depreciate. Capital does decay, however. As a matter of course, capital products wear out  They must be kept going by constant maintenance and repair. We talk about consuming land, but land in fact does not get consumed or used up, in the way that Capital does. It is of course, possible to damage land, for instance, through toxic waste dumping.
+Essentially, this is to say that land does not get used up (with the exception of extractive natural resources), destroyed, or depreciate. Capital does decay, however. Capital products - human-created tools, in the broad sense - wear out. They must be kept usable by constant maintenance and repair. It is, of course, possible to damage land, for instance through toxic waste dumping.
 
 ## 3. Land supply is fixed
 
-One of the most crucial consequence of this fact is that, unlike Capital, land acquisition is a zero sum game. That is, no one can acquire more land without others having less. The amount of land we have now is fixed. We cannot make more (even attempts to create new land masses are simply moving land around)
+One of the most crucial consequences of this fact is that, unlike capital, land acquisition is a zero-sum game. That is, no one can acquire more land without others having less. The amount of land we have now is fixed. We cannot make more (even attempts to create new land masses involve simply moving land around, e.g. from underwater to the surface).
 
-## 4. Land is immobile in space and uncontrollablein time
+## 4. Land is immobile in space and uncontrollable in time
 
-The fact that land is immobile in space means that its supply cannot be increased to meet increased demand in a localised area. So, when demand goes up, prices go up. 
+The fact that land is immobile in space means that its supply cannot be increased to meet increased demand in a localised area. So when demand goes up, prices go up. 
 
 The fact that land is 'uncontrollable in time' means that the benefits which flow from land, such as raising seedlings, flow steadily at a certain pace. The benefits cannot be set aside and stored for future use.
 
-> "*Nature's services per se...come in a flow like time itself, unbidden and uncontrollable.Mankind cannot advance nor retard its services at will.*"[@Gaffney1994]
+> *"Nature's services per se...come in a flow like time itself, unbidden and uncontrollable. Mankind cannot advance nor retard its services at will."*[@Gaffney1994]
 
-Another effect of the immobile or fixed location of land is that is suffers externalities - both positive and negative - from surrounding land. That is, the economic value of a piece of land is affected directly by what is going on by the land surrounding it. So for example, land's economic value can be affected by negative externalities such as pollution or the rate of crime in the surrounding area. The value of land can also be increased by 'positive externalities', such as improvements to local infrastructure and the creation of public amenities.
+Another effect of the immobile or fixed location of land is that is suffers externalities - both positive and negative - from activities on surrounding land. That is, the economic value of a piece of land is affected directly by what is going on by the land surrounding it. So for example, land's economic value can be affected by negative externalities such as pollution or crime in the surrounding area. The value of land can also be increased by 'positive externalities,' such as improvements to local infrastructure and the creation of public amenities.
 
 ## 5. Land does not turn over. It is recycled and versatile
 
-Land is versatile in that it is available for a multiplicity of uses. Land rarely becomes obsolete, with the result that there is almost always an opportunity cost in the use of land: i.e. it can always be used for something else. This is not the case for many forms of capital, which do become obsolete. 
+Land is versatile in that it is available for a multiplicity of uses. Land rarely becomes obsolete, with the result that there is almost always an opportunity cost in the use of land: i.e. it can always be used for something else. This is not the case for many forms of capital, which can and do become obsolete as technologies evolve. 
 
-*"The only source of land for new uses today, as for ages past, is to take it from its previous use"*
+*"The only source of land for new uses today, as for ages past, is to take it from its previous use."*
 
 ## 6. Land is not interchangeable with capital
 
-Interchange must be distinguished from 'exchange'. Land can be exchanged for capital but they are not interchangeable. Capital can be converted into other types of capital. The consequence of this is that it is a mistake to think that 'uniformity' within taxation should occur between land and capital. It need only occur within each class.
+Interchange must be distinguished from 'exchange.' Land can be exchanged for capital, but they are not interchangeable. Capital can be converted into other types of capital. The consequence is that it's a mistake to think that 'uniformity' within taxation should occur between land and capital. It need only occur within each class.
 
 ## 7. Land is subject to market forces that differ from those that determine the price of capital (interest rates).
 
-We mentioned earlier the costs or prices of the different modes of production. The price of labour is wages, the price of capital is interest and the price of land island rent. But what affects these various prices and are the influencing factors the same?  The short answer is that they are not the same. Interest rates around the world are subject to 'common, interconnecting forces' and they rise and fall in sympathy. Land rents are also influenced by common forces, but these are not the same forces as those which influence interest rates. In fact, one of the forces which influences land rents is the interest rate. The two prices vary inversely. As Gaffney states, 
+We mentioned earlier the costs or prices of different modes of production. The price of labour is wages, the price of capital is interest, and the price of land is land rent. But what affects these various prices, and are the influencing factors the same?  The short answer is that they are not the same. Interest rates around the world are subject to common, interconnecting forces, and they rise and fall in sympathy. Land rents are also influenced by common forces, but these are not the same forces as those which influence interest rates. In fact, one of the forces which influences land rents is the interest rate. The two prices vary inversely. As Gaffney states, 
 
-"*Capital andLand are rivals for the same pie, so usually their returns vary inversely. Ground rent equals operating cash flow lessinterest on the cost of building, and less building depreciation. A rise in interest rates lowers ground rents.*"
+*"Capital and Land are rivals for the same pie, so usually their returns vary inversely. Ground rent equals operating cash flow less interest on the cost of building, and less building depreciation. A rise in interest rates lowers ground rents."*
 
-The meld of land and capital in neoclassical thoughtcauses us to lose this distinction and inter-relationship. This is an obstacle to attempts to model theoutcome of economic policies. 
+The melding of land and capital in neoclassical thought causes us to lose sight of this distinction and the attendant inverse relationship. This is an obstacle to attempts to model the outcome of economic policies. 
 
 ## 8. Land price guides investors and determines the character of capital, as capital substitutes for land.
 
-There is a relationship between land prices (rents)and the kinds of capital which investors choose to invest in. We are familiar with the idea that when theprice of labour (wages) are high, then investors prefer 'labour-saving' capital(such as self-service checkouts at supermarkets). Similarly, when land rents are high,investors prefer 'land-saving' capital, such as high buildings. 
+There is a relationship between land prices (rents) and the kinds of capital which investors choose to invest in. We are familiar with the idea that when the price of labour is high, then investors prefer 'labour-saving' capital (such as self-service checkouts at supermarkets). Similarly, when land rents are high, investors prefer 'land-saving' capital, such as high buildings. 
 
 They also favour:
 
-- land enhancing capital (capital used to improve land for a new use)
-- land-linking capital (rail lines, canals etc)
+- land-enhancing capital (capital used to improve land for a new use)
+- land-linking capital (rail lines, canals, etc.)
 - land-capturing capital (e.g. dams to secure water rights)
 - rent-leading capital
 
 ## 9. Land is limitational
 
-This is a technical term which essentially means that all human activity requires some land (including nature, space, water, the ecology etc)  and some capital. Labour and capital cannot exist without at least some land, while land can easily exist without labour or capital. Land can not only exist, but support timber and wildlife.
+This is a technical term which essentially means that all human activity requires some land (including air, space, water, living ecosystems, etc.) and some capital. Labour and capital cannot exist without at least some land, while land can easily exist without labour or capital. Absent human labour or capital, Land supports natural ecosystems, which can be understood as the economies of our cousins in the tree of life - grasslands, forests, lakes, rivers, seas, wildlife habitat.
 
-It has often fallen to environmentalists to remind us of the limitational value of land. The famous environmentalist catch-cry coined by activist Judy Bonds puts it most powerfully: 'No jobs on a dead planet!' 
+It has often fallen to environmentalists to remind us of the limitational value of land. The famous environmentalist catch-cry coined by activist Judy Bonds puts it most powerfully: "No jobs on a dead planet!" 
 
-## 10. Land value (basic permanent location value)is not an economic fund.
+## 10. Land value (basic permanent location value) is not an economic fund
 
-The unique qualities of land certainly give it value, but this value cannot be effectively described by the usual categories which are used to describe economic values. These standard categories divide value into funds and flows. Gaffney clarifies that land value is the present value of anticipated future service flows from land which cannot be hastened. This is a mouthful, but it expresses an important quality of land. This kind of value is not like capital stores (a fund), which can be drawn from, such as grain from a granary. 
+The unique qualities of land certainly give it value, but this value cannot be effectively described by the usual categories which are used to describe economic values. These standard categories divide value into funds and flows. Gaffney clarifies that land value is the present value of anticipated future service flows from land, which cannot be hastened. This is a mouthful, but it expresses an important quality of land. This kind of value is not like capital stores (a fund), which can be drawn from, such as grain from a granary. 
 
-Here we are speaking about the basic permanent location value of land. There are particular cases to be made for exhaustible resources such as oil reserves.
+Here we are speaking about the basic permanent location value of land. There are exceptions in cases of exhaustible resources such as oil and gas reserves.
 
 # 10.12 Economic Consequences
 
-## 1. The origin of property in land is political and owning land imparts superior bargaining power.
+## 1. The origin of property in land is political, and owning land imparts superior bargaining power.
 
 Capital may result from the ingenuity and effort of people and involves the creation of something new. There is thus a sort of natural ownership which arises. There is also a natural ownership of one's labour. There is no such natural ownership of land. That is,no-one claims land by right of production. Whilst there are good reasons for private ownership of land, it should be remembered that historically, the origin and distribution of property inland in not economic, but political. 
 
