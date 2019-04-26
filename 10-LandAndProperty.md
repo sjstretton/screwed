@@ -9,7 +9,7 @@ bibliography: library.bib
 link-citations: yes
 ---
 
-# PART 10: LAND AND PROPERTY
+# CHAPTER 10: LAND AND PROPERTY
 
 ## Summary 
 

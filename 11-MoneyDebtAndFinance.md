@@ -9,7 +9,7 @@ bibliography: library.bib
 link-citations: yes
 ---
 
-# PART 11: MONEY, DEBT AND FINANCIAL REPRESSION
+# CHAPTER 11: MONEY, DEBT AND FINANCIAL REPRESSION
 
 ## Summary
 

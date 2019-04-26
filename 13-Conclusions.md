@@ -9,9 +9,9 @@ bibliography: library.bib
 link-citations: yes
 ---
 
-# PART 14: CONCLUSIONS
+# CHAPTER 13: CONCLUSIONS
 
-# 14.1 Overview
+# 13.1 Overview
 
 In this book, we have compared the Tax and Welfare system to an operating system - a mechanism of levers through which society is run, funds are raised, and public services are delivered. Using this metaphor, we have been able to troubleshoot the bugs in the current system, and illustrate why the UK has seen increasing inequality of outcomes between the best- and worst-off in our society, as well as stagnation for the broad middle. 
 
@@ -26,7 +26,7 @@ We summarise the findings from our discussion below. Broadly, on the whole, we p
 Our proposals should be considered interim, since we have not yet completed accurate modelling of all their effects.
 
 
-# 14.2 A SUMMARY OF RECOMMENDATIONS
+# 13.2 A SUMMARY OF RECOMMENDATIONS
 
 We propose a simple tax system which aims to fulfils our requirements of being beneficial, fair, and practical. These proposed policies, and the related transitional arrangements, aim to resolve issues around incentives and redistribution in the current UK tax system in a politically achievable way. 
 
@@ -53,7 +53,7 @@ We propose a simple tax system which aims to fulfils our requirements of being b
 3. Increase the bank balance sheet tax, adapt it counter-cyclically, and adjust it to favour lending to real businesses.
 4. Introduce a comprehensive wealth register. This may take the form of a disclosure requirement on all UK wealth owned by foreigners and on ownership of foreign wealth by UK residents. Combine this with a small 0.1% wealth tax on both of these classes of wealth.
 
-# 14.3 Transitional Questions
+# 13.3 Transitional Questions
 
 To ensure that these new proposals are implemented successfully, any transition to the new taxation system would need to account for the following three effects. 
 
@@ -77,7 +77,7 @@ The following table shows both the final strategic objective and the intermediat
 
  
 
-# 14.4 CONCLUDING REMARKS
+# 13.4 CONCLUDING REMARKS
 
 With this book, we have tried to outline the purposes and principles behind the UK tax and welfare system as it stands today, and we have attempted to address where exactly it has been going wrong. Excessive complexity, poorly communicated purposes, administrative and procedural problems, and lack of public buy-in are all issues with the current structure. 
 

@@ -3,7 +3,9 @@ output:
   pdf_document: default
   html_document: default
 ---
-# CHAPTER 2: PROGRESS AND PROBLEMS
+# CHAPTER 3: PROGRESS AND PROBLEMS
+
+# 3.1 The Scope and Audience of this Book
 
 This book is addressed to a wide readership: Economists, scientists, politicians, professionals, and the public alike. Everyone, in fact, who cares about two issues not usually understood to be intimately connected: Establishing a fair economy which rewards contributive merit in proportion to contribution (tempered by compassion for the elderly or disabled), and preventing catastrophic climate disruption. 
 
@@ -13,7 +15,7 @@ Across the social spectrum, people are starting to lose hope. The poor are losin
 
 What would an economy fit for our children look like - a society and economy that promotes the wealth and happiness of its citizens? Such a framework would define, create, preserve, and fairly distribute wealth, both natural and man-made. To build an economy that enables and fosters happiness, we will need different metrics than those economists conventionally use today - metrics encompassing both economic security and satisfaction of needs, as well as measures of free time, manageable stress levels, and social stability. A successful economy is one that is good for people and for the planet. Gross domestic product (GDP) is only one among many relevant measures.
 
-## What are the Economic Conditions for Sustainable Widepread Prosperity?
+# 3.2 What are the Economic Conditions for Sustainable Widepread Prosperity?
 
 To define a desirable economy and society, we need first to determine the economic conditions that would be necessary for sustainable and widespread prosperity.  
 
@@ -21,7 +23,7 @@ Adam Smith wrote what is probably one of the two most famous books on economics,
 
 Why, given two and a half centuries of stunning technological and economic progress, do these issues still persist? Why, despite the growth in global wealth, are many people still existing in precarious circumstances? Why is there environmental pollution, despite the fact that humanity has the wealth and technological ability to prevent it? The 19th century reformer Henry George tried to answer these questions in his seminal text *Progress and Poverty*. He argued that it was the exploitation of the private ownership of land that caused  poverty. Clearly, this is not the sole reason for the issues that society currently faces, but we can draw from his analysis a few lessons that shape our recommendations. The very structure of our economic system is at fault: It does not place explicit value on the well-being and happiness of people. Our economic system has not allowed us to take full advantage of the technological progress we have made in ways that serve human happiness, fairness, safety, and environmental sustainability. In order to come to grips with this reality, we must fight fire with fire - i.e. we must adapt the tools of the current system to combat its weaknesses. What we seek is instruments of economic policy that will re-orient human efforts in desirable and necessary directions. This quest is in the tradition of what used to be called *political economy*.
 
-## Evolution of Political Economy
+# 3.3 Evolution of Political Economy
 
 Economics is the study of activities that are, at least in part, motivated by financial gain. The term *political economy* comes from Koine Greek, the *lingua franca* of the eastern Roman Empire from the fourth century BCE onward. *Polis* means city-state, the main form of political organisation in ancient Greece. 'Economy' comes from two Greek words: *Oikos*, meaning household, and *Nomos* meaning law. Thus *Oikonomos* means household management and the root of *political economy* is 'household managment of the state'. Classical political economy treatises include the works of Adam Smith, David Ricardo, John Stuart Mill, and Karl Marx. 
 
@@ -31,7 +33,7 @@ Theories of political economy often have questions of taxation and property at t
 
 Our starting point is Adam Smith's model, since his work has helped to define the predominant economic view of the two centuries that followed the publication of his seminal work.
 
-## Adam Smith's Model
+# 3.4 Adam Smith's Model
 
 In *The Wealth of Nations*, Smith set out a model of how economic growth comes about, and how it can lead to widespread prosperity. He argued that the division of labour leads to higher levels of productivity, giving the example of a pin factory, where dividing the process of manufacturing pins into discrete steps and assigning workers to become efficient specialists in a single step leads to more pins being produced for the same total number of hours worked. By focusing on a single task, a worker can do this task more quickly than if he has a multitude of different jobs to do. This differentiation of jobs takes place not only in a single enterprise, but also across the whole economy. By specialising and trading, we can get more work done in a given number of hours. The productivity of the economy as a whole rises through specialisation.
 
@@ -45,7 +47,7 @@ Similarly, if the process relies on some factor of production that cannot be rep
 
 We term these two forms of property income 'generalised rent.' Generalised rent is a permanent flow of income associated with an asset that cannot be replicated. It is received by the owners of properties in valuable locations and the shareholders of market-dominant companies. We argue that generalised rent leads to expensive housing, stagnating wages, and unmerited wealth gains for the already rich.
 
-## Wicked Externalities
+# 3.5 Wicked Externalities
 
 So what about the problem of pollution? Damage to other people or their interests is usually illegal. Examples could include injury or theft. However, some economic activities which damage others are legal. Driving a  petrol car, which pollutes the environment, is legal and normal, but nevertheless damages others' interests. Small indirect damages from many independent sources can add up to a significant total. Imagine driving into a major city at rush hour. Each car adds only a little congestion and pollution, but together they add up to gridlock and unhealthy air.
 
@@ -55,13 +57,13 @@ Moreover, externalities that seem acceptable when societies are small may prove 
 
 Climate change is among the wickedest of externalities. Wicked externalities such as climate change are damages caused by our actions that affect others remote in time and space, without effective governance systems to constrain them. For the planet as a whole, this model is catastrophic. But there is a route out of this kind of economic situation. Economic growth needs to be dematerialised or physically circular. In other words, we need to decouple the impacts that economic growth has on natural resource use and on the natural world - or even, in some cases, make growth generate positive environmental externalities, by seeking activities that are regenerative of ecosystems (rather than degenerative) and setting financial incentives (through regulated financial mechanisms) that make regenerative actions remunerative and profitable. If in the past we've rewarded companies for clearcutting forests, in future, we can reward companies to replant deforested areas. We can rejig the system so that it's more profitable to generate low-carbon electricity (nuclear, wind, or solar power, for example) than electricity generated by burning fossil fuels. And so on.
 
-## A Place for Taxation 
+# 3.6 A Place for Taxation 
 
 This discussion of the problems of pollution and precariousness has led us to identify the two key phenomena of economic rent and negative economic externalities. The problems are coming into focus. This leads on to the grand-challenge question: What should be done? In governance terms: Which policy tools can be employed to effect change?
 
 Taxation is important in our economic model not just because it alters the distribution of income, but also because it can be used to set finely tunable economic incentives for the private sector. Classical political economists, from Smith to Ricardo to Karl Marx, have argued that the taxation system or redistribution of property are the two basic categories of corrective tools for these issues. Later in this book, we make recommendations for the design of a better, more functional tax system, both in principle and in practice. However, political feasibility is a key barrier to these changes. Prioritisation of strong policy communication and smooth implementation are key tenets of any successful public policy. A policy that's badly communicated or implemented, even if well-conceived, will soon be rejected by outraged citizens, and political opponents may persuade voters that the policy was a bad idea in principle even if it was merely badly executed. That can take a good policy idea off the public agenda for a generation. Developing a *theory of change* for successful policy communication and implementation is therefore a key priority.
 
-## Principles for Policy Change
+# 3.7 Principles for Policy Change
 
 Economists have been aware of the phenomena of 'rent' and 'externalities' for many decades, and yet taxes which would correct these economic distortions have only been imposed occasionally and partially. Here, we make the case for a simple 'change equation,' in which the perceived benefits of any policy must overwhelm the perceived costs. We can address this in two ways: Either we can make a sufficiently passionate and positive case for these taxes, and thereby overwhelm opposition; or we can reduce the costs of the proposed changes, and hence the political resistance to them.
 
@@ -118,13 +120,13 @@ Let's focus now on corporate lobbying. Companies have the means at their disposa
 
 This is a catch-22 situation. We can't change the companies without changing the tax system. But sometimes, we can't impose the new tax system without changing the company, since they are able to effectively resist policy changes. So instead, we need forms of tax that don't face such resistance, but which lead to the transformation of companies in a positive direction. We describe one option, the feebate, a little later on.
 
-## A Four-fold Framework for Public Wealth
+# 3.8 A Four-fold Framework for Public Wealth
 
 What improvements could such changes make? There are four crucial benefits to wider society of a better taxation system. We call these the four realms of value: households, communities, nations, and the world. We argue that our proposals can enhance genuine wealth at the level of the individual, community, nation-state, and planet. For each of these four realms, we also define a notion of social entrepreneurship. 
 
 These forms of entrepreneurship imply a new growth model for everyone - one that is not based on increasing financialisation and debt issued on limited assets, but rather on the development of productive industries tasked with solving our collective problems. There's an overarching concept too, which we term *policy entrepreneurship.* That is, we should break out of the monopoly of thought imposed on us by neoclassical economics and neoliberal economic ideas, and instead conceive of and try out practical solutions to our problems, without ideological blinders.
 
-## *Improvement 1: Power to the People*
+## Improvement 1: Power to the People
 
 The current social security system is highly insecure: Benefits are taken away from people when their conditions change, sometimes leading them to go into arrears with their rent or other payments, and often leading them into debt. The current social security system also discourages work, since benefits are withdrawn as income increases (in the Universal Credit system at a rate of 61% for every £ increase in income). 
 
@@ -142,7 +144,7 @@ It would also allow division of labour with minimal taxation between individuals
 
 The United States in the post-war years showed the advantage of redistributive income taxation, including high tax rates on companies. The top rate of income tax was often over 70% in that period, and taxes on companies were also higher than at present. Because everyone's incomes were not as widely different, this not only meant that normal people could afford consumer goods; it also meant that everyone had a chance to buy a share of limited positional goods such as land. Since the top rate of tax was high, and since income tax is the largest and most important tax, this meant that the tax rate paid by people with average earnings was lower. We discuss this is Parts 6 and 7.
 
-## *Improvement 2: An Affordable Home in a Prosperous Community* 
+## Improvement 2: An Affordable Home in a Prosperous Community
 
 The second priority is an affordable home for all. British governments have massively mismanaged the taxation of housing and business properties. By appropriately taxing the value of the location (land) in a way that is convenient and fair for all, we can make it possible for most people to enjoy the economic benefits of owning their own home. An optimal tax system would encourage community action, so that 'community entrepreneurship' allows communities to develop their value and capture the fruits of development improvements. How could we achieve this, given how expensive homes already are in Southeast England?
 
@@ -154,7 +156,7 @@ Taxing property values rather than property *per se* would stabilise current pro
 
 Singapore has been termed the 'property state' [@Haila2015]: Its example shows what is possible when there is a 'prosperity loop' between investment in public infrastructure and public rent collection. In a nutshell: As the government makes infrastructure improvements, those improvements increase the rental value of the land. Those land value increases then accrue to the government. Hong Kong also shows the advantages of this approach. Before a new metro line is built, land near the new stations is purchased at pre-announcement cost. When the metro station has been built, the property value and rent will increase. In this way, society captures the land value benefit of the new infrastructure [Purves]. We discuss this in Part 8.
 
-## *Improvement 3: A Prosperous and Wealthy Country*
+## Improvement 3: A Prosperous and Wealthy Country
 
 The third priority is a prosperous and wealthy country. The current taxation system does not encourage productive wealth formation. In fact, it encourages the sorts of companies that *extract* wealth from the country, and discourages those who want to invest productively and regeneratively in society. A better system would encourage people who invest in *real assets*, but discourage purely financial investment. In short, a good tax system encourages a balance of trade. 
 
@@ -169,7 +171,7 @@ Moreover, commercial banks should be encouraged to lend to real-economy producti
 
 One great anxiety is about *debt*. There are basically two forms of debt that concern people: public (or government) debt and private debt. High public debt pressures governments to 'cut the deficit' through 'austerity.' Yet in the past, the best way to reduce the burden of public debt has been to not worry much about it - i.e. to use different strategies than cutting expenditures to reduce the debt-to-GDP ratio. In the three decades after the Second World War, the UK reduced its public debt to GDP ratio from over 250% of GDP to 70% of GDP. It did this not through austerity, but rather through growth, inflation, monetisation of some debt, and low interest rates. We consider the fiscal benefits of such strategies later in this book.
 
-## *Improvement 4: A Clean and Safe Global Environment*
+## Improvement 4: A Clean and Safe Global Environment
 
 The final priority is the environment. There are a number of major environmental problems facing us, most notably climate change and ocean acidification, but also plastics in the ocean, habitat destruction, road congestion, over-fishing, over-hunting, and conventional air, water, and land pollution. Environmental taxes have a few challenges: they can be unpopular, hard to design, encourage 'off-shoring' of dirty forms of industry, and bureaucratic. 
 
@@ -183,7 +185,7 @@ Because protecting the environment is so important, the main priority is not to 
 
 Three European countries show that a carbon tax can work exactly as intended. Sweden, Switzerland, and the UK all have a carbon tax of some description. Sweden was one of the first to introduce its carbon tax. The per capita emissions of Sweden are now among the lowest in Europe. Switzerland has also introduced such a tax. The UK introduced its 'carbon price floor' more recently, and it has seen a large fall in emissions. Most notably, the UK has seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags, urban traffic congestion charges, and deposit return schemes.
 
-## Conclusions
+# 3.9 Conclusions
 
 The central concern of the book is the use of the tax system for public benefit. The challenge addressed is how to pay for public services and social protection in a world characterised by 'wicked externalities,' 'generalised rent,' and (as we will deal with later) international flows of money and assets. We want to solve the critical challenges facing our societies, including climate change, poverty, and the phenomena of complexity, avoidance, and evasion in our taxation and welfare systems.
 

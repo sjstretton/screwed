@@ -3,11 +3,11 @@ output:
   pdf_document: default
   html_document: default
 ---
-# CHAPTER 3: DESERT ISLAND ECONOMICS
+# CHAPTER 4: DESERT ISLAND ECONOMICS
 
 The purpose of this section is to take you on a whirlwind tour of some important ideas in economics and the history of economic ideas. We shall introduce these through stories set on a group of several islands, which we will term the Economic Archipelago (the 'Tea Islands'). In the subsequent chapter we will introduce these same ideas more formally using a different analogy: The cake.
 
-# 3.1 Growth on Great Island: Adam Smith's Model
+# 4.1 Growth on Great Island: Adam Smith's Model
 
 In this economic fable, we will demonstrate Adam Smith's model of growth through specialisation.
 
@@ -43,7 +43,7 @@ The total average food production is 2/3+1/6=5/6 or about 0.82kg. Thus the real 
 
 This is an example of the basic model of division of labour and competition. Let's now extend this model to the situation in which there is scarce land that is privately owned.
 
-# 3.2 Rent on Private Property Island
+# 4.2 Rent on Private Property Island
 
 Our fisherman is considering a change of direction. He has heard that there are two new islands, recently discovered, which seem paradisical. Rabbits run free and are easy to hunt. Fishing is rather laborious; hunting rabbits sounds much easier. Our fisherman sets out to visit the first of the two new islands. The first island is one of private property.
 
@@ -101,7 +101,7 @@ But there's a catch. Friday comes round and observes what is going on. He takes 
 
 Note that it seems that *property* is the fundamental problem here. But as we will see, abolishing property causes its own problems....
 
-# 3.3 Overhunting on Open Access Island
+# 4.3 Overhunting on Open Access Island
 
 Let's now imagine another island. On this island, there are no property rights. Anyone can hunt for rabbits anywhere. And like the island just mentioned, there is no landowner! Word gets around, and everyone comes to the island. 
 
@@ -109,7 +109,7 @@ In the beginning, everyone is happy. Wages, 8 rabbits per day, or one per hour, 
 
 In contrast to the island with private property, people are poor, but there's no abusive rent collection. The absence of property rights has, however, caused a long-term impoverishment of the islanders, by causing a failure to allocate and enforce hunting-rights at sustainable levels. What we are learning through these scenarios is that the fair allocation of property rights is the key for protecting the rights and prosperity of the ordinary worker. 
 
-# 3.4 Inequality on Special Island
+# 4.4 Inequality on Special Island
 
 Let's say now that hunters vary significantly in their skill level. There's a limited quantity of land, and a limited quantity of rabbits. But some people are much better than others at catching rabbits. Had there been unlimited rabbits or unlimited land, this wouldn't appear to be much of a problem. With limitations, however, there is a problem. The successful hunters can afford to pay the landlord more tribute, and so their existence increases the price of land. Moreover, they put pressure on the rabbit population, harvesting more of the rabbits for themselves and leaving fewer for others. 
 
@@ -117,7 +117,7 @@ The control that 'the landlord' imposed helps somewhat, by setting a limit on th
 
 This justifies what we call progressive taxation, to enable some degree of redistribution to compensate for the costs to the community of a more successful hunter. Progressive taxation means taxing people that have larger incomes at a greater proportional rate than people who have smaller incomes. 
 
-# 3.5 Economic Justice on Dream Island
+# 4.5 Economic Justice on Dream Island
 
 One of the islands on our archipelago is the island of our dreams. The fruit is bountiful, the water is clean, the people are happy. Everyone has a house or can build one with their own resources. Fisheries and forests are managed well. Some people are richer than others, but the difference isn't huge, and the people who are rich or high status are those that have contributed the most to society - in other words, rewards are proportional to *contributive merit.* The community collaborates to ensure that the political system is not corrupt and governs the society well; the citizens trade with each other and with people on other islands. There is work for all, but no-one has to work uncomfortably long hours. The financial system supports beneficial activities - for example clean power and a recharging system for electric cars. Financially, people are secure; they have investments in the local factory, which, whilst its mostly robotised, provides everyone with a dividend to spend on the products that it and other factories produce.
 
@@ -135,6 +135,6 @@ What does the central authority do with the taxes received (in our story: with t
 
 What about over-hunting? A limited number of permits could be issued by the central authority, with fines and penalties levied against those who are caught ignoring the rules. Hunting rabbits could be constrained. Or put another way, a tax could be levied on hunting rabbits.  On propertied land, it can be expected that the landowners/renters in charge of the land will themselves look after the rabbits on their own plots. If rabbits run freely between plots, there needs to be a joint solution agreed between all the land-owners or set by the central authority that constrains hunting.
 
-# 3.6: Off the Island and into Reality
+# 4.6: Off the Island and into Reality
 
 What do these analogies mean for modern government policy on a large island that harbours the lives of 65 million people? A multitude of factors influence the functioning of the UK tax and welfare system, and those factors interact to determine the impacts these controls have on society. The following sections outline the key questions that policy makers have to ask when designing and implementing taxes. We'll explore the missing aspects in current policy design, issues in transitioning to a new tax regime, and the reality of taxes as it stands today. 

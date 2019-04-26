@@ -3,7 +3,9 @@ output:
   pdf_document: default
   html_document: default
 ---
-# CHAPTER 1: FACING A PERFECT STORM.
+# CHAPTER 1: INTRODUCTION
+
+# 1.1 Facing A Perfect Storm
 
 The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
 
@@ -20,7 +22,7 @@ First, the seas were no longer as bountiful as they once were. In the 1950s, the
 
 In other words, the fishermen were in a situation that was neither safe nor fair - and the lack of fairness led them to take dangerous risks. Moreover, their lives were defined by a world of scarcity, a world that had been depleted by over-exploitation of natural resources.
 
-# Spaceship Earth
+# 1.2 Spaceship Earth
 
 What has the 'Perfect Storm' got to do with the future of the planet? On Earth, we are facing a similar situation as did Clooney and his crew. There are warnings of a dangerous future ahead for all of us. Climate scientists warn of a much hotter planet, with more intense storms and rising seas. Should we ignore the warnings and steam ahead, like Clooney, or recognise the dangers we face and try to mitigate them?
 
@@ -34,7 +36,7 @@ There's a lot of truth in these observations - but it's also true that there are
 
 In other words, humanity is in a situation that is neither safe nor fair - and the lack of fairness is leading us to take dangerous risks. Moreover, the economic game is unfolding in an era of extreme environmental risks caused by polluters' failure to take responsibility for pollution, made worse by the *de facto* capture of governments by polluters. 
 
-# Your Safety and Quality of Life Directly and Hugely Depend on Achieving Major Tax Reforms
+# 1.3 Your Safety and Quality of Life Directly and Hugely Depend on Achieving Major Tax Reforms
 
 That's why we've set out to propose reforms in the way Britain's taxes are organised that make our society safer, fairer, and more responsible in economic and environmental terms. The same or similar reforms as those we propose could also be usefully applied in many other countries. 
 
@@ -42,7 +44,7 @@ Inequality takes many forms and strikes at the root of human security. A rising 
 
 There's one more crucial question: How can we decide on and make these changes together? The members of Clooney's crew had different preferences. Some wanted to get home swiftly; others wanted to stay out at sea and avoid the storm. But the fate of the crew was indivisible. No-one was in a position to exit the boat earlier than the others, or take a different route. They had to decide together and hence live or die together. The fate of humanity is similar. Whatever our individual preferences, we also face issues in common. We need to understand the controls of our economy so we can shift its trajectory in a safer, fairer direction. If our society is analogous to Clooney's boat, our economy is akin to the boat's engine, and our taxation system is its rudder. That's why our focus in this text is on the British economy's control systems: not just on the rudder, but on the processes for deciding whether to shift the rudder in one direction or another.  
 
-Throughout our analysis, we steer clear of the god-like perspective of meteorologists, with their satellites and computer models, and constrain our analysis to the ground-level, human perspective of Clooney and his men. We therefore don't make it part of our task to demonstrate that the meteorologists and climate scientists are right about the dangers of rising atmospheric carbon levels. That issue is within scope of many other texts - and we've read enough of them to be very confident that climate science isn't a hoax. (We recommend the website skepticalscience.com for good, easy-to-read information about climate science, and rebuttals of mistaken talking-points often repeated by 'climate skeptics.') We proceed from the credible assumption that threats to the stability and safety of the climate due to rising atmospheric greenhouse gas levels are very real, indeed existential, and need to be dealt with. The storm, in other words, is strong and rising. It will get much fiercer in years and decades to come. 
+Throughout our analysis, we steer clear of the god-like perspective of meteorologists, with their satellites and computer models, and constrain our analysis to the ground-level, human perspective of Clooney and his men. We therefore don't make it part of our task to demonstrate that the meteorologists and climate scientists are right about the dangers of rising atmospheric carbon levels. That issue is within scope of many other texts - and we've read enough of them to be very confident that climate science isn't a hoax. ^[We recommend the website (http://skepticalscience.com) for good, easy-to-read information about climate science, and rebuttals of mistaken talking-points often repeated by 'climate skeptics.'] We proceed from the credible assumption that threats to the stability and safety of the climate due to rising atmospheric greenhouse gas levels are very real, indeed existential, and need to be dealt with. The storm, in other words, is strong and rising. It will get much fiercer in years and decades to come. 
 
 The trawler and the fishermen in Clooney's boat were a combined mechanical and a social system. In determining the system's fate, what mattered was not only how well the boat's engine and rudder were working, but also how well Clooney was directing the crew. We face a similar situation with our economy and the political system that guides it. That's why our analysis considers two major economic questions, both of which need to be solved together: How can we prevent environmental destruction? And what constitutes a just distribution of wealth and property? In both cases, we're interested in taxation as set of controls over the economy and the consequent impact on human lives - and the economy's wider impact on the physical world.
 
@@ -50,7 +52,8 @@ We can phrase these questions in economic and political terms. The economist wou
 
 If we think of our economy as akin to Clooney's boat, money is the fuel coursing through its engine. Although humanity has developed almost god-like powers, we are new to their exercise. We lack experience in steering our boat, we don't fully understand how its engine works, and we also are constantly confronted with the human problems of a bickering crew. It's like we have a boat with a hugely powerful engine, but a crew with little competence in sailing it. We are in the terrifying position of being masters of our own environment, even as we are not quite masters of ourselves. 
 
-## Is Change Achievable?
+\newpage
+## 1.4 Is Change Achievable?
 
 Some have said that it's easier to see the end of the planet than the end of capitalism. Money has long been recognised as dangerous to the human soul - two and a half millennia ago, the philosopher Plato bemoaned a decline of honourable standards of behaviour caused, he said, by a 'secret desire for treasure.'
 

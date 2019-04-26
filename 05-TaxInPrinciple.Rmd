@@ -12,9 +12,9 @@ bibliography:
 link-citations: yes
 ---
 
-# PART 5: TAX IN PRINCIPLE
+# CHAPTER 5: TAX IN PRINCIPLE
 
-# 5-1: Why Tax?
+# 5.1: Why Tax?
 
 It seems obvious that the authors of this book - **Tax Heaven** - would be in favour of taxation. Taxes are, as we have argued in previous chapters, a valuable method to pursue a variety of social objectives. In fact, they are probably among the most important tools at the disposal of governments, despite the negative press that surrounds their levy and use. 
 
@@ -85,7 +85,7 @@ Another area where the tax system could potentially be used to benefit society i
 It is not just in the levying of the tax that this mechanism can be beneficial. It's possible to arrange financial flows from taxes on 'bads' such that the beneficiaries of the tax (those who benefit from spending of the revenues raised) directly correspond with the stated social aims behind the tax policy. This can bring a ‘double dividend’ of impact. For example, taxing polluting fuels and using the revenues to subsidise clean energy could potentially accelerate the development and implementation of clean energy provision in a country. Moreover, if a tax looks to have regressive impacts (i.e. hits the poorest in society at a disproportionate level - consumption taxes and heating-fuel taxes can have this effect), some of the revenues from such a tax could be given as a rebate to those most negatively affected to ensure that the policy retains political viability, as well as a broadly positive impact. We see this in the form of modern welfare benefits in the UK, despite the well-publicised problems in the system. These will be explored in a later chapter which explores the history and functionality of the UK welfare system. 
 
 
-# 5-2 Historical perspectives 
+# 5.2 Historical perspectives 
 
 Economic theorists have spent a lot of effort considering what an ideal tax system should look like and how the practical application of its principles could function. Adam Smith is perhaps the most celebrated early economist to have considered this subject. He postulated that there were four axioms of taxation, which were that taxes should be *convenient, objective, low cost* both in terms of the direct costs of their administration and the discouragement they cause to others, and that they should be *levied proportionally to an individual’s ability to pay.* In his own words, in 1776 Smith [-@smith1776wealth, Book V, Chapter I] argued that:
 
@@ -107,7 +107,7 @@ Standing on the shoulders of these giants, we can derive two general principles.
 
 Secondly, the importance of distributed ownership of and returns from assets becomes clear. Any taxes that are implemented should prioritise the minimisation of any inequalities that might result. This, in turn, means using taxation and regulation to manage the ability of an economic actor to assume monopolistic control over private assets and to accrue unearned *economic rent*. If we convert this into economic language, we can say that the priorities for any taxation system should be to focus on taxing *externalities and rents.* 
 
-# 5-3 Principles for Taxation
+# 5.3 Principles for Taxation
 
 In our introduction, we discussed the core questions that must be answered if taxes are to be used effectively. In the popular imagination, informed by frequent articles published in newspapers owned by billionaires with anti-tax agendas, taxes are characterised as an inevitability, a necessary evil, and a yearly burden, rather than being understood as an important tool for social progress. As the old saying goes - there is nothing so certain in life as death and taxes.
 
@@ -149,7 +149,7 @@ One pertinent drawback from overcomplication of tax policy is tax evasion. This 
 
 Another aspect of practicality is predictability. Individuals and companies must be able to predict future expenses in order to manage their financial planning. In a similar vein, taxes must be clearly defined, so that taxpayers can plan their affairs while knowing exactly how much tax they can expect to pay. This emphasises the need for steady transitions and well communicated policies when applying any policy change. 
 
-# 5-4 Principles for Welfare
+# 5.4 Principles for Welfare
 
 Let's take another look at the public services to which spending raised from tax revenues are allocated. The most significant of these, outside of healthcare, is welfare. The modern welfare state, conceived by Beveridge in 1942, looks to protect individuals 'from cradle to grave' [@Beveridge1942] by redistributing income from taxation to those who are most in need. 
 
@@ -163,7 +163,7 @@ That there are a number of secondary and tertiary benefits to this, including cr
 
 The UK’s comprehensive system empowers low income and unemployed workers by providing them with education and a minimum standard of subsistence by which they can move back into the labour force when they are ready. Where the system fails is in not doing enought to encourage and channel workers into productive and fulfilling roles, or in protecting those at the bottom against social censure. Other social security systems manage these issues differently, and manage to avoid the common criticisms that plague commentary around the UK welfare system. 
 
-# 5-5 A Framework for Reform
+# 5.5 A Framework for Reform
 
 ## Principles in practice
 
@@ -263,49 +263,20 @@ Malcolm Torry, in his recent book 'The feasibility of citizen's income' [@Torry2
   
 We cover these notions of feasibility in our evaluation of these proposals in chapter 14.
 
-# Principles of Transition
+# 5.6 Principles of Transition
 
 ## Transition
 
-Any new tax system will involve a transition from the existing to the new. Working out such a transition is as important as working out where the direction of a tax system should eventually go. Such a transition should be fair and politically feasible, and also it should demonstrate the viability of the policies implemented by proving to a sceptical public their value. In order to transition from the current system to one that works more effectively in a fashion that is smooth and politically feasible, we set out some suggestions on principles of transition. 
+Any new tax system will involve a transition from the existing to the new. Working out such a transition is as important as working out where the direction of a tax system should eventually go. Such a transition should be fair and politically feasible, and also it should demonstrate the viability of the policies implemented by proving to a sceptical public their value. 
 
- ## Principle 1: Visionary
+1. Visionary: The desired state and the objectives of the move should be clear.
+2. Packaged Change: The change in the tax system should be packaged into a policy proposal that can be implemented in the current political system.
+3. Rhetorical: The change should be expressible in simple and compelling arguments.
+4. Few Losers: The change should create few losers, in other words, significant, well organized groups should not lose out. If there are losers, then those losers should be disarmed by the rhetorical purpose of the policy, and where necessary by appropriate transitional compensation.
+5. Expert Assent: The change should have experts willing to support it. These experts should be credible and authoritative.
 
-The desired state and the objectives of the move should be clear.
 
-## Principle 2: Packaged Change
-
-The change in the tax system should be packaged into a policy proposal that can be implemented in the current political system.
-
-## Principle 3: Political Feasibility: Rhetorical
-
-The change should be expressible in simple and compelling arguments.
-
-## Principle 4: Political Feasibility: Few Losers
-
-The change should create few losers, in other words, significant, well organized groups should not lose out. If there are losers, then those losers should be disarmed by the rhetorical purpose of the policy, and where necessary by appropriate transitional compensation.
-
-## Principle 5: Expert Assent
-
-The change should have experts willing to support it. These experts should be credible and authoritative.
-
-## Summary
-
-The following table shows both the final strategic objective and the intermediate/transitional one. 
-
-| **Policy Area**                    | **Initial, Intermediate   Approach**                         | **Final Objective**                                          |
-| ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Income Tax                         | Simplify rates structure, make existing benefits universal and add in   means testing using tax system instead of benefits means testing. | Income tax is only paid by the upper half of individuals     |
-| VAT                                | Remove Exemptions, SImplify                                  | Transition to a profits tax based on UK sales                |
-| Carbon Tax                         | A system that gives general incentives based on a high implicit   carbon price that does not raise significant revenue | A high carbon tax used for general revenue                   |
-| Money Balance Tax                  | No change from existing system                               | Electronic deposits are taxed at approximately 5% per annum with a   significant tax free personal allowance. Cash are registered and are time   limited and a small fees are paid on withdraw |
-| Citizen's Dividend                 | Use existing benefit rates that simplify the system and reduce   conditionality. | In the long term, build up a personal sovereign wealth fund to pay   individuals are larger citizen's dividend |
-| Guaranteed Training and Employment | Short term, high quality master craftsman level courses for specific   groups to optimize the system | Long term, rolling out the guaranteed training to all sections of the   population |
-|                                    |                                                              |                                                              |
-
- 
-
-## Paths forward
+# 5.7 Paths Forward
 
 Taxes and benefits create incentives for good or ill. It is crucial that these incentives are well-aligned with the interests of society as a whole. An improved tax and welfare system should include the functional and qualitative characteristics described above to promote total wealth in society. A well-designed system would reconcile the seemingly competing objectives of equity and efficiency with a minimum of compromise. Effective communication and steady implementation could also satisfy political objectives through clearly demonstrating the economic, social, or environmental objectives that a policy was designed to achieve. 
 
@@ -328,4 +299,3 @@ One element of this could consist in clearly tying outputs from the spending of 
 Another could be in proposing a shareholder-stakeholder model of society. By asking the question of who exactly the stakeholders and shareholders are in society. and who should receive the 'dividends' from different forms of wealth, the path may be opened to more fundamental change in the UK tax system. 
 
 It will also be useful to highlight success stories from other countries and constituencies, where tax policy has been received positively by the communities it affects. In our next chapter, we will explore these ideas of implementation and functionality, as we move on to how these principles are applied in practice. 
-

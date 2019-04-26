@@ -15,7 +15,7 @@ bibliography:
 typora-root-url: ChapterPictures
 ---
 
-# PART 6: TAX IN PRACTICE
+# CHAPTER 6: TAX IN PRACTICE
 
 # 6.1: The Existing Tax System
 

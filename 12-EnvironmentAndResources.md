@@ -9,7 +9,7 @@ bibliography: Library/libraryCopy.bib
 link-citations: yes
 ---
 
-# PART 12: ENVIRONMENT, HEALTH, AND RESOURCEs
+# CHAPTER 12: ENVIRONMENT, HEALTH, AND RESOURCEs
 
 # 12.1 Introduction
 
