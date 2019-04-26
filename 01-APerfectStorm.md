@@ -52,8 +52,7 @@ We can phrase these questions in economic and political terms. The economist wou
 
 If we think of our economy as akin to Clooney's boat, money is the fuel coursing through its engine. Although humanity has developed almost god-like powers, we are new to their exercise. We lack experience in steering our boat, we don't fully understand how its engine works, and we also are constantly confronted with the human problems of a bickering crew. It's like we have a boat with a hugely powerful engine, but a crew with little competence in sailing it. We are in the terrifying position of being masters of our own environment, even as we are not quite masters of ourselves. 
 
-\newpage
-## 1.4 Is Change Achievable?
+# 1.4 Is Change Achievable?
 
 Some have said that it's easier to see the end of the planet than the end of capitalism. Money has long been recognised as dangerous to the human soul - two and a half millennia ago, the philosopher Plato bemoaned a decline of honourable standards of behaviour caused, he said, by a 'secret desire for treasure.'
 
@@ -71,6 +70,7 @@ In this book we take a different interpretation of Queen's song.
 
 So perhaps by 'don't stop us now' we should think of the beauty of the natural world and the pleasure and happiness it can bring to all. We have been so through much as a planet and as species. There's no good reason to stop this from existing and functioning well. There's no reason to destroy much of the natural world through environmental change. And there's no reason to disrupt the living conditions of our children so radically either. 
 
+# 1.5 What Role Can You Play?
 ^^ BEGIN UNEDITED NEW SECTION
 
 And we will therefore need everyone on board contributing to act and not to stop. What is the role of individuals here? 
@@ -79,13 +79,20 @@ Up to now, the main message about how ot tackle climate change has been 'be guil
 
 We instead argue for a different message. It is this: 'reform of taxes and finance to transform the incentives of the private sector -- combined with massive govewrnment-led investment -- can fix this problem'. 
 
-It won't be easy. Massive new renewable and nuclear electricity^[in countries that decide to use nuclear energy. In countries, investments in and imports from massive solar plants in deserts such as the Sahara, will be needed instead] plants will be needed to replace not just our existing electricity sector but also provide energy for transport and heating. This will require massive investment. In this book we describe a 'magic tax' - a carbon tax combined with an electricity generation subsidy - which will transform the incentives to invest in clean electricity generation. Combined with changes to the financial system (see chapter 11) this will lead to mucgh investment from the private sector. Of course this needs to be combined with massive state intervention too, especially important in countries without a liberalised electricity market. Such investment will create so many jobs that our economy may overheat unless we simultaneously reduce consumption too (quite apart from the environmental reasons for so doing). Rationing may be necessary, just as in war-time, but there will be a job for all who need it. We need tax changes both to encourage investment, and to ration the remaining real resources fairly without profiteering.
+It won't be easy. Massive new renewable and nuclear electricity plants^[in countries that decide to use nuclear energy. In other countries, investments in and imports from massive solar plants in deserts such as the Sahara, will be needed instead] will be needed to replace not just our existing electricity sector but also provide energy for transport and heating. This will require massive financial investment. 
+
+In this book we describe a 'magic tax' - a carbon tax combined with an electricity generation subsidy - which will transform the incentives to invest in clean electricity generation. Combined with changes to the financial system (see chapter 11) this will lead to mucgh investment from the private sector. 
+
+Of course this needs to be combined with massive state intervention too and this is important in all countries and most critically in those without a liberalised electricity market. Such investment will create many jobs, perhaps so many that our economy may overheat unless we simultaneously reduce consumption too (quite apart from the environmental reasons for so doing). Rationing may be necessary, just as in war-time, but there will be a job for all who need it. We need tax changes both to encourage investment, and to ration the remaining real resources fairly without profiteering.
 
 Tax reform will change the prices of things radically, incentivising both companies and individuals to do the right thing. Some things will become much more expensive, but other things cheaper.
 
-So what is your role - the role of an individual - in this mission? The role is not for you to reduce your impact, helpful as that might be. Rather it is to call out for economic reform: energy system, taxation and finance -- to transform the way we do things. The calls for reform are no less urgent than the coherent calls for action in general for this crisis by amongst others, Greta Thunberg and her school strikers and the 'Extinction Rebellion'. We provide the 'how' consistent with the requirements of the scientists.
+So what is your role - the role of an individual - in this mission? The role is not for you to reduce your impact, helpful as that might be. Rather it is to call out for economic reform: energy system, taxation and finance -- to transform the way we do things. The calls for reform are no less urgent than the coherent calls for action in general for this crisis by amongst others, Greta Thunberg and her school strikers and the 'Extinction Rebellion'. We need protestors for positive changes and this book suggests some of the changes that are needed, in relation to the tax system. In other words, we provide the 'how' consistent with the requirements pointed out by the scientists and echoed by the protestors.
+
+Indeed there is what might be called the possibility of a shared narrative on the how. The right seeks to use the private sector to solve the problems. The left seeks greater fairness and government intervention. In this book we show how the two are both necessary, and how they can be united. We bring humanity home to a set of economic ideas already expressed in our intellectual history.
 
 ^^ END UNEDITED NEW SECTION
 
+# 1.6 How Did We Get Here?
 
 So if the world of ideas - in particular, economic ideas - now influences the very fate of our planet, how on earth did we get into this situation in the first place? To get a sense of this, let's first go back in time a couple of centuries to the era of Adam Smith and the economic concepts that first gained currency in his time. Then we'll run the clock forward, observing revolutions of politics, technology, and ideas.
