@@ -67,6 +67,25 @@ We must change this trajectory, and take carbon back out of the atmosphere on a 
 
 But one great issue that makes it very difficult to shift course from our current trajectory, even though it is pointed straight toward shipwreck and disaster, is sheer momentum. Our whole economic way of life is 'locked in' to a particular course and the message is 'don't stop me now.' The incentives built into our economic system reward carrying on as usual, not changing course. 
 
-In this book we take a different interpretation of Queen's song. We have been so through much as a planet and as species. There's no good reason to destroy much of the natural world through environmental change. And there's no reason to disrupt the living conditions of our children so radically either. So let's not stop taking action to prevent these calamities.
+In this book we take a different interpretation of Queen's song. 
+
+So perhaps by 'don't stop us now' we should think of the beauty of the natural world and the pleasure and happiness it can bring to all. We have been so through much as a planet and as species. There's no good reason to stop this from existing and functioning well. There's no reason to destroy much of the natural world through environmental change. And there's no reason to disrupt the living conditions of our children so radically either. 
+
+^^ BEGIN UNEDITED NEW SECTION
+
+And we will therefore need everyone on board contributing to act and not to stop. What is the role of individuals here? 
+
+Up to now, the main message about how ot tackle climate change has been 'be guilty for your carbon emissions and try to reduce them individually'. A small minority argue vaguely for the overthrow of 'the system'.  It is our contention that these strategies simply will not work. Individual change will be insufficient. And revolutionary change of the system is too vague a message insufficiently targetted on the actual reforms needed.
+
+We instead argue for a different message. It is this: 'reform of taxes and finance to transform the incentives of the private sector -- combined with massive govewrnment-led investment -- can fix this problem'. 
+
+It won't be easy. Massive new renewable and nuclear electricity^[in countries that decide to use nuclear energy. In countries, investments in and imports from massive solar plants in deserts such as the Sahara, will be needed instead] plants will be needed to replace not just our existing electricity sector but also provide energy for transport and heating. This will require massive investment. In this book we describe a 'magic tax' - a carbon tax combined with an electricity generation subsidy - which will transform the incentives to invest in clean electricity generation. Combined with changes to the financial system (see chapter 11) this will lead to mucgh investment from the private sector. Of course this needs to be combined with massive state intervention too, especially important in countries without a liberalised electricity market. Such investment will create so many jobs that our economy may overheat unless we simultaneously reduce consumption too (quite apart from the environmental reasons for so doing). Rationing may be necessary, just as in war-time, but there will be a job for all who need it. We need tax changes both to encourage investment, and to ration the remaining real resources fairly without profiteering.
+
+Tax reform will change the prices of things radically, incentivising both companies and individuals to do the right thing. Some things will become much more expensive, but other things cheaper.
+
+So what is your role - the role of an individual - in this mission? The role is not for you to reduce your impact, helpful as that might be. Rather it is to call out for economic reform: energy system, taxation and finance -- to transform the way we do things. The calls for reform are no less urgent than the coherent calls for action in general for this crisis by amongst others, Greta Thunberg and her school strikers and the 'Extinction Rebellion'. We provide the 'how' consistent with the requirements of the scientists.
+
+^^ END UNEDITED NEW SECTION
+
 
 So if the world of ideas - in particular, economic ideas - now influences the very fate of our planet, how on earth did we get into this situation in the first place? To get a sense of this, let's first go back in time a couple of centuries to the era of Adam Smith and the economic concepts that first gained currency in his time. Then we'll run the clock forward, observing revolutions of politics, technology, and ideas.
