@@ -13,7 +13,7 @@ link-citations: yes
 
 # 9.1 Corporations and Tax
 
-r tufte::newthought('If we take as a given') that the benefits of paying income tax outweigh the costs to individual taxpayers, the question becomes one of what other players in society should be liable. Individuals with sufficient earnings pay National Insurance and income tax. People who buy goods and services pay VAT. It serves to reason then that companies which consume goods and services, and earn profits in the UK, should also be liable for a tax.  For what exactly is a company but a collective group of people organised into delivering a certain good or service. It is fo
+r tufte::newthought('If we take as a given') that the benefits of paying income tax outweigh the costs to individual taxpayers, the question becomes one of what other players in society should be liable. Individuals with sufficient earnings pay National Insurance and income tax. People who buy goods and services pay VAT. It serves to reason then that companies which consume goods and services, and earn profits in the UK, should also be liable for a tax.  For what exactly is a company but a collective group of people organised into delivering a certain good or service. 
 
  Despite seemingly an uncontroversial position, the minefield that surrounds corporation tax begs to differ. Several different taxes are currently levelled on companies that operate in the UK, including corporation tax on their profits from their business operations, and business rates on the rateable value of their land and buildings. Several loopholes and rebates exist which aim to keep companies pacified against having to pay increased levels of tax. However, these loopholes often overstep the mark and leave corporations which, while in reality conduct the majority of their business and operations within the UK, are able to claim a foreign base and avoid taxes all together. 
 
@@ -33,7 +33,7 @@ It's worth then outlining some definitions before we enter into the murky world 
 
 Corporations are, in their most basic definition, a large company or group of companies authorized to act as a single entity and recognized as such in law. A company is a collection of individuals who have grouped together to provide a professional service or goods. These companies and corporations, however, are legal constructs. They have no *real* presence in the world, but are legal forms ultimately owned and controlled by a person or people.  A limited company is a legal form where the financial liability of the owners is limited to the net assets of the company. In other words, a company can go bankrupt and the owners of the company have some protection from the company's creditors. Corporations are the legal forms which are dominant in modern society and, much like religious organisations and educational institutions, wield enormous power.
 
-***Corporation Tax***
+*Corporation Tax*
 
 ****Corporation tax is a tax on company profits. In simple terms, profit is the difference between sales revenue and company costs. In this, there is an analogy with a general principle of taxation, which says that those who have more should pay more. With respect to corporations, those companies who make more profit, should pay more Corporation tax. In the UK, this is currently set at 21% for companies with annual profits over £300,000 [@HMRC2019a]
 
@@ -47,11 +47,11 @@ Such organisations will pay corporation tax on the money they make from:
 
 If the company is based in the UK, it must pay corporation tax on all its profits from both the UK and abroad. If a company isn't based in the UK but has an office or branch here, it only pays Corporation Tax on profits from its UK activities.
 
-***Business Rates***
+*Business Rates*
 
 ****Corporation tax is not the only tax on companies. Companies also pay business rates, which is a tax on the rateable value of land and buildings. This is covered in the part on section on land and property.
 
-***Rates and Reliefs***
+*Rates and Reliefs*
 
 ****Companies pay corporation tax at the rate which applied during their accounting period. The current Corporation Tax rate on company profits is 21%.
 
@@ -61,13 +61,13 @@ When preparing the company's accounts, the costs of running the company may be d
 
 Organisations must calculate and report their own tax obligations. There is no bill from HMRC. Rather, they must register for corporation tax within three months of doing business. There may also be a penalty for late registration. 
 
-***Ring Fenced Companies***
+*Ring Fenced Companies*
 
 ****Different corporation tax rates apply to companies that make profits from oil extraction or oil rights from UK-based resources. These companies are designated as 'ring-fenced' due to reasons of national energy policy and security. Such companies can claim Marginal relief on profits between £300,000 and £1.5 million. 
 
-***Registration***
+*Registration*
 
-Registration can be done online, and companies require their Unique Taxpayer Reference number, which usually will have been posted to them by HMRC after the company was registered with Companies House. 
+Registration can be done online, and companies require their unique taxpayer reference number, which usually will have been posted to them by HMRC after the company was registered with Companies House. 
 
 While registering, companies also need to inform HMRC of:
 
@@ -75,15 +75,13 @@ While registering, companies also need to inform HMRC of:
 - the date they started to do business (the accounting period will start from this date)
 - the date the annual accounts are made up to.
 
-Unincorporated associations will need to call HMRC to register.
-
-***Accounting Records***
+*Accounting Records*
 
 ****In order to calculate how much to pay, companies must keep accounting records. HMRC has strict and detailed requirements for accounting records. If accounting records are not kept, companies can be fined £3,000 by HMRC or individuals may be disqualified from being company directors. It is necessary to keep records for six years from the end of the last company financial year they relate to. 
 
-***Tax Returns***
+*Tax Returns*
 
-****When companies or associations receive a 'Notice to Deliver a Company Tax Return' from HMRC, they must file a Company Tax return. They must still file a return, even if they have made a loss or have no Corporation Tax to pay. The tax payable should usually be paid 9 months and 1 day after the accounting period^[The accounting period is normally the same 12 months as the financial year covered by a company's annual accounts] it covers.
+****When companies or associations receive a 'Notice to Deliver a Company Tax Return' from HMRC, they must file a company tax return. They must still file a return, even if they have made a loss or have no corporation tax to pay. The tax payable should usually be paid 9 months and 1 day after the accounting period. This accounting period is normally the same 12 months as the financial year covered by a company's annual accounts it covers.
 
 The tax return is due 12 months after the accounting period it covers. There are various penalties for late filing. If the return is six months late, then HMRC will send a 'tax determination' to say how much tax the organisation must pay. Organisations cannot appeal against a tax determination.
 
@@ -99,7 +97,7 @@ So what is the truth? Why should corporations pay tax on their operations? It se
 
 ## One Side of the Coin
 
-***Why Tax***
+*Why Tax*
 
 ****A corporation tax is a tax on company profits. It generally covers both profits retained within the company (retained earnings) and those paid out as dividends (distributed earnings). A credit is applied to distributed earnings so tax is only paid once. But should we have a corporate tax at all? Since companies are owned by individuals, might it not be simpler to tax individuals rather than companies?  
 
@@ -107,7 +105,7 @@ It might be clearest first to define the functions of a corporation tax first. A
 
  There are also several pragmatic reasons for the application of corporation tax, which will be explored below. 
 
-***Revenue***
+*Revenue*
 
 Corporation tax makes up approximately 8% of HMRC total receipts. It is the fourth biggest tax in terms of receipts: after Income tax, VAT and National Insurance Contributions, although the financial crisis saw income from the tax fall significantly, from £46.3 billion in 2007/08 to £39.3bn in 2013/14 [@UKParliament2015]. A small number of firms pay the vast majority of income tax. According to the Oxford Centre for Business Taxation, 1% of all companies account for 81% of receipts. As it is a tax on profits, income from the tax is strongly correlated with the business cycle and thus can be very volatile. The below chart shows the relationship between the state of the economy and receipts from corporation tax [@UKParliament2015]. The vertical axis is the annual change in corporation tax receipts and the horizontal axis is the annual change in economic output (1979/80-2013/14).
 
@@ -119,11 +117,11 @@ The current level of receipts from Corporation Tax have been attributed to sever
 | :----------------------------------------------------------: |
 |           *Figure 7.2 - Corporation Tax Avoidance*           |
 
-***Private Companies Rely on Public Services Too***
+*Private Companies Rely on Public Services Too*
 
 ****Corporate profits are not totally independent of public investment. Corporations require a number of public goods to run their companies successfully - from educated and healthy employees, smooth roads and public transport systems, and power grids and telecommunications systems for their companies to operate. They therefore rely on tax-financed public goods, including social investment in the education and health of employees, public infrastructure, legal contracts and property rights. Without these structures, which are upheld and funded by government, corporations would not be able to conduct business profitably.
 
-***Tackling Rent***
+*Tackling Rent*
 
 ****Another reason for corporation tax concerns economic rents. Economic rents are basically the analogue to land rents: whereas it is assumed that high profits would be competed away by other companies, in some cases this is not possible because the company has some advantage that cannot be replicated by others.
 
@@ -135,7 +133,7 @@ Nicholas Shaxton offers further examples,
 
 It would be ideal to design corporation tax so as to tax economic rents only, which should result in no market efficiency losses.Therefore, companies who hold a monopoly over certain goods and services collect economic rent due to market imperfections such as lack of competitive pressures. In such cases, the consumers or the public pays an economic rent over and above an acceptable price. Corporation tax is able to recoup such rents and redistribute those funds to the public.
 
-***The** **Backstop***
+*The Backstop*
 
 Individuals can have income from employment and from owning assets. The tax on this income is levied through the UK's 'income tax' and 'National Insurance' systems. We call the tax on profits of companies 'corporation tax'. Sometimes different terminology is used: the income tax is called the 'personal income tax' and the corporation tax 'corporate income tax'.
 
@@ -155,21 +153,21 @@ Corporation tax prevents at least some of the avoidance associated with companie
 
 ## The Other Side 
 
-***Economic 'Distortions'***
+*Economic 'Distortions'*
 
-****When taxes cause corporations or individuals to behave differently than they otherwise would, for example by moving their headquarters to another country, the taxes are said to cause *distortions*. Taxes on corporate profits are thought to be particularly distorting, in that they create and negate a variety of incentives  which result in significant behaviour change by corporations, and those who invest in them. Researchers Johannson et al, in their 2008 OECD Working Paper, observed that corporation tax is likely to have many kinds of effects;
+****When taxes cause corporations or individuals to behave differently than they otherwise would, for example by moving their headquarters to another country, the taxes are said to cause distortions. Taxes on corporate profits are thought to be particularly distorting, in that they create and negate a variety of incentives  which result in significant behaviour change by corporations, and those who invest in them. Researchers Johannson et al, in their 2008 OECD Working Paper, observed that corporation tax is likely to have many kinds of effects;
 
 >*'The corporate income tax is likely to distort the total amount of investment and the type of investment projects that are undertaken, the corporate sources of finance (debt, newly issued equity or retained earnings), the location of the corporate tax base, the choice of a business legal form and the tax might have an impact on corporate mergers and acquisitions.'* [@Johansson2008]
 
 The researchers suggested that, when different taxes are ranked from least distortive to most distortive, recurrent taxes on immovable property are the least distortive tax instrument, followed by consumption taxes (and other property taxes), personal income taxes and finally corporate income taxes being the most distortive ^[This is in terms of reducing long-run GDP per capita].
 
-In particular, these distortions are likely to negatively affect economic growth. There is evidence that corporate income taxes negatively affect economic growth. Research by Lee and Gordon examined data from 70 countries which covered the period 1970 -1997. They found that, after correcting for other variables, that the corporation tax rate was 'significantly negatively correlated' with economic growth. They suggest that that cutting the corporate tax rate by 10 percentage points can increase the annual growth rate by around 1.1%. The authors explained these findings by suggesting that lower corporate tax rates may encourage more entrepreneurial activity, with more people choosing to leave employment and start businesses.^[The authors noted that lower corporation tax rates seem to be correlated with lower personal tax (income tax) revenue, which would be consistent with such a theory.] The authors stressed that
+In particular, these distortions are likely to negatively affect economic growth. There is evidence that corporate income taxes negatively affect economic growth. Research by Lee and Gordon examined data from 70 countries which covered the period 1970 -1997. They found that, after correcting for other variables, that the corporation tax rate was 'significantly negatively correlated' with economic growth. They suggest that that cutting the corporate tax rate by 10 percentage points can increase the annual growth rate by around 1.1%. The authors explained these findings by suggesting that lower corporate tax rates may encourage more entrepreneurial activity, with more people choosing to leave employment and start businesses. They also noted that lower corporation tax rates seem to be correlated with lower personal tax (income tax) revenue, which would be consistent with such a theory. The authors stressed that
 
 >*"the growth effects of tax reforms, as well as the more standard efficiency and equity effects in a static context, merit serious consideration."* [@Lee2005].
 
 The is a particular kind of distortion which is particular to corporation tax. This is the 'debt-equity' distortion. This results from an asymmetry at the heart of corporation tax, whereby the return on equity is taxed, but interest payments on corporate debt are tax deductible. This can increase the risk of bankruptcy and encourage tax-minimisation strategies through taking on more debt. Writers of an IMF blog argues for 2 ways to mitigate debt bias - to limit the tax deductibility of interest or provide a deduction for equity costs [@DeMooij2016].
 
-***Who really pays the piper?***
+*Who really pays the piper?*
 
 ****In some ways, corporation tax can be thought as an indirect tax on those who are owners of capital.  These owners may be individuals or shareholders of corporations, who gain or lose value through changes in the value of their shares or through the receipt of dividends after a company gains profits through their operations. Notably, the corporation tax burden falls mostly on capital owners, rather than employees because stock ownership is most concentrated amongst the wealthiest individuals and family trusts [@Shaxson2011].
 
@@ -187,7 +185,7 @@ However, others have argued that it is unclear whether corporation tax falls lar
 
 Because Corporation tax is based on profits, it is vulnerable to clever accounting tricks which exploit differing tax rules in different countries. To illustrate this point, we use a case study of Apple's corporate tax avoidance.
 
-***Case Study: Apple***
+*Case Study: Apple*
 
 ****In 2016, the technology company Apple, accustomed to great praise, received a taste of bad press, but not for its new iPhone model. Rather, its tax arrangements attracted scrutiny from the European Commission, which demanded that Apple pay up to £13 billion (& interest) for unpaid taxes in Ireland. Both Ireland and Apple condemned the decision, claiming a right to create an agreement between a sovereign nation and a private company. Thus arose a farcical situation in which the Irish government brought legal proceedings in order that they not receive £13 billion in back taxes.
 
@@ -221,7 +219,7 @@ These trends in corporate tax rate have a bearing on issues concerning wealth an
 
 VAT and fuel taxes disproportionately affect lower income earners. According to the Tax Justice Network, "Governments make up the shortfall by levying higher taxes on other, less wealthy sections of society, or by cutting back on essential public services." Another concern is that if corporation tax reduces the return to company shareholders, this will not only affect people with directly held shares, but also older people with private pensions. This would suggest that tax competition boosts inequality and deprivation.
 
-***Ring Fencing Bads***
+*Ring Fencing Bads*
 
 ****A final concern with the corporation system as it currently stands lies in the ring fencing of domestic fossil fuel companies. Allowing marginal relief on the profits made by these companies is, in fact, a subsidy on their operations, and, in effect, a subsidy for the externalities which their carbon intensive operations create. 
 
@@ -241,7 +239,7 @@ However,  lets not walk before we can crawl. As with before, knowledge is the mo
 
 ## Which path to choose
 
-***Unitary** **Taxation***
+*Unitary Taxation*
 
 A rose by any other name would smell as sweet. The same goes for Unitary Taxation, or 'Formulary apportionment' by its slightly more descriptive title. In more basic terms, this method of taxation tries to tackle the mobile nature of multinational corporations by allocating the profit earned by corporations proportionally to the jurisdictions that they operate in. 
 
@@ -277,7 +275,7 @@ Issues with the steadily loosening tie between financial reporting and tax. Incr
 
 Another mechanism may be better suited to tackling these shortcomings, and we shall explore this in the following section. 
 
-***The Cashflow Tax***
+*The Cashflow Tax*
 
 ****Balancing the need to have corporation tax against the need to mitigate the disincentives it generates is at the heart of the choice facing policy makers in the UK.  The crux of the issue is how to convince multinationals that it is worth locating in the UK. The tangential benefits of companies operating from a domestic location are numerous - including employment and spending in the local economy. 
 
@@ -297,7 +295,7 @@ Since the cashflow tax operates on the 'destination' basis for revenue, it is co
 
 This Dyson-tax therefore satisfies two of the requirements for reform, in that it combats the incentives for policy-makers to engage in a race to the bottom on corporate tax rates. It also would provide a boost to companies that export goods and services, benefiting the UK's trade balance. Finally, the administrative ease of this policy in comparison to that of unitary taxation means that for substantial and effective reform, the Dyson-tax has greater revolutionary potential. 
 
-***Combatting Incentives***
+*Combatting Incentives*
 
 
 
@@ -313,14 +311,14 @@ These tax rebates exist in some form already. In the UK, Social Investment Tax R
 
 #Conclusions
 
-
-
 'Although taxes are the price of civilization, most people and companies want the civilization without the taxes ' [@Roin2007].
 
+ As we have explored in this chapter, the core challenge to overcome with corporation tax is this need to balance collecting sufficient revenue from corporations and companies against the risk of disincentivising these organisations to locate in the UK. Our answer is the Dyson-tax. 
 
+We propose to replace Corporation Tax and VAT with a 'cash flow' tax and taxation at source of all dividends. This is due to the fact that whereas a corporation tax is a tax on 'economic profit', a cash flow tax is a tax on net receipts (i.e. retained cash flow). Such a policy is therefore a destination basis corporate tax, exempting exporters, capital investment and R&D from its remit, but including interest payments. The basis of this tax would be UK sales and borrowing, minus costs, dividends, interest and principal repayments. It would therefore exempt capital expenditure and exports. 
 
-We propose to replace Corporation Tax and VAT with a 'cash flow' tax and taxation at source of all dividends. Whereas a corporation tax is a tax on 'economic profit', a cash flow tax is a tax on net receipts (i.e. retained cash flow). Cash-flow is a destination basis corporate tax, exempting exporters, capital investment and R&D but including interest payments. The basis of the cash flow tax is UK sales and borrowing minus costs, dividends, interest and principal repayments. It therefore exempts capital expenditure and exports. It is similar to a value added tax, where wage expenditures are deductible. The advantage of the cash flow tax is that can be applied to the financial sector and it encourages investment and exporters. With corporation tax, companies can move the jurisdiction they are registered in, and charge losses to high-tax locations and profits to low tax locations. With a cash flow tax, all sales in the UK are taxed, and only UK wage payments are deductible. It applies to all companies that sell in the UK, and 'transfer pricing' becomes irrelevant. It avoids the international 'race to the bottom' among corporate tax rates. 
+In a way, this policy is similar to a value added tax (VAT) where wage expenditures are deductible. The advantage of this policy is that it can be applied across a broad range of sectors, it relies on easily measurable data, and it promotes domestic investment and exports. Moreover, because with corporation tax there is the additional complexity of the global mobility of corporations, a Dyson-tax offers an incentive to locate in the UK. With the existing system, companies can move the jurisdiction they are registered in, and charge losses to high-tax locations and profits to low tax locations. Under a cash flow tax, all sales in the UK are taxed, and only UK wage payments are deductible. If it applied to all companies that sell in the UK, 'transfer pricing' becomes irrelevant and it sidesteps the risk of an international 'race to the bottom' among international corporate tax rates. 
 
+Moreover, applying rebates to sectors based on sectoral ESG goals would be a valuable way to counteract lobbying interests, while achieving social goals. The outcome would put the onus on companies to act to achieve sectoral progression, rather than on regulation from the government.  
 
-
-****- Publicly quoted companies should have the option to pay the cash flow tax in shares. These shares would accrue to a sovereign wealth fund which would pay the Citizen's Dividend.- A 'monopoly charge' of 5% of the company value (proportional to value added sold to UK consumers,i.e. like VAT) would be imposed on all large companies and on trusts. This tax would be payable in shares to a sovereign wealth fund for children, so that1/20th of the shares of a company or trust would go to such a fund per year.- International wealth transparency tax of 0.1% of assets greater than 5 million pounds- Capital Gains Tax: If the tax paid on retained earnings is less than the average tax paid on dividends, company owners will have an incentive to retain those earnings within the company. The owner of the shares could later sell them. They would therefore pay less tax than if the earnings had been paid out as dividends. Capital gains tax on  shares ownership can be thought of as a crude way to prevent tax avoidance through this route. Capital gains tax also allows those who have achieved unearned capital value increases (for example, due to the fall in long-term interest rates) to contribute properly. Capital gains tax rates should be set consistently to  avoid tax advantages or disadvantages based on legal structure. - Applying an Immigration and Citizenship charge****  
+Despite the myriad of arguments for and against corporation tax, the reform of such a policy should be seen as an opportunity to rewrite the rulebook on what taxes can achieve. The concepts of practicality, benefit and fairness should sit at the heart of any reform to corporation tax policy. With a cash-flow tax, these remits are satisfied. If designed intelligently and administered well, this policy package could tackle the issues of tax-havens, raise revenue for essential public services and promote the creation of social goods. Under this new system, corporation tax could become, instead of a burden to companies and a worry for states, an opportunity for radical reform and collective success. 
