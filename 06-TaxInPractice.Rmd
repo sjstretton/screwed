@@ -135,9 +135,7 @@ Following this, we can see that these strategies include:
 9) Life insurance borrowing
 10) Real estate borrowing
 
-We will not be able to tackle every accounting problem. Our approach is twofold:
-- a much simpler system of income tax with fewer marginal rates and fewer taxes (with the aim to eliminate the separate benefits-means-testing system, employers and employees National Insurance, and yet retain a system of tax contribution records)
-- some totally new taxes (such as a land value tax and and upstream carbon taxes) that be designed well to start with.
+We will not be able to tackle every accounting problem, but have some overarching goals to reform this aspect of the tax system. Our approach is twofold: to create a much simpler system of income tax with fewer marginal rates and fewer taxes (with the aim to eliminate the separate benefits-means-testing system, employers and employees National Insurance, and yet retain a system of tax contribution records); and to build in some new forms of taxation such as a land value tax and and upstream carbon taxes.
 
 In other words we follow Einstein who suggested: 'make it as simple as possible, but no simpler'.
 
@@ -153,7 +151,7 @@ The costs and time-commitment of administering the system should never be excess
 
 In terms of public acceptance, the purposes and targets of taxes should be well communicated and clear. As outlined in the previous chapter, following clear principles when taxes are created, so that they are practical, beneficial, and fair, is essential to ensure that they will be successfully launched. Tax should either fall on things that *don't go away* when we tax them (e.g. land) or things that we *want to have go away* when we tax them (e.g. fossil fuel use, or excessive sugar consumption).
 
-It is important to our everyday lives that the tax and benefit system works well. As we've shown, income tax and consumption tax revenues are the lifeblood of public services like the NHS, the educational system, and social security. 
+It is important to our everyday lives that the tax and benefit system works well. As we've shown, income tax and consumption tax revenues are the lifeblood of public services like social security, the educational system, and the National Health Service.
 
 There is buy-in on the welfare side. Most individuals in this country will benefit from a public payment of some kind, from healthcare to child benefit to the state pension, within their lifetimes. Creating the same level of connection with the taxation system is an essential component of the system's public acceptance and sustainability. 
 
