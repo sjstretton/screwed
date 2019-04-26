@@ -13,15 +13,13 @@ link-citations: yes
 
 # 9.1 Corporations and Tax
 
-r tufte::newthought('If we take as a given') that the benefits of paying income tax outweigh the costs to individual taxpayers, the question becomes one of what other players in society should be liable. Individuals with sufficient earnings pay National Insurance and income tax. People who buy goods and services pay VAT. It serves to reason then that companies which consume goods and services, and earn profits in the UK, should also be liable for a tax.  For what exactly is a company but a collective group of people organised into delivering a certain good or service. 
+r tufte::newthought('If we take as a given') that the benefits of paying income tax outweigh the costs to individual taxpayers, the question becomes one of which other players in society should be liable. Individuals with sufficient earnings pay national insurance and income tax. People who buy goods and services pay VAT. It serves to reason then that companies which consume goods and services, and earn profits in the UK, should also be liable for tax.  For what exactly is a company but a collective group of people organised into delivering a certain good or service. 
 
- Despite seemingly an uncontroversial position, the minefield that surrounds corporation tax begs to differ. Several different taxes are currently levelled on companies that operate in the UK, including corporation tax on their profits from their business operations, and business rates on the rateable value of their land and buildings. Several loopholes and rebates exist which aim to keep companies pacified against having to pay increased levels of tax. However, these loopholes often overstep the mark and leave corporations which, while in reality conduct the majority of their business and operations within the UK, are able to claim a foreign base and avoid taxes all together. 
+ Despite seemingly an uncontroversial proposition, the minefield that surrounds corporation tax begs to differ. Several different taxes are currently levelled on companies that operate in the UK, including corporation tax on their profits from their business operations, and business rates on the rateable value of their land and buildings. Several loopholes and rebates exist which aim to keep companies pacified against having to pay increased levels of tax. However, these loopholes often overstep the mark and leave corporations which, despite in reality conduct the majority of their business operations within the UK, are able to claim a foreign base and avoid taxes all together. 
 
 In an increasingly globalised world, countries now have to tread the thin line between levying sufficient levels of corporation tax, and maintaining an attractive enough environment for the companies to remain in the country, rather than relocating their base to a less 'expensive' region in the world. It's a difficult task, and the complexity of determining effective tax rates domestically while coordinating with a myriad of  different international standards and regulations means that these loopholes are difficult to close. 
 
  However, lest we forget, corporation taxes are an important source of revenue for a Government which provides the employees of these companies, and the companies themselves, with a variety of public goods that enable them to function successfully. Everything from high-quality national education to effective public transport assists  corporations in operating a successful business. It's important, then, that these entities pay their fair share. 
-
-
 
 ##Knowledge is Power
 
@@ -29,9 +27,11 @@ Knowledge, we emphasise, is power. In this chapter we aim to empower the reader 
 
 It's worth then outlining some definitions before we enter into the murky world of corporation tax law administration. 
 
-###Corporations
+*Corporations*
 
-Corporations are, in their most basic definition, a large company or group of companies authorized to act as a single entity and recognized as such in law. A company is a collection of individuals who have grouped together to provide a professional service or goods. These companies and corporations, however, are legal constructs. They have no *real* presence in the world, but are legal forms ultimately owned and controlled by a person or people.  A limited company is a legal form where the financial liability of the owners is limited to the net assets of the company. In other words, a company can go bankrupt and the owners of the company have some protection from the company's creditors. Corporations are the legal forms which are dominant in modern society and, much like religious organisations and educational institutions, wield enormous power.
+Corporations are, in their most basic definition, a large company or group of companies authorized to act as a single entity and recognized as such in law. A company is a collection of individuals who have grouped together to provide a professional service or goods. These companies and corporations, however, are legal constructs. They have no *real* presence in the world, but are legal forms ultimately owned and controlled by a person or people. 
+
+ A limited company is a legal form where the financial liability of the owners is limited to the net assets of the company. In other words, a company can go bankrupt and the owners of the company have some protection from the company's creditors. Corporations are the legal forms which are dominant in modern society and, much like religious organisations and educational institutions, wield enormous power.
 
 *Corporation Tax*
 
@@ -53,7 +53,7 @@ If the company is based in the UK, it must pay corporation tax on all its profit
 
 *Rates and Reliefs*
 
-****Companies pay corporation tax at the rate which applied during their accounting period. The current Corporation Tax rate on company profits is 21%.
+****Companies pay corporation tax at the rate which applied during their accounting period. The current corporation tax rate on company profits is 21%.
 
 More complex calculations are also required for: associated companies^[One company is associated with another if either one company controls the other or	both companies are controlled by the same companies or people]; companies who have more than one applicable rate during their accounting period; and companies who have an accounting period of less than 12 months. There are also different corporate taxation rates for 'ring fence profits' of companies involved in oil extraction in the UK or UK continental shelf. 
 
@@ -115,7 +115,7 @@ The current level of receipts from Corporation Tax have been attributed to sever
 
 | ![Receipts From Corporation Tax](ChapterPictures/7-2-ReceiptsFromCorpTax.png) |
 | :----------------------------------------------------------: |
-|           *Figure 7.2 - Corporation Tax Avoidance*           |
+|           *Figure 9.1 - Corporation Tax Avoidance*           |
 
 *Private Companies Rely on Public Services Too*
 
@@ -139,9 +139,9 @@ Individuals can have income from employment and from owning assets. The tax on t
 
 Income tax is not only a tax on employment income, it is also a tax on distributed profits (dividends). Profits distributed as dividends are  taxed twice; once under the corporation tax and once under the income tax system. The rate of income tax paid is lower to account for the corporation tax already deducted.
 
-|![Corporation Tax and Income Tax](ChapterPictures/7-1-IncTaxandCorpTax.png)|
-|:--:|
-|*Figure 7.1 - Corporation Tax and Income Tax*|
+| ![Corporation Tax and Income Tax](ChapterPictures/7-1-IncTaxandCorpTax.png) |
+| :----------------------------------------------------------: |
+|        *Figure 9.2 - Corporation Tax and Income Tax*         |
 
 Since the country of the activities of the company and the country of residence of the owner could be different. This means that profits could be made in one country and then distributed to an owner resident in another country
 
@@ -165,7 +165,7 @@ In particular, these distortions are likely to negatively affect economic growth
 
 >*"the growth effects of tax reforms, as well as the more standard efficiency and equity effects in a static context, merit serious consideration."* [@Lee2005].
 
-The is a particular kind of distortion which is particular to corporation tax. This is the 'debt-equity' distortion. This results from an asymmetry at the heart of corporation tax, whereby the return on equity is taxed, but interest payments on corporate debt are tax deductible. This can increase the risk of bankruptcy and encourage tax-minimisation strategies through taking on more debt. Writers of an IMF blog argues for 2 ways to mitigate debt bias - to limit the tax deductibility of interest or provide a deduction for equity costs [@DeMooij2016].
+The is a particular kind of distortion which is particular to corporation tax. This is the 'debt-equity' distortion. This results from an asymmetry at the heart of corporation tax, whereby the return on equity is taxed, but interest payments on corporate debt are tax deductible. This can increase the risk of bankruptcy and encourage tax-minimisation strategies through taking on more debt. Writers of an IMF blog argues for 2 ways to mitigate debt bias: to limit the tax deductibility of interest or provide a deduction for equity costs [@DeMooij2016].
 
 *Who really pays the piper?*
 
@@ -199,23 +199,23 @@ According to the European Commission, this arrangement amounted to a form of sta
 
 The above discussion illustrates the underlying tensions between governments and corporations, and the growing difficulty facing governments who attempt to tax corporate profits in a globalised world. Multinational companies which wish to minimise their tax bill are willing to move around and create complex tax structures to achieve this goal. Countries seek to attract investment and gain income from corporation tax. In the case of Ireland, the government has positioned itself as a low tax country in order to attract investment and create jobs. This dynamic between corporations and governments creates a *race to the bottom* in which governments compete to attract companies by lowering their corporation tax rates. The below chart compares the rates of Corporation Tax around the world [@Miller2017].
 
-|![Corporation Tax Around The World](ChapterPictures/7-3-EUCorpTaxRates.png)|
-|:--:|
-|*Figure 7.3 - Corporation Tax Rates Around the World*|
+| ![Corporation Tax Around The World](ChapterPictures/7-3-EUCorpTaxRates.png) |
+| :----------------------------------------------------------: |
+|    *Figure 9.3 - Corporation Tax Rates Around the World*     |
 
 As can be seen in the chart, the UK's main rate of corporation tax will decrease to 17% in 2020. The stated objective of this reduction is to create a more competitive corporate tax system to provide the right conditions for business investment and growth. Government analysis suggests that the change will reduce income to the Exchequer of £120 million in 2019-20 and £945 million in 2020-21 [@HMRC2015]. The below chart from the Institute of Fiscal Studies shows the revenue cost of past Corporate tax rate reductions, and the projected cost of future cuts [@Miller2017]. 
 
-|![UK Corporation Tax Cuts](ChapterPictures/7-4-UKCorpTaxCuts.png)|
-|:--:|
-|*Figure 7.4 - UK Corporation Tax Rate Cuts*|
+| ![UK Corporation Tax Cuts](ChapterPictures/7-4-UKCorpTaxCuts.png) |
+| :----------------------------------------------------------: |
+|         *Figure 9.4 - UK Corporation Tax Rate Cuts*          |
 
 The picture is similar elsewhere. In 2015, Japan, Spain, Israel, Norway and Estonia decreased their corporation tax rates and Italy, France, Japan and the UK had announced plans to do so. 
 
 These trends in corporate tax rate have a bearing on issues concerning wealth and income inequality. Tax Justice campaigners have warned that as governments reduce taxes on corporate profits, they have increased the rates of VAT, fuel and car taxes. The below chart shows the increase in the OECD average rate of VAT from 2000-2015. We can see a steady increase in the VAT average after 2009.
 
-|![OECD VAT Rates](ChapterPictures/7-5-OECDVATRates.png)|
-|:--:|
-|*Figure 7.5 - OECD Average standard VAT rates*|
+| ![OECD VAT Rates](ChapterPictures/7-5-OECDVATRates.png) |
+| :-----------------------------------------------------: |
+|     *Figure 9.5 - OECD Average standard VAT rates*      |
 
 VAT and fuel taxes disproportionately affect lower income earners. According to the Tax Justice Network, "Governments make up the shortfall by levying higher taxes on other, less wealthy sections of society, or by cutting back on essential public services." Another concern is that if corporation tax reduces the return to company shareholders, this will not only affect people with directly held shares, but also older people with private pensions. This would suggest that tax competition boosts inequality and deprivation.
 
@@ -267,7 +267,7 @@ $$  Weighting_{UK} = \left( \frac{1}{3} \right)* \left( \frac{Sales_{UK}}{Global
 
 ![9-CorporationTax-unitarytax](C:\Users\Heather Mckay\Documents\GitHub\TaxHeaven\taxheaven\ChapterPictures\9-CorporationTax-unitarytax.PNG)
 
-
+​				*Figure 9.6 - Corporation Tax and Income Tax*
 
  The benefits of such a system are clear, and support for the system can be interpreted as being broad. However, the simplified nature of the calculation does not incorporate the difficulty of enforcing such a policy, not the limiting of incentives for countries to relocate to cheaper countries and export their goods and services to a UK market. 
 
@@ -296,8 +296,6 @@ Since the cashflow tax operates on the 'destination' basis for revenue, it is co
 This Dyson-tax therefore satisfies two of the requirements for reform, in that it combats the incentives for policy-makers to engage in a race to the bottom on corporate tax rates. It also would provide a boost to companies that export goods and services, benefiting the UK's trade balance. Finally, the administrative ease of this policy in comparison to that of unitary taxation means that for substantial and effective reform, the Dyson-tax has greater revolutionary potential. 
 
 *Combatting Incentives*
-
-
 
 Change is hard to enact. For all the well-intentioned plans in the world, very few are enacted into reality. With policy, this is partly due to administrative and costing issues, but also - especially when such policies overlap with corporate issues - the issues of lobbying. This is an immense issue to try and overcome.
 
