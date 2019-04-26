@@ -9,7 +9,7 @@ bibliography: Library/Mac/library.bib
 link-citations: yes
 ---
 
-# PART 7: WELFARE AND WORK
+# CHAPTER 7: WELFARE AND WORK
 
 ## Summary 
 
@@ -84,7 +84,7 @@ With those broader considerations in mind, we can consider the status quo for wo
 
 |![Image](ChapterPictures/11-1-UKUnemploymentRate.png)|
 |:--:|
-|*Figure 11.1 - UK Unemployment Rate*|
+|*Figure 7.1 - UK Unemployment Rate*|
 
 
 
@@ -94,7 +94,7 @@ Firstly, employment often does not provide sufficient income to cover an individ
 
 |![Image](ChapterPictures/11-2-UpwardMobility.jpg)
 |:--:|
-|*Figure 11.2 - Cartoon showing the folies of upward mobility and the working poor*|
+|*Figure 7.2 - Cartoon showing the folies of upward mobility and the working poor*|
 
 The Guardian economics editor Larry Elliot [@LarryElliott2016] suggests three reasons why this might be occurring. Firstly, he  suggests that the UK is attracting people from other EU countries, so employers can comfortably find workers without increasing wages (Brexit may well put a dent in the number of EU citizens wanting to come to the UK). He believes that restrictions on public sector pay have been a factor. Finally, the jobs being created tend to be low-paid, such as those in hospitality. The CIPD Institute suggests that the government has taken a 'low road' approach to industrial policy, whereby the workforce are relatively disposable, providing relatively standardized goods and services at a low price, and firms come to the UK because of the country's low corporate tax rates. They argue:
 
@@ -106,7 +106,7 @@ A related phenomenon is underemployment and under-utilization of skills.  The Sp
 
 |![Image](ChapterPictures/11-3-MismatchedEmployment.png)
 |:--:|
-|*Figure 11.3 - Mismatched Employment *|
+|*Figure 7.3 - Mismatched Employment *|
 
 The CIPD report found that a third of employees thought that their organization did not provide them with the opportunity to learn and grow. Over a quarter felt dissatisfied with opportunities to grow their skills. Our earlier discussion introduced the concepts of work as inherently meaningful and work as toil. It seems probable that when people feel as though their abilities are being underutilized, they are more likely to experience their work as toil.  
 
@@ -144,7 +144,7 @@ The origin of the welfare state may be traced back to late Victorian Britain, du
 
 |![Image](ChapterPictures/11-4-BeveridgeEvils.jpg)
 |:--:|
-|*Figure 11.4 - Beveridge and society's five evils*|
+|*Figure 7.4 - Beveridge and society's five evils*|
 
 
 Philosophically, it had two moral underpinnings.  Firstly, it was based on reciprocity. This is the idea that if you've paid in, you're entitled to take out. Secondly, it had an absolute moral position, which said that whether a person had contributed or not, it would be wrong to allow them to become destitute. Thus, a multifaceted welfare system emerged in the United Kingdom, built from a raft of different policies to protect the citizens from destitution. These include social insurance for the unemployed and sick and those injured at work, a national health service, free education, council housing, and increased employment through public spending.  
@@ -155,7 +155,7 @@ There is, of course, a sympathetic relationship between the issues with work out
 
 |![Image](ChapterPictures/11-5-RealWages2009.png)
 |:--:|
-|*Figure 11.5 - Drop in real wages growth since 2009*|
+|*Figure 7.5 - Drop in real wages growth since 2009*|
 
 With an increase in precarious, short-term jobs comes an increased need for unemployment benefit to fill in the gaps in employment. Overwork and unhealthy work habits can lead to illness, which then require the payment of Employment and Support Allowance. Built around the model of long-term employment with a single employer, the current welfare state is unsuited to the demands of today's working environments.
 
@@ -178,19 +178,19 @@ The diagram below shows how benefits taper off as take home pay increases, for a
 
 |![Image](ChapterPictures/11-6-ParentingCosts.png)
 |:--:|
-|*Figure 11.6 - Lone Parent with 2 children and childcare costs*|
+|*Figure 7.6 - Lone Parent with 2 children and childcare costs*|
 
 Similarly the below chart shows how increases in household incomes can provide 'disincentives' for some when income reaches beyond certain thresholds, creating a jagged transition for income progressivity [@Dyson2015].
 
 |![Image](ChapterPictures/11-7-TaxRates.png)
 |:--:|
-|*Figure 11.7 - How tax rates rise and fall*|
+|*Figure 7.7 - How tax rates rise and fall*|
 
 When we add the means-testing of benefits, the situation is even worse. For every £1 earned, 70p or more of benefits are withdrawn. This is clearly a disincentive against work, a 'welfare trap'.
 
 |![Image](ChapterPictures/11-8-MTR.png)|
 |:--:|
-|*Figure 11.8 - Benefit Withdrawal and Marginal Tax Rates, with RSA Proposals*|
+|*Figure 7.8 - Benefit Withdrawal and Marginal Tax Rates, with RSA Proposals*|
 
 ## Administration 
 
@@ -242,7 +242,7 @@ The chart below shows the proportion of unclaimed benefits to overpaid benefits.
 
 |![Image](ChapterPictures/11-9-MispaidBenefits.png)|
 |:--:|
-|*Figure 11.9 - Mis-paid Benefits *|
+|*Figure 7.9 - Mis-paid Benefits *|
 
 
 # 7.5 Criteria for a New Welfare Model
@@ -423,8 +423,6 @@ We need a system of contribution records. We suggest merging Income Tax, Nationa
 Finally we suggest help for increasing people's skills by integrated work and training placements. This is not the main scope of this book.
 
 We discuss this approach below.
-
---------------
 
 
 # 7.8 Introducing a Citizens Dividend

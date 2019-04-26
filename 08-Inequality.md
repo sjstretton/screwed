@@ -9,7 +9,7 @@ bibliography: Library/libraryCopy.bib
 link-citations: yes
 ---
 
-# PART 7: INEQUALITY 
+# CHAPTER 8: INEQUALITY, INCOME AND WEALTH
 
 ## Summary 
 
@@ -25,7 +25,7 @@ link-citations: yes
 - Judging from US data, people want a more equal society (more like Denmark).
 - Income tax has an important redistributive role. It is effective in reducing income inequality and the top 1% income share.
 
-# 7.1 Why does inequality matter?
+# 8.1 Why does inequality matter?
 
 `r tufte::newthought('Have you ever walked')` through Knightsbridge in London, and watched as expensive cars parked outside designer shops - even as homeless people begged for spare change on the sidewalk nearby? That's a clichéd image of inequality. The homelessness of some isn't caused by the great wealth of others. However, stagnant working-class and middle-class wages may well be. The greater problem in Britain is that a propertied ownership class is taking a rising share of national income, extracting rents from everyone else, and getting increasingly wealthy whilst the majority are squeezed by higher monthly outlays on everything from rents or mortgage payments to tuition fees for kids in college. 
 
@@ -33,7 +33,7 @@ In this chapter, we will look at how wealth and income are distributed in Britai
 
 |![](ChapterPictures/6-1-InequalityPic.jpg)|
 |:--:|
-|*Figure 6.1 - A Street Scene In The UK*|
+|*Figure 8.1 - A Street Scene In The UK*|
 
 
 Many would say that extreme inequality is morally wrong, and should be addressed through policy changes and stiff taxes on high incomes and large amounts of accumulated wealth. Others might ask how this wealth was acquired, and warn against discouraging productive activity. We generally have a strong sense that if someone has worked hard for something, then they have earned it and should be able to keep it. If everyone has the same opportunity to build wealth, and rich people gained their wealth through hard work, sacrifice, or ingenuity, we might conclude that the rich deserve their wealth. That is, we would be considering whether the wealth disparity is *fair*, i.e. gained in reasonable proportion to contributive merit.
@@ -47,7 +47,7 @@ In evaluating the status quo, we must take a two-pronged approach:
 
 Before making this assessment, we should take a step back. We have talked about 'wealth' and 'riches' on the assumption that we all take these words to mean the same things. In fact, the word 'wealth' in its common usage can refer to very different things. We break down our interpretation of this in the next section. 
 
-# 7.2 What is wealth?
+# 8.2 What is wealth?
 
 In its most broad sense, wealth refers to anything of value to people. Based on this rather broad definition, 'wealth' can refer to things which are quite intangible. Social connections, charisma, political influence, the rule of law and safety. These are all desirable, at least to most people. People often use the term 'wealth' to describe things which are personal and irreplaceable, such as a family heirloom, or even simply family or friends. Such things have little or no 'exchange value' (i.e. they can't be sold, or at any rate can't be sold for any great amount), but they may have a lot of value in personal and relational terms. 
 
@@ -97,7 +97,7 @@ From the above list, it's easy to see how those who are already rich can get a l
 
 Are advantages like these really enough to propel the rich into ever-increasing rates of wealth-accumulation? Yes. Ever-increasing global inequality suggests that this is indeed the case. [@OECD2015] Let's take a look at the extent of wealth and income inequality in Britain today.
 
-# 7.3 Inequality of wealth
+# 8.3 Inequality of wealth
 
 ## The British Context
 
@@ -105,7 +105,7 @@ There is a serious level of wealth inequality in Britain today. According to the
 
 |![ ](ChapterPictures/6-2-DistributionOfHouseholdWealth.png)|
 |:--:|
-|*Figure 6.2: Distribution of Household Wealth*|
+|*Figure 8.2: Distribution of Household Wealth*|
 
 
 Particularly striking is the fact that the richest five families in the UK are wealthier than the bottom 20% of the population [@Dransfield2014]. 
@@ -124,7 +124,7 @@ Here are a few notable facts about the UK wealth distribution:
 
 |![Image](ChapterPictures/6-3-HouseholdWealthDistribution.png)|
 |:--:|
-|*Figure 6.3: Household Wealth Distribution by percentile (2015)*|
+|*Figure 8.3: Household Wealth Distribution by percentile (2015)*|
 
 The intensity of wealth inequality continues to increase. The richest 10% are getting richer not only in absolute terms, but also in terms of their percentage share of total wealth and total income.
 
@@ -136,7 +136,7 @@ The inequality increase occurred entirely in net property wealth, during a perio
 
 A 2014 Credit Suisse report confirmed these findings. They found that the top 10% in the UK have become wealthier since the financial crisis because of value increases in assets. They also showed that Britain is the only country in the G7 group of leading economies where inequality has increased this century. [@TreanorFarrell2014] 
 
-# 7.4 Inequality of income
+# 8.4 Inequality of income
 
 We have discussed wealth inequality, which is the vast discrepancy in the ownership of assets, such as property, cash and investments, held across Britain. There also exists a less severe, but also worrying form of inequality. This is inequality of income. 
 
@@ -146,7 +146,7 @@ Income may come from a variety of sources, such as interest on savings, wages, d
 
 | |
 |:--:|
-|*Figure 6.4: Household Income after Tax, Benefits and Housing*|
+|*Figure 8.4: Household Income after Tax, Benefits and Housing*|
 
 Disposable income may be measured before-housing-costs (BHC) or after-housing-costs (AHC). When considering income, it is important to be precise about the kind of income being discussed. For example, when looking at income inequality, we can see that there is more inequality in income after-housing-costs than in income before-housing-costs, because poorer households tend to spend a higher share of their income on housing than those higher up the income distribution [@McGuinness2016].
 
@@ -155,7 +155,7 @@ In the chart below [@IFS2014], we can see how the share of pre-tax household inc
 
 |![Image](ChapterPictures/6-4-ShareOfTopIncome.png)|
 |:--:|
-|*Figure 6.5: Share of top % pre-tax income in the UK*|
+|*Figure 8.5: Share of top % pre-tax income in the UK*|
 
 The top incomes of the top 1% appear to be 'racing away' from the remaining 99%. Data suggests that income inequality within the bottom 99% is remaining reasonably stable or possibly slightly decreasing, while the national income share of the top 1% is increasing. 
 
@@ -178,7 +178,7 @@ Quoted in the Financial Times, the general secretary of the Trade Union Congress
 
 
 
-# 7.5 Effects of inequality
+# 8.5 Effects of inequality
 
 But is this inequality in itself really such a problem? If we could ensure that all citizens have their basic wants covered, does it matter if the rich are getting richer? Surely dealing with absolute wealth in this way and ensuring a basic standard of living is a more important focus than the relative wealth between rich and poor? 
 
@@ -202,7 +202,7 @@ Epidemiologists Wilson and Pickett collated a breadth of transnational research 
 
 |![Image](ChapterPictures/6-5-Healthandsocialproblems.png)|
 |:--:|
-|*Figure 6.6: Health and social problems related to inequality within rich countries*|
+|*Figure 8.6: Health and social problems related to inequality within rich countries*|
 
 ^[Wilson and Pickett's research has been criticised on the basis that their findings show relationships of correlation, rather than causation. However the researchers note that many of the causal processes linking inequality with social problems are well established from other research. They argue that the key insight from their work is that the connection can be seen repeatedly in countries worldwide.]
 
@@ -220,7 +220,7 @@ Simply put, this means that inequality causes high crime rates, not vice versa. 
 
 |![Image](ChapterPictures/6-6-IneqLift.jpg)|
 |:--:|
-|*Figure 6.7: Cartoon showing the relationship between  income inequality and social mobility*|
+|*Figure 8.7: Cartoon showing the relationship between  income inequality and social mobility*|
 
 There is also a strong correlation between high income inequality and low social mobility. Social mobility is the upward or downward movement of people between social strata in a society. Mobility may be intra-generational (i.e within a generation, as per 'rags to riches' stories), or it may be inter-generational, i.e a change in social status from parents to children.
 
@@ -230,13 +230,13 @@ Corak cautions that this outcome is particularly likely if labour market inequal
 
 >*"Without changes in these underlying factors, the transmission of inequality from the current generation to the next will remain a movie that is played to the same script as that viewed by past generations." * [@MilesCorak2011]
 
-Figure 6.8 shows the strong correlation between inequality and a measure called 'intergenerational earnings elasticity' (IEE), which is used by social scientists when considering intergenerational social mobility. IEE is the percentage difference in earnings in the child's generation associated with the percentage difference in the parental generation [@MilesCorak2011]. An intergenerational elasticity in earnings of 0.9, for example, means that if father A makes 100% more money than father B, then the son of father A will, as an adult, earn 90% more than the son of father B. An elasticity of 0.2 says this 100% difference between the two fathers would only lead to a 20% difference between the sons. 
+Figure 8.8 shows the strong correlation between inequality and a measure called 'intergenerational earnings elasticity' (IEE), which is used by social scientists when considering intergenerational social mobility. IEE is the percentage difference in earnings in the child's generation associated with the percentage difference in the parental generation [@MilesCorak2011]. An intergenerational elasticity in earnings of 0.9, for example, means that if father A makes 100% more money than father B, then the son of father A will, as an adult, earn 90% more than the son of father B. An elasticity of 0.2 says this 100% difference between the two fathers would only lead to a 20% difference between the sons. 
 
 The lower the elasticity, the more mobility in the society. Figure 2.5 shows that increased inequality at any point in time is correlated with lower generational earnings mobility. Note that mobility can be in either direction, up or down. The IEE is simply considering the earnings difference between generations. 
 
 |![Image](ChapterPictures/6-7-IntergenerationalEarningsElasticity.png)|
 |:--:|
-|*Figure 6.7: Intergenerational earnings elasticity*|
+|*Figure 8.7: Intergenerational earnings elasticity*|
 
 
 This chart is widely known as the 'Gatsby Curve'. It is so named after the character of Jay Gatsby in the famous novel by F. Scott Fitzgerald. In the novel, Jay Gatsby tries in vain to raise his social standing by becoming very rich. The novel is set in the 1920s, when there was high inequality of wealth and very low social mobility.
@@ -245,7 +245,7 @@ One suggested reason for the correlation between inequality and intergenerationa
 
 |![Image](ChapterPictures/6-8-AdvertisementPromotingEducation.png)|
 |:--:|
-|*Figure 6.9: Advertisement promoting education as a route to upward mobility*|
+|*Figure 8.9: Advertisement promoting education as a route to upward mobility*|
 
 These findings offer insights into how intergenerational poverty and welfare dependency have a real structural basis, and are not entirely within the control of an individual's willingness, effort, or merit.
 
@@ -268,7 +268,7 @@ The obvious problem with Hayek's argument is that distribution according to meri
 
 |![Image](ChapterPictures/6-9-WealthIneqDemocracy.jpg)|
 |:--:|
-|*Figure 6.10: Cartoon showing wealth inequality in the democratic process*|
+|*Figure 8.10: Cartoon showing wealth inequality in the democratic process*|
 
 Despite Hayek's famous theory on the constitution of liberty, a very real danger of wealth inequality is the threat to the democratic process. Extremes of wealth mean that those at the top, whether they be corporations (as per the above cartoon) or individuals, have disproportionate access to power, and an ability to influence politicians for their own interests. A famous quotation, attributed to noted American Supreme Court Judge Louis D. Brandeis, put it simply:
 
@@ -294,7 +294,7 @@ These findings reinforce the work of Piketty on inequality and 'low growth capit
 
 In this section, we have considered the effects of inequality in terms of its impact on empathy, social problems, crime rates, and social mobility. Contrary to claims that income and wealth inequality are necessary for liberty and growth, we see evidence that inequality threatens a functional democracy and growing economy.
 
-# 7.6 How much inequality do people want in society?
+# 8.6 How much inequality do people want in society?
 
 We've seen above that income inequality and wealth inequality are associated with very undesirable social consequences. However, most would not welcome an economic system in which everyone received exactly the same amount. There has been some research from the US as to what distribution of wealth people believe there should be in society. 
 
@@ -304,7 +304,7 @@ The below chart shows the distribution which the participants estimated was the 
 
 |![Image](ChapterPictures/6-10-UnitedStatesWealthDistributionActualEstimatedandIdeal.png)|
 |:--:|
-|*Figure 6.11: United States wealth distribution - Actual, Estimated and Ideal as surveyed*|
+|*Figure 8.11: United States wealth distribution - Actual, Estimated and Ideal as surveyed*|
 
 
 The researchers concluded two main points. First, that a large, nationally representative sample of Americans seems to prefer to live in a country more like Sweden than like the United States. Americans also construct ideal distributions that are far more equal than they estimated the United States to be - estimates which themselves were far more equal than the actual level of inequality.
@@ -318,7 +318,7 @@ In short:
 - This preference held across the political spectrum.
 
 
-# 7.7 Is income inequality merited?
+# 8.7 Is income inequality merited?
 
 We have now seen that inequality is associated with significant social ills, such as increased crime rates and poor health and longevity outcomes. We have also seen that it may pose a real threat to representative democracy and to economic growth. So, there is clear evidence of harm or potential harm arising from excessive wealth inequality in Britain.
 
@@ -330,13 +330,13 @@ When it comes to those primary forms of wealth acquisition, we know that unfairn
 
 |![Image](ChapterPictures/6-11-InheritanceCartoon.jpg)|
 |:--:|
-|*Figure 6.12: Cartoon showing Inheritance as a wider social problem*|
+|*Figure 8.12: Cartoon showing Inheritance as a wider social problem*|
 
 To what extent is someone's monetary success due to their own work, and to what extent is it their luck or privilege (in terms of genes, or parental support), or a product of the wider society? And to what extent should we reward those who seek money over other objectives?
 
 Income taxation is one of the main ways in which the government affects income distribution across society. From a purely philosophical point of view, it's not easy to determine what the rate of income tax should be. We'll come back to this in the next chapter, when we look at this through the prism of income inequality and recent historical experience. We'll also consider the fairness of different processes of wealth accumulation.
 
-# 7.8 Direct taxes and their redistributive role
+# 8.8 Direct taxes and their redistributive role
 
 ## Income Tax in the UK
 
@@ -355,7 +355,7 @@ The current top marginal tax rate is 45%. The below chart shows how top marginal
 
 |![Image](ChapterPictures/6-12-TopIncomeMTR.png)|
 |:--:|
-|*Figure 6.13: Top Income Marginal Tax Rate*|
+|*Figure 8.13: Top Income Marginal Tax Rate*|
 
 ## The Effect of UK Taxes on Income Inequality
 
@@ -365,7 +365,7 @@ The below chart shows the effect which the combination of tax and benefits have 
 
 |![Image](ChapterPictures/6-13-ImpactTBIneq.png)|
 |:--:|
-|*Figure 6.14: Impact of tax and benefits on income inequality*|
+|*Figure 8.14: Impact of tax and benefits on income inequality*|
 
 According to these ONS figures in 2014/15, the richest fifth of the population paid 22.8% of their gross income on direct taxes. The majority of this was income tax. The average tax bill for the poorest fifth was 11% of their gross income. The majority of this was from Council tax.
 
@@ -375,7 +375,7 @@ Income tax made up the largest proportion of direct tax paid by the richest fift
 
 |![Image](ChapterPictures/6-14-IncomeProgressivityTax.png)|
 |:--:|
-|*Figure 6.15: Income progressivity for various tax types*|
+|*Figure 8.15: Income progressivity for various tax types*|
 
 Despite fluctuation, there is a clear overall trend towards increased progressivity.
 
@@ -385,7 +385,7 @@ Earlier, we discussed the top 1%, and evidence that their share of total income 
 
 |![Image](ChapterPictures/6-15-CorrelationIncomeSharesAndMTR.png)|
 |:--:|
-|*Figure 6.16: Correlation between top 1% income shares and top MTR*|
+|*Figure 8.16: Correlation between top 1% income shares and top MTR*|
 
 Immediately we can see a strong oppositional relationship, whereby a high marginal tax rate is generally correlated with a lower income share. So again, in the roaring 20s, we have a lower top marginal tax rate of about 25%, and the income share of the top 1% reaching a height of around 23%. During the depression of the 1930s and the Second World War, there was an increase in the top marginal tax rate and a severe reduction in the top 1% income share. During the 1980s, another drop in the top marginal tax rate and and an increase in the top 1% income share once more. So, this suggests a strong direct relationship between an increase in top marginal tax rates and a decrease in the top 1% income share. 
 
@@ -393,13 +393,13 @@ The pattern is also evident if we compare different countries. The below chart s
 
 |![Image](ChapterPictures/6-16-TopShareTopMTR.jpg)|
 |:--:|
-|*Figure 6.17: Top 1% share and top MTR for various countries in 2004-8*|
+|*Figure 8.17: Top 1% share and top MTR for various countries in 2004-8*|
 
 Again the top marginal tax rate appears to have an inverse relationship with top 1% income share. Those with the lowest 1% income share are the Nordic countries, with top marginal tax rates of between 55 and 60%. The UK and US, with lower top marginal tax rates of 40% and under, are also among the highest in 1% income share. There are anomalies, however, which indicate that top marginal tax rate is not the only factor contributing to the 1% income share. Germany is a bit of an outlier, perhaps due to tax deductions.
 
 So, we conclude by arguing that firstly, the progressivity of income tax is welcome; and that a top marginal rate of around 60% is probably necessary to keep a moderate and stable income and wealth share of the top 1%. Reforming deductions and other complexities that the rich can exploit is another possible area of focus.
 
-# 7.9 Income tax: The details
+# 8.9 Income tax: The details
 
 Income tax is paid on income, which can include money earned from employment or self-employment, state benefits, some pensions, rental income, investment income, income from trusts, and work benefits. Some income is exempt from tax - for example interest on savings in tax-exempt accounts.
 
@@ -511,7 +511,7 @@ This area of income tax is somewhat complex. For further information, HMRC offer
 | Higher  rate     | 32.5%                               |
 | Additional  rate | 38.1%                               |
 
-# 7.10 National insurance explainer
+# 8.10 National insurance explainer
 
 Originally, National Insurance (NI) did resemble an insurance program. It began in 1911, whereby employees would pay a portion of their wages into the scheme, and could claim from it if they fell ill or became unemployed. In this sense, it was very much a contribution-based system, whereby 'those who paid in, could take out'. Now, workers pay National Insurance to build up an entitlement to claim several social benefits. One's entitlement to benefits depends on the 'Class' of National Insurance one pays.
 
@@ -575,7 +575,7 @@ Those who are not paying National Insurance Contributions, for example the unemp
 | Bereavement Support Payment                          | Yes                     | Yes                         | No                                    |
 
 
-# 7.11 Core arguments for progressivity
+# 8.11 Core arguments for progressivity
 
 We've seen that growing inequality in a society can lead to negative consequences for social cohesion and dire outcomes for the poor. We base our argument for progressive tax systems on the following key ideas. 
 
@@ -589,7 +589,7 @@ We do have to balance these arguments against the idea of incentives. How does a
 
 If it is the case that consumption taxes, like VAT, are regressive, then this highlights the need to evaluate the broader systemic progressivity of the entire tax system, and its net effects on different income groups. We prioritise this in our proposals section, whereby the inequality of the system is one of our key evaluatory metrics. 
 
-# 7.12 Wealth Begets Wealth: Explaining Piketty
+# 8.12 Wealth Begets Wealth: Explaining Piketty
 
 The economist Thomas Piketty [@Piketty2014a] found that in a capitalist economic system, returns on capital wealth will increase at a higher rate (faster) than wages. 
 
@@ -597,7 +597,7 @@ Poorer people make most of their income through wages and hold little wealth in 
 
 |![Image](ChapterPictures/6-17-richgetricher.png)|
 |:--:|
-|*Figure 6.18 -  The rich get richer through secondary wealth creation*|
+|*Figure 8.18 -  The rich get richer through secondary wealth creation*|
 
 
 So, as revenue-generating property owners' wealth increases faster than poorer people's wages grow, the gap between rich and poor will tend to increase. There is unfairness built into the system; it works in favour of those who have already accumulated wealth, making them wealthier in a self-reinforcing spiral that requires less and less effort on the part of the wealthier the richer they get.
@@ -620,15 +620,13 @@ The MIT PhD student Matthew Rognlie noted that Piketty's conclusion depends on h
 
 |![Image](ChapterPictures/6-18-CapitalIncomeDisplacingLabourIncome.png)|
 |:--:|
-|*Figure 6.19 -  Capital income displacing labour income*|
+|*Figure 8.19 -  Capital income displacing labour income*|
 
 This is consistent with our argument, since housing is closer in nature to land (i.e. non-expandable with a local monopoly) than capital in the classical economic sense (i.e. expandable and competitive). To properly test our hypothesis (that it is the monopoly element - land in housing, market power in companies - that causes inequality) we'd need to disaggregate the land element from housing (relatively straightforward) and the monopoly element from companies (much less straightforward). However, the data is at least broadly supportive of the case suggested by Piketty's economic hypothesis.
 
-# 7.13 Conclusions
-
 To summarise, economic theory tells us that there are some particular ways in which the wealthy are able to accumulate wealth which we propose to be unfair and unproductive to the economy: Land, Monopoly, and the interplay between interest rates and asset values. 
 
-**Land**
+## Land
 
 Wealthy people make a large proportion of their wealth through increases in the value of land which they own. When we talk about land, we are primarily concerned with the land on which urban buildings stand. This is the part of its value associated with *location*. Land is fixed in supply, and when certain locations become more desirable (such as London), supply cannot increase to meet demand. 
 
@@ -636,7 +634,7 @@ The result is a localised price increase and an increase in wealth of people who
 
 We believe this is unfair, since the community as a whole produces the wealth, and we propose a Land Value Tax to address this unfairness. We go into detail about this topic in chapter eight.
 
-**Monopoly**
+## Monopoly
 
 >*"The head of one of the largest manufacturing firms in the United States said to me recently, "It is not on our ordinary business that we make our money; it is where we can get a monopoly." And this, I think, is generally true."* [@George]
 
@@ -644,9 +642,9 @@ A 'monopoly' is a stranglehold on a particular desired product, asset or service
 
 |![image](OtherPictures/Monopoly.png)|
 |:--:|
-|*Figure 6.20 Competition and Monopoly*|
+|*Figure 8.20 Competition and Monopoly*|
 
-**As Interest Rates Fall, the value of Assets appreciates**
+## As Interest Rates Fall, the Value of Assets appreciates
 
 Another effect is closely related, and acts to accentuate monopoly effects. As real investments get exhausted, rates of return on real investments may fall. In addition, the central bank can cut its interest rates to stimulate the economy. This encourages people to take on loans, and through high indebtedness, we can get accustomed to a low interest rate situation. This relationship has important price effects on land and other monopolies.
 
@@ -657,10 +655,51 @@ The figure below summarises how these factors can contribute to increased income
 
 |![image](OtherPictures/FactorsOfIncomeInequality.png)|
 |:--:|
-|*Figure 6.21 Factors of Income Inequality*|
+|*Figure 8.21 Factors of Income Inequality*|
 
-**Summary**
+# 8.14 Options for Taxes on Personal Income ^^ (UNEDITED)
+
+Income Tax and National Insurance together account for around half of all revenue raised. These taxes are likely to be important for the foreseeable future. Income tax is important as a tax on wage income and on income from investments.  It is also the primary means of affecting the distribution of income using the tax system. However the existing approach is, like the rest of the tax system, unnecessary complex. Income tax, and its close cousin National Insurance (which we combine into a single tax) are also extremely efficient ways of raising revenue.
+
+At present, the wage income is largely deducted at source in the 'Pay as You Earn' (PAYE) system. This means that companies administer the payment of income tax. They know how much tax to deduct because every individual has a tax code. The tax code indicates whether the taxpayer pays basic or higher rate tax. 
+
+Some income does not fall under PAYE for example: dividend income. It is impractical for a company to know all the tax codes of its shareholders. Thus, income from dividends needs to be declared by individuals at the end of the tax year alongside income tax paid by the individual concerned. At present, corporation tax is paid on profits, and the income tax paid on dividend income is reduced by an equivalent amount to compensate. 
+
+## Simplification Options
+
+We can distinguish between tax simplification and the addition of a basic income.
+
+First, lets look at tax simplification. We can simplify the tax code through the following procedure. First put the income tax and NI system together for earned income, and apply the same rates to unearned income as earned income. Then, you would consider the top rates of tax (Income Tax + NI). We keep these as they are now, and then apply it to lower tax bands. At the same time increase the personal allowance. The two procedures can ensure that nobody pays more tax on their earned income than they do at present. 
+
+- Option 1 is this zero-high rate system (ie a large personal allowance plus a top rate)
+- Option 2 is the same system, but with a low rate (no personal allowance) plus a high rate. A small basic income can be added.
+- Option 3 is a basic income plus the high rate flat tax
+
+With a flat system, everyone faces the same tax rate. There is no need for a separate tax code for each individual. All income can thus be taxed at source. This would also brings the taxation of dividends into the income tax system, which would therefore mean there is no need for a corporation tax on the part of company profits hich is paid out as dividends. We still, however, need a tax on retained earnings.
+
+The disadvantage of a flat tax system is that it is less progressive than the other system.
+
+## Conclusions
+
+We propose to combine the current National Insurance and Income Tax systems so that there is a single tax on income. We also propose to simplify the rate structure so that there is only one rate above the allowance. Having a single rate allows the tax system to be made considerably simpler, and permits taxes to be deducted at source.
+
+# 8.15 Overview of Possibilities for Taxing Wealth ^^ (UNEDITED)
+
+## Source-based Private Wealth Taxes
+
+In general, we prefer to recommend source-based wealth taxes rather than residence based taxes. In other words, we propose to tax income-generating assets located in the UK. The advantage of this approach is that these assets are typically less mobile than the individual. This reduces the risk of tax avoidance. However, there may be a case for an internationally coordinated residence tax as well. 
+
+## Residence-based Private Wealth Taxes
+
+Because of the source-based wealth taxes we have suggested above, such a tax would not need to be set as stringently. However, risk of avoidance by the rich may be high because of their access to skilled legal advice and mechanisms to move their assets to the most advantageous locations. It may therefore be necessary to impose an international residence-based wealth tax.
+
+We propose to consult with European and other partners so as to put in place an internationally coordinated wealth tax. The objective would be to ensure that the richest in society do not get richer faster. As outlined in previous chapters, the increased rate of growth in wealth as compared to the growth in average incomes contributes to the compounding of inequality. For a variety of reasons, this is not a desirable outcome. To that end, we aim to form a coalition with other countries to promote transparency, and create a single coordinated residence wealth tax. However, getting international agreement consensus on such a policy would be difficult and time consuming, and so should not be relied upon.
+
+## Conclusions
+
+We will apply a source based approach which minimises the possibilities for avoidance, including a land value tax. We will cover this in the next chapters on Corporations, Land and Finance.
+
+# 8.16 Summary
 
 We've seen that wealth and income inequality can have deleterious social effects. We've noted the importance of income tax as a progressive tax reducing income inequality. We've also noted three methods of wealth acquisition that are both *economically inefficient* and *unjust:* Land ownership, monopolies, and related unearned capital gains due to falling interest rates. In the next two chapters, we will look at corporate structures; after that we will consider land; and finally, environment and resource rents.
 
----

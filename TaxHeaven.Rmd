@@ -15,15 +15,15 @@ link-citations: yes
 \newpage
 
 ```{r setup, include=FALSE}
-#Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
-#if(Platform=="PC") { 
-# setwd("~/../Book") 
-#} else if(Platform=="Mac") { 
-#  setwd("~/Documents/Book")
-#} else if(Platform=="HeatherPC") {  
+Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
+if(Platform=="PC") { 
+ setwd("~/../Book") 
+} else if(Platform=="Mac") { 
+  setwd("~/Documents/Book")
+} else if(Platform=="HeatherPC") {  
   setwd("~/Github/TaxHeaven/taxheaven")
   #Add something for your WD if this doesn't work# 
-#
+}
 
 options(htmltools.dir.version = FALSE)
 options(scipen=999)
@@ -45,29 +45,23 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '00-APerfectStorm.md'}
+```{r child = '01-APerfectStorm.md'}
 ```
 
 \newpage
 
-```{r child = '01-RevolutionsInTheMindsOfMen.md'}
+```{r child = '02-Revolutions.md'}
 ```
 
 \newpage
 
-```{r child = '02-ProgressAndProblems.md'}
+```{r child = '03-ProgressAndProblems.md'}
 ```
 
 \newpage
 
-```{r child = '03-DesertIslandEconomics.md'}
+```{r child = '04-DesertIslandEconomics.md'}
 ```
-
-\newpage
-
-```{r child = '04-PoliticalEconomyOfPublicSphere.md'}
-```
-
 
 \newpage
 
@@ -81,12 +75,12 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '07-Inequality.md'}
+```{r child = '07-WelfareAndWork.Rmd'}
 ```
 
 \newpage
 
-```{r child = '08-WelfareAndWork.Rmd'}
+```{r child = '08-Inequality.md'}
 ```
 
 \newpage
@@ -111,12 +105,7 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '13-Proposals.md'}
-```
-
-\newpage
-
-```{r child = '14-Conclusions.md'}
+```{r child = '13-Conclusions.md'}
 ```
 
 

@@ -30,26 +30,26 @@ The below chart shows how the ratio of UK house price to real earnings has chang
 
 |![image](ChapterPictures/8-1-RealWagesvsHousePrices.png) |
 |:--:|
-|*Figure 8.1 - Real Wages vs House Prices*|
+|*Figure 10.1 - Real Wages vs House Prices*|
 
 
 The ratio is the highest it has been since April 2008, at the beginning of the great recession. We can see below that it is particularly hard for first-time buyers to afford a house in London.
 
 |![image](ChapterPictures/8-2-Firsttimebuyer.png)|
 |:--:|
-|*Figure 8.2 - First time buyer earnings to house price ratio across the UK*|
+|Figure 10.2 - First time buyer earnings to house price ratio across the UK*|
 
 The below chart shows that the gap between the most and the least affordable local authorities has increased since 2002, and this is due to the least affordable areas moving further away from the overall affordability ratio [@ONS2016a].
 
 |![image](ChapterPictures/8-3-Housepriceaffordability.png)|
 |:--:|
-|*Figure 8.3 - House price affordability compared between Burnley and London*|
+Figure 10.3 - House price affordability compared between Burnley and London*|
 
 There have also been many demographic changes in housing ownership. The chart below shows the percentage of each age group that are home owners, from 1981 to 2014  [@Ough2016].
 
 |![image](ChapterPictures/8-4-Percentageownershipbyage.png)|
 |:--:|
-|*Figure 8.4 - Percentage of each age group that are home owners in England, 1981-2014*|
+|*Figure 10.4 - Percentage of each age group that are home owners in England, 1981-2014*|
 
 We can see a dramatic reduction in the percentage of people between the ages of 34-44 owning homes, and an increase in the percentage of over 65s owning homes.
 
@@ -59,7 +59,7 @@ The rising cost of housing is also contributing to growing inequality of wealth.
 
 |![image](ChapterPictures/8-5-Householdnetpropertywealth2012.png)|
 |:--:|
-|*Figure 8.5 - Upper bounds of household net property wealth in 2012*|
+|Figure 10..5 - Upper bounds of household net property wealth in 2012*|
 
 The graph above shows dramatic inequality in property wealth, but it still does not capture the devastating personal effect that unaffordable housing is having on British people. Shelter UK warns that: 
 
@@ -103,13 +103,12 @@ As campaigner Edward J. Dodson states,
 
 >*"One need look no farther than land acquisition costs for an explanation of why a residential property is an impossible acquisition for a growing segment of the population."* [@Shaxson2016]
 
-If you're not convinced, consider Figure 8.6 below [@Wightman2013]. This graph compares four important costs relating to housing, and shows how they have changed over time. The lowest line on the graph, 'Build Costs,' is the cost of actually constructing a house. 'House Price' is the value of the house only, and 'Land Price' is the value of the underlying land only. 'Earnings' show the population's average earnings.
+If you're not convinced, consideFigure 10.8.6 below [@Wightman2013]. This graph compares four important costs relating to housing, and shows how they have changed over time. The lowest line on the graph, 'Build Costs,' is the cost of actually constructing a house. 'House Price' is the value of the house only, and 'Land Price' is the value of the underlying land only. 'Earnings' show the population's average earnings.
 
 We see that while the cost of building houses has remained largely stable between 1986 and 2007, land prices have oscillated dramatically through a boom and bust cycle. The 'House Price' line is most revealing because, while the costs of building houses has stayed the same, the cost of buying them has oscillated - mirroring the 'Land Price' line [@Lloyd2009].
 
 |![image](ChapterPictures/8-6-Indexofhousingmarketcosts1983-2007.png)|
-|:--:|
-|*Figure 8.6 - Index of housing market costs 1983-2007*|
+|:--:|Figure 10. 8.6 - Index of housing market costs 1983-2007*|
 
 ## Why then the boom and bust cycle?
 
@@ -166,9 +165,9 @@ Monopoly is a fun game to play, but not necessarily one that leads to familial h
 
 Rather less commonly known is the fact that Monopoly was preceded by and evolved from another game, called 'The Landlord's Game,' invented and patented by Elizabeth Magie. 
 
-|![image](ChapterPictures/8-7-Monopoly.jpg)|
-|:--:|
-|*Figure 8.7 - The Original Monopoly was first called The Landlord's Game and invented by Elizabeth Magie*|
+|          ![image](ChapterPictures/8-7-Monopoly.jpg)          |
+| :----------------------------------------------------------: |
+| *Figure 10.7 - The Original Monopoly was first called The Landlord's Game and invented by Elizabeth Magie* |
 
 
 This state of affairs is also present when oligopolies exist. ^[A state of limited competition, in which a market is shared by a small number of producers or sellers.]
@@ -189,9 +188,9 @@ Elizabeth Magie intended her game to demonstrate that a single tax on land value
 
 Magie was not the originator of this concept. She was espousing the ideas of a 19th Century self-taught economist named Henry George, who argued that a single tax on land values would be both efficient and fair. It would be *fair* because it taxed unearned increases in land values which occur not as a result of individual effort or ingenuity, but because of development of infrastructure and the wider economy. It would be *efficient* because the quantity of land does not change. He suggested that when we tax labour (via income tax) or tax economic activity via sales tax and corporate taxes, we discourage these activities and thereby make the economy less productive. Taxing land values instead might discourage people from speculating on land, and this would be a good thing, as it would free up funds for more productive investment and free up land for more beneficial purposes.
 
-|![image](ChapterPictures/8-8-GeorgeSign.jpg)|
-|:--:|
-|*Figure 8.8 - Everybody works but the vacant lot*|
+|    ![image](ChapterPictures/8-8-GeorgeSign.jpg)    |
+| :------------------------------------------------: |
+| *Figure 10.8 - Everybody works but the vacant lot* |
 
 
 George presented his ideas in a bestselling book, 'Progress and Poverty,' and the case for a land value tax was taken up by great thinkers and politicians, including the Russian novelist Leo Tolstoy and British politicians Winston Churchill and David Lloyd George. It was only the intervention of the first World War that prevented the tax being implemented in the UK. The "people's budget" was passed by the pre-war government, but had not yet been implemented by the outbreak of World War I. After the war, the new government had different priorities, and the tax was never implemented.
@@ -252,18 +251,7 @@ It is complicated to demonstrate empirically that property taxes are indeed capi
 
 Still, some rigorous studies have found evidence that property taxes are indeed capitalised into long term or 'equilibrium' house prices (e.g. Yinger et al, 1988). The question at hand, however, is the effect of LVT not on long term prices, but on short term price movements. 
 
-In Taxes & Speculative Behaviour in Real Estate Markets (1992), K. E. Case addressed the question of whether land holding taxes, as well as those on real estate capital gains, had significantly reduced volatility during real estate booms. His conclusion was that they had not. 
-
-Besides demonstrating these findings on countries such as Taiwan and Japan, he analysed house-sales data from the one hundred largest suburban towns across Eastern Massachusetts. Local property-holding taxes varied significantly across jurisdictions (effective rates ranged from 0.8% to 2.0%), and the data covered the decade of the 1980s, during part of which there had been a real estate bubble. Although regression analysis revealed a negative relationship between tax rate and property prices (i.e. evidence of capitalisation), there was no significant relationship between tax rate and the amount of house-price appreciation (i.e. upward volatility) which a town had experienced between 1982 and 1989. 
-
-Case suggests that when prices are rising, home-buyers may willingly pay current prices, notwithstanding the prospect of increased property taxes, lest they find themselves priced out of the market. He further suggests that the potential capital gains to be made from purchasing real estate during boom periods are so large, whilst the 'investment' is of such low risk, that even high rates of taxation are not sufficient to discourage speculation.
-
-While Case allowed that land taxes could be used to reduce volatility in house-prices, he doubted the existence of "the political will to raise land taxes to levels high enough to really retard boom cycles." The level of land taxation which would be 'high enough' to have a significantly effect is, he surmised,
-
->*"Probably closer to Henry George's 100% than to current laws around the world."*
-
-One reason even countries with forms of land taxation are still vulnerable to real estate bubbles may be ineffective implementation of the taxes. The example of Estonia demonstrates this case.
-
+In Taxes & Speculative Behaviour in Real Estate Markets (1992), K. E. Case addressed the -
 
 ## The Case of Estonia
 
@@ -346,9 +334,9 @@ He also offers an test for proponents of LVT to assess the policy's political fe
 
 Land Value Tax has been applied in some form in several countries, including Denmark and Estonia, and some parts of Australia, New Zealand, and the USA. [@Conservative2016]. The chart below illustrates the widespread nature of land tax policies [@Dye2009].
 
-|![image](ChapterPictures/8-9-DenmarkLVT.png)|
-|:--:|
-|*Figure 8.9 - Land Value Taxation: Theory Evidence and Practice - Countries with Land Value Taxation by Year of Adoption*|
+|         ![image](ChapterPictures/8-9-DenmarkLVT.png)         |
+| :----------------------------------------------------------: |
+| *Figure 10.9 - Land Value Taxation: Theory Evidence and Practice - Countries with Land Value Taxation by Year of Adoption* |
 
 Since 1922, Denmark has levied a land value tax based on the market price of land, revalued every two years. The tax is payable to the local authority and county based on a per-thousandth share of the value of the land. The share varies according to different types of land use; however each share is a minimum of six and a maximum of 24 thousandths of the value of the land, giving an effective tax rate between 0.6% and 2.4% of the land's estimated market value. 
 
@@ -585,7 +573,7 @@ As we can see from this discussion, the ownership of land confers a great deal o
 |:--:|
 |*Figure 6.20 Land, Rent, and Income Inequality*|
 
-# 10.13 The Treatment of Land in Economics Education
+# 10.12 The Treatment of Land in Economics Education
 
 We have discussed the problems which the treatment of land in neo-liberal economic theory has caused. To solve these problems, we need to bring land out of the shadows of economic theory. 
 
@@ -603,7 +591,7 @@ A further possibility is that a focus on land economics, and by extension any di
 
 Clearly, land must be brought out of the economic theory wilderness and given a central role.
 
-## **Appendix: Singapore as a 'Property State'**
+# 10.13 CASE STUDY: Singapore as a 'Property State
 
 Singapore is often described as a neoliberal paradise: Low taxes, open trade, a large financial sector. It has been phenomenally successful, with average growth rates in the range of 5-10%, and has transformed itself into a city-state with amongst the highest GDP in the world.
 
@@ -620,3 +608,19 @@ The whole tenor of the Singapore approach is pragmatic, putting the public inter
 Whilst the institutions of the Singapore property state model have evolved over decades, there are policy solutions that could give the benefits of land value tax and of public ownership of land more directly. In the UK, an LVT would replace council tax, business rates, and stamp duty. It would be a proportional tax on the value of property paid by owners rather than occupiers, with a deduction for the value of the bricks and mortar. And future *increases* in land rent could be taxed at nearly 100% and the revenues shared between those responsible: The local community, municipal authority, and national government. Those with large mortgages would be protected by asking banks to pay the land value tax on the proportion covered by a mortgage. Alternatives to bank mortgages, such as building societies and state-backed community land purchases, could also be developed.
 
 Singapore shows that public land ownership can be combined with high rates of owner occupation. Low cost and high-quality public housing can be both affordable and beneficial to all parts of the community, including the business sector. Given the realities of Brexit Britain, where parts of the public sector, such as Railtrack, are still selling off land to the private sector, where public housing provision has declined relative to the private sector, and where property taxation is outdated and arbitrary, the Singapore property state model deserves a closer look by British policy-makers.
+
+# 10.14 Taxes on Land and Property ^^ NOT YET EDITED
+
+Because land is fixed in supply, it can be taxed without causing significant economic distortion. A land tax subtracts the value of the premises from the tax on the land itself. It can be imposed progressively, reducing the return to landownership (capital gain plus rent) to around a zero nominal return.
+
+The implementation of land value captitr can be achieved in two main ways. Firstly, a simple tax on land values and secondly, the public ownership of land combined with short-term lease sales. The successful city states of East Asia: Hong Kong and Singapore, adopt one or both of these two options. Hong Kong, due to the new territories being originally leased from China to Britain, never had private land ownership simply because the land was to be returned to China eventually. So the government of Hong Kong receives a large part of its revenue in the sale of leases of 20 or 30 years term. 
+
+This tax is best introduced in 3 separate ways:
+
+1. Implementation as a national replacement for as many existing taxes as possible (council tax, stamp duty land tax, inheritance tax on land, TV license fee, etc.).
+2. Use of this tax as a macroeconomic stabilizer (the bank of England could increment this tax in order to avoid propose and to ensure that real terms house prices decline gradually to more reasonable levels).
+3. Introduction of 'land value covenants', similar to 'government mortgages' but with the interest paid proportional to local land values. Those who have difficulty paying the tax(for example because they are asset rich or income poor) would have the option to roll up the tax into an indefinite 'interest payment' index to the value of the land.
+4. Some time threshold for any residual freehold ownership (e.g. 99 years).
+
+A land value tax on built up land would take the total value of the property and subtract the value of the building. Both values are easily assessed: for example there are multiple websites accessing overall property value. The advantage of subtracting property value is also that beautiful and historic buildings, and those that contribute to the character of areas can be recognize as such. This subsidy on building size would work well as a way to mitigate the increase of fossil fuel taxes on household energy bills.
+

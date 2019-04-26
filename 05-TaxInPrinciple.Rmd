@@ -1,0 +1,331 @@
+---
+title: "Tax Heaven: Revolutionising Taxation and Welfare"
+author: "Gordon Styles and Stephen Stretton (Editors)"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_handout: default
+toc: false
+toc_depth: 1
+bibliography:
+- Library/Mac/library.bib
+- Library/HeatherPC/library.bib
+link-citations: yes
+---
+
+# PART 5: TAX IN PRINCIPLE
+
+# 5-1: Why Tax?
+
+It seems obvious that the authors of this book - **Tax Heaven** - would be in favour of taxation. Taxes are, as we have argued in previous chapters, a valuable method to pursue a variety of social objectives. In fact, they are probably among the most important tools at the disposal of governments, despite the negative press that surrounds their levy and use. 
+
+It’s time for a PR campaign. Death and taxes may be inevitable, but taxes do not have to be seen as inevitably negative. The careful design of tax regimes can minimise negative impacts, such as regressive levies, poor behavioural incentives, or sophisticated evasion of taxes by those who can afford specialist accountants. The importance of the tax regime implementation and planning process can scarcely  be overstated. Nor can the importance of effectively communicating the intended purpose of tax policy. The optics of policy design and implementation are key to minimizing resistance and maximising success. 
+
+There are, of course, those for whom the very mention of taxes inflames strong passions. These passions exist across the political spectrum. Staunch libertarians claim that taxation is a blatant theft of private property, while social democrats often consider taxation to be a moral matter, an instrument for redressing unfair outcomes of the capitalist ownership system. Emotions can run high in debates on the purposes of taxation, and there often appears to be little common ground. This can make discussions of the philosophical basis of taxation somewhat fraught.
+
+A precondition for successful policy design is a comprehensive understanding of the purposes of the policy in question. In the case of taxation, we must begin by addressing the following questions: Why do we need to tax; what is it that we are proposing to tax; and what do we hope to achieve? It’s helpful when trying to communicate the purposes of a new tax to try to answer these questions both in relation to taxation in a broad sense, and to the individual policy itself. To what target and at what level do we set the tax; to whom do the proceeds go; and what behaviours are affected by its application? It is only when these questions have been fully considered that effective tax policy can be created. 
+
+In this chapter, we will outline our principles for effective tax design, standing on the shoulders of giants in the field of economic theory to develop the logic of our ideas. Ensuring that the policies we create fulfil the requirements of being *practical, beneficial and fair* is also a priority of our work; this is something on which we will expand further along. 
+
+## Why Do We Need Tax?
+
+The first question to address is why we should tax at all. Taxes are traditionally unpopular policies, often seen by the public as a 'tax grab' on private assets and wealth. So let's give an overview of the key positives that taxation policies can have. 
+
+The simplest answer to this question is that tax is imposed in order to fund public spending. Government spending usually takes the form of investments in public infrastructure, or on social provisions like housing, healthcare, and public education. Investment in these public goods is often economical only on a large scale – it’s not often that one individual can be responsible for a public park, for example, or for a university. The pooling of resources allows for these public goods to be supplied to a cross-section of society that would otherwise be unable to access them. 
+
+It’s worth noting that the provision of public goods does not come exclusively from government sources. Artists, writers, community activists, and philanthropists can all be said to provide public services. Cafés which offer public restrooms, private enterprises which fund local newspapers, non-government cooperative agencies and institutions such as charities all provide public goods and services. However, the benefit of governmental provision lies in its ability to prioritise and maintain these services through democratic decision making, rather than relying on private benefactors.
+
+But why doesn’t the government just print money to pay for these goods? The reasons include legitimacy and inflation. Money is effectively a transferable IOU of value from the institution that has issued it (generally a bank). In other words, money is a scorekeeping system for keeping track of promises to deliver a specified quantity of value (a specified number of British pounds). If the government prints and spends a great deal of money without subsequently taking money back out of circulation, too many £-denominated IOUs will end up in circulation, and the legitimacy of these promises will become compromised. People will stop believing that all these promises to deliver value will be fulfilled, and will begin demanding more points in the game of circulating £-denominated IOUs for any given amount of work delivered in exchange. A rabbit might cost £20 instead of £10.
+
+Put more simply, if the government printed money and put it into circulation through spending on an excessive scale, and failed to remove some of the money already in circulation by harvesting taxes to offset new spending, this would cause inflation which would devalue the currency already in circulation. This can lead, in extreme cases, to hyperinflation and fiscal chaos, whereby money loses its worth, making it increasingly difficult for people using the government's designated currency to pay for their private consumer goods or other obligations. This would also limit the ability of the government to invest in public goods and assets. Without a solid basis of assets, a public body is unable to guarantee that it will be able to deliver services to the public on a long-term basis. This is why tax revenue is so important. 
+
+In addition to taxation, there are several other ways in which a government can raise revenue. However, taxation revenue is one of the core methods of supplying a government with the necessary funds for its activities.  This is in line with Beveridge’s principles of levying taxes as part of a comprehensive policy package of funding ongoing public services. 
+
+As noted, an additional reason for taxation is to maintain fiscal order and control inflation. The difference between tax revenue and government spending is a major factor in a nation's economic growth and inflation paradigm. This is not a focal point of our analysis in this text. However, the macroeconomic influence of the public spending balance, and the size of its deficit, is widely seen to be important. Governments must manage their cumulative debt-to-GDP for reasons of international credibility in support of appropriate exchange rates with other nations' currencies. 
+
+Yet the difference between tax revenues and government spending does not in itself constrain the government's ability to source financing for public projects, or the extent to which fiscal policy can be used to boost a national economy after a recession. At the end of the day, a government that owns its own currency system and has a central bank is a government that need never worry about being able to fund projects or budgets. The real constraint on public spending is simply the availability of idle resources - i.e. qualified people available to be employed - and not, in fact, any limit on the amount of money available to a government. The government can always create any amount of money it might need to fund investments or programmes, and it can also always levy taxes in amounts it deems appropriate to rebalance the stocks and flows of money and debt within different sectors of the national economy (albeit within practical limits of political feasibility). 
+
+Another reason for using taxation is to emphasise the 'social contract' between a citizenry and their government. This is effectively a 'deal' by which the government is contracted to enact the aims and goals of those they represent. Taxation can be thought of as a method of enforcement of these designated responsibilities. It is, admittedly, not always the case that this is explicitly recognised by members of a government, but the 'I pay for your salary' argument can go far when shoring up a citizen's right to complain or to lobby for the specific actions of a representative body. In nations whose governments are funded mostly by sales of natural resources, not by tax revenues (petrostates like Saudi Arabia or Venezuela are examples), governments become distributors of unearned largesse rather than accountable representatives of the citizenry; this generally has pernicious political and economic results. 
+
+By establishing a stakeholder-shareholder model in which governments are servant representatives of the people who pay for the governors' services with their tax contributions, we change the status of the citizen in society to that of co-proprietor, as well indirect decisionmaker (through the medium of elected representatives). The citizenry thus becomes the collective sovereign as well as the natural recipient of any 'dividends' from natural wealth. In this worldview, we also change the status of the private landowner to that of a consumer of national resources (through temporary occupation of a patch of the sovereign's land), rather than an outright sovereign owner. The shift in dynamics if this outlook is adopted may have considerable impacts on future resource management in the UK.
+
+As already touched on, there are also several social objectives that can be achieved with the careful implementation of taxation. Redistributive policies are a large component of public spending, sharing the wealth that is created in a society through income, housing, and healthcare provisions. Another reason that taxation can be useful is to correct for monopoly pricing and externalities, or to change behaviour in some way that is designated as socially beneficial. Behavioural economists have only very recently started to explore the nudging and norm-changing effects of taxation. Their ideas will be explored later in this chapter. 
+
+Of course, noble objectives remain mere concepts until they are realised. In the world of policy, it is sometimes best to think of noble goals as akin to 'spectres' that haunt the messy reality of designing and implementing policy. In this, we draw from Derrida’s ideas of the influence of justice in law – never actually achievable, but rather existing as an influencing ideal that pushes the development of law [@Glendinning2016]. The same can be said for the objectives of taxation. The ability of taxation regimes to tackle inequality and social bads will only ever be as good as the reality of such policies as they are implemented in practice. We will expand on this later - for now, we want to draw attention to the significance both of the influencing ideas and also their implementation. 
+
+## Deciding What to Tax
+
+Taxes can be applied to a range of goods and services. We will, going forward, term these targets as the 'tax base.'  These can cover a very wide range, e.g. duties on imports, taxes on profits, taxes on incomes over some threshold, or consumption taxes, e.g. on luxury expenditures whose demand is insensitive to price, or on 'bads' such as tobacco products. 
+
+Deciding which tax base to use can often be determined by the objective of the policy. In the current system, raising revenue is predominantly achieved through income taxes. This helps redistribute aggregate economic income from those with high incomes to those with low incomes. Taxes can also be applied to the unearned increment on scarce resources that are limited in supply or monopolised - for example, land, fossil fuels, or endangered fish. And taxes can help disincentivise environmental and health bads - activities that damage our common resources or our health. 
+
+Overall, we could tax four different types of activities:
+
+1.     Rents: Land, property, resources.
+
+2.     Finance: Money balances, bank balance sheets, transactions.
+
+3.     Environmental Health and Social Damage: Fossil fuels, greenhouse gas emissions, alcohol, tobacco, sugar, salt.
+
+4.     Cash Flow: Income, profit, capital gains, value added (sales tax).
+
+But how do we decide which tax base to use? One solution is to create a decision framework based on selected principles of justice and benefit. We define these as the preconditions of practicality, benefit, and fairness. The questions we can ask ourselves to build this decision framework will help shape the ultimate design of the tax policy and the schedule of assets that we decide to tax. 
+
+The first order of deciding the tax base should be efficiency. We can ask the question of whether the private value of a good reflects its social value. Where private value is greater than social value, taxes can be levied to drive these two values to equivalence. If there is a need for more revenue after taxing this value difference, we could then continue to prioritise efficiency by taxing things that are fixed in supply. Such a mechanism would avoid the distortionary incentives that taxation levied on income or wealth can have. 
+
+We could also choose to select a tax base on grounds of equity. By focusing on tackling private value inflation, we would begin to reduce the rate of growth of inequality in the UK [@Piketty2014a] by reducing the windfall gains associated with returns on capital and wealth, as opposed to income. In doing so, we could enhance justice in the system. However, care must be taken to ensure that existing asset values are not changed so dramatically as to cause injustice during the transition process. One way in which to achieve this is by focusing asset value taxes on future increases in private value above the social value, rather than on the existing allocations.
+
+## What are the Objectives of Reform?
+
+It seems clear that what we choose to tax, and at what level, depends on the purpose of the tax itself. 
+
+If the goal is to reduce inequality, then taxes can be applied to private assets and high incomes. Such taxes target the accumulation of wealth to both recapture societal contributions to its formation, and to ensure inequality does not grow excessively. Some argue that these taxes must be designed to target oligarchic and monopolistic control of assets. We define *Oligarchy* as 'rule by the few,' specifically by the rich, where disproportionate power is held by a small number of wealthy people who control the majority of a nation’s assets. Assets can often be synonymous with political power, leading to a society based primarily on the principle of 'one pound, one vote' rather than 'one person, one vote.' Oligarchic groups can gain a distortive influence on the tax code so that it better suits their interests. This poses problems for the majority.
+
+Another area where the tax system could potentially be used to benefit society is with environmental protection. Environmental taxes can help to ensure that the global environment is less damaged by our economic activities. Pollution is often considered a negative environmental externality. It's good for society to internalise these costs, and thereby incentivise producers to reduce them, by adding a cost to the producers of 'negative externalities' in the form of a tax; this is an example of taxing 'bads' to disincentivise their production.
+
+It is not just in the levying of the tax that this mechanism can be beneficial. It's possible to arrange financial flows from taxes on 'bads' such that the beneficiaries of the tax (those who benefit from spending of the revenues raised) directly correspond with the stated social aims behind the tax policy. This can bring a ‘double dividend’ of impact. For example, taxing polluting fuels and using the revenues to subsidise clean energy could potentially accelerate the development and implementation of clean energy provision in a country. Moreover, if a tax looks to have regressive impacts (i.e. hits the poorest in society at a disproportionate level - consumption taxes and heating-fuel taxes can have this effect), some of the revenues from such a tax could be given as a rebate to those most negatively affected to ensure that the policy retains political viability, as well as a broadly positive impact. We see this in the form of modern welfare benefits in the UK, despite the well-publicised problems in the system. These will be explored in a later chapter which explores the history and functionality of the UK welfare system. 
+
+
+# 5-2 Historical perspectives 
+
+Economic theorists have spent a lot of effort considering what an ideal tax system should look like and how the practical application of its principles could function. Adam Smith is perhaps the most celebrated early economist to have considered this subject. He postulated that there were four axioms of taxation, which were that taxes should be *convenient, objective, low cost* both in terms of the direct costs of their administration and the discouragement they cause to others, and that they should be *levied proportionally to an individual’s ability to pay.* In his own words, in 1776 Smith [-@smith1776wealth, Book V, Chapter I] argued that:
+
+"Good taxes meet four major criteria. They are (1) proportionate to incomes or abilities to pay (2) certain rather than arbitrary (3) payable at times and in ways convenient to the taxpayers and (4) cheap to administer and collect."
+
+A tax on land rents is also mentioned by Smith as an example of a particularly good tax policy instrument. He wrote:
+
+"Both ground-rents and the ordinary rent of land are a species of revenue which the owner, in many cases, enjoys without any care or attention of his own. Though a part of this revenue should be taken from him in order to defray the expenses of the state, no discouragement will thereby be given to any sort of industry. The annual produce of the land and labour of the society, the real wealth of the great body of the people, might be the same after such a tax as before. Ground rents and the ordinary rent of land are, therefore, perhaps, the species of revenue which can best bear to have a peculiar tax upon them."
+
+David Ricardo [-@ricardo1821principles], Henry George [-@George1879], John Stewart Mill [-@mill1848principles], and Alfred Marshall [-@marshall1890principles] have likewise argued for the advantages of taxing land rent. Developing this concept, Ricardo put together a model of different land qualities and their respective qualities and rents. He recommended a tax on landowners' rent income to ensure fair management of the limited land resources in the UK. Henry George also recommended a tax on land rent, extending Ricardo's reasoning to urban land. He noted that the speculators always win, at the expense of everyday people, if land values are not regulated through taxation. Frank Ramsey [-@Ramsey1927] extended the argument to commodities in general, developing a formula for optimal taxation such that those commodities most inelastic in supply or in demand should be taxed the most. His work argued for the inverse elasticity rule: The amount of taxation payable on a commodity should be proportional to the sum of the reciprocal of the demand and supply elasticity for that good.
+
+Arthur Cecil Pigou [-@Pigou1924] developed the idea of taxing negative externalities. These externalities can be defined as situations in which an economic activity damages actors who are external to the transaction concerned. A pertinent example would be pollution. The *polluter pays principle* has now become a major part of environmental policy theory, with major institutions like the IPCC and the World Bank arguing for the importance of a carbon tax in managing global emissions. Closer to home, political institutions such as the Green Fiscal Commission in the UK have recommended carbon taxes as a way to reduce environmental bads. These findings are similar to those of the Mirrlees review, and indeed the Government currently applies a 'carbon price floor' as a method by which to achieve this. 
+
+On wealth and inequality, there is a substantial body of work on the impact that taxation can have. Keynes' Polish contemporary, Kalecki, argued that taxation of wealth would increase effective demand and therefore economic growth without stifling incentives [@Kalecki1937]. And more recently Piketty [-@Piketty2014a] has shown the consequences for continual growth in inequality if wealth and high income are *not* sufficiently taxed.
+
+There have also been several contemporary reports into taxation in practice. The postwar UK was among the pioneers of what was to become the basis of the modern welfare state. Beveridge’s comprehensive plan for a ‘cradle-to-grave’ tax and welfare system was ground-breaking in its day, with its proposal to use progressive income taxation to pay for the amelioration of the five great evils he identified. More recent tax policy proposal updates in the UK have included the Meade Review on direct taxation [@Meade1977] and the Mirrlees Review into taxation [@Mirrlees2010d], [@Mirrlees2011]. The former recommended a cash-flow taxation system of taxing consumption, findings which were echoed by the Mirrlees study. This study found that applying a deduction for the normal cost of capital could achieve comparable results, alongside a raft of other land-based taxes (such as a land value tax or proportional property tax) to replace business rates and/or council tax. There have been similar reviews in Canada [@Carter1966], the United States, [@Bradford1977] and, more recently, in Australia [@Henry2010] and New Zealand [@evans2011reflections]. 
+
+Standing on the shoulders of these giants, we can derive two general principles. First, the allocation of capital needs to account for the total costs and benefits to society, rather than just to the private profit of an individual. This involves a rethink of what property rights actually entail, and will enable taxes to be used to enact broader social aims. Using taxation to internalise the *externalities* that result from economic action will therefore ensure that assessements of an action's total benefits and costs are incorporated into economic decision making, which in turn will combat the inefficiencies and market failures associated with allowing these to persist. 
+
+Secondly, the importance of distributed ownership of and returns from assets becomes clear. Any taxes that are implemented should prioritise the minimisation of any inequalities that might result. This, in turn, means using taxation and regulation to manage the ability of an economic actor to assume monopolistic control over private assets and to accrue unearned *economic rent*. If we convert this into economic language, we can say that the priorities for any taxation system should be to focus on taxing *externalities and rents.* 
+
+# 5-3 Principles for Taxation
+
+In our introduction, we discussed the core questions that must be answered if taxes are to be used effectively. In the popular imagination, informed by frequent articles published in newspapers owned by billionaires with anti-tax agendas, taxes are characterised as an inevitability, a necessary evil, and a yearly burden, rather than being understood as an important tool for social progress. As the old saying goes - there is nothing so certain in life as death and taxes.
+
+But, even if we assume that taxes are a necessary evil, then we must establish some guiding principles on how they should be applied. If we accept the idea that taxes should be focused on the two broad economic aims of taxing economic rent and externalities, then the next step becomes to establish *how* exactly tax policies should be designed to do so. Key considerations include the political acceptability of the policies, and the careful design of their implementation and structure to minimise any unwanted and unanticipated impacts. 
+
+By doing so, we create a framework that serves to sense-check the policies that have been put forward. As our starting point, we have chosen three core characteristics which we suggest all taxes should possess. These are that taxes should be *beneficial*, *practical*, and *fair*.
+
+In other words, we are prioritising any new policies being without harm, just, and functionable. Clear and easy-to-understand language is important to avoid people getting fed-up with policy-wonk language and tuning out. For this purpose, we will walk through the expanded definitions of these criteria below.
+
+## Beneficial (Not Harmful)
+
+To be beneficial is to do good overall. There are multiple ways in which different taxes might be said to 'do good,' and people may reasonably disagree on what 'good' means. However, all taxes must have some legitimate claim to be beneficial. Most would agree that a tax is beneficial if it pays for valued public services. For example, taxation that pays for our National Health Service, our emergency services, our roads, schools, and public transport, is generally considered necessary and beneficial. This is evidenced by a recent survey of British citizens [@PWC2017] which found that the majority would be willing to pay more tax if it leads to improvements in the quality of the NHS. 
+
+More contentiously, taxation may be said to be doing good by redistributing income (or at least ensuring that the rich contribute more), helping to alleviate poverty, and reducing large wealth disparities. The proceeds of taxation may be also used to ensure a minimum standard of living by providing an income 'safety net.' This is evident in countries which have adopted the 'welfare state' ideology, whereby taxes levied on income are used to create a cushion for those at the lower income spectrum. 
+
+As we've noted, taxes can also be used to discourage antisocial and harmful behaviour by individuals and companies. They may do this by compelling those who cause harm to society through their economic activity to pay for that harm. 
+
+## Fair (Just)
+
+There are three ways in which we think taxes must be fair. Taxes must demonstrate consistency, progressivity, and transitional justice. 
+
+As seems obvious, the first condition is that taxes must be fair by being consistent. Similar persons, companies and situations should be treated identically. There should be no special exemptions or 'sweetheart deals' for favoured individuals or companies. This seems obvious. In practice however, this principle is often flouted, usually to the advantage of powerful companies or individuals.
+
+Related to this idea of fairness are concepts of accountability and transparency. Taxes must not just *be* fair but must be *perceived to be* fair. Taxes should therefore be clear and transparent, such that it is apparent to everyone what the proper tax burden should be for each income bracket. These issues are particularly topical in Britain today. In early 2017, the Parliamentary Public Accounts Committee expressed concern that HMRC's "lack of transparency" concerning high net worth individuals "has eroded public trust in a fair tax system." [@HoC2017]
+
+Another, perhaps more controversial kind of fairness concerns *progressivity*. A progressive tax is a tax in which those who have more, pay more. UK income tax is thus a progressive tax regime, since richer citizens pay more proportionally than poorer citizens. We think  this is fair - however, this viewpoint is not uncontroversial in some quarters.
+
+Fairness is also relevant to our discussion of economic rents and land values. When land values increase because of work performed by society as a whole, by our definition, it would be fair if all citizens benefit. It would seem unfair for only some few people to benefit. Similarly, it would seem unfair if only a few people benefited from the country's natural resources - resources which were not created by any person, but which form part of the nation's unearned endowment. 
+
+Finally, it is important to achieve fairness during the transition from the existing system to the new system. This is necessary not only for reasons of justice, but also for the political feasibility of reforms: If their transitional consequences are seen as unfair, they will be unpopular, and subject to defeat or reversal.
+
+## Practical (Smoothly functioning)
+
+If a tax was fair and intended to do good, but couldn't be implemented without requiring masses of paperwork, prohibitive costs, or extreme social controls, then no matter the benefit, the tax would not be justifiable. Taxes must be practical to implement. 
+
+When considering whether a tax is practical, we might consider how close it is to a theoretical ideal. Ideally, a tax should be simple to implement and administer. It should have low collection and compliance costs. This means that it should not cost the government huge sums to collect, and it should also be simple for taxpayers to comply. The less paperwork, time-consuming research, and confusing rules are involved, the better. Taxes which are automatically collected are more practical in this regard than those which require excessive amounts of form-filling and record-keeping. 
+
+One pertinent drawback from overcomplication of tax policy is tax evasion. This has been a particularly hot topic in recent years. There is a difference between tax avoidance and evasion. Tax avoidance is the *legal* dodging of tax; tax evasion is the *illegal* dodging of tax. A tax which is easily evadable or avoidable is impractical, because it will not function to increase public revenues. It may also require significant resources to be wasted chasing up non-complying 'tax cheats.' Moreover, it's important to avoid an international 'race to the bottom' where countries compete to reduce tax rates on companies and the super-rich. Ensuring that taxes are as intelligently and efficiently designed as possible, within a holistic policy package, will help to reduce this risk.
+
+Another aspect of practicality is predictability. Individuals and companies must be able to predict future expenses in order to manage their financial planning. In a similar vein, taxes must be clearly defined, so that taxpayers can plan their affairs while knowing exactly how much tax they can expect to pay. This emphasises the need for steady transitions and well communicated policies when applying any policy change. 
+
+# 5-4 Principles for Welfare
+
+Let's take another look at the public services to which spending raised from tax revenues are allocated. The most significant of these, outside of healthcare, is welfare. The modern welfare state, conceived by Beveridge in 1942, looks to protect individuals 'from cradle to grave' [@Beveridge1942] by redistributing income from taxation to those who are most in need. 
+
+We can define three key functional requirements of the welfare system as follows: 
+
+1. To provide a 'safety net' to ensure that everyone is guaranteed a minimum standard of living, regardless of their personal circumstances or earning potential.
+2. To ensure that people with specific needs (e.g. the disabled and their carers) have sufficient resources to support themselves.
+3. To pay a state pension to those over state retirement age.
+
+That there are a number of secondary and tertiary benefits to this, including creating a stable political environment by managing inequality, providing education and healthcare to increase the labour quality of the UK economy, and a sense of community or national solidarity associated with the citizenry's pride in being willing and able to look after the weakest in society. 
+
+The UK’s comprehensive system empowers low income and unemployed workers by providing them with education and a minimum standard of subsistence by which they can move back into the labour force when they are ready. Where the system fails is in not doing enought to encourage and channel workers into productive and fulfilling roles, or in protecting those at the bottom against social censure. Other social security systems manage these issues differently, and manage to avoid the common criticisms that plague commentary around the UK welfare system. 
+
+# 5-5 A Framework for Reform
+
+## Principles in practice
+
+How shall we think about these principles in a practical sense? As mentioned above, ideals remain mere dreams until they are successfully realised. Practicality, benefit and fairness become ideals to aim at when designing any new tax policy, without becoming restrictive principles which limit the development of any policy. The perfect should not become the enemy of the good. 
+
+No system will be perfect, but the strategic design of any new policies to prioritise clearly defined purposes and visible benefits sits at the heart of success. Incorporating this insight into a framework for guiding reform is our final task in this chapter. 
+
+So, what does all this mean for our new tax system? Having discussed historical ideas of *what* we should tax, outlined practical considerations for *why* we should tax, and touched on the *guiding principles* that should lie behind the design of any new policy, the clearest takeaway is that there is a lot to consider! It’s no wonder taxation has a bad reputation. The complexity of designing a successful policy results from the sheer number of considerations that must be made to try to achieve the multiple goals of raising revenue, tackling social norms, managing monopoly, and preserving equality, all while keeping things sufficiently simple and so circumventing a Kafkaesque bureaucratic nightmare scenario. 
+
+We can find our way out of this maze. By rearranging and summarising the above into a clearer decision-tree format, we can begin to pull together the threads of a decision framework that we can use to link taxation in principle with taxation in practice. 
+
+It’s clear from the foregoing that consideration of taxes can be subdivided into establishing the objectives and targets of the policy, and the guiding characteristics of the policy design itself. In our framework, we term these distinctions as the functional and qualitative requirements of the tax system. We outline these below.
+
+## Functional Requirements of Tax and Welfare System
+
+In simple terms, three major functions of the tax and welfare system can be identified:
+
+1. Raise Revenue: (Pay for government services)
+2. Ration Scarce Factors and Economic Bads: (Share limited resources, minimise environmental and health harm, and ensure the economy develops beneficially)
+3. Correct Maldistribution: (Redistribute income fairly, provide a safety net for those in need; help people into work; and ensure that the distribution of income is equitable)
+
+## Qualitative Requirements of Taxation System
+
+Similarly, we can identify three main non-functional requirements:
+
+1. Useable:      (Simple, with clear justification, objectives and low compliance and collection costs)
+2. Economically      Efficient:  (Non-distortive, applied to a secure tax base, and with low capacity to evade/avoid)
+3. Equitable:      (Transparent, fair, and internationally cooperative)
+
+## Qualitative Requirements of Welfare System
+
+We can also apply a similar mindset to the use of tax revenue in the case of the welfare system. 
+
+A welfare system should be:
+
+1. Useable:      (Simple, integrated, value for money, with the use of modern technology)
+2. Efficient:      (Providing incentives for going to work, and for skills development)
+3. Equitable:      (Fair, without stigma)
+
+## Theory Of Change
+
+How do we change the tax system? We need to maximise the effect whilst minimising resistance to changes. This is true in two areas in particular: Environmental/energy policy and housing policy. If we want to have a big effect, we need a big incentive. We must use financial incentives to promote forms of entrepreneurship which will provide public benefit. But big changes tend to have big losers, and therefore suffer strong political resistance. 
+
+What can individuals and groups do to promote a better tax and welfare system? Economic justice campaigners seek to eliminate the evident unfairness of the current taxation and benefits system. Environmental and housing tax campaigners seek to use the tax system to make the private sector work for greater public good. Simplicity campaigners seek a simpler, more usable system. Tax Heaven proposes to combine these motivations to propose a fair, beneficial, and simple tax and social security system. It provides a rallying point for key ideas that could be implemented immediately. 
+
+## Tax Theories of Change
+
+How do we change a complex, entrenched system like the UK's tax regime? This book deals with tax reform with two distinct approaches. The first is a 'blank slate' approach. This considers how we would define a tax and welfare system in an ideal world where both efficiency and fairness are achieved easily. 
+
+The second approach takes into account issues of incremental improvement and transition. In other words, what practical politically feasible changes could be made right now to make the system more beneficial and fair?
+
+So what does practicality look like? Often in policy, it is synonymous with political feasibility. Previously, we mentioned the idea of political realism and transitional justice. Changes must not seem unfair; nor must they have obvious losers. Fairness will be often perceived to be a matter of *transition* as opposed to the sort of a perspective we might have when trying to create a tax system from a 'blank state' (as we do within this book). 
+
+The tax system seems to change through top-down directives, through the intervention of the chancellor of the exchequer of the moment. This approach means that the tax system often changes with the agenda of 'budget day' announcements. Of course, the secrecy around these announcements is to a degree necessary: If agents know how the tax system is going to change, then they may be able to take steps to avoid taxes. A better approach might be to conduct a strategic tax review, in a similar way to the regular strategic defence review.
+
+Any discussion of taxation and welfare needs to consider *political realism*. What is political realism? It's a recognition that some policies are politically easier to implement than others. In the context of taxation and welfare, we need to consider *transitional justice* and in particular not make any major groups worse off (except those that had previously benefitted unfairly - though they too will rage mightily against any changes). So, for example, it might be argued that a 100% land value tax is appropriate in certain locations, but to impose such a tax immediately would be unfair to people who had recently purchased a house in a high land value area.
+
+So what would it take to make change happen? Arguably we need:
+
+1. Political desire for change - i.e. a broad public consensus that there is a wrong that needs to be righted
+2. A shared narrative understanding of the principles on which any new plan might be based
+3. Clear and easily communicated proposals that people could rally around
+4. Effective communication of the reform plan 
+5. A political opportunity
+6. People ready to take advantage of this opportunity when it does arise.
+
+How do we create that narrative understanding? Well, this book is a contribution to it. It is crucial to build a narrative that works for everyone in society, and caters to the different ways that people live in the world and contribute to economic life.
+
+We must awaken to the story we have been told about how the economy works, and understand its profound problems. We must see the evidence of the consequences of the existing system, and realise that there are alternatives. We must start to tell a new story. 
+
+## Previous Frameworks and Guidelines for Successful Reform
+
+According to Bird and Oldman, [-@BirdAndOldman] there are eleven main aspects that need to be considered for a successful tax reform. In this section, we take Bird and Oldman's categories and re-specify them for this particular book, in the order that they are covered here:     
+
+1. *Taxation theory*: Taxing rent and externalities, taking account of the theory of optimal taxation (both its classical formulation and  recent additions).   
+2. *Macroeconomic situation*: Balance of payments, trade deficit.   
+3. *Attractiveness of proposals to politicians and voters*: A reform should be attractive to voters and to specific types of politician. There should also be feasible policy pathways toward achieving the reform. 
+4. *Political realities*: Interests of voter groups, popular notions of justice, interests of powerful groups.
+5. *Institutional inertia*: Proposals for overcoming this.     
+6. *Administrative realities*: Assess the existing tax system and propose reforms to make taxes easily calculable, and levying them as simple and automatic as possible.     
+7. *Empirical evidence*, for example: effect of incentives at work; interaction between work, experience, education, and salary; effect of environmental taxes on damage; effect of health taxes on health outcomes; effect of taxes on finance.   
+8. *Robustness to changing times*: We look at the changing nature of work, and consider the dynamic effects of our tax proposals. 
+9. Local knowledge*: Legal nature of tax system; specific problems of UK system tax and economy (regional balances, dysfunctional house prices).      
+10. *Produce beneficial results:* Our modelling chapter will attempt to assess the likely consequences of the reforms we propose.
+
+## **Feasibility of proposals**
+
+Malcolm Torry, in his recent book 'The feasibility of citizen's income' [@Torry2016], considers the desirability of an unconditional *per capita* payment to all citizens, and then distinguishes between, and analyses, seven different types of 'feasibility':
+
+1. Fiscal
+2. Household financial
+3. Psychological
+4. Administrative
+5. Behavioural
+6. Political
+7. Policy process
+  
+We cover these notions of feasibility in our evaluation of these proposals in chapter 14.
+
+# Principles of Transition
+
+## Transition
+
+Any new tax system will involve a transition from the existing to the new. Working out such a transition is as important as working out where the direction of a tax system should eventually go. Such a transition should be fair and politically feasible, and also it should demonstrate the viability of the policies implemented by proving to a sceptical public their value. In order to transition from the current system to one that works more effectively in a fashion that is smooth and politically feasible, we set out some suggestions on principles of transition. 
+
+ ## Principle 1: Visionary
+
+The desired state and the objectives of the move should be clear.
+
+## Principle 2: Packaged Change
+
+The change in the tax system should be packaged into a policy proposal that can be implemented in the current political system.
+
+## Principle 3: Political Feasibility: Rhetorical
+
+The change should be expressible in simple and compelling arguments.
+
+## Principle 4: Political Feasibility: Few Losers
+
+The change should create few losers, in other words, significant, well organized groups should not lose out. If there are losers, then those losers should be disarmed by the rhetorical purpose of the policy, and where necessary by appropriate transitional compensation.
+
+## Principle 5: Expert Assent
+
+The change should have experts willing to support it. These experts should be credible and authoritative.
+
+## Summary
+
+The following table shows both the final strategic objective and the intermediate/transitional one. 
+
+| **Policy Area**                    | **Initial, Intermediate   Approach**                         | **Final Objective**                                          |
+| ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Income Tax                         | Simplify rates structure, make existing benefits universal and add in   means testing using tax system instead of benefits means testing. | Income tax is only paid by the upper half of individuals     |
+| VAT                                | Remove Exemptions, SImplify                                  | Transition to a profits tax based on UK sales                |
+| Carbon Tax                         | A system that gives general incentives based on a high implicit   carbon price that does not raise significant revenue | A high carbon tax used for general revenue                   |
+| Money Balance Tax                  | No change from existing system                               | Electronic deposits are taxed at approximately 5% per annum with a   significant tax free personal allowance. Cash are registered and are time   limited and a small fees are paid on withdraw |
+| Citizen's Dividend                 | Use existing benefit rates that simplify the system and reduce   conditionality. | In the long term, build up a personal sovereign wealth fund to pay   individuals are larger citizen's dividend |
+| Guaranteed Training and Employment | Short term, high quality master craftsman level courses for specific   groups to optimize the system | Long term, rolling out the guaranteed training to all sections of the   population |
+|                                    |                                                              |                                                              |
+
+ 
+
+## Paths forward
+
+Taxes and benefits create incentives for good or ill. It is crucial that these incentives are well-aligned with the interests of society as a whole. An improved tax and welfare system should include the functional and qualitative characteristics described above to promote total wealth in society. A well-designed system would reconcile the seemingly competing objectives of equity and efficiency with a minimum of compromise. Effective communication and steady implementation could also satisfy political objectives through clearly demonstrating the economic, social, or environmental objectives that a policy was designed to achieve. 
+
+The summary table below outlines what we think are the general characteristics of an *ideal* tax system:
+
+| **General Characteristic** | **Function**                                                 | **Qualitative Requirement** |
+| -------------------------- | ------------------------------------------------------------ | ------------------------------ |
+| *Practical*                | Raise   Resources for Government Services (MMT: Validate Money); | Useable;   Low Cost; Simple    |
+| *Beneficial*               | Ration   Scarce Collective Resources and Bads; Macroeconomic Management | Economically   Efficient       |
+| *Fair*                     | Distribute   Collective Rents Fairly; Correct for Maldistribution of Income and Wealth | Equitable                      |
+
+ 
+
+By using this framework, we can more clearly evaluate past tax policy and design new tax policy with a view to promoting equity and efficiency. This framework of principles is, we suggest, a useful evaluatory criterium for strategic tax reform. 
+
+However, it is not enough to have strong principles behind the design of tax policy. We emphasise the idea that tax is in strong need of a PR campaign. 
+
+One element of this could consist in clearly tying outputs from the spending of tax revenue to the purpose that they are intended to tackle. This, for example, could be using revenue from a carbon tax to act as a 'green investment' funding source. 
+
+Another could be in proposing a shareholder-stakeholder model of society. By asking the question of who exactly the stakeholders and shareholders are in society. and who should receive the 'dividends' from different forms of wealth, the path may be opened to more fundamental change in the UK tax system. 
+
+It will also be useful to highlight success stories from other countries and constituencies, where tax policy has been received positively by the communities it affects. In our next chapter, we will explore these ideas of implementation and functionality, as we move on to how these principles are applied in practice. 
+
