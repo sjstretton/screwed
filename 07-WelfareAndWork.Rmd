@@ -13,6 +13,9 @@ link-citations: yes
 
 ## Summary 
 
+This chapter considers the social security system of the UK from the perspective of *work*, that is paid employment. The existing social security system is a mess. In this chapter, we aim first to consider the nature of work and later not *just* to encourage work but also to improve the quality and security of that work. We conclude with proposals for the UK social security (welfare/benefits) system that combines a basic system of universal benefits with a contributory sovereign wealth fund. Together these reforms can eliminate the disincentives to work in the current system, reward both paid employment and non-paid work such as child-rearing and caring. They are also, we believe, consistent with the values of the British population. We also propose an additional *conditional* element (a high quality and rapid combined work-and-skills training program) aimed at improving the skillset of the British population.
+
+
 - Work plays a major role in modern life, yet it can be difficult to define precisely.  Work can be purposeful and fulfilling (work as leisure) or it can be unsatisfying drudgery (work as toil).  
 
 - Work can be of benefit to society (e.g. nursing), or it can be harmful (e.g. creating advertisements for junk-food). Benefit and harm are often not reflected in salaries.
