@@ -85,11 +85,6 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '09-Corporations.md'}
-```
-
-\newpage
-
 ```{r child = '10-LandAndProperty.md'}
 ```
 
