@@ -17,7 +17,7 @@ typora-root-url: ChapterPictures
 
 # CHAPTER 6: TAX IN PRACTICE
 
-# 6.1: The Existing Tax System
+# 6.1 The Existing System
 
 Okay. So, we understand that it’s important for taxes to be well designed. We understand that they should be applied strategically, to tax bases that are not disproportionately impacted by their implementation. They should be efficient; they should be fair; and most of all, they should be part of a system that provides the greatest amount of benefit possible from the revenue raised. 
 
@@ -31,10 +31,9 @@ We'll also look at the ways in which taxes fail. As our framework suggests, simp
 
 Taking a systemic perspective of the UK tax and welfare system can be helpful in determining where its pressure points lie. Tax and welfare are two sides of the same policy coin. One side cannot be fully analysed or appreciated without the other. Although our later chapters on inequality cover the UK welfare system in more detail, here we take a step back and look at these policy tools holistically, gauging the overall levels of spending and assessing the current benefits system. 
 
-# 6.2 Revenue and reasons
+# 6.2 The UK Tax System
 
-## Tax in Practice
-The UK tax system consists of approximately 26 different taxes, exploiting many tax bases. In total, £594 Billion was received by the HMRC in 2017/18 [@HMRC2019]. With national GDP in 2018 recorded as £2.033 trillion [@ONS2019], this translates to an overall tax burden of 29.2%. Of this, income taxes made up £180 billion, national insurance contributions £131 billion, and VAT £125 billion. This demonstrates how concentrated the UK’s tax base is, with over 73% of total receipts raised from these three taxes. 
+The UK tax system consists of approximately 26 different taxes, exploiting many tax bases. In total, £594 Billion was received by the HMRC in 2017/18 [@HMRC2019]. With national GDP in 2018 recorded as £2.033 trillion [@ONS2019], this translates to an overall tax burden of 29.2%. Of this, income taxes made up £180 billion, national insurance contributions £131 billion, and VAT £125 billion. This demonstrates how concentrated the UK’s tax base is, with over 73% of total receipts raised from these three taxes.
 
 A diminishing number of taxpayers are responsible for paying the bulk of income tax. According to Full Fact, the top 1% of earners were responsible for 28% of overall income tax revenues [@FullFact2019]. This number is relevant when it comes to the perspective of those designing tax policies. Retaining an attractive enough tax environment for top earners is a core priority of government tax bodies and is one of the more important considerations behind 'practicality' considerations in this space. A top tax rate of 100% may be attractive to some enthusiastic tweeters, but is, in reality, impractical. Policymakers must balance a desire to raise money or combat inequality using  tax rate increases on high incomes against creating incentives for tax evasion or avoidance and capital flight. 
 
@@ -52,7 +51,7 @@ However, the tax system is not the only way to achieve these outcomes. Public se
 
 This is most clear when the tax system fails to generate the outcomes targeted. Some objectives are too important to leave to the market, especially when it comes to regulating social and environmental bads. Moreover, relying on tax revenue can be difficult when the system is as complex as it currently is. Increased complexity raises the risks of tax avoidance and evasion by the wealthiest of earners. 
 
-# Welfare in Practice
+# 6.3 The UK Social Security System
 
 But what about the flipside? As we’ve touched on already, the objectives of Beveridge’s welfare state were to create a comprehensive system that employed tax revenue, government policy, and moral authority to tackle the five great evils in society. Today, this is achieved through the welfare system. Allocating funds to people of diminished capacity, low-income citizens, and the elderly creates a safety net, a minimum standard of living that people can count on... in theory.
 
@@ -74,7 +73,7 @@ As we outlined in the previous chapter, there are three key purposes to the UK b
 
 There are obviously flaws in the reality of achieving these goals, some of which will be expanded on in our inequality chapter. We can summarise by boiling these down to (i) administrative costs and errors and (ii) issues with inequality and delivery. Food-bank use in the UK rose 13% in the 2017-18 period alone, following a 6% increase the year previously [@TheTrussellTrust2019]. This is due in part to rising costs of living, and in part to administrative issues having to do with the rollout of universal credit, which has left many people behind in their payment schedule. This too will be expanded on in more detail in the chapter on inequality, but for now, it's important to recognise that there are issues in the implementation of these welfare ideals in practice. 
 
-# 6.2 Bugs in the System
+# 6.4 Bugs in the System
 
 ## Identifying the issues
 
@@ -140,9 +139,8 @@ We will not be able to tackle every accounting problem, but have some overarchin
 
 In other words we follow Einstein who suggested: 'make it as simple as possible, but no simpler'.
 
-# 
 
-# 13.2 The Mirrlees Review
+# 6.5 The Mirrlees Review
 
 Our starting point in building our proposals were the recommendations of the Mirrlees review [@Mirrlees2010]. This document suggested a number of key reforms of the UK tax system, so as to create effective incentives for a better functioning society. It also discussed different approaches to the taxation of income invested, with particular reference to whether whether gains or the final consumption are taxed. The review does not cover the benefit system. The recommendations of the summary reportare as follows:
 
@@ -158,7 +156,7 @@ Our starting point in building our proposals were the recommendations of the Mir
 
 We use these proposals to guide our own recommendations for new policies. 
 
-# 13.3 Philosophy of Our Proposals
+# 6.6 Philosophy of Our Proposals
 
 In this section we explain our guiding philosophy and define a simple set of proposals that may help achieve an ideal taxation system. The guiding principles here are that the system will be beneficial, fair, and practical.
 
@@ -182,7 +180,7 @@ The tax system should be as simple as possible. Thus we simplify wherever possib
 
 The new tax system should have privacy for ordinary members of the public. That could be achieved by the assignment of secure identities to taxpayers which are independent of their real identity (so that name or address would be separately stored than the 'tax' identity). This would ensure the safety of the citizens of the UK. There may however be a case made for the complete transparency of the very rich (0.1% by wealth or income) and major companies. This would be part of a check-and-balance mechanism is in place to regulate political and financial influence within the UK.
 
-# 13.4 Institutional Reforms
+# 6.7 Institutional Reforms
 
 ## Residency Allowance
 
@@ -196,7 +194,7 @@ Taxes on housing should be transformed over time into a 100% Land Value Tax, plu
 
 Instead of having an annual budget, the tax system should be treated strategically. In other words, it would be run much like the strategic spending and defence review - namely a 'strategic tax review'.
 
-# 6.3 Interim Conclusions
+# 6.8 Conclusions
 
 It is clear from the foregoing that the UK's existing taxation and benefits system does not operate in practice in the way it is meant to in principle. The system has failed to effectively enforce behavioural taxes on a wide and mobile tax base. 
 

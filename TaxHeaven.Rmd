@@ -15,9 +15,9 @@ link-citations: yes
 \newpage
 
 ```{r setup, include=FALSE}
-Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
+Platform <- "PC" #"PC" "Mac" "HeatherPC" 
 if(Platform=="PC") { 
- setwd("~/../Book") 
+ setwd("~/Book") 
 } else if(Platform=="Mac") { 
   setwd("~/Documents/Book")
 } else if(Platform=="HeatherPC") {  
@@ -77,17 +77,22 @@ The editors would like to extend their gratitude to the authors and to all who h
 ```
 
 \newpage
-07-
-```{r child = '07-WelfareAndWork.Rmd'}
-```
-
-\newpage
 
 # **PART II: SECTORS AND PROPOSALS**
 
 \newpage
 
+```{r child = '07-WelfareAndWork.Rmd'}
+```
+
+\newpage
+
 ```{r child = '08-Inequality.Rmd'}
+```
+
+\newpage
+
+```{r child = '09-Corporations.Rmd'}
 ```
 
 \newpage

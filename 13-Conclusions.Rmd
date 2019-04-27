@@ -26,7 +26,7 @@ We summarise the findings from our discussion below. Broadly, on the whole, we p
 Our proposals should be considered interim, since we have not yet completed accurate modelling of all their effects.
 
 
-# 13.2 A SUMMARY OF RECOMMENDATIONS
+# 13.2 Summary of Recommendations
 
 We propose a simple tax system which aims to fulfils our requirements of being beneficial, fair, and practical. These proposed policies, and the related transitional arrangements, aim to resolve issues around incentives and redistribution in the current UK tax system in a politically achievable way. 
 
@@ -77,7 +77,7 @@ The following table shows both the final strategic objective and the intermediat
 
  
 
-# 13.4 CONCLUDING REMARKS
+# 13.4 Concluding Remarks
 
 With this book, we have tried to outline the purposes and principles behind the UK tax and welfare system as it stands today, and we have attempted to address where exactly it has been going wrong. Excessive complexity, poorly communicated purposes, administrative and procedural problems, and lack of public buy-in are all issues with the current structure. 
 

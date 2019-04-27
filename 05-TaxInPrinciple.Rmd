@@ -14,7 +14,7 @@ link-citations: yes
 
 # CHAPTER 5: TAX IN PRINCIPLE
 
-# 5.1: Why Tax?
+# 5.1 Why Tax?
 
 It seems obvious that the authors of this book - **Tax Heaven** - would be in favour of taxation. Taxes are, as we have argued in previous chapters, a valuable method to pursue a variety of social objectives. In fact, they are probably among the most important tools at the disposal of governments, despite the negative press that surrounds their levy and use. 
 

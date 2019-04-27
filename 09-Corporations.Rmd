@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output: 
   tufte::tufte_handout: default 
   tufte::tufte_html: default
-bibliography: library.bib
+bibliography: Library/Mac/library.bib
 link-citations: yes
 ---
 
@@ -15,7 +15,7 @@ We suggest methods for comabtting the scourge of tax evasion.
 
 # 9.1 Corporations
 
-r tufte::newthought('Who should pay tax?') Individuals with sufficient earnings pay national insurance and income tax. People who buy goods and services pay VAT. It serves to reason then that companies which consume goods and services, and earn profits in the UK, should also be liable for tax. For what exactly is a company but a collective group of people organised into delivering a certain good or service?
+`r tufte::newthought('Who should pay tax?')` Individuals with sufficient earnings pay national insurance and income tax. People who buy goods and services pay VAT. It serves to reason then that companies which consume goods and services, and earn profits in the UK, should also be liable for tax. For what exactly is a company but a collective group of people organised into delivering a certain good or service?
 
 Despite seemingly an uncontroversial proposition, the minefield that surrounds corporation tax begs to differ. Several different taxes are currently levelled on companies that operate in the UK, including corporation tax on their profits from their business operations, and business rates on the rateable value of their land and buildings. Several loopholes and rebates exist which aim to keep companies pacified against having to pay increased levels of tax. However, these loopholes often overstep the mark and leave corporations which, despite in reality conduct the majority of their business operations within the UK, are able to claim a foreign base and avoid taxes all together. 
 
@@ -27,7 +27,7 @@ Knowledge is Power. In this chapter we aim to empower the reader with informatio
 
 It's worth then outlining some definitions before we enter into the murky world of corporation tax law administration. 
 
-Corporations are, in their most basic definition, a large company or group of companies authorized to act as a single entity and recognized as such in law. A company is a collection of individuals who have grouped together to provide a professional service or goods. These companies and corporations, however, are legal constructs. They have no *real* presence in the world, but are legal forms ultimately owned and controlled by a person or people. 
+Corporations are, in their most basic definition, a large company or group of companies authorized to act as a single entity and recognized as such in law. A company is a collection of individuals who have grouped together to provide a professional service or goods. These companies and corporations, however, are legal constructs. They have no *real* presence in the world, but are legal forms ultimately owned and controlled by a person or people. 
 
 A limited company is a legal form where the financial liability of the owners is limited to the net assets of the company. In other words, a company can go bankrupt and the owners of the company have some protection from the company's creditors. Corporations are the legal forms which are dominant in modern society and, much like religious organisations and educational institutions, wield enormous power.
 
@@ -57,10 +57,12 @@ When preparing the company's accounts, the costs of running the company may be d
 
 Organisations must calculate and report their own tax obligations. There is no bill from HMRC. Rather, they must register for corporation tax within three months of doing business. There may also be a penalty for late registration. 
 
-## Ring Fenced Companies
+## Ring-fenced Companies
+
 Different corporation tax rates apply to companies that make profits from oil extraction or oil rights from UK-based resources. These companies are designated as 'ring-fenced' due to reasons of national energy policy and security. Such companies can claim marginal relief on profits between £300,000 and £1.5 million. 
 
 ## Registration
+
 Registration can be done online, and companies require their unique taxpayer reference number, which usually will have been posted to them by HMRC after the company was registered with Companies House. 
 
 While registering, companies also need to inform HMRC of:
@@ -70,14 +72,16 @@ While registering, companies also need to inform HMRC of:
 - the date the annual accounts are made up to.
 
 ## Accounting Records
+
 In order to calculate how much to pay, companies must keep accounting records. HMRC has strict and detailed requirements for accounting records. If accounting records are not kept, companies can be fined £3,000 by HMRC or individuals may be disqualified from being company directors. It is necessary to keep records for six years from the end of the last company financial year they relate to. 
 
 ## Tax Returns
+
 When companies or associations receive a 'Notice to Deliver a Company Tax Return' from HMRC, they must file a company tax return. They must still file a return, even if they have made a loss or have no corporation tax to pay. The tax payable should usually be paid 9 months and 1 day after the accounting period. This accounting period is normally the same 12 months as the financial year covered by a company's annual accounts it covers.
 
 The tax return is due 12 months after the accounting period it covers. There are various penalties for late filing. If the return is six months late, then HMRC will send a 'tax determination' to say how much tax the organisation must pay. Organisations cannot appeal against a tax determination.
 
-# 9.2 Competing Narratives
+# 9.3 Competing Narratives
 
 ## The Need for Corporation Taxes
 
@@ -95,7 +99,7 @@ It might be clearest first to define the functions of a corporation tax first. A
 
  There are also several pragmatic reasons for the application of corporation tax, which will be explored below. 
 
-## Reason 1: Revenue
+## Reason 1: Revenue
 
 Corporation tax makes up approximately 8% of HMRC total receipts. It is the fourth biggest tax in terms of receipts: after Income tax, VAT and National Insurance Contributions, although the financial crisis saw income from the tax fall significantly, from £46.3 billion in 2007/08 to £39.3bn in 2013/14 [-@UKParliament2015]. A small number of firms pay the vast majority of income tax. According to the Oxford Centre for Business Taxation, 1% of all companies account for 81% of receipts. As it is a tax on profits, income from the tax is strongly correlated with the business cycle and thus can be very volatile. The below chart shows the relationship between the state of the economy and receipts from corporation tax [-@UKParliament2015]. The vertical axis is the annual change in corporation tax receipts and the horizontal axis is the annual change in economic output, between 1979/80 to 2013/14.
 
@@ -141,7 +145,7 @@ As discussed earlier, it might be difficult to tax residents' wealth for two mai
 
 Corporation tax prevents at least some of the avoidance associated with companies as a legal form. Without a corporation tax, wealthy individuals could *shelter* their income in a company. Companies are a legal form, and a company does not necessarily represent a business nor is a business necessarily incorporated. For example, an individual can be paid through a fully-owned company, and then offset some costs and smooth wage and dividend payments so as to minimize higher rate income tax on their earnings. In this sense then, corporation taxes is an essential companion to the personal income tax system.
 
-## The Other Side of The Coin
+## The Other Side of The Coin: Arguments Against Taxing Corporations
 
 ## Objection 1: Economic 'Distortions'
 
@@ -168,7 +172,7 @@ Economist Helen Miller made the following argument in 2017, when she said that "
 However, others have argued that it is unclear whether corporation tax falls largely on employees, and have made the wry point that if Corporation tax doesn't fall on the owners of capital, then why do so many companies try to avoid the tax?
 
 
-# 9.3 Loopholes in the Law
+# 9.4 Loopholes in the Law
 
 As has been demonstrated in the previous sections of this chapter, most governments rely on corporation taxes and income taxes as a substantial source of revenue by which to pay for public services, and regulate the activities of companies within their borders. However, "recent economic developments, and particularly the increasing globalization of capital markets, has made enforcement of national income taxes increasingly difficult" [@Roin2017]. Too often, the author says, tax systems in existence currently mean that the domestic income of foreign corporations 'ends up taxed nowhere'. 
 
@@ -208,13 +212,13 @@ These trends in corporate tax rate have a bearing on issues concerning wealth an
 
 VAT and fuel taxes disproportionately affect lower income earners. According to the Tax Justice Network, "Governments make up the shortfall by levying higher taxes on other, less wealthy sections of society, or by cutting back on essential public services." Another concern is that if corporation tax reduces the return to company shareholders, this will not only affect people with directly held shares, but also older people with private pensions. This would suggest that tax competition boosts inequality and deprivation.
 
-## Concern 3: Ring Fencing Bads
+## Concern 3: Ring-Fencing Bads
 
 A final concern with the corporation system as it currently stands lies in the ring fencing of domestic fossil fuel companies. Allowing marginal relief on the profits made by these companies is, in fact, a subsidy on their operations, and, in effect, a subsidy for the externalities which their carbon intensive operations create. 
 
 With a stated commitment to lower UK emissions by 80% by 2050, this tax subsidy is clearly incompatible with national goals. It is arguable that a rewrite of these tax policies could be instrumental in shifting incentives for companies to produce fossil fuels. As it stands, however, these incentives to lower carbon emissions and push a fuel shift towards low-carbon sources do not exist within corporate tax policy. 
 
-# 9.4 Reform 
+# 9.5 Reform 
 
 ## Ambition and Goals
 
@@ -228,7 +232,7 @@ Any reforms should be applied in such a way that they are not easily avoidable o
 
 However,  lets not walk before we can crawl. As with before, knowledge is the most effective tool to start rebuilding any system. To this end then, there are a number of possibilities for reform of corporation tax.  In this section, we'll outline a few of the main proposals for reform, including unitary taxation, the cash-flow tax, and potential tax-rebates for the creation of social goods, before moving on to discussing what the optimal options would be for the society we'd like to create.  
 
-In the next couple of sections we explore a couple of options
+In the next couple of sections we explore a couple of options for reform.
 
 ## Option 1: Unitary Taxation
 
@@ -238,7 +242,7 @@ Fairness is the idea embedded at the very heart of this proposal. Fair allocatio
 
 To illustrate this point, imagine the following. A company with over 1,000 employees in Switzerland, and 1,000 in London is, you'd think, liable to pay taxes in both of the regions designated. However, due to the 2 well-sunned board members residing in the Cayman Islands, the company is able to claim that the majority of their business operations take place in this paradise of a tax-haven. 
 
- Said company, lets call it Peach, is able to legally avoid paying taxes in the countries in which it operates in reality, by claiming that its core business activities take place in a country that is conveniently subject to a near 0% corporate tax rate. This, it is clear, is a loophole of the largest degree. 
+Said company, lets call it Peach, is able to legally avoid paying taxes in the countries in which it operates in reality, by claiming that its core business activities take place in a country that is conveniently subject to a near 0% corporate tax rate. This, it is clear, is a loophole of the largest degree. 
 
 Unitary taxation could be the solution. This term describes a method by which large corporations are taxed by allocating their profits to different jurisdictions. This replaces a confusing plethora of different methods and formulae for determining how much tax should be paid by companies in certain jurisdictions with a single method for calculating this liability. This is named something equally as compelling - the Massachusetts formula. 
 
@@ -256,9 +260,9 @@ $$  Weighting_{UK} = \left( \frac{1}{3} \right)* \left( \frac{Sales_{UK}}{Global
 
 This picture from the Tax Justice group illustrates the change in a slightly more reader friendly format. As it demonstrates, the change in unitary taxation would be to fairly apportion tax liabilities according to the percentage of actual business operations that occur in different regions. [@TaxJustice2019]
 
-![9-CorporationTax-unitarytax](C:\Users\Heather Mckay\Documents\GitHub\TaxHeaven\taxheaven\ChapterPictures\9-CorporationTax-unitarytax.PNG)
+![9-CorporationTax-unitarytax](ChapterPictures\9-CorporationTax-unitarytax.PNG)
 
-​				*Figure 9.6 - Corporation Tax and Income Tax*
+				*Figure 9.6 - Corporation Tax and Income Tax*
 
 The benefits of such a system are clear, and support for the system can be interpreted as being broad. However, the simplified nature of the calculation does not incorporate the difficulty of enforcing such a policy, not the limiting of incentives for countries to relocate to cheaper countries and export their goods and services to a UK market. 
 
@@ -286,7 +290,7 @@ Lets use an example to illustrate the benefits of such a system. Assuming a cash
 
 This Dyson-tax therefore satisfies two of the requirements for reform, in that it combats the incentives for policy-makers to engage in a race to the bottom on corporate tax rates. It also would provide a boost to companies that export goods and services, benefiting the UK's trade balance. Finally, the administrative ease of this policy in comparison to that of unitary taxation means that for substantial and effective reform, the Dyson-tax has greater revolutionary potential. 
 
-# 9.5 Transforming the Role of the Corporation ^^
+# 9.6 Transforming the Role of the Corporation ^^
 
 What we have proposed up to this point may have seemed ambitious enough. We have tried to work out ways that corporations (especially large corporations) could pay more tax, and to replace the current 'race to the bottom' with a 'race to the top'. In this section our role is even more ambitious: to transform the role of the large corporation in our society.
 
@@ -315,7 +319,7 @@ These tax rebates exist in some form already. In the UK, Social Investment Tax R
 
 There is potential to think big with these policies. By expanding the definition of what social objectives are tax eligible from individual company action to collective action, lobbying interests could be neutralised. For example, with carbon emissions, a tax rebate could be given to companies in the sector which clubbed together to achieve collective reductions in sectoral emissions. This would have the dual benefits of achieving the ESG goal of greenhouse gas reduction, and accelerating this process by combatting private interests which had lobbied against change. 
 
-# 9.6 Proposals
+# 9.7 Proposals
 
 'Although taxes are the price of civilization, most people and companies want the civilization without the taxes ' [@Roin2007].
 
@@ -348,6 +352,6 @@ Our ideas here are similar to those of Shann Turnbull^[See for example https://p
 
 Unlike our other proposals, this 'wealth tax on companies' is little more than a first draft. We suggest it as a way to propmote debate and as a contribution to tax design. To implement such a tax, we would convene a series of experts, but a single tax designer - like Beveridge - should have authority to make proposals to the government.
 
-# 9.7 Conclusions
+# 9.8 Conclusions
 
 Despite the myriad of arguments for and against corporation tax, the reform of such a policy should be seen as an opportunity to rewrite the rulebook on what taxes can achieve. The concepts of practicality, benefit and fairness should sit at the heart of any reform to corporation tax policy. With a cash-flow tax, these remits are satisfied. If designed intelligently and administered well, this policy package could tackle the issues of tax-havens, raise revenue for essential public services and promote the creation of social goods. Under this new system, corporation tax could become, instead of a burden to companies and a worry for states, an opportunity for radical reform and collective success. 

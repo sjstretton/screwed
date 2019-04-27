@@ -9,44 +9,44 @@ bibliography: Library/libraryCopy.bib
 link-citations: yes
 ---
 
-# CHAPTER 12: ENVIRONMENT, HEALTH, AND RESOURCEs
+# CHAPTER 12: ENVIRONMENT, HEALTH, AND RESOURCES
 
 # 12.1 Introduction
 
 > *'Future generations are unlikely to condone our lack of prudent concern for the integrity of the natural world that supports all life'*  [@Carson1962]
 
-> *'For the sake of civilized society, it's time we truly figure out how to enable economic growth, while keeping intact the very grounds upon which all prosperity is based; clean air, fertile soil, metals and minerals and all natural resources that enable us to flourish as human beings.'*
+> *'For the sake of civilised society, it's time we truly figure out how to enable economic growth, while keeping intact the very grounds upon which all prosperity is based: clean air, fertile soil, metals and minerals, and all natural resources that enable us to flourish as human beings.'*
 >
 > `r tufte::quote_footer('---  H.R.H. Prince Carlos de Bourbon de Parme (2014)')`
 
-`r tufte::newthought('The Earth is facing')` a great number of environmental problems; many of which are caused or contributed to by human economic activity. Everything - from the lakes we drink from, the air we breathe, and the food we eat - is being impacted by irresponsible human action.
+`r tufte::newthought('The Earth is facing')` a great number of environmental problems, many of which are caused or contributed to by human economic activity. Everything -- from the lakes we drink from, the air we breathe, and the food we eat -- is being impacted by irresponsible human action.
 
-This chapter is devoted to reducing the harm caused to the environment and human health by economic activity such as burning fossil fuels or excessive production and consumption of red meat. We also investigate the distributional effects of resource extraction and consumption, in particular the financial surplus that accrue to whoever controls the land on which they are extracted from.
+This chapter is devoted to reducing the harm caused to the environment and human health by economic activity such as burning fossil fuels or excessive production and consumption of red meat. We also investigate the distributional effects of resource extraction and consumption, in particular, the financial surplus that accrue to whoever controls the land on which they are extracted from.
 
 |![image](OtherPictures/EnvironmentalIssues.png)|
 |:--:|
 |*Figure 12.1 Key Environmental Issues*|
 
-Economic activity often causes damage which is not accounted for by the polluting parties themselves, but rather borne by those who have done little to cause them. Manufacturing businesses pumping out CO~2~ into the atmosphere have little or no obligation to pay for the damage that climate change causes in communities and countries across the world. Resulting 'damage costs' often can be ignored because they affect third parties and may be difficult to quantify, and difficult to locate the direct source for.  These costs are known as 'negative externalities'
+Economic activity often causes damage which is not accounted for by the polluting parties themselves, but rather borne by those who have done little to cause them. Manufacturing businesses pumping out CO~2~ into the atmosphere have little or no obligation to pay for the damage that climate change causes in communities and countries across the world. Resulting 'damage costs' often can be ignored because they affect third parties and may be difficult to quantify and difficult to locate the direct source for.  These costs are known as 'negative externalities'.
 
-Negative externalities can be accounted for (or 'internalised') if an economic actor has to pay for the cost of the damage via a tax. This is known as a Pigouvian tax (after Arthur Cecil Pigou, a British economist), and are thought to disincentivise the damage-causing economic activity. Companies and individuals will be motivated to find less damaging alternatives to the polluting economic activities when these damage costs fall on them. They act not altruistically, but to reduce their tax bill [@Pigou1932].
+Negative externalities can be accounted for (or 'internalised') if an economic actor has to pay for the cost of the damage via a tax. This is known as a Pigouvian tax (after Arthur Cecil Pigou, a British economist) and are thought to disincentivise the damage-causing economic activity. Companies and individuals will be motivated to find less damaging alternatives to the polluting economic activities when these damage costs fall on them. They act not altruistically but to reduce their tax bill [@Pigou1932].
 
-There are some difficulties with applying taxes on resource consumption and environmental or health bads. Such taxes can be difficult to quantify, costly to apply, sometimes unpopular, and they may fall harder on those with lower incomes. In particular the 'incentive' effect of a green tax may need to be substantial in order to have the desired effect; but high externality taxes can often be unpopular. Thus in using the revenues from environmental taxes we can focus on the possible economic co-benefits of them on one hand, or we can focus on political resistance to them.
+There are some difficulties with applying taxes on resource consumption and environmental or health bads. Such taxes can be difficult to quantify, costly to apply, sometimes unpopular, and they may fall harder on those with lower incomes. In particular, the 'incentive' effect of a green tax may need to be substantial in order to have the desired effect; but high externality taxes can often be unpopular. Thus, in using the revenues from environmental taxes, we can focus on the possible economic co-benefits of them on one hand, or we can focus on political resistance to them.
 
 If we are focussed on the economic, we may be able to use Pigouvian taxes to reduce other taxes, i.e. a 'Green Tax Shift'. This could be particularly beneficial if they replace taxes on productive activities (a double-dividend). 
 
 ^^
 
-On the other hand, if we are focused on environmental issues and political acceptability, we may refrain from raising net funds from the tax shift. Instead we may wish to give the money back to the population. We discuss two possible strategies here, an output subsidy on goods produced (especially electricity), and a payment to everyone in society (a citizen's dividend)
+On the other hand, if we are focused on environmental issues and political acceptability, we may refrain from raising net funds from the tax shift. Instead, we may wish to give the money back to the population. We discuss two possible strategies here: an output subsidy on goods produced (especially electricity) and a payment to everyone in society (a citizen's dividend).
 
-In relation to natural resources there is a second important concept -- Resource Rent. We have been familiar with the notion of rent from our chapter on land.^[Land rent is the payment made to the landowner by the occupier of the land, whether land has buildings on it or not. It is the private value associated with ownership of the land, net of any costs associated with making use of the land. So the land rent of a landowner's field is roughly the value of the land (strictly speaking, the unimproved land) if he were to rent the land out on the open market. This rental value is clearly closely associated with the surplus that the land can producte - value of the foodstuffs that he produces, net the costs of his time and other expenditures needed to get those resources to market. Resource rent is similar but is calculated per unit of a commodity.]
+In relation to natural resources, there is a second important concept -- Resource Rent. We have been familiar with the notion of rent from our chapter on land.^[Land rent is the payment made to the landowner by the occupier of the land, whether land has buildings on it or not. It is the private value associated with ownership of the land, net of any costs associated with making use of the land. So the land rent of a landowner's field is roughly the value of the land (strictly speaking, the unimproved land) if he were to rent the land out on the open market. This rental value is clearly closely associated with the surplus that the land can producte -- value of the foodstuffs that he produces, net the costs of his time and other expenditures needed to get those resources to market. Resource rent is similar but is calculated per unit of a commodity.]
 
-Resource rent the excess of the sale price of the resource over the cost of production. And, just like land rent, it is associated with control of the rights to extract the natural resource from a piece of land. So the resource rent of oil extracted in a certain place is the sale price of the oil minus the cost of extraction.
+Resource rent is the excess of the sale price of the resource over the cost of production. And, just like land rent, it is associated with control of the rights to extract the natural resource from a piece of land. So the resource rent of oil extracted in a certain place is the sale price of the oil minus the cost of extraction.
 
 
-Thus in the economics of environment and resources we distinguish two sorts of argument. The first criticism is that the world economy is doing radically the wrong activities, because the cost on the environment is not considered. The second critique is that the purchase of resources gives large transfer payments to those who diserve them least. But the two are linked. As Al Gore once put it "We're borrowing money from China to buy oil from the Persian Gulf to burn it in ways that destroy the planet. Every bit of that's got to change."
+Thus, in the economics of environment and resources, we distinguish between two sorts of argument. The first criticism is that the world economy is doing radically the wrong activities because the cost on the environment is not considered. The second critique is that the purchase of resources gives large transfer payments to those who deserve them least. But the two are linked. As Al Gore once put it, "We're borrowing money from China to buy oil from the Persian Gulf to burn it in ways that destroy the planet. Every bit of that's got to change."
 
-We will deal with resource rents: ie the distributional consequences of the production side of resources in the next section, and then devote the rest of the chapter to negative externalities and other bads from the perpective of consumption..
+We will deal with resource rents: i.e., the distributional consequences of the production side of resources in the next section, and then devote the rest of the chapter to negative externalities and other bads from the perpective of consumption.
 
 # 12.2  Resource Rents ^^
 
