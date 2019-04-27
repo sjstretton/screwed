@@ -159,7 +159,7 @@ There is, of course, a sympathetic relationship between the issues with work out
 |:--:|
 |*Figure 7.5 - Drop in real wages growth since 2009*|
 
-With an increase in precarious, short-term jobs comes an increased need for unemployment benefit to fill in the gaps in employment. Overwork and unhealthy work habits can lead to illness, which then require the payment of Employment and Support Allowance. Built around the model of long-term employment with a single employer, the current welfare state is unsuited to the demands of today's working environments.
+With an increase in precarious and short-term jobs comes an increased need for unemployment benefit to fill in the gaps in employment. Overwork and unhealthy work habits can lead to illness, which then require the payment of Employment and Support Allowance. Built around the model of long-term employment with a single employer, the current welfare state is unsuited to the demands of today's working environments.
 
 Today's welfare state covers five main categories of welfare spending: 
 
@@ -170,9 +170,9 @@ Today's welfare state covers five main categories of welfare spending:
 5. Family Benefits, Income Support and Tax Credit
 
 
-# 7.4 Issues with the benefit system
+# 7.4 Issues with the Benefit System
 
-## The 'benefit trap'
+## The 'Benefit Trap'
 
 One of the problems with means-tested benefits is that they can create a disincentive to seeking paid employment. A person receiving benefits may find that their benefits cease when they take a job, and they also pay tax on their earnings, which often leaves them scarcely better off than they were on benefits. The current system is engaged in a shift from a sharp cut-off point to a gradual phase-out. With the former, when the costs of commuting to work and/or childcare are taken into account, this creates a strong disincentive for the unemployed to take up a low-wage job. 
 
@@ -485,7 +485,7 @@ the authorities.
 One step beyond a basic income is basic property. This would be a basic
 requirement for property for all.
 
-## The Case For Retaining A System of Contributions and Contribution Records in a Basic Income Scheme
+# The Case For Retaining A System of Contributions and Contribution Records in a Basic Income Scheme
 
 The Beveridge report and the system of national insurance that it brought in, amongst other things, have at its heart the dual ideas of universal benefits and that of contributory benefits. Universal benefit is a benefit that is paid at the same level whatever happens. Contributory benefits are those where tax or national insurance contributions affect the future amount of benefits provided.
 
@@ -528,22 +528,16 @@ movement. The UK, and particularly London, are attractive places for people acro
 
 ## Implementation
 
-**Step 1: Introduction of Payment Card**
+*Step 1: Introduction of Payment Card.* The citizen's dividend system would be introduced as a payment card for all citizens (similar to an oyster card).
 
-The citizen's dividend system would be introduced as a payment card for all citizens (similar to an oyster card).
-
-**Step 2: Simplifying Universal Credit**
-
-Universal credit works like this: You can opt into the system, if you have been on another benefit and you are in an area that UC has been rolled out to. Universal credit replaces the following benefit types: Child Tax Credit; Housing Benefit; Income Support; income-based Jobseeker's Allowance (JSA): income-related Employment and Support Allowance (ESA): Working Tax Credit. Once you are in the system, it works like this: You have a standard payment, that is set up as follows: 
+*Step 2: Simplifying Universal Credit.* Universal credit works like this: You can opt into the system, if you have been on another benefit and you are in an area that UC has been rolled out to. Universal credit replaces the following benefit types: Child Tax Credit; Housing Benefit; Income Support; income-based Jobseeker's Allowance (JSA): income-related Employment and Support Allowance (ESA): Working Tax Credit. Once you are in the system, it works like this: You have a standard payment, that is set up as follows: 
 
 - If you are are getting help with housing: you get a payment
 of X per year, not including housing costs. - If you are not getting help with housing: you get a payment of Y per year.
 
 For those people in the universal credit system, replace it with a universal payment and a standard benefits withdrawal rate of 40%. Now, a benefits recipient would receive a universal benefit of ?4000 per year , and pay a standard tax of 40% on all income coming in.
 
-**Step 3: Simplifying Income Tax**
-
-For people working, replace it with a basic income and the elimination of the personal threshold. Simultaneously simplify the income tax, employees and employers system to a standard rate of 40% and a higher rate of 60% for the first percentile only. If you are in the PAYE system you get the basic income.
+*Step 3: Simplifying Income Tax.* For people working, replace it with a basic income and the elimination of the personal threshold. Simultaneously simplify the income tax, employees and employers system to a standard rate of 40% and a higher rate of 60% for the first percentile only. If you are in the PAYE system you get the basic income.
 
 Now these two groups are on a basic income: 
 
@@ -552,13 +546,9 @@ Now these two groups are on a basic income:
 
 The participation basic income would be paid in two circumstances. First, you are in work. Second, you are in receipt of universal benefits and the legacy benefits that universal benefit allows for.
 
-**Step 4: Reduce Income taxes, Increase Externality Taxes**
+*Step 4: Reduce Income taxes, Increase Externality Taxes.* The fourth step is to reduce again the basic rate of income tax, and replace it with the carbon tax, at the same time bringing into the scheme those people who aren't either recipients of universal credit, or full time workers above the personal allowance (as was prior to the introduction of the scheme.
 
-The third step is to reduce again the basic rate of income tax, and replace it with the carbon tax, at the same time bringing into the scheme those people who aren't either recipients of universal credit, or full time workers above the personal allowance (as was prior to the introduction of the scheme.
-
-**Step 5: Basic Property Tax Free Allowance**
-
-We adopt the same approach to property as with income. We first consider the people who are taxed and the people on benefits and we adopt the same allowances for these two groups. Those owning property and those on housing benefits should have the same benefits. We then extend this allowance to all.
+*Step 5: Basic Property Tax Free Allowance.* We adopt the same approach to property as with income. We first consider the people who are taxed and the people on benefits and we adopt the same allowances for these two groups. Those owning property and those on housing benefits should have the same benefits. We then extend this allowance to all.
 
 # 7.9 Guaranteed Job and Skills Training
 
