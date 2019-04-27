@@ -78,7 +78,7 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '07-WelfareAndWorkTemp.Rmd'}
+```{r child = '07-WelfareAndWork.Rmd'}
 ```
 
 \newpage
