@@ -26,13 +26,7 @@ Taking a step back from their immediate plight, it seems odd that Clooney and hi
 
 First, the seas were no longer as bountiful as they once were. In the 1950s, the Grand Banks off Newfoundland teemed with fish. But overfishing led to a collapse in stocks. Thus our crew needed to go further out to sea, where more plentiful stocks remained. Second, the fishermen lacked economic security in their lives. They had to fish to keep food on the table. Beyond their own homes, they owned little. The boat itself was owned by an investor who expected a return without doing anything quite so dangerous as heading out to sea.
 
-<<<<<<< HEAD
 The fishermen were in a situation that was neither safe nor fair -- and the lack of fairness led them to take dangerous risks. Moreover, their lives were defined by a world of scarcity, a world that had been depleted by over-exploitation of natural resources.
-
-\newpage
-=======
-The fishermen were in a situation that was neither safe nor fair -- and the lack of fairness led them to take dangerous risks. Moreover, their lives were defined by a world of scarcity, a world that had been depleted by over-exploitation of natural resources. \newpage
->>>>>>> adc8b2d7a1fd4cc5412ee7879b469229b021b673
 
 # 1.2 Spaceship Earth
 
