@@ -371,7 +371,7 @@ Romero argued that such preservation helps people maintain a sense of the past, 
 Governments can intervene to help promote this social value above the private value, either through command and control (e.g. mandating all buildings be the same height so as to control aesthetics) or taxes and subsidies (taxing disused land and subsidising home improvements through rebates). Issues exist with both policy methods. Such direct orders may appear draconian and totalitarian, and may also not be administered properly so as to ensure the desired characteristics of the land are maintained. Taxes and subsidies may not always be set at an appropriate level to properly manage the resource, but they do at least give individuals flexibility in what they choose to do with their property.
 
 
-# 10.10: In More Depth: The Unique Case of Land
+# 10.10 In More Depth: The Unique Case of Land
 
 > *Ask for what end the heav'nly bodies shine, Earth for whose use? Pride answers, Tis for mine.* Alexander Pope
 
@@ -591,7 +591,7 @@ A further possibility is that a focus on land economics, and by extension any di
 
 Clearly, land must be brought out of the economic theory wilderness and given a central role.
 
-# 10.13 CASE STUDY: Singapore as a 'Property State
+# 10.13 Case Study: Singapore as a 'Property State
 
 Singapore is often described as a neoliberal paradise: Low taxes, open trade, a large financial sector. It has been phenomenally successful, with average growth rates in the range of 5-10%, and has transformed itself into a city-state with amongst the highest GDP in the world.
 

@@ -25,7 +25,7 @@ This part is split into the following chapters indicating different types of tax
 3. Financial 'Repression': reducing public debt through inflation, growth, monetisation of debt
 4. Demurrage: Taxes on money balances
 
-# 11.1: Taxing Bank Balance Sheets and Profits
+# 11.1 Taxing Bank Balance Sheets and Profits
 
 ## Introduction
 
@@ -190,7 +190,7 @@ There are two general motivations for transaction taxes: to alleviate short term
 Therefore, it seems that the most appropriate way to go is to support an international tax at such a level that it would have a beneficial effect on reducing short-term speculation, and assess the revenue raised. A number of countries could coordinate this approach. We do not propose to introduce a transactions tax unilaterally, except in the sense of making the existing tax system more automatic.
 
 
-# 11.3: Financial Repression
+# 11.3 Financial Repression
 
 Growth in GDP is low in European countries, and the level of government 'debt' and of on-going public deficits are of public concern. In such situations, lower or more negative real interest rates become an important policy tool, because they have the effect both of stimulating economic activity and of reducing the interest burden of public debt.
 

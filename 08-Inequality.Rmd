@@ -624,9 +624,11 @@ The MIT PhD student Matthew Rognlie noted that Piketty's conclusion depends on h
 
 This is consistent with our argument, since housing is closer in nature to land (i.e. non-expandable with a local monopoly) than capital in the classical economic sense (i.e. expandable and competitive). To properly test our hypothesis (that it is the monopoly element - land in housing, market power in companies - that causes inequality) we'd need to disaggregate the land element from housing (relatively straightforward) and the monopoly element from companies (much less straightforward). However, the data is at least broadly supportive of the case suggested by Piketty's economic hypothesis.
 
+# 8.13 The Underlying Drivers
+
 To summarise, economic theory tells us that there are some particular ways in which the wealthy are able to accumulate wealth which we propose to be unfair and unproductive to the economy: Land, Monopoly, and the interplay between interest rates and asset values. 
 
-## Land
+## Land
 
 Wealthy people make a large proportion of their wealth through increases in the value of land which they own. When we talk about land, we are primarily concerned with the land on which urban buildings stand. This is the part of its value associated with *location*. Land is fixed in supply, and when certain locations become more desirable (such as London), supply cannot increase to meet demand. 
 
