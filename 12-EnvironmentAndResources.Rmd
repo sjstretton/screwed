@@ -44,9 +44,9 @@ In relation to natural resources, there is a second important concept -- Resourc
 Resource rent is the excess of the sale price of the resource over the cost of production. And, just like land rent, it is associated with control of the rights to extract the natural resource from a piece of land. So the resource rent of oil extracted in a certain place is the sale price of the oil minus the cost of extraction.
 
 
-Thus, in the economics of environment and resources we distinguish two sorts of argument. The first criticism is that the world economy is doing radically the wrong activities, because the cost on the environment is not considered. The second critique is that the purchase of resources gives large transfer payments to those who diserve them least. But the two are linked. As Al Gore once put it "We're borrowing money from China to buy oil from the Persian Gulf to burn it in ways that destroy the planet. Every bit of that's got to change."
+Thus, in the economics of environment and resources, we distinguish between two sorts of argument. The first criticism is that the world economy is doing radically the wrong activities because the cost on the environment is not considered. The second critique is that the purchase of resources gives large transfer payments to those who deserve them least. But the two are linked. As Al Gore once put it, "We're borrowing money from China to buy oil from the Persian Gulf to burn it in ways that destroy the planet. Every bit of that's got to change."
 
-We will deal with resource rents: ie the distributional consequences of the production side of resources in the next section, and then devote the rest of the chapter to negative externalities and other bads from the perpective of consumption..
+We will deal with resource rents: i.e., the distributional consequences of the production side of resources in the next section, and then devote the rest of the chapter to negative externalities and other bads from the perpective of consumption.
 
 # 12.2  Resource Rents ^^
 
