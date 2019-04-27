@@ -485,7 +485,7 @@ the authorities.
 One step beyond a basic income is basic property. This would be a basic
 requirement for property for all.
 
-# The Case For Retaining A System of Contributions and Contribution Records in a Basic Income Scheme
+# 7.9 Towards a Contributory System
 
 The Beveridge report and the system of national insurance that it brought in, amongst other things, have at its heart the dual ideas of universal benefits and that of contributory benefits. Universal benefit is a benefit that is paid at the same level whatever happens. Contributory benefits are those where tax or national insurance contributions affect the future amount of benefits provided.
 
@@ -550,7 +550,7 @@ The participation basic income would be paid in two circumstances. First, you ar
 
 *Step 5: Basic Property Tax Free Allowance.* We adopt the same approach to property as with income. We first consider the people who are taxed and the people on benefits and we adopt the same allowances for these two groups. Those owning property and those on housing benefits should have the same benefits. We then extend this allowance to all.
 
-# 7.9 Guaranteed Job and Skills Training
+# 7.10 Guaranteed Job and Skills Training
 
 We would also propose a guaranteed job and skills training program, operating in conjunction with the Citizen's Income.  For example we propose taking around 250,000 people into full technical apprenticeships each year.
 
@@ -607,7 +607,9 @@ Guaranteed jobs could displace existing workers. Some employers that have people
 A high-skilled economy is inevitably more inflexible as it takes longer to get particular skillsets. Computer technicians cannot easily retrain as brain surgeons. Also, certain work is only suitable for those with very high academic ability.  This scheme would not be of great assistance as regards those kinds of skills.
 
 
-# Further Ideas
+# 7.11 Further Ideas
+
+(From Gordon)
 
 - Citizens Dividend to be paid unconditionally to all UK citizens.  New citizens must wait five years to qualify.  (Prisoners to pay 33% of their CD to the state to compensate for their keep.  The rest will be held in trust with 5% AER to cushion their release into society.  If they perish in captivity the money reverts to the CDT.)  Suggested payments:  £250 per month for 0-16 years of age; £500 for 16 to 65; and £750 thereafter. (numbers completely open to debate, as always with me)
 - CD to be paid into an account at the SLB-UK.  All citizens that apply for and claim their CD must apply in person and present themselves for interview in private (if a person is considered to be vulnerable in any way, they will be provided with free state legal representation for the purposes of determining their wishes).  Each successful applicant will be issued with a banking card that doubles for a biometric Citizens Identification Card.  If a person does not want to subscribe to the ID Card system, they do not qualify for the Citizens Dividend.
