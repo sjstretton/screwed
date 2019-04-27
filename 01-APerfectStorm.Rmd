@@ -1,0 +1,101 @@
+---
+title: "Chapter 1 of Tax Heaven"
+subtitle: "Revolutionising Tax and Welfare in the Pre-Singularity Era"
+date: "`r Sys.Date()`"
+output: 
+  tufte::tufte_handout: default
+  tufte::tufte_html: default 
+bibliography: Library/Mac/library.bib
+link-citations: yes
+---
+
+# CHAPTER 1: FACING GLOBAL RISKS HEAD ON
+
+# 1.1 A Perfect Storm
+
+The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
+
+A group of New England fishermen had fallen on hard times after a series of poor catches. Their captain, played in the film by the actor George Clooney, hired a boat for one final fishing trip of the year. The trawler sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish. Turning for home, they hoped to get the catch back whilst still fresh. Unfortunately, a storm was brewing - and not just any storm. Three separate weather systems had merged to create a 'weather bomb' of unusual intensity. Meteorologists warned of a serious threat to life.  
+
+
+The fishermen faced a dilemma. Should they attempt to land their catch whilst still fresh? To do so, they would need to risk their lives by sailing back on a direct route, straight through the storm. Alternatively, they could avoid the storm by sailing further out to sea. After this detour, the fish would no longer be fresh, and they would be out of pocket.
+
+Added to this dilemma were communication and leadership issues. The storm had damaged the radio, making it difficult to get information or call for help. The captain (we'll call him 'Clooney' after the actor playing him), whilst charismatic, lacked good judgment. He took the risk and sailed into the storm.
+
+Taking a step back from their immediate plight, it seems odd that Clooney and his men took such a severe risk. Why were they in that situation in the first place? Perhaps there were two reasons.
+
+First, the seas were no longer as bountiful as they once were. In the 1950s, the Grand Banks off Newfoundland teemed with fish. But overfishing led to a collapse in stocks. Thus our crew needed to go further out to sea, where more plentiful stocks remained. Second, the fishermen lacked economic security in their lives. They had to fish to keep food on the table. Beyond their own homes, they owned little. The boat itself was owned by an investor who expected a return without doing anything quite so dangerous as heading out to sea.
+
+The fishermen were in a situation that was neither safe nor fair -- and the lack of fairness led them to take dangerous risks. Moreover, their lives were defined by a world of scarcity, a world that had been depleted by over-exploitation of natural resources.
+\newpage
+# 1.2 Spaceship Earth
+
+What has the 'Perfect Storm' got to do with the future of the planet? On Earth, we are facing a similar situation as did Clooney and his crew. There are warnings of a dangerous future ahead for all of us. Climate scientists warn of a much hotter planet, with more intense storms and rising seas. Should we ignore the warnings and steam ahead, like Clooney, or recognise the dangers we face and try to mitigate them?
+
+Even if we accept the scientists' warnings and resolve to act on them, our situation remains very tricky. You and I have little control over the direction of the world economy. There is no single captain of the 'Spaceship Earth.' Indeed, most of us have little idea how  exactly the controls of our economy work. 
+
+This book is about a centrally important set of controls which determine the focus and trajectory of our economy: Taxation. In this book, we show how intelligent and principled changes to the tax system could shift the economy towards a brighter future. We link taxation to substantive concerns of our daily lives and our long-term collective future, including welfare benefits, property rights, wealth accumulation, environmental health and safety, energy and housing policy.
+
+A libertarian critic might argue that people's interests and actions are their own business. People should be free to do what they want, without the government interfering. Hasn't the market economy had a good record? Globally, humanity is richer, more secure, and living longer than ever before. Poverty is also at record low levels. 
+
+There's a lot of truth in these observations - but it's also true that there are very real storm clouds on the horizon. This book investigates two major issues that threaten our future. The first is radical environmental destabilisation. The second is economic unfairness and insecurity. The richer and more populous humanity becomes, the more environmental damage we cause. The more unequal society becomes, the more we risk the hard-fought stability developed during the latter half of the twentieth century. Unless we develop better economic habits, we will damage the one planet that we have, and destroy the basic social consensus on which our system depends.  
+
+Humanity is in a situation that is neither safe nor fair - and the lack of fairness is leading us to take dangerous risks. Moreover, the economic game is unfolding in an era of extreme environmental risks caused by polluters' failure to take responsibility for pollution, made worse by the *de facto* capture of governments by polluters. 
+
+# 1.3 Your Safety and Quality of Life Directly and Hugely Depend on Achieving Major Tax Reforms
+
+That's why we've set out to propose reforms in the way Britain's taxes are organised that make our society safer, fairer, and more responsible in economic and environmental terms. The same or similar reforms as those we propose could also be usefully applied in many other countries. 
+
+Inequality takes many forms and strikes at the root of human security. A rising proportion of young people struggle just to pay exorbitant monthly rent on the flats where they live, and have no realistic prospect of ever owning their own homes. This contributes to anxiety and instability, and inhibits family formation. Basic issues like these - concerns about the affordability of a decent lifestyle for ordinary people - are among the economic phenomena that motivated us to write this book. The question we ask is: How could we reform the tax system so that it is truly fair and effective in delivering the results that matter to ordinary people? Being able to afford a decent place to live, being rewarded in proportion to one's contributive merit, and being assured of a safe and stable global climate and sea-level are among the results that really matter.
+
+There's one more crucial question: How can we decide on and make these changes together? The members of Clooney's crew had different preferences. Some wanted to get home swiftly; others wanted to stay out at sea and avoid the storm. But the fate of the crew was indivisible. No-one was in a position to exit the boat earlier than the others, or take a different route. They had to decide together and hence live or die together. The fate of humanity is similar. Whatever our individual preferences, we also face issues in common. We need to understand the controls of our economy so we can shift its trajectory in a safer, fairer direction. If our society is analogous to Clooney's boat, our economy is akin to the boat's engine, and our taxation system is its rudder. That's why our focus in this text is on the British economy's control systems: not just on the rudder, but on the processes for deciding whether to shift the rudder in one direction or another.  
+
+Throughout our analysis, we steer clear of the god-like perspective of meteorologists, with their satellites and computer models, and constrain our analysis to the ground-level, human perspective of Clooney and his men. We therefore don't make it part of our task to demonstrate that the meteorologists and climate scientists are right about the dangers of rising atmospheric carbon levels. That issue is within scope of many other texts - and we've read enough of them to be very confident that climate science isn't a hoax. ^[We recommend the Sceptical Science website (http://skepticalscience.com) for good, easy-to-read information about climate science, and rebuttals of mistaken talking-points often repeated by 'climate skeptics.'] We proceed from the credible assumption that threats to the stability and safety of the climate due to rising atmospheric greenhouse gas levels are very real, indeed existential, and need to be dealt with. The storm, in other words, is strong and rising. It will get much fiercer in years and decades to come. 
+
+The trawler and the fishermen in Clooney's boat were a combined mechanical and a social system. In determining the system's fate, what mattered was not only how well the boat's engine and rudder were working, but also how well Clooney was directing the crew. We face a similar situation with our economy and the political system that guides it. That's why our analysis considers two major economic questions, both of which need to be solved together: How can we prevent environmental destruction? And what constitutes a just distribution of wealth and property? In both cases, we're interested in taxation as set of controls over the economy and the consequent impact on human lives - and the economy's wider impact on the physical world.
+
+We can phrase these questions in economic and political terms. The economist would ask: Why do pollution and economic insecurity persist amidst such wealth? Is there a remedy to these ills? The politician might ask: How can we change course together? We are in the same boat, after all. There is only one planet that we all sit on, one biosphere of which we are all living parts - and as a species, we are, for better or worse, now the most powerful force guiding its fate.
+
+If we think of our economy as akin to Clooney's boat, money is the fuel coursing through its engine. Although humanity has developed almost god-like powers, we are new to their exercise. We lack experience in steering our boat, we don't fully understand how its engine works, and we also are constantly confronted with the human problems of a bickering crew. It's like we have a boat with a hugely powerful engine, but a crew with little competence in sailing it. We are in the terrifying position of being masters of our own environment, even as we are not quite masters of ourselves. 
+
+# 1.4 Is Change Achievable?
+
+Some have said that it's easier to see the end of the planet than the end of capitalism. Money has long been recognised as dangerous to the human soul -- two and a half millennia ago, the philosopher Plato bemoaned a decline of honourable standards of behaviour caused, he said, by a secret desire for treasure ^[@Plato1964 (c. 380 BCE), Book 8; see also http://www.bookrags.com/notes/rep/part8.html].
+
+In the song *Don't Stop Me Now* by Queen, the lead vocalist, Freddie Mercury, sang that the world is 'turning inside out.' Ideas in the minds of human beings become embodied in physical form through economics, and market forces relentlessly generate changes in technology, disrupting any sense of permanence. We are in a world powered by money and ideas. Our civilisation's reigning set of concepts about the intersection of money and ideas, the two powerful forces driving our economy, is called economics.
+
+Economists study scarcity, amongst other things. In this text, we focus on three forms of scarcity: Space, time, and natural resources. Space is limited, although it is more limited in some places, e.g. Hong Kong, than in others, e.g. Siberia. Time is limited too. What I do with the hours of my day today is irreversible, and my time is unrecoverable. 
+
+Finally, natural resources like fossil energy are limited. Humans of our era have built a civilisation that is powered primarily by stored-up sunlight in the form of compounds of carbon and hydrogen: Coal, oil, and gas. About 85% of our our primary energy today is delivered by fossil fuels, with nuclear power, hydroelectricity, and renewables (wind, solar, tidal and geothermal power) delivering the rest. It took millions of years for geological processes to form the fossil carbon and hydrocarbon fuels that we've burned in less than two centuries. By releasing their combustion products into the atmosphere, our use of this stored-up sunlight has markedly changed its chemical composition in a way that is causing it to trap more infrared radiation (heat radiation), adding enormous amounts of heat energy to land, sea and atmosphere, thereby ensuring more frequent and intense storms, floods and droughts in the future, as well as rising sea levels as seaweater thermally expands and glaciers in Greenland, West Antarctica and elsewhere melt.
+
+We must change this trajectory, and take carbon back out of the atmosphere on a net basis as soon as possible, or self-reinforcing feedback loops in the carbon-climate system will kick in that will, within a century or two at most, cause us to lose London, New York City, Shanghai, Hamburg, the Netherlands, Florida, Bangladesh, the Nile Delta and many other regions to the sea, as well as make large parts of the planet uninhabitable. For example, climate scientists expect summer outdoor daytime temperatures in North Africa and the Middle East to be so hot by late in this century - within the lifetimes of people who are children today - that they will be fatal within less than an hour. Mass migrations and wars are among the likely results. 
+
+But one great issue that makes it very difficult to shift course from our current trajectory, even though it is pointed straight toward shipwreck and disaster, is sheer momentum. Our whole economic way of life is 'locked in' to a particular course and the message is 'don't stop me now.' The incentives built into our economic system reward carrying on as usual, not changing course. 
+
+In this book we take a different interpretation of Queen's song. 
+
+We have been so through much as a planet and as species. There's no good reason to destroy much of the natural world through environmental change. And there's no reason to disrupt the living conditions of our children either. So let's not stop the fun of a pleasant planet to live on. *Don't stop us now!*
+
+# 1.5 What Role Can You Play?
+
+We will therefore need everyone on board Spaceship Earth to act -- and not to stop acting. But what, actions should we each take? What, precisely, is the role of individuals here? 
+
+Up to now, the main message about how to tackle climate change has been ‘be guilty about your carbon emissions and try to reduce them individually’. A small minority argue vaguely for the overthrow of ‘the system’. It is our contention that these strategies simply will not work. Individual change will be insufficient. And revolutionary change of the system is too vague a message insufficiently targeted on the actual reforms needed. 
+
+We instead argue for a different message. It is this: ‘reform of taxation and finance to transform the incentives of the private sector, combined with massive private and government-led investment in clean energy, can fix this problem’. 
+
+As simple as this message seems, it won't be easy. The scale of investment needed is huge. New renewable and nuclear electricity plants need to be built to replace existing fossil fuel infrastructure, and networks will need to be established to distribute this energy to those countries with fewer natural resources to exploit. Reform of the transport, industrial and domestic sectors will be needed to further support these goals, and reduce global carbon emissions to net zero. We believe that taxation is the key tool at hand. 
+
+Combined with a subsidy for the consumption of electricity, taxes placed on carbon intensive supply sources have the potential to accelerate the clean energy transition by transforming the incentives to invest in clean electricity generation. Transition should stimulate productivity and job generation. 
+
+So what is your role - the role of an individual - in this mission? We ask you to call out for economic reform: reform of our taxation, energy and finance systems – to transform the way we do things. This book suggests some of the changes that are needed in the tax system. 
+
+We provide the ‘how’ consistent, not only with the passionate outcry from scientists and climate protestors, but also the financial needs and values of everyday people.
+
+The need to include a diverse range of views is a core element of these changes. If the political right seeks to use the efficiency of the private sector to solve the problems, the political left seeks social equity through government intervention. In this book we aim to demonstrate the necessity of both perspectives, and explore possible opportunities to unite the best of both. 
+
+# 1.6 How Did We Get Here?
+
+So if the world of ideas - in particular, economic ideas - now influences the very fate of our planet, how on earth did we get into this situation in the first place? To get a sense of this, let's first go back in time a couple of centuries to the era of Adam Smith and the economic concepts that first gained currency in his time. Then we'll run the clock forward, observing revolutions of politics, technology, and ideas. We bring humanity home to a set of economic ideas already expressed in our intellectual history.
+
+---

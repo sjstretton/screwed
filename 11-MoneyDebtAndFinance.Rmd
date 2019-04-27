@@ -1,0 +1,267 @@
+---
+title: "The Operating System of Capitalism"
+subtitle: "Revolutionising Tax and Welfare in the Pre-Singularity Era"
+date: "`r Sys.Date()`"
+output: 
+  tufte::tufte_handout: default 
+  tufte::tufte_html: default
+bibliography: library.bib
+link-citations: yes
+---
+
+# CHAPTER 11: MONEY, DEBT AND FINANCIAL REPRESSION
+
+## Summary
+
+ - The correct and responsible role of debt is as a useful tool for selective application, to make early use of a longer-term investment that one (individual, firm or nation) has a high degree of certainty one will be able to afford. It should not be a system of dependency to repeatedly shore up insufficient cash-flow.
+ - Irresponsible private debt can be discouraged through more-regulated lending and a higher tax on bank balance-sheets.
+ - Economic situations forcing individuals into debt can be mitigated with higher wages and/or higher net income due to a citizen's dividend.
+ - Financial instability is socially damaging and unnecessary; it can be mitigated with a financial taxes explained here.
+
+This part is split into the following chapters indicating different types of tax on banks/debt, transactions or money:
+
+1. Taxing Banking: the bank balance sheet levy and other ways to tax financial institutions such as a specific profits tax
+2. Taxing Financial Transactions: both in finance and more generally in the economy
+3. Financial 'Repression': reducing public debt through inflation, growth, monetisation of debt
+4. Demurrage: Taxes on money balances
+
+# 11.1: Taxing Bank Balance Sheets and Profits
+
+## Introduction
+
+`r tufte::newthought('For many people,')` financial services are an opaque and mysterious business.  For many people, banks are places to store hard-earned money or get a loan. However the relationship between these two, the operation of other financial products and the relationship of banks to the wider economy is a puzzle.  A study by ESCP Europe in June 2010 found that the general population is not well informed about the banking system, with little awareness of the status of their deposits and what banks do with them.
+
+The financial crisis of 2007-8, whose interconnected causes are still being teased out and debated by experts, has only exacerbated this sense that understanding 'finance' is not possible for normal people.  Several studies have found a substantial deterioration in public attitudes towards the UK Banking Industry following the crisis. A report by YouGov Cambridge in 2013, found that only 4 percent of those surveyed thought that the banks observe high moral and ethical standards - a joint worst rating with betting shops, casinos and online gambling.
+
+## Functions of the Financial Sector
+
+Yet despite its failings, the financial sector exists to serve a useful purpose.  As Philip Booth wrote in the 2011 edition of Balance, the British Banker's Association magazine,
+
+> "Life would be unthinkable without banks.  Not only do banks provide mechanisms to ensure that we can pay each other immediately for the goods and services we consume, they also provide crucial economic functions.  These include screening risk, diversifying risk, reducing transaction costs and providing capital for businesses and credit for consumers.  The flip side is that they provide safe returns for savers.  Without a modern financial system, retirement from work would be more or less impossible." *
+
+Lord Adair Turner, who was the Chairman of the Financial Services Authority from 2008 to 2013 has written in more technical terms on this topic. Turner argues [@FSA2009] that the purpose of the financial system is as follows:
+
+1. The provision of payment services, both retail and wholesale.
+2. The provision of pure insurance services, life or general, wholesale and retail, which enable people or businesses to lay off exposure to risks by pooling their exposure with others.
+3. The creation of markets in spot or short-term futures instruments in, for instance, foreign exchange and commodities.
+4. Financial intermediation between providers of funds and users of funds, savers and borrowers, investors and businesses, an intermediation which plays a crucial role in capital allocation within the economy. This function can be split in turn into four sub-functions: pooling of risks; maturity transformation via balance sheet intermediation;  maturity transformation via the provision of market liquidity; and risk return transformation.
+
+We might argue that the wider economic purpose of the financial system is to support the production of goods and services that contribute to personal, social and environmental well-being.  We could also say that finance should build up the real wealth of the economy, financing productive investment and export sectors such as manufacturing. Finance should be the servant, not the master, of the real economy.
+
+## Reasons for Taxing Finance
+
+The financial system is therefore at the centre of our economy.  Taxation of such a sector must be carefully planned as it may have ramifications on many other parts of society.  A report on financial sector taxation by the European Commission in 2010 identified three policy goals in taxing finance:
+
+- Reduce the size of the financial sector where its social costs in terms of debt and fragility are greater than its benefit
+- Ensure finance pays a fair share
+- Pay society back for the financial crisis, which was arguably caused by a reckless financial behaviour of the sector.
+
+We argue there are additional reasons for taxing finance, money and debt.  These are outlined below:
+
+1. Finance is supported implicitly by the central bank and that benefit should be paid for.
+2. Finance typically caters to the needs of the super rich. Taxing finance can have positive distributive effects, if done right
+3. Taxing finance can increase incentives to invest productively
+4. Debt does not share in economic downturns, and therefore makes the system more fragile. Taxing debt could reduce incentives to create debt, reducing risk and increasing resilience of the system
+5. Helping debtors as opposed to creditors is associated with productive economic situations and peaceful futures
+6. The history of public debt management suggests that the government's policy towards interest rates, growth and inflation is highly significant in terms of the evolution of public debt^[Between the two world wars, the UK government adopted a system of fiscal austerity and high interest rates to return to the gold standard at pre-war parity. The results were disastrous: mass unemployment and an increase in the public debt-to-GDP ratio. On the other hand, after WW2, growth, moderate inflation and low interest rates were the norm. The debt came down from over 200% of GDP in the late 1940s to around 70% by the 1970s. We might say that the best way to reduce the public debt is not to worry about it].
+
+## Taxing Finance in the UK
+
+Financial services pay a variety of taxes in the UK. In addition to the taxes that all companies pay, banks are also subject to a bank levy on their total assets (which is to be replaced by a surcharge on profits made by financial companies). The estimated total contribution of the financial sector was approximately £66.6 billion in the year ending 31 March 2015.  Banks account for about two thirds of this, other financial institutions the remaining third [@PWC2015].
+
+## The Bank Balance Sheet Tax (Bank levy)
+Specific to banks, we have the bank levy or bank balance sheet tax.  It is a levy on the total equity and liabilities on the bank balance sheet.
+
+A bank balance sheet consists of assets such as loans, and liabilities such as deposits. A loan is an asset because it is hopefully paid back to the bank. A deposit is a liability because it may be recalled by the depositor . The assets are equal to the liabilities plus the bank's equity. And so a bank balance sheet tax is a tax on the total size of these assets and liabilities.
+
+The bank levy was introduced in 2011 with the purpose of raising £2.5 billion a year from banks operating in the United Kingdom. It was justified as a way of forcing banks to contribute more after the financial crisis and to discourage risky borrowing. The levy only impacts foreign banks on their UK balance sheets, whereas UK banks pay tax on both their domestic activities and their global balance sheets. Banking institutions and groups are only liable to pay the levy where their relative aggregate liabilities exceed £20 billion.
+
+After its implementation, the UK levy increased gradually in each year of its existence until 2015, when it was announced that that it would gradually be decreased over the subsequent six years and would stop applying to worldwide assets from 2021.  The reduction will be from 0.21% to 0.1%.
+
+The reduction was in response to complaints from UK banks that it put them at a competitive disadvantage.  In June 2015, the Chief of the British Banker's Association, Anthony Browne, also warned that the levy was costing London jobs and risked causing banks to move their operations overseas, saying:
+
+> 'The global banks constantly review where they base their business around the world, how much they put in London, New York, Singapore, Tokyo - the trouble is that in London the negative side has got so much longer and positive side shorter. For a lot of them, they've reached a tipping point, and move the operations elsewhere.' *
+
+In fact, although banks threatened to leave the country and HSBC did a long review, none carried out their threat (although the Brexit vote is likely to have a much more serious effect).
+
+The base of the bank levy was initially twofold: both lending in the UK financial system _and_ the global lending of UK-based banks. One can see a justification in both but they are very different from the point of view of the incentives of banks to be based in the UK. 
+
+The first approach (UK lending) does not discriminate between UK based or non-UK banks - all banks that lend in the UK financial system would be covered. Whereas the second approach discourages large global banks to locate here. Therefore it seems that the first approach could sustain a higher rate without affecting bank location.
+
+## Bank Corporation Tax Surcharge
+
+Whilst reducing the bank levy, in 2011, the government imposed a Bank Corporation Tax surcharge. This is an additional 8% tax on the profits of banking companies above an annual £25 million profit allowance.
+
+There is therefore a key difference in operation between the bank levy and the surcharge. The levy is a tax on the bank's total assets, whereas the surcharge is a tax on profits. The surcharge was projected to raise 6.5 billion pounds between 2016/17 and 2020/21.  Introduced at the same time as the winding down of the bank levy, the surcharge has received mixed reviews from financial institutions.
+
+Some consider that with the removal of the bank levy, and the relatively low Corporation tax rate of 18%, the surcharge is a manageable cost. Others have argued that the surcharge impedes so-called 'Challenger' banks, which are new banks established since the global financial crises.  Many of these formally avoided the bank levy because their liabilities did not exceed the threshold £20 billion.  However, they are now subject to the corporation tax surcharge on their profits.  Some claim that the surcharge will make it difficult for new banks to enter the market and secure investment.
+
+## Bank Levies in Europe
+
+The United Kingdom is not the only European country to have introduced a bank levy.  Since 2009, 14 countries almost exclusively in the European Union have introduced levies. Many of these levies were instituted in response to a 2010 report by the IMF which proposed the idea of a bank levy (which they called the 'financial stability contribution'). Its explicit aim was to produce a contribution from the banking sector to compensate government for the cost of guarantees and bailouts, and secondly to reduce the risk of future banking crises.
+
+The below table shows all the European banking levies as of 2015 [@Kogler2015].
+
+|   | Tax Base | Tax Rates | Exemptions | Use of Funds |
+| --- | --- | --- | --- | --- |
+| Austria 1.1.2011 | Total Liabilities | EUR 20bn: 0.09%, EUR 20bn: 0.11% | Equity, Insured Deposits Allowance: EUR 1bnSurcharge: 45% until 2017 | Treasury |
+| Belgium 1.1.2012 | Total Liabilities | 0.035% | Regulatory Capital,Insured Deposits | ResolutionFund |
+| Germany 1.1.2011 | Total LiabilitiesDerivatives |   |   |   |
+| France 1.1.2011 | Regulatory Capital |   |   |   |
+| Hungary 27.9.2010 | Total Assets |   |   |   |
+| Netherlands 1.10.2012 | Total Liabilities |   |   |   |
+| Slovakia 1.1.2012 | Total Liabilities |   |   |   |
+| Sweden 30.12.2009 | Liabilities and Provisions |   |   |   |
+| UK 1.1.2011 | Total Liabilities |   |   |   |
+
+France and Germany have both introduced levies, though they differ from each other in several respects.  One major difference is in the basis for the levy, i.e. which part of the bank's holdings are being taxed by the levy.  Both the UK and Germany tax the bank's total equity and liabilities, subject to certain exceptions.  The French levy, however, is charged on minimum regulatory capital.  Another difference pertains to where the collected funds are directed.  The proceeds of the UK and French levy are directed into general revenues, whereas the German proceeds feed into a fund, to be drawn upon in the event of a financial crisis.  Also the UK and France determine the tax base on a global/consolidated basis, while the German levy is imposed solely on a single entity.  There are several other differences between the three levies, not the least being their expected yield and rate.  For a detailed analysis of the differences, see the report by Sullivan and Cromwell [@SullivanCromwellLLP2011].
+
+As we discussed, the UK bank levy was criticised on the basis that it placed banks at a competitive disadvantage. The German bank levy has also drawn some criticism, and debate as to whether it is achieving its goals.   The German levy was intended to generate resources for the fund, and to internalise bank's contributions to systemic risk.  In 2014, Deutsche Bank produced a report, evaluating the effects of the German bank levy on bank behaviour.   They found that the revenues raised through the levy were lower than expected, because of low tax rates and high tax thresholds for exemptions.  They also found that the levy did appear to influence bank behaviour, with evidence of a reduction in lending and higher deposit rates.
+
+However a comprehensive study of bank levies across Europe produced by Michael Kogler of the University of St Gallen Institute of Economics in 2015 [@Kogler2015] found that bank levies tend to lead to a raise in lending rates but do not significantly affect deposit rates.  This suggests that the cost of the levy tends to be passed on to borrowers. They found that the amount passed on to borrowers is determined by bank competition (i.e. where banking markets are concentrated and have low competition), more of the levy cost is passed on to borrowers through an increased interest rate.  They also found that less of the levy cost is passed on to customers by well-capitalised banks, possibly because they are less exposed to the levy.
+
+## Conclusion on Bank levies/ bank balance taxes
+
+The bank levy is a tax which is in existence and which raises some revenue, albeit at a low rate.  Despite threats to move their operations from the UK, no banks have done so for this reason and if the tax was imposed solely on UK lending, they would have no reason for doing so.  The tax also meets our earlier criteria for taxes, namely that 'we want to tax things that either we want to go away or that don't go away when we tax them'.We want to reduce the levels of unproductive debt (such as money to buy existing assets), and direct it to more productive purposes.  Debt is a form of wealth and should be taxed appropriately. ^[Add ways to distinguish productive and unproductive debt taxes]
+
+# 11.2 Taxing Financial Transactions
+## Introduction
+
+Bank levies are taxes on the balance sheets of banks.  Transaction taxes on the other hand, are (as the name suggests), taxes on either transfers of money (including on ledgers) or transfers of ownership.  This means that the parties to a transaction, pay a tiny percentage of the value of the transaction in tax.  These taxes (and in particular taxes on Foreign exchange trading) are also known as 'Tobin' taxes, after Nobel Laureate James Tobin, who proposed the tax as a means of 'throwing sand in the wheel' and slowing down 'excessive' trading.
+
+Of course there are many types of transactions.  Some types of transactions are already covered by the existing tax system, for example salaries, dividends and expenditure.  (e.g. Income Tax and VAT). Transaction taxes (TT) focus either on other types of transaction, such as the buying and selling of land, financial securities or currencies, or they focus on all transactions mediated through banks. Accordingly, Matheson (2011) distinguishes between types of transaction tax:
+
+- A bank transaction tax (BTT) on the value of inward deposits and/or withdrawals from bank accounts.
+- A securities transaction tax (STT) on change of ownership of securities, such as the UK's Stamp Duty.
+- A currency transaction tax (CTT) on foreign currency exchanges.
+- A capital levy on issuance of new share capital.
+
+Proponents of FTT's argue that the tax discourages economically unproductive activities.  FTTs make short-term investments more expensive relative to long-term investments and may thereby reduce excessive speculative short-term trading.  This enhances market stability and encourages the financing of real, productive ventures.  Proponents also argue that FTTs are effective in raising revenue and are simple to administer.
+
+Critics, on the other hand argue that FTTs increase the costs of raising capital, thereby discouraging investment and reduce the ability for smaller corporations to finance projects.  They also argue that FTTs are ineffective, as the research on the outcomes of FTTs in different countries has often had contradictory or inconclusive findings.
+
+## FTT Case Studies
+Reviewing the experiences and outcomes of FTTs in different countries reveals that the ability of an FTT to raise revenue and its effect on markets is dependent on the particular design of the FTT.
+
+**Taiwan**
+
+The Taiwanese FTT was instituted in 1965, starting at a uniform rate of 0.15 percent.  It has evolved into a system of differentiated rates of taxation, ie different rates for shares, bonds, futures and options.  Economist Kapoor suggests that this graduated regime can be considered FTT 'best-practice', as it allows government to fine tune the tax for different products and keeps open the option of adjusting the rates as circumstances require.
+
+The Taiwanese FTT has been very successful in raising revenue, and in 2008, accounted for 5.5% of total tax revenue.  Taiwan also has strict anti-avoidance measures including transfer pricing rules and disclosure requirements. as well as fines for failure to register transactions.
+
+According to Beitler [@Beitler2010], 'Taiwan provides an excellent example of a sophisticated FTT that has regulatory effect through a multi-tiered system of tax rates, but also raises significant revenue for the government.'
+
+**Brazil**
+
+Brazil has introduced and abolished several forms of Bank debit tax since 1993.  Their longest running bank debit tax was the _Contribuicao provisoria sobre movimentacao ou transmissao de valores e de creditos e direitos de natureza financier (CPMF)_ , which was in place from 1997 to 2008.
+
+The tax was imposed on debits by non-bank depositors from current, investment, time deposit and savings accounts, with some exceptions.  Its performance in raising revenue was consistent and strong.
+
+Beitler sites three reasons that the productivity of the tax does not appear to have been affected by rate increases.  Firstly, she suggests that the final rate was not excessively high.  Also, the banking system in Brazil is sophisticated and widely used and finally, the tax was levied on bank debts only, not debits and credits.
+
+There is some evidence that the CPMF affected investment behaviour, leading to a 40 % increase in demand deposits.  It may also have contributed to the migration of business from the San Paolo Stock exchange to overseas markets, although there are likely to have been multiple factors.
+
+**Japan**
+
+Japan introduced a securities transaction tax in 1953, which underwent several rate changes in the ensuing years until abolition in 1999.  The rates in that period ranged from 0.1 to 0.3 % for stocks and 0.08 to 0.16 for corporate bonds.
+
+During the 1980s, the tax raised a significant amount of revenue, at one point reaching US$12 billion per year.  After its abolition in 1999, the data suggests  that there were increases in trade, and increases in price volatility.
+
+**United Kingdom**
+
+The government applies a 0.5% ^[(confirm this)] tax, known as stamp duty, to the transfer of shares in companies with a UK Stock register.  The revenue accrued has been substantial and stable over many years. The cost of collection is low as the tax is collected electronically.  Research suggests that the stamp duty has not had a material impact on trading in the London Stock Exchange, although announcements of rate changes are correlated with changes in the UK equity index. (Saporta and Kan, 1997).
+
+Unlike in the Swedish case below, the stamp duty cannot be avoided through trading in overseas markets as it is required to make the transfer of ownership legally binding.   It is an internationally applied tax on domestically registered companies.  Contrast this with the Swedish case below, which instituted a domestic tax on international capital.
+
+**Sweden**
+
+The Swedish case may be cited as an example of 'how not to' design a financial transaction tax.  Their FTT was introduced in 1984 as a 0.5% tax on both the purchase and the sale of equities.  The rate was increased in 1986 but by 1991, the tax was abolished.
+
+This was largely because of disappointing revenues from the tax and high levels of avoidance.  As the tax applied only to transactions undertaken in Sweden, there was a strong motive for traders to move their activities overseas, and after the 1986 rate increase, 60 % of the most actively traded Swedish stocks had migrated to London.  According to Beitler, 'The underlying design flaw was that the tax did not apply to Swedish citizens or Swedish assets per se, but to transactions undertaken in Sweden.'
+
+## Discussion of FTTs
+
+Thus international experience seems to suggest that financial transaction taxes can be powerful instruments to raise revenue, however much depends on their particular design.  Beitler argues that the most successful taxes are simpler and have a lower rate.  Taxes that levy only one-way transactions have few exemptions, less evasion and higher productivity.
+
+Similarly, there is a great deal of variation in the market impact of the taxes, which can be alleviated by adjustments to rate and design, as demonstrated by the UK and Sweden comparison.  FTTs must be carefully designed to minimise evasion through migration of trades to overseas markets.
+
+There are two general motivations for transaction taxes: to alleviate short term behaviour and to raise revenue. Some have pointed to the very large volume of transactions in developed financial markets such as London. Even at a low rate, it is argued, a transaction tax would raise a lot of revenue. But it seems that the location of these transactions is extremely sensitive to the tax. Even a small tax might cause a large part of these transactions to move elsewhere. This movement of financial activity might even reduce tax revenue from other taxes (e.g. corporation tax) more than the revenue raised from the transaction tax. This effect would only however happen with a unilateral tax.
+
+Therefore, it seems that the most appropriate way to go is to support an international tax at such a level that it would have a beneficial effect on reducing short-term speculation, and assess the revenue raised. A number of countries could coordinate this approach. We do not propose to introduce a transactions tax unilaterally, except in the sense of making the existing tax system more automatic.
+
+
+# 11.3: Financial Repression
+
+Growth in GDP is low in European countries, and the level of government 'debt' and of on-going public deficits are of public concern. In such situations, lower or more negative real interest rates become an important policy tool, because they have the effect both of stimulating economic activity and of reducing the interest burden of public debt.
+
+Financial repression refers to government control or manipulation of credit markets in order to achieve fiscal ends, such as a reduction of the interest rate paid on the government debt. Fiscal repression usually involves a lowering of interest rates generally, in order perhaps to lower them on government borrowing. Fiscal repression is often associated with controls on the financial sector.
+
+## Purposes of Financial Repression
+
+The main purposes of fiscal repression are
+
+- To reduce the interest paid on government debt.
+- Reducing the power of creditors relative to debtors, which has two further objectives:
+- Redistributing income from rich to poor
+- Stimulating aggregate demand
+- Reducing the incentives for financially destabilizing increases in debt
+- Focusing lending onto the productive sector
+
+## Forms of Financial Repression
+
+There are a number of forms of fiscal repression;
+
+1. Monetization of deficits (The requirements for cash meant that in the 1960s at least 20% of government debt was financed through issuing money)
+2. Controls on the interest rates charged (e.g. Between 1600 and 1800, the UK had 'usury laws', which set legal maximum limits for charging interest)
+3. Forced saving (e.g. as outlined in Keynes' 'How To Pay for the War')
+4. Reserve Ratios (e.g. as practiced in China at present)
+5. Negative interest rates on money (for example as proposed by Silvio Gesell and implemented in the Austrian town of Wörgl in the 1930s).
+6. Capital controls (restrictions on the ability to move money between countries, as existed in the 1945-1980 period in the UK)
+7. Credit controls (restrictions on the sectors in which financial institutions can create credit, as existed in the 1945-1980 period in the UK)
+8. Taxes on financial credit creation (e.g. a bank balance sheet tax, as implemented after the 2007 financial crisis in the UK)
+
+## History of Financial Repression in the UK
+
+Financial repression in the form of usury laws UK between 1600 and 1815 was probably accidental rather than intentional and was associated with Britain's rise as a world power with no defaults on its debt. 
+
+After world war 1, Britain wanted to repay its war debt and return to the gold standard at pre-war levels; and imposed high interest rates and increased taxes producing fiscal surpluses. But the period was disastrous with falling prices, high unemployment and a public debt to GDP ratio which did not significantly fall.
+
+After 1945, Britain used fiscal repression (low  or negative real interest rates) combined with growth and full employment policies to reduce its debt, this time very successfully.Government debt from 270% of GDP after WW2 to c. 70% in the early 1970s.
+
+After 1979, interest rates rose and fiscal repression ceased. After 2008: some elements of fiscal repression returned (e.g. QE, low interest rates), but there was also a culture of 'austerity'.
+
+# 11.4: Demurrage
+
+Nominal interest rates are currently already at or near zero in most developed countries (the 'zero lower bound'). In this case, cutting real interest rates further requires either negative nominal interest rates or higher inflation.
+
+Creating higher inflation in these situations is often very difficult. It is usually expected that interest rates cannot be cut below zero. Having a government fiscal deficits financed by issuing bonds or printing money is an option. But in extreme situations this money or bonds are simply stored. What could convince people to invest in real products or spend money rather than just store it under the mattress or in banks?
+
+One option is that if you don't use it you lose it -- in other words, money unspent would carry a small penalty.
+
+But what would a negative interest rate mean in practice?  It would mean a carrying cost on base currency, known as _demurrage_.  That is, there would be some form of charge for banks and individuals to hold money.  Interest on reserves would be paid _to_ the central bank.
+
+There are several possible forms of demurrage.  One form is a tax on money balances, implemented by requiring that holders of banknotes pay a certain charge every month in order to keep their notes legal tender.  In current times, demurrage would be a negative intrinsic interest rate on base money and would therefore, in addition to stamped banknotes or similar, require the payment of negative interest rates on bank reserves held at the central bank. The primary purpose of demurrage is to encourage the circulation of money, ie the exchange of money to for goods and services, rather than the holding of money.
+
+The idea of a monthly charge to keep notes legal tender may seem very implausible and possibly undesirable to the reader.  However, demurrage has been implemented in the past with great success.  One of the most famous examples is known as the 'Miracle of Worgl'.  Worgl was a small town in Austria which was suffering high unemployment and poverty during the Great Depression.  To tackle this, the new Mayor case up with a radical solution; he issued a 'Stamp Script' which was a form of money.  A stamp had to be applied each month at a cost of 1% of the face value, in order to keep the script legal tender.  The stamp script was extremely successful in stimulating the local economy.  The fast circulating money enabled Worgl to redress unemployment, compete infrastructure projects and increase tax revenue.  Surrounding towns copied the scheme, with success, until the project was forcibly ended by the Austrian Central Bank.
+
+Worgl's Mayor, when announcing the demurrage scheme to the township, rather poetically expressed its purpose and method.
+
+'_Slow circulation of money is the principal cause of the faltering economy. Money as a medium of exchange increasingly vanishes out of working people's hands. It seeps away into channels where interest flows and accumulates in the hands of a few, who do not return it back to the market for the purchasing of goods and services but withhold it for speculation._
+
+_As money is an indispensable wheel in the machine of production, an accumulation of great sums in a few hands means a gigantic danger for peaceful production. Every time the flow of money is interrupted, so is the exchange of goods and services, with a consequent fall in employment. Uncertainty about the state of the economy makes the owner of money careful, causing him/her to hoard it or to spend it reluctantly. He or she distrusts investment. Money circulation is thus slowed down, the turnover of goods and services shrinks and jobs disappear. Such a situation denies incentives to the population, threatening peace and wealth with destruction. Whole nations and states are under the threat of ruin._
+
+_Our small place cannot liberate the world, but we want at least to give a sign. In the Wörgl area the sluggish, slow-circulating National Bank currency shall be replaced with a medium of exchange with a better circulating performance than ordinary money. 'Certified Compensation Bills' shall be issued in denominations of 1, 5 and 10 Schillings and put into circulation. The council shall issue the Bills and the public shall undertake to accept such Bills at their full nominal value in payment for goods and services. In order to turnaround the economy of the township, public works shall be planned and paid for with the same Bills.'_ [@Shwarz1951]
+
+# 11.5 Conclusion
+Money, bonds and other forms of debt involve someone who will pay money back (debtor) and someone who will be repaid (creditor). They are therefore forms of private wealth for creditors and fall under our wealth tax. Finance also involves taking care of transactions between individuals and companies. Therefore, in this section we investigate taxes on money, debt, and transactions.
+
+We apply our general principle that we want to tax things that either we want to go away or that don't go away when we tax them. Taxes on debt, especially unproductive debt satisfy this criteria in the sense that we wish to reduce the overall level of debt and to target it towards productive purposes.
+
+It also seems plausible that debt is a tax base that is less likely to move than one on financial transactions, because lending in international markets is difficult, whereas transactions are easily moved both within international financial institutions and offshore. Therefore it seems that a bank balance tax or a tax on unproductive lending (for example mortgage lending) is the right approach. 
+# 11.6 Further Ideas Out of The Scope of This Book
+
+- Central Monetary Authority (CMA) responsible for the creation of all monetary credits.  Credits are uniquely numbered and traceable.  Credits are constantly analyzed for duplications.  Potentially located in Leeds not London.  Possibly move the financial capital of the UK to Leeds.
+- All financial services companies nationalized without exception.  This should lower the cost of banking and insuring.
+- Corporation of the City of London abolished once it has been completely encircled as discussed.
+- RBS, Lloyds, Barclays (and possibly HSBC assets in the UK) and other bankrupted banking interests to be absorbed into four new State Banks.  Scientific, Industrial & Manufacturing Bank of the United Kingdom (SIMB-UK); Property, Infrastructure & Construction Bank of the United Kingdom (PICB-UK); Savings & Loan Bank of the United Kingdom (SLB-UK); and International Development Bank of the United Kingdom (IDB-UK).  Each bank will borrow money directly from the CMA and lend according to a national lending plan.  Savings will be underwritten by the state and guaranteed savings rates set.  Aimed at loans and overdrafts in excess of £50,000 so as not to compete with local Savings and Loan Mutuals.
+- 650 locally owned Savings and Loan mutual organisations to be formed for each political constituency.  Each SLMO will have a local resident as Managing Director, two additional local directors (each with skin in the game -- possibly £50,000 for the MD and £25,000 each for other Directors), and a board (aufsichsrat) made up of the local MP, council representative, Union representative, and other key interested local parties.  It will follow the Bank on Dave model.  It will be allowed to do micro-loans up to £50,000 to any individual entity, with a maximum deposit of £50,000 by any local resident.  No constituency outsiders may deposit or borrow from any SLMO -- they must be completely local operations aimed at the local economy.  Burnley S&L:  5% AER on savings, and 8.9 to 14.9% interest on loans.  No bonuses of any kind to any staff.  Surpluses go to local charities.

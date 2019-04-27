@@ -1087,6 +1087,7 @@ Rent is the permanent surplus from owning some asset. Land rent is the surplus a
 
 A feebate in carbon taxes is a tax on damaging inputs compensated by a subsidy on outputs. There are reasons wht we might impose a feebate on land value too, This would work as a tax on land value compensated by a subsidy on those uses of land which enhance local value, for example export industry.
 
+
 # Chapter Summaries 
 
 ## Introduction Summary
