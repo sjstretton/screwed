@@ -9,13 +9,13 @@ bibliography: Library/libraryCopy.bib
 link-citations: yes
 ---
 
-# CHAPTER 12: ENVIRONMENT, HEALTH, AND RESOURCEs
+# CHAPTER 12: ENVIRONMENT, HEALTH, AND RESOURCES
 
 # 12.1 Introduction
 
 > *'Future generations are unlikely to condone our lack of prudent concern for the integrity of the natural world that supports all life'*  [@Carson1962]
 
-> *'For the sake of civilized society, it's time we truly figure out how to enable economic growth, while keeping intact the very grounds upon which all prosperity is based; clean air, fertile soil, metals and minerals and all natural resources that enable us to flourish as human beings.'*
+> *'For the sake of civilised society, it's time we truly figure out how to enable economic growth, while keeping intact the very grounds upon which all prosperity is based; clean air, fertile soil, metals and minerals and all natural resources that enable us to flourish as human beings.'*
 >
 > `r tufte::quote_footer('---  H.R.H. Prince Carlos de Bourbon de Parme (2014)')`
 
