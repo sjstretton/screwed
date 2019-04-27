@@ -48,22 +48,22 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '01-APerfectStorm.md'}
+```{r child = '01-APerfectStorm.Rmd'}
 ```
 
 \newpage
 
-```{r child = '02-Revolutions.md'}
+```{r child = '02-Revolutions.Rmd'}
 ```
 
 \newpage
 
-```{r child = '03-ProgressAndProblems.md'}
+```{r child = '03-ProgressAndProblems.Rmd'}
 ```
 
 \newpage
 
-```{r child = '04-DesertIslandEconomics.md'}
+```{r child = '04-DesertIslandEconomics.Rmd'}
 ```
 
 \newpage
@@ -87,22 +87,22 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '08-Inequality.md'}
+```{r child = '08-Inequality.Rmd'}
 ```
 
 \newpage
 
-```{r child = '10-LandAndProperty.md'}
+```{r child = '10-LandAndProperty.Rmd'}
 ```
 
 \newpage
 
-```{r child = '11-MoneyDebtAndFinance.md'}
+```{r child = '11-MoneyDebtAndFinance.Rmd'}
 ```
 
 \newpage
 
-```{r child = '12-EnvironmentAndResources.md'}
+```{r child = '12-EnvironmentAndResources.Rmd'}
 ```
 \newpage
 
@@ -110,7 +110,7 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '13-Conclusions.md'}
+```{r child = '13-Conclusions.Rmd'}
 ```
 
 

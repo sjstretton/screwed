@@ -1,8 +1,14 @@
 ---
-output:
-  pdf_document: default
-  html_document: default
+title: "Chapter 1 of Tax Heaven"
+subtitle: "Revolutionising Tax and Welfare in the Pre-Singularity Era"
+date: "`r Sys.Date()`"
+output: 
+  tufte::tufte_handout: default
+  tufte::tufte_html: default 
+bibliography: Library/Mac/library.bib
+link-citations: yes
 ---
+
 # CHAPTER 1: FACING GLOBAL RISKS HEAD ON
 
 # 1.1 A Perfect Storm
@@ -20,8 +26,8 @@ Taking a step back from their immediate plight, it seems odd that Clooney and hi
 
 First, the seas were no longer as bountiful as they once were. In the 1950s, the Grand Banks off Newfoundland teemed with fish. But overfishing led to a collapse in stocks. Thus our crew needed to go further out to sea, where more plentiful stocks remained. Second, the fishermen lacked economic security in their lives. They had to fish to keep food on the table. Beyond their own homes, they owned little. The boat itself was owned by an investor who expected a return without doing anything quite so dangerous as heading out to sea.
 
-In other words, the fishermen were in a situation that was neither safe nor fair - and the lack of fairness led them to take dangerous risks. Moreover, their lives were defined by a world of scarcity, a world that had been depleted by over-exploitation of natural resources.
-
+The fishermen were in a situation that was neither safe nor fair -- and the lack of fairness led them to take dangerous risks. Moreover, their lives were defined by a world of scarcity, a world that had been depleted by over-exploitation of natural resources.
+\newpage
 # 1.2 Spaceship Earth
 
 What has the 'Perfect Storm' got to do with the future of the planet? On Earth, we are facing a similar situation as did Clooney and his crew. There are warnings of a dangerous future ahead for all of us. Climate scientists warn of a much hotter planet, with more intense storms and rising seas. Should we ignore the warnings and steam ahead, like Clooney, or recognise the dangers we face and try to mitigate them?
@@ -34,7 +40,7 @@ A libertarian critic might argue that people's interests and actions are their o
 
 There's a lot of truth in these observations - but it's also true that there are very real storm clouds on the horizon. This book investigates two major issues that threaten our future. The first is radical environmental destabilisation. The second is economic unfairness and insecurity. The richer and more populous humanity becomes, the more environmental damage we cause. The more unequal society becomes, the more we risk the hard-fought stability developed during the latter half of the twentieth century. Unless we develop better economic habits, we will damage the one planet that we have, and destroy the basic social consensus on which our system depends.  
 
-In other words, humanity is in a situation that is neither safe nor fair - and the lack of fairness is leading us to take dangerous risks. Moreover, the economic game is unfolding in an era of extreme environmental risks caused by polluters' failure to take responsibility for pollution, made worse by the *de facto* capture of governments by polluters. 
+Humanity is in a situation that is neither safe nor fair - and the lack of fairness is leading us to take dangerous risks. Moreover, the economic game is unfolding in an era of extreme environmental risks caused by polluters' failure to take responsibility for pollution, made worse by the *de facto* capture of governments by polluters. 
 
 # 1.3 Your Safety and Quality of Life Directly and Hugely Depend on Achieving Major Tax Reforms
 
@@ -54,7 +60,7 @@ If we think of our economy as akin to Clooney's boat, money is the fuel coursing
 
 # 1.4 Is Change Achievable?
 
-Some have said that it's easier to see the end of the planet than the end of capitalism. Money has long been recognised as dangerous to the human soul -- two and a half millennia ago, the philosopher Plato bemoaned a decline of honourable standards of behaviour caused, he said, by a secret desire for treasure [@Plato1964, Book 8; see also http://www.bookrags.com/notes/rep/part8.html].
+Some have said that it's easier to see the end of the planet than the end of capitalism. Money has long been recognised as dangerous to the human soul -- two and a half millennia ago, the philosopher Plato bemoaned a decline of honourable standards of behaviour caused, he said, by a secret desire for treasure ^[@Plato1964 (c. 380 BCE), Book 8; see also http://www.bookrags.com/notes/rep/part8.html].
 
 In the song *Don't Stop Me Now* by Queen, the lead vocalist, Freddie Mercury, sang that the world is 'turning inside out.' Ideas in the minds of human beings become embodied in physical form through economics, and market forces relentlessly generate changes in technology, disrupting any sense of permanence. We are in a world powered by money and ideas. Our civilisation's reigning set of concepts about the intersection of money and ideas, the two powerful forces driving our economy, is called economics.
 
@@ -68,10 +74,11 @@ But one great issue that makes it very difficult to shift course from our curren
 
 In this book we take a different interpretation of Queen's song. 
 
-By 'don't stop us now' we should think of the beauty of the natural world and the pleasure and happiness it can bring to all. We have been so through much as a planet and as species. There's no good reason to stop now. There's no reason to destroy much of the natural world through environmental change. And there's no reason to disrupt the living conditions of our children either. 
+We have been so through much as a planet and as species. There's no good reason to destroy much of the natural world through environmental change. And there's no reason to disrupt the living conditions of our children either. So let's not stop the fun of a pleasant planet to live on. *Don't stop us now!*
 
 # 1.5 What Role Can You Play?
-We will therefore need everyone on board Spaceship Earth to act and not to stop acting. But what, actions should we each take? What, precisely, is the role of individuals here? 
+
+We will therefore need everyone on board Spaceship Earth to act -- and not to stop acting. But what, actions should we each take? What, precisely, is the role of individuals here? 
 
 Up to now, the main message about how to tackle climate change has been ‘be guilty about your carbon emissions and try to reduce them individually’. A small minority argue vaguely for the overthrow of ‘the system’. It is our contention that these strategies simply will not work. Individual change will be insufficient. And revolutionary change of the system is too vague a message insufficiently targeted on the actual reforms needed. 
 
@@ -91,3 +98,4 @@ The need to include a diverse range of views is a core element of these changes.
 
 So if the world of ideas - in particular, economic ideas - now influences the very fate of our planet, how on earth did we get into this situation in the first place? To get a sense of this, let's first go back in time a couple of centuries to the era of Adam Smith and the economic concepts that first gained currency in his time. Then we'll run the clock forward, observing revolutions of politics, technology, and ideas. We bring humanity home to a set of economic ideas already expressed in our intellectual history.
 
+---
