@@ -17,7 +17,7 @@ typora-root-url: ChapterPictures
 
 # CHAPTER 6: TAX IN PRACTICE
 
-# 6.1: The Existing Tax System
+# 6.1 The Existing System
 
 Okay. So, we understand that it’s important for taxes to be well designed. We understand that they should be applied strategically, to tax bases that are not disproportionately impacted by their implementation. They should be efficient; they should be fair; and most of all, they should be part of a system that provides the greatest amount of benefit possible from the revenue raised. 
 
@@ -51,7 +51,7 @@ However, the tax system is not the only way to achieve these outcomes. Public se
 
 This is most clear when the tax system fails to generate the outcomes targeted. Some objectives are too important to leave to the market, especially when it comes to regulating social and environmental bads. Moreover, relying on tax revenue can be difficult when the system is as complex as it currently is. Increased complexity raises the risks of tax avoidance and evasion by the wealthiest of earners. 
 
-# 6.3 The UK SOcial Security System
+# 6.3 The UK Social Security System
 
 But what about the flipside? As we’ve touched on already, the objectives of Beveridge’s welfare state were to create a comprehensive system that employed tax revenue, government policy, and moral authority to tackle the five great evils in society. Today, this is achieved through the welfare system. Allocating funds to people of diminished capacity, low-income citizens, and the elderly creates a safety net, a minimum standard of living that people can count on... in theory.
 
