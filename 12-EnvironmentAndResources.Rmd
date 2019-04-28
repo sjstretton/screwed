@@ -142,27 +142,26 @@ In theory, this makes for a very elegant and efficient solution to the puzzle. I
 
 Pigou was particularly concerned that any damages caused to the environment or to people should be paid for. If we get prices right (so that they reflect full social costs), this will in turn discourage activities that would otherwise seem profitable despite causing external damage. 
 
- The polluter pays principle is 'the commonly accepted practice that those who produce pollution should bear the costs of managing it to prevent damage to human health or the environment' [@GranthamResearchInstituteonclimatechangeandtheenvironment2014]. This principle is the basis for most attitudes to the regulation of environmental pollution, forming part of the broader set of guidelines on the matter created in the 1992 Rio Declaration  [@UnitedNations1992].
+The polluter pays principle is 'the commonly accepted practice that those who produce pollution should bear the costs of managing it to prevent damage to human health or the environment' [@GranthamResearchInstituteonclimatechangeandtheenvironment2014]. This principle is the basis for most attitudes to the regulation of environmental pollution, forming part of the broader set of guidelines on the matter created in the 1992 Rio Declaration [@UnitedNations1992].
 
+The issue of externalities is of particular relevance to the conservation of natural resources and the environment. These resources -- the land, the animals, the air -- are vital to continued high quality human existence. If we strive to reflect the true costs of activities in prices, and properly manage these damaging activities, we will quite simply undermine the sustainability of the economy and our prosperity. 
 
-The issue of externalities is of particular relevance to the conservation of natural resources and the environment. These resources - the land, the animals, the air - are vital to continued high quality human existence. If we strive to reflect the true costs of activities in prices, and properly manage these damaging activities, we will quite simply undermine the sustainability of the economy and our prosperity. 
-
-However, it's not all bad news. Successful policy initiatives have been put in place to manage a variety of environmental and social issues - from the 5 pence bag 'Tax' to congestion charging in busy metropolitan centres. However, these current policy initiatives are not sufficient to tackle the large environmental problems and ensure our economies are developing in a sustainable manner. The figure below illustrates what has worked before, and areas for future development. 
+However, it's not all bad news. Successful policy initiatives have been put in place to manage a variety of environmental and social issues -- from the 5 pence bag 'Tax' to congestion charging in busy metropolitan centres. However, these current policy initiatives are not sufficient to tackle the large environmental problems and ensure our economies are developing in a sustainable manner. The figure below illustrates what has worked before and areas for future development. 
 
 |![image](OtherPictures/EnvironmentalInitiatives.png)|
 |:--:|
 |*Figure 12.3 Successful Environmental Initiatives*|
 
 
-Sustainable development as defined by the Brundtland report is 'development that meets the needs of the present without compromising the ability of future generations to meet their own needs.'[@CommissiononEnvironment] Unless we act now to create policy tools to properly account for and manage environmental damage, it would definitely not be fair to future generations.
+Sustainable development as defined by the Brundtland report is 'development that meets the needs of the present without compromising the ability of future generations to meet their own needs'. [@CommissiononEnvironment] Unless we act now to create policy tools to properly account for and manage environmental damage, it would definitely not be fair to future generations.
 
-## Policy options
+## Policy Options
 
 Pigouvian taxes are not the only weapons at our disposal to solve this problem. There are a number of ways we could tackle negative externalities to address social and environmental damages. 
 
 - We could ban or regulate the activities that cause harm ('command and control');
 - We could directly or indirectly subsidise desirable behaviours;
-- We could create market-based instruments (MBIs) which placing an overall limit on the damage we will allow,  and then distribute or sell tradable rights to contribute to the acceptable damage total ('cap-and-trade');
+- We could create market-based instruments (MBIs) which placing an overall limit on the damage we will allow, and then distribute or sell tradeable rights to contribute to the acceptable damage total ('cap-and-trade');
 - We could levy taxes to discourage harmful activities, as Pigou suggested.
 
 ## Command-and-Control
