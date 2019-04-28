@@ -13,7 +13,7 @@ link-citations: yes
 
 # 1.1 A Perfect Storm
 
-The film 'A Perfect Storm' describes the true story of a fishing trawler facing an epic storm. 
+The film 'The Perfect Storm' describes the true story of a fishing trawler facing an epic storm.^[@Petersen2000] 
 
 A group of New England fishermen had fallen on hard times after a series of poor catches. Their captain, played in the film by the actor George Clooney, hired a boat for one final fishing trip of the year. The trawler sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish. Turning for home, they hoped to get the catch back whilst still fresh. Unfortunately, a storm was brewing - and not just any storm. Three separate weather systems had merged to create a 'weather bomb' of unusual intensity. Meteorologists warned of a serious threat to life.  
 
@@ -30,7 +30,7 @@ The fishermen were in a situation that was neither safe nor fair -- and the lack
 
 # 1.2 Spaceship Earth
 
-What has the 'Perfect Storm' got to do with the future of the planet? On Earth, we are facing a similar situation as did Clooney and his crew. There are warnings of a dangerous future ahead for all of us. Climate scientists warn of a much hotter planet, with more intense storms and rising seas. Should we ignore the warnings and steam ahead, like Clooney, or recognise the dangers we face and try to mitigate them?
+What has the 'Perfect Storm' got to do with the future of the planet?^[See also @Gardiner2011 and @Brown2013] On Earth, we are facing a similar situation as did Clooney and his crew. There are warnings of a dangerous future ahead for all of us. Climate scientists warn of a much hotter planet, with more intense storms and rising seas. Should we ignore the warnings and steam ahead, like Clooney, or recognise the dangers we face and try to mitigate them?
 
 Even if we accept the scientists' warnings and resolve to act on them, our situation remains very tricky. You and I have little control over the direction of the world economy. There is no single captain of the 'Spaceship Earth.' Indeed, most of us have little idea how  exactly the controls of our economy work. 
 
@@ -60,9 +60,9 @@ If we think of our economy as akin to Clooney's boat, money is the fuel coursing
 
 # 1.4 Is Change Achievable?
 
-Some have said that it's easier to see the end of the planet than the end of capitalism. Money has long been recognised as dangerous to the human soul -- two and a half millennia ago, the philosopher Plato bemoaned a decline of honourable standards of behaviour caused, he said, by a secret desire for treasure ^[@Plato1964 (c. 380 BCE), Book 8; see also http://www.bookrags.com/notes/rep/part8.html].
+Some have said that it is 'easier to imagine an end to the world than an end to capitalism' [@Fisher2009]. Money has long been recognised as dangerous to the human soul and the body politic. Two and a half millennia ago, the philosopher Plato identified the shift from a 'timocratic' (rule by honour) system of government to an 'oligarchic' (rule by the rich). He identifdied the cause a secret desire for treasure ^[@Plato1964 (c. 380 BCE), Book 8; see also http://www.bookrags.com/notes/rep/part8.html].
 
-In the song *Don't Stop Me Now* by Queen, the lead vocalist, Freddie Mercury, sang that the world is 'turning inside out.' Ideas in the minds of human beings become embodied in physical form through economics, and market forces relentlessly generate changes in technology, disrupting any sense of permanence. We are in a world powered by money and ideas. Our civilisation's reigning set of concepts about the intersection of money and ideas, the two powerful forces driving our economy, is called economics.
+In the song *Don't Stop Me Now* by Queen^[@Queen1978], the lead vocalist, Freddie Mercury, sang that the world is 'turning inside out.' Ideas in the minds of human beings become embodied in physical form through economics, and market forces relentlessly generate changes in technology, disrupting any sense of permanence. We are in a world powered by money and ideas. Our civilisation's reigning set of concepts about the intersection of money and ideas, the two powerful forces driving our economy, is called economics.
 
 Economists study scarcity, amongst other things. In this text, we focus on three forms of scarcity: Space, time, and natural resources. Space is limited, although it is more limited in some places, e.g. Hong Kong, than in others, e.g. Siberia. Time is limited too. What I do with the hours of my day today is irreversible, and my time is unrecoverable. 
 

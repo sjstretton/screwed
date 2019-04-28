@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Acknowledgments
 
-The editors would like to extend their gratitude to the authors and to all who have helped in the writing of this draft book, in particular to Heather McKay, Angela Dennis, Chris Crompton, Jiama, Selvin Kwong, Neale Upstone, John McCone, Jasper Sky, Thibault Laurentjoye, Mike Reiss, Sacha Anthony, Mat Sayer, Mark Wadsworth, Tom Ward, Dirk Heine, Drew Jackson, Sarah Hafner, Ian Cook, Jo Wheeler and Christopher Downing for assistance, comments, conversations, support and work. Remembering Adrian Wrigley for introducing Stephen to many of the ideas herein.
+The editors would like to extend their gratitude to the authors and to all who have helped in the writing of this draft book, in particular to Heather McKay, Angela Dennis, Chris Crompton, Jiama, Selvin Kwong, Neale Upstone, John McCone, Jasper Sky, Thibault Laurentjoye, Mike Reiss, Sacha Anthony, Mat Sayer, Mark Wadsworth, Tom Ward, Dirk Heine, Drew Jackson, Sarah Hafner, Ian Cook, Jo Wheeler, Raj Ashok, and Christopher Downing for assistance, comments, conversations, support and work. Remembering Adrian Wrigley for introducing Stephen to many of the ideas herein.
 \newpage
 
 # **PART I: OVERVIEW**
