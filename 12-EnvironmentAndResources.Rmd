@@ -333,31 +333,31 @@ A healthy diet includes plenty of fresh fruit and vegetables, pulses, nuts, and 
 
 Now, we move finally on to environmental taxes. We are proposing that a broad suite of environmental taxes should represent a 'green tax shift' in the UK tax system, whereby increased taxes on resources to internalise environmental and social damages can be accompanied by reduced taxes on labour. This notion resonates with the ideas of Dutch entrepreneur Eckart Wintzen for a 'value extracted tax', which taxes the value that a certain product or raw material extracts from the environment through human use [@VanKamp2003]. Wintzen proposed that such a tax could form the basis of a new system that promoted services above material goods. These ideas have become the basis of the Ex'Tax project, which has explored how such measures might operate across the tax system and provided a case study plan for implementing such a scheme in the Netherlands [@Groothuis2014].
 
-There is a potential issue with replacing labour taxes with environmental taxes in the potential that this has to undermine the stability of government revenue. If an environmental tax discourages a certain kind of behaviour, that tends to reduce returns to the treasury. If a tax rate is linked to damage costs under evolving circumstances and shifting behaviour, it is dynamic and possibly more difficult to rely on than is a levy on labour. Ex'Tax respond to this difficulty with diversity, setting out a broad range of environmental taxes that collectively help to secure stable revenues. Taxes on energy and natural resources are relatively inelastic compared to labour taxes, which means that there is room to increase the rates without causing a decrease in government income. 
+There is a potential issue with replacing labour taxes with environmental taxes in that this has to undermine the stability of government revenue. If an environmental tax discourages a certain kind of behaviour, that tends to reduce returns to the treasury. If a tax rate is linked to damage costs under evolving circumstances and shifting behaviour, it is dynamic and possibly more difficult to rely on than is a levy on labour. Ex'Tax respond to this difficulty with diversity, setting out a broad range of environmental taxes that collectively help to secure stable revenues. Taxes on energy and natural resources are relatively inelastic compared to labour taxes, which means that there is room to increase the rates without causing a decrease in government income. 
 
-Ex'Tax also point out that the assumption that labour is a reliable and stable source of government income no longer holds as true as it once did. We live in a globalising world in which jobs move across the globe, and high rates of unemployment, ageing populations and increasing health costs all weaken the stability of traditional labour tax revenues. This reality is certainly applies to the UK [@TUC2017] where the growth of insecure employment is estimated to cost the Exchequer '£4bn a year. For the case study in the Netherlands, the group outline a $33.7b shift in the national tax base from labour to natural resources and consumption. Below is a summary of the measures they suggest: 
+Ex'Tax also point out that the assumption that labour is a reliable and stable source of government income no longer holds as true as it once did. We live in a globalising world in which jobs move across the globe, and high rates of unemployment, ageing populations and increasing health costs all weaken the stability of traditional labour tax revenues. This reality certainly applies to the UK [@TUC2017] where the growth of insecure employment is estimated to cost the Exchequer '£4bn a year'. For the case study in the Netherlands, the group outline a $33.7b shift in the national tax base from labour to natural resources and consumption. Below is a summary of the measures they suggest: 
 
 | **Decreases in  Labour Taxes**                               | **Increases in  Natural Resource & Consumption Taxes**       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Exemption threshold of '16,300 for income tax  and employee national insurance contributions | Flat VAT rate at 22%                                         |
-| Allowances for the retired and  unemployed/underemployed     | Excise duties on fossil fuels (transport fuels  including jet fuel, natural gas) |
-| Zero VAT rate for environmentally  'best-practice products' and for labour-intensive services | Tap and groundwater tax                                      |
+| Exemption threshold of '16,300' for income tax  and employee national insurance contributions | Flat VAT rate at 22%                                         |
+| Allowances for the retired and unemployed/underemployed      | Excise duties on fossil fuels (transport fuels including jet fuel, natural gas) |
+| Zero VAT rate for environmentally 'best practice products' and for labour-intensive services | Tap and groundwater tax                                      |
 |                                                              | Electricity tax for large-scale consumers                    |
 |                                                              | Deposit system for metals                                    |
 
 ^^^^
-Some more green taxes that could be imposed are included below. For taxes that are hard to individually apply, it may be possible to tax or rebate and increased corporate tax according to progress at reducing these impacts. Please see the Corporations chapter for more details on this.
+Some more green taxes that could be imposed are included below. For taxes that are hard to individually apply, it may be possible to tax or rebate and increase corporate tax according to progress at reducing these impacts. Please see the Corporations chapter for more details on this.
 
 ## Scarce Water
 It seems apprpriate to tax the appropriation of scarce water resources. This is particularly important in those areas short of water. 
 
 ## Endangered Fish
-Some fish are endangered through overfishing. It's not enough to ensure that fish are fished from sustainable markets, they must not be close substitutes for those in unsustainable fisheries. Certain fish should be banned althogether, others could be taxed if it is practicable,
+Some fish are endangered through overfishing. It's not enough to ensure that fish are fished from sustainable markets, they must not be close substitutes for those in unsustainable fisheries. Certain fish should be banned althogether, others could be taxed if it is practicable.
 
 ## Chemical Use in Agriculture
 Pesticides have been implicated in the reduction in insect numbers over recent decades. What exactly is to blame is not completely known. Nevertheless, the overuse of pesticides is of concern.
 
-Fertilisers can cause direct greenhouse gas emissions. In addition the runoff of fertilsers and animal waste can cause problems of eutrophication in water. 
+Fertilisers can cause direct greenhouse gas emissions. In addition, the runoff of fertilsers and animal waste can cause problems of eutrophication in water. 
 
 Antibiotics are often used in animal husbandry. But overuse of antibiotics threatens to create a new class of antibiotic-resitant organisms.
 
