@@ -309,29 +309,29 @@ In the following subsections, we go through the main categories of health bads a
 
 ## Alcohol and Tobacco
 
-Alcohol and tobacco taxes would be retained as today. There may be a case for harmonisation across Europe, to prevent 'booze cruises'.
+Alcohol and tobacco taxes would be retained as today. There may be a case for harmonisation across Europe to prevent 'booze cruises'.
 
 ## Sugar and Salt Tax on Processed and Prepared Food
 
-Excess sugar intake causes multiple health problems including obesity, type-II diabetes and tooth decay. We propose a simple sugar tax on the manufacture or importation of sugar based on three categories of sugar-like compounds. 
+Excess sugar intake causes multiple health problems including obesity, type-II diabetes, and tooth decay. We propose a simple sugar tax on the manufacture or importation of sugar based on three categories of sugar-like compounds. 
 
-- Class A: 'sugar' (i.e., sucrose, glucose and fructose), including contents of fruit juice. 
+- Class A: 'sugar' (i.e., sucrose, glucose, and fructose), including contents of fruit juice. 
 - Class B: synthetic and natural sweeteners with unclear health impacts.
 - Class C: 'unprocessed' sugars in raw fruit and vegetables; starch and other carbohydrates.
 - Class D: salt.
-We would take Class A would have 100% tax (ie. £0.02 or 2p per gram sugar); Class B, would be charged 50%  (ie. 1 pence per gram sugar sweetness-equivalent, but such sweeteners might be reclassified to class A or C with appropriate scientific evidence) and class C 0%. Class D be charged according to salt content.
+We would take Class A would have 100% tax (i.e., £0.02 or 2p per gram sugar); Class B, would be charged 50% (i.e., 1 pence per gram sugar sweetness-equivalent, but such sweeteners might be reclassified to class A or C with appropriate scientific evidence) and class C 0%. Class D be charged according to salt content.
 
 ## Red Meat
 
-Red meat (e.g. beef and lamb) causes *both* health damage to those who eat excessive quantites of it and significant greenhouse emissions, in particular methane. It also involves significant land use (which could be returned to forest). A straightforward way of taxing it would be according to its estimated greenhouse gas emissions, according to the same tax rate per CO2 equivalent as is propoposed below.^[Technically, the Gloabl Warming Potential over 100 years]. The lifecycle emissions per meat type and per gram of meat would need to be approximately estimated. We are not explicitly taxing the health downsides of meat, but the greenhouse gas emissions should also have a health benefit.
+Red meat (e.g., beef and lamb) causes *both* health damage to those who eat excessive quantites of it and significant greenhouse emissions, in particular, methane. It also involves significant land use (which could be returned to forest). A straightforward way of taxing it would be according to its estimated greenhouse gas emissions, according to the same tax rate per CO2 equivalent as is propoposed below. ^[Technically, the Gloabl Warming Potential over 100 years]. The lifecycle emissions per meat type and per gram of meat would need to be approximately estimated. We are not explicitly taxing the health downsides of meat, but the greenhouse gas emissions should also have a health benefit.
 
 ## Wholesome Foods
 
-A healthy diet includes plenty of fresh fruit and vegetables, pulses, nuts and other sources of vegtable protein. It's essential that everyone has access to low cost fresh wholesome foods. Therefore any additional taxes on food should be used to encourasge and ensure easy availability of healthy foods, especially in poorer areas. To eat well should be the easy default option.
+A healthy diet includes plenty of fresh fruit and vegetables, pulses, nuts, and other sources of vegtable protein. It's essential that everyone has access to low cost, fresh, wholesome foods. Therefore, any additional taxes on food should be used to encourasge and ensure easy availability of healthy foods, especially in poorer areas. To eat well should be the easy default option.
 
 # 12.8 A Green Tax Shift
 
-Now we move finally on to environmental taxes. We are proposing that a broad suite of environmental taxes should represent a 'green tax shift'in the UK tax system, whereby increased taxes on resources to internalise environmental and social damages can be accompanied by reduced taxes on labour. This notion resonates with the ideas of Dutch entrepreneur Eckart Wintzen for a 'value extracted tax', which taxes the value that a certain product or raw material extracts from the environment through human use [@VanKamp2003]. Wintzen proposed that such a tax could form the basis of a new system that promoted services above material goods. These ideas have become the basis of the Ex'Tax project, which has explored how such measures might operate across the tax system and provided a case study plan for implementing such a scheme in the Netherlands [@Groothuis2014].
+Now, we move finally on to environmental taxes. We are proposing that a broad suite of environmental taxes should represent a 'green tax shift' in the UK tax system, whereby increased taxes on resources to internalise environmental and social damages can be accompanied by reduced taxes on labour. This notion resonates with the ideas of Dutch entrepreneur Eckart Wintzen for a 'value extracted tax', which taxes the value that a certain product or raw material extracts from the environment through human use [@VanKamp2003]. Wintzen proposed that such a tax could form the basis of a new system that promoted services above material goods. These ideas have become the basis of the Ex'Tax project, which has explored how such measures might operate across the tax system and provided a case study plan for implementing such a scheme in the Netherlands [@Groothuis2014].
 
 There is a potential issue with replacing labour taxes with environmental taxes in the potential that this has to undermine the stability of government revenue. If an environmental tax discourages a certain kind of behaviour, that tends to reduce returns to the treasury. If a tax rate is linked to damage costs under evolving circumstances and shifting behaviour, it is dynamic and possibly more difficult to rely on than is a levy on labour. Ex'Tax respond to this difficulty with diversity, setting out a broad range of environmental taxes that collectively help to secure stable revenues. Taxes on energy and natural resources are relatively inelastic compared to labour taxes, which means that there is room to increase the rates without causing a decrease in government income. 
 
