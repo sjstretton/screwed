@@ -374,27 +374,27 @@ A more general problem is that risk is not taxed. I can give some examples. Imag
 
 The difficulties of assessing true damage costs have led to two common adaptations to the original Pigouvian ideal. 
 
-- The first is to use direct taxes that are aimed at meeting specific regulatory standards and priced according to abatement costs rather than set according to the full cost of the externality per-se. In theory this can provide a degree of choice to damaging agents to either pay the tax or (if it is better value) to reduce damages, or a combination of both. If the tax is set high enough, it will be an effective way to meet specific damage-reduction targets. There can be issues if the costs borne by agents are significantly unequal, which we will discuss later in the context of carbon taxes. 
-- The second response has been for policymakers to impose consumption taxes on goods that are implicated in environmental damages, rather than directly taxing the sources of the externalities or targets that are commensurate with the damage (where damage increases in direct proportion to the amount of activity undertaken or product used). The issues with this approach are outlined this section using the example of fuel taxes.
+- The first is to use direct taxes that are aimed at meeting specific regulatory standards and priced according to abatement costs rather than set according to the full cost of the externality per-se. In theory, this can provide a degree of choice to damaging agents to either pay the tax or (if it is better value) to reduce damages, or a combination of both. If the tax is set high enough, it will be an effective way to meet specific damage-reduction targets. There can be issues if the costs borne by agents are significantly unequal, which we will discuss later in the context of carbon taxes. 
+- The second response has been for policymakers to impose consumption taxes on goods that are implicated in environmental damages, rather than directly taxing the sources of the externalities or targets that are commensurate with the damage (where damage increases in direct proportion to the amount of activity undertaken or product used). The issues with this approach are outlined in this section using the example of fuel taxes.
 
 The example of vehicle emissions highlights the importance of recognising where multiple externalities are associated with a product or activity and of assessing appropriate optimisation of tax effectiveness.
 
 Policies to reduce vehicle emissions provide a useful set of examples for us to explore the question of where best to target taxes. Vehicles arguably generate at least eight externalities. 
 
 1. Vehicles emit carbon dioxide emissions, which contribute to the greenhouse effect. 
-2. Vehicles use petroleum products (petrol or diesel) which are imported (or use products which could be exported) from unstable and authoritarian countries. This is costly in financial and political terms and has security implications (Sallee, 2011)
-3. Vehicles pollute the local air, harming people and the environment
-4. Driving contributes to traffic congestion, which slows down other road-users. 
+2. Vehicles use petroleum products (petrol or diesel) which are imported (or use products which could be exported) from unstable and authoritarian countries. This is costly in financial and political terms and has security implications (Sallee, 2011).
+3. Vehicles pollute the local air, harming people and the environment.
+4. Driving contributes to traffic congestion, which slows down other road users. 
 5. Vehicle use increases risk of accidental injury to pedestrians, cyclists, animals, other motorists and accidental damage to property. 
 6. Driving wears down road surfaces and increases other infrastructure maintenance costs.
 7. Roads use high-value land that could be used for other purposes.
-8. The construction and maintenance of roads costs money that could otherwise be allocated elsewhere.
+8. The construction and maintenance of roads cost money that could otherwise be allocated elsewhere.
 
 These eight externalities, taken together, drive us towards some conclusions on vehicle taxes. 
 
-Given that the first two externalities are directly proportional to the volume of fuel consumed^[assuming conventional petrol or diesel fuels; biofuels complicate the overall emissions flux] their ideal Pigouvian solution is a fuel tax. Taxing fuel directly will discourage its use leading to efficient reduction in those damages. Given that emissions vary with fuel use (because they are also factors of engine efficiency, road surface etc.), the optimal solution here is an emissions tax,but that would be impractical given current technologies [@Anderson2011]. However, a fuel tax still has an estimated two-thirds of the benefits of an optimal tax on emissions [@Fullerton2000].
+Given that the first two externalities are directly proportional to the volume of fuel consumed, ^[assuming conventional petrol or diesel fuels; biofuels complicate the overall emissions flux] their ideal Pigouvian solution is a fuel tax. Taxing fuel directly will discourage its use leading to efficient reduction in those damages. Given that emissions vary with fuel use (because they are also factors of engine efficiency, road surface, etc.), the optimal solution here is an emissions tax, but that would be impractical given current technologies [@Anderson2011]. However, a fuel tax still has an estimated two-thirds of the benefits of an optimal tax on emissions [@Fullerton2000].
 
-Injury risk is a composite of a suite of factors including overall mileage,average speed, weather conditions, prevalence of other road-users, and safe driving technique. It therefore evades an optimal tax, but is certainly correlated with overall vehicle use, so its reduction is aligned with taxes that incentivise reduced vehicle use. Infrastructure use and wear is optimally addressed with a mileage tax. The current system of road tax is unfair because it charges all road-users within the same tax-band evenly despite widely different levels of road-use. The tax-band system itself is a form of tax on fuel economy, which is intended to incentivise the use of more fuel-efficient vehicles to reduce pollution effects. This is also flawed.
+Injury risk is a composite of a suite of factors including overall mileage, average speed, weather conditions, prevalence of other road users, and safe driving technique. It therefore evades an optimal tax, but is certainly correlated with overall vehicle use, so its reduction is aligned with taxes that incentivise reduced vehicle use. Infrastructure use and wear is optimally addressed with a mileage tax. The current system of road tax is unfair because it charges all road users within the same tax band evenly despite widely different levels of road use. The tax band system itself is a form of tax on fuel economy, which is intended to incentivise the use of more fuel-efficient vehicles to reduce pollution effects. This is also flawed.
 
 
 ## Fuel Taxes
