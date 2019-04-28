@@ -399,9 +399,9 @@ Injury risk is a composite of a suite of factors including overall mileage, aver
 
 ## Fuel Taxes
 
-Burning fossil fuels causes both global and local environmental problems. In addition, burning oil products in cars causes health problems and car travel is relatively dangerous. A tax on fuel is a way of paying for those costs. 
+Burning fossil fuels causes both global and local environmental problems. In addition, burning oil products in cars causes health problems, and car travel is relatively dangerous. A tax on fuel is a way of paying for those costs. 
 
-A fuel tax is a type of consumption tax, and consumption taxes can be very effective at driving consumer behaviour whilst being efficient Pigouvian taxes if a large proportion of the externalities tackled are confined within a particular sector or product class. If an externality has multiple sources ' many ways in which the same kind of damages occur across different types of activity ' such a tax will not be optimal unless it tackles all of those sources. 
+A fuel tax is a type of consumption tax, and consumption taxes can be very effective at driving consumer behaviour whilst being efficient Pigouvian taxes if a large proportion of the externalities tackled are confined within a particular sector or product class. If an externality has multiple sources 'many ways in which the same kind of damages occur across different types of activity', such a tax will not be optimal unless it tackles all of those sources. 
 
 
 One important comparison is between fuel taxes and taxes on the cars themselves according to fuel economy.
@@ -410,7 +410,7 @@ A US study of tax policy and fuel economy concluded that:
 
 > *'Fuel economy taxation shares the weaknesses of fuel economy regulation in that it induces a 'rebound effect' by lowering the cost of driving, which erodes gasoline savings and increases congestion and accident externalities...* 
 >
-> *...while they do work to improve vehicle fuel economy,the same goals could be achieved at a lower cost to society if policy makers instead directly taxed fuel'* [@Anderson2011]
+> *...while they do work to improve vehicle fuel economy, the same goals could be achieved at a lower cost to society if policy makers instead directly taxed fuel'* [@Anderson2011].
 
 The existing road tax with a band system based on engine capacity, plus the existing vehicle excise duty (VED) with exemptions for low-emission vehicles, are inefficient at reducing emissions and can cause rebound effects. Replacing both with a fuel tax would retain universal incentives to reduce vehicle use, (excepting electric vehicles, but they would still be equally liable to pay congestion charges) increase manufacturer incentives to improve fuel efficiency to meet consumer demand, and create a more efficient system for emissions-reduction. But would higher fuel taxes be accepted politically? A better option might be to increase congestion charges.
 
