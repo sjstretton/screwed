@@ -460,7 +460,7 @@ There is considerable future promise for establishing sequestration services whi
 
 ## Other Greenhouse Gases
 
-We should also consider greenhouse gases from sources other than the two mentioned so far (carbon dioxide emissions from fuel combustion and methane from red meat production). Cement production is an important example. In addition, industrial processes sometimes produce non-CO2 greenhouse gases such as SF6, N2O and HFCs. The general rule is that we need a greenhouse gas tax at a consitent rate
+We should also consider greenhouse gases from sources other than the two mentioned so far (carbon dioxide emissions from fuel combustion and methane from red meat production). Cement production is an important example. In addition, industrial processes sometimes produce non-CO2 greenhouse gases such as SF6, N2O and HFCs. The general rule is that we need a greenhouse gas tax at a consistent rate.
 
 
 
@@ -468,11 +468,11 @@ We should also consider greenhouse gases from sources other than the two mention
 
 So how should we transition to a carbon tax? We deal with this question on early, because, as we see, the design of our carbon tax is of crucial importance to how fast we can decarbonise.
 
-For a practical transition policy, we could implement a broad-based carbon tax at a relatively moderate rate which increases with time. There are several reasons for starting with a lower rate. First, it would establish that there is a social cost of carbon, and that social cost must be internalized in the prices that consumers and firms pay [@Pindyck2013]. Second, it gives polluting firms time to adapt to abatement and develop new technologies toward that end. Third, it allows us to monitor economic impacts more gradually rather than introducing a large shock with unpredictable consequences. 
+For a practical transition policy, we could implement a broad-based carbon tax at a relatively moderate rate which increases with time. There are several reasons for starting with a lower rate. First, it would establish that there is a social cost of carbon, and that social cost must be internalized in the prices that consumers and firms pay [@Pindyck2013]. Second, it gives polluting firms time to adapt to abatement and develop new technologies towards that end. Third, it allows us to monitor economic impacts more gradually rather than introducing a large shock with unpredictable consequences. 
 
-However, climate change is becoming increasingly urgent. Is there a more creative way that can get change more rapidly? Perhaops this needs the full force of both the public sector and the private sector.  The necessary role of the public sector (apart from taxes, which we will come back to) is huge, but not fully in the scope of this book.^[We will limit ourselves to a few remarks.
+However, climate change is becoming increasingly urgent. Is there a more creative way that can get change more rapidly? Perhaops this needs the full force of both the public sector and the private sector. The necessary role of the public sector (apart from taxes, which we will come back to) is huge but not fully in the scope of this book. ^[We will limit ourselves to a few remarks.
 
-Let's talk engineering first. The principle alternative energy sources (renewable and nuclear) produce electricity rather than other energy vectors. To meet our climate targets of limiting global temperature rises to 1.5-2C above the pre-industrial requires a *rapid* (two decade) transition to emissions-free energy *globally*. Therefore producing *enough* generation capacity quickly enough is the key challenge. Let's talk about costs
+Let's talk engineering first. The principle alternative energy sources (renewable and nuclear) produce electricity rather than other energy vectors. To meet our climate targets of limiting global temperature rises to 1.5-2C above the pre-industrial level requires a *rapid* (two decade) transition to emissions-free energy *globally*. Therefore, producing *enough* generation capacity quickly enough is the key challenge. Let's talk about costs.
 
 For nuclear in particular, the costs are kept down and the speed optimised when a standard design can be deployed and repeated many times. Furthermore, both nuclear and renewables need low interest rates. Government borrowing typically has such low interest rates, and so state investment or a hybrid involving low borrowing costs seems optimal.
 
