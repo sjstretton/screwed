@@ -511,9 +511,9 @@ We could potentially avoid this issue by having a carbon tax based on consumptio
 
 In an ideal world, this would actually be doing things the wrong way around. An 'upstream' carbon tax, at the point of extraction, refinement, or electricity production, is the most efficient tax base because the carbon stored in fossil fuels can be precisely quantified and taxed without having to calculate embodied emissions. This would also lead to savings in administration costs of the tax. A system of rebates could incentivise the development of 'downstream' emissions capture technology [@Parry2012]. The ideal for global CO~2~ emissions reduction is to arrange a global price for carbon that is taxed upstream. International coordination towards this end should be promoted. 
 
-However, for now we need to find an approach that works on a national level. Because of the efficiency losses and generally high administrational costs of downstream tax bases relative to upstream bases, it is still desirable for us to impose a carbon tax on domestic production in high-carbon industries, rather than taxing at the point of consumption, but in order to negate the international competitive effect, we would also need a subsidy on exports, which could simply be arranged as a tax refund. Imports would need to be taxed based on embodied carbon in order to correct for the domestic carbon tax. Systems like this are known as 'border tax adjustments' (BTAs).
+However, for now, we need to find an approach that works on a national level. Because of the efficiency losses and generally high administrational costs of downstream tax bases relative to upstream bases, it is still desirable for us to impose a carbon tax on domestic production in high-carbon industries, rather than taxing at the point of consumption. But in order to negate the international competitive effect, we would also need a subsidy on exports, which could simply be arranged as a tax refund. Imports would need to be taxed based on embodied carbon in order to correct for the domestic carbon tax. Systems like this are known as 'border tax adjustments' (BTAs).
 
-In general we can separate two separate types of border tax adjustment. One type, similar to the approach in output based subsidies above, would provide taxes and rebates according to standardised quantities of the major carbon-intensive commodities.
+In general, we can separate two different types of border tax adjustment. One type, similar to the approach in output-based subsidies above, would provide taxes and rebates according to standardised quantities of the major carbon-intensive commodities.
 
 ## Border Tax Adjustments: Feasible and Legal?
 
@@ -527,11 +527,11 @@ A fairer alternative system to this gradual rate reduction would be to form mutu
 
 ## WTO and GATT Legality
 
-The General Agreement on Tariffs and Trade (GATT) is multilateral agreement between 128 countries (including the UK) on the terms of fair international trade, and is regulated by the World Trade Organisation (WTO). A detailed analysis by the German Federal Ministry for the Environment found that in principle BTAs seem to be acceptable under GATT, and it is permissible to impose a tariff on imports concurrent with a subsidy on exports of comparable goods and services.
+The General Agreement on Tariffs and Trade (GATT) is a multilateral agreement between 128 countries (including the UK) on the terms of fair international trade, and it is regulated by the World Trade Organisation (WTO). A detailed analysis by the German Federal Ministry for the Environment found that in principle, BTAs seem to be acceptable under GATT, and it is permissible to impose a tariff on imports concurrent with a subsidy on exports of comparable goods and services.
 
 A central tenet of the agreements is that there is no policy discrimination for imports based on country of origin, but the authors argue that there are exceptions written into the agreement that might be feasibly invoked with the justification of protecting the environment as a global resource [@Hilbert2009].
 
 
 # 12.13 Conclusions to the Chapter
 
-We've argued here for a suite of environmental taxes to tackle climate change and a host of other issues faced by humanity. A carbon tax can initially be rebated on electricity production, thus allowing a higher rate and encouraginga more rapid switch to clean energy sources. Taxes on other greenhouse gases, congestion charging, and other environmental problems are crucial. Environmental taxes are also 
+We've argued here for a suite of environmental taxes to tackle climate change and a host of other issues faced by humanity. A carbon tax can initially be rebated on electricity production, thus allowing a higher rate and encouraging a more rapid switch to clean energy sources. Taxes on other greenhouse gases, congestion charging, and other environmental problems are crucial. Environmental taxes are also 
