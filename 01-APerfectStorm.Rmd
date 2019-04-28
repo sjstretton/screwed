@@ -13,7 +13,7 @@ link-citations: yes
 
 # 1.1 A Perfect Storm
 
-The film 'The Perfect Storm' describes the true story of a fishing trawler facing an epic storm.^[@Petersen2000] 
+The film 'The Perfect Storm' describes the true story of a fishing trawler facing an epic storm.
 
 A group of New England fishermen had fallen on hard times after a series of poor catches. Their captain, played in the film by the actor George Clooney, hired a boat for one final fishing trip of the year. The trawler sailed out into the mid-Atlantic. After much fruitless searching, they finally struck fish. Turning for home, they hoped to get the catch back whilst still fresh. Unfortunately, a storm was brewing - and not just any storm. Three separate weather systems had merged to create a 'weather bomb' of unusual intensity. Meteorologists warned of a serious threat to life.  
 
@@ -30,9 +30,9 @@ The fishermen were in a situation that was neither safe nor fair -- and the lack
 
 # 1.2 Spaceship Earth
 
-What has the 'Perfect Storm' got to do with the future of the planet?^[See also @Gardiner2011 and @Brown2013] On Earth, we are facing a similar situation as did Clooney and his crew. There are warnings of a dangerous future ahead for all of us. Climate scientists warn of a much hotter planet, with more intense storms and rising seas. Should we ignore the warnings and steam ahead, like Clooney, or recognise the dangers we face and try to mitigate them?
+What has the 'The Perfect Storm'^[@Petersen2000] got to do with the future of the planet?^[See also @Gardiner2011 and @Brown2013] On Earth, we are facing a similar situation as did Clooney and his crew. There are warnings of a dangerous future ahead for all of us. Climate scientists warn of a much hotter planet, with more intense storms and rising seas. Should we ignore the warnings and steam ahead, like Clooney, or recognise the dangers we face and try to mitigate them?
 
-Even if we accept the scientists' warnings and resolve to act on them, our situation remains very tricky. You and I have little control over the direction of the world economy. There is no single captain of the 'Spaceship Earth.' Indeed, most of us have little idea how  exactly the controls of our economy work. 
+Even if we accept the scientists' warnings and resolve to act on them, our situation remains very tricky. You and I have little control over the direction of the world economy. There is no single captain of *Spaceship Earth*^[The first known use of this analogy is in *Progress and Poverty* [@George1879]. See also https://en.wikipedia.org/wiki/Spaceship_Earth]. Indeed, most of us have little idea how  exactly the controls of our economy work. 
 
 This book is about a centrally important set of controls which determine the focus and trajectory of our economy: Taxation. In this book, we show how intelligent and principled changes to the tax system could shift the economy towards a brighter future. We link taxation to substantive concerns of our daily lives and our long-term collective future, including welfare benefits, property rights, wealth accumulation, environmental health and safety, energy and housing policy.
 
@@ -60,9 +60,13 @@ If we think of our economy as akin to Clooney's boat, money is the fuel coursing
 
 # 1.4 Is Change Achievable?
 
-Some have said that it is 'easier to imagine an end to the world than an end to capitalism' [@Fisher2009]. Money has long been recognised as dangerous to the human soul and the body politic. Two and a half millennia ago, the philosopher Plato identified the shift from a 'timocratic' (rule by honour) system of government to an 'oligarchic' (rule by the rich). He identifdied the cause a secret desire for treasure ^[@Plato1964 (c. 380 BCE), Book 8; see also http://www.bookrags.com/notes/rep/part8.html].
+Some have said that it is 'easier to imagine an end to the world than an end to capitalism' [@Fisher2009]. Money has long been recognised as dangerous to the human soul and the body politic. Two and a half millennia ago, the philosopher Plato argued that a shift from a 'timocratic' (rule by honour) system of government to an 'oligarchic' (rule by the rich) one was caused by a 'secret desire for treasure'.^[@Plato1964 (c. 380 BCE), Book 8; see also http://www.bookrags.com/notes/rep/part8.html]
 
-In the song *Don't Stop Me Now* by Queen^[@Queen1978], the lead vocalist, Freddie Mercury, sang that the world is 'turning inside out.' Ideas in the minds of human beings become embodied in physical form through economics, and market forces relentlessly generate changes in technology, disrupting any sense of permanence. We are in a world powered by money and ideas. Our civilisation's reigning set of concepts about the intersection of money and ideas, the two powerful forces driving our economy, is called economics.
+In the song *Don't Stop Me Now* by Queen, the lead vocalist and writer, Freddie Mercury, sang that '...I feel alive... and the world... I'll turn it inside out, yeah'.^[@Queen1978 The full verse is as follows "Tonight, I'm gonna have myself a real good time //
+I feel alive and the world I'll turn it inside out, yeah //
+And floating around in ecstasy //
+So don't stop me now don't stop me //
+'Cause I'm having a good time, having a good time."] Ideas in the minds of human beings become embodied in physical form through economics, and market forces relentlessly generate changes in technology, disrupting any sense of permanence. We are in a world powered by money, ideas and our human -- and animal -- desires. Our civilisation's reigning set of concepts about the intersection of desire, money and ideas, these powerful forces driving our world, is called economics.
 
 Economists study scarcity, amongst other things. In this text, we focus on three forms of scarcity: Space, time, and natural resources. Space is limited, although it is more limited in some places, e.g. Hong Kong, than in others, e.g. Siberia. Time is limited too. What I do with the hours of my day today is irreversible, and my time is unrecoverable. 
 
