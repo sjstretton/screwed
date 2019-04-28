@@ -202,7 +202,7 @@ Well-transitioned environmental taxes can achieve a system that is fair to indus
 
 We will explore this policy option in more detail in the section below as, for reasons of efficiency, ease of application, and incentivising potential technological developments, our proposals predominately focus on environmental taxes.
 
-## A Proposed Approach TO Reducing Bads
+## A Proposed Approach to Reducing Bads
 
 
 
@@ -210,7 +210,7 @@ We will explore this policy option in more detail in the section below as, for r
 
 As mentioned earlier, the concept of externalities was developed by British economist Arthur Pigou, after whom the term 'Pigouvian taxes' was named. In simple terms, Pigou argued that the tax per unit of the pollution should equal the damage cost of that unit of pollution (assuming such a thing could be measured). Since the damage cost of a unit of pollution might vary in the quantity of pollution, we should clarify that this rate should normally be measured at the optimal quantity of pollution (that optimum being when overall benefits-costs are maximised). Once that tax had been imposed, the best allocation of resources in an economy could then be provided by the free market [@Pigou1932].
 
-A 'marginal' cost is the cost increase in producing one additional unit of a product, i.e. in increasing the margin of production by one increment. A marginal damage cost is, therefore, the cost associated with the damage of producing one additional unit of the externality-causing product. For example, in the case of carbon dioxide (CO~2~), the marginal damage is the present value of future (worldwide) damages from an extra ton of emissions, accounting for the gradual uptake of CO~2~ from the oceans and delayed adjustment of temperatures to higher concentrations [@Parry2012]. These taxes are theoretically efficient solutions to environmental and social problems because they manipulate price mechanisms in order to modify activities, encouraging more efficient damage reduction at a lower administrative cost.
+A 'marginal' cost is the cost increase in producing one additional unit of a product, i.e., in increasing the margin of production by one increment. A marginal damage cost is, therefore, the cost associated with the damage of producing one additional unit of the externality-causing product. For example, in the case of carbon dioxide (CO~2~), the marginal damage is the present value of future (worldwide) damages from an extra ton of emissions, accounting for the gradual uptake of CO~2~ from the oceans and delayed adjustment of temperatures to higher concentrations [@Parry2012]. These taxes are theoretically efficient solutions to environmental and social problems because they manipulate price mechanisms in order to modify activities, encouraging more efficient damage reduction at a lower administrative cost.
 
 ## Calculating Damage Costs
 
