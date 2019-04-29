@@ -120,11 +120,11 @@ As it stands, HMRC relies on self-reported income, and could therefore be termed
 
 HMRC has started to tackle tax avoidance more strongly in recent years, with "tough new legislation and demands that they pay disputed tax up front." [@Houlder2017] Recent prosecutions and stricter controls have closed off many of the avenues that were once commonplace for large multinationals and wealthier individuals. The world of tax evasion and avoidance is smaller, and mostly plays closer to the letter of the law – layering the available relief schemes available from the government. Yet tax-saving ploys remain available that allow and encourage high-net-worth individuals to reduce their tax liabilities.
 
-Knowledge is power - not least when it comes to tax avoidance and evasion. It therefore seems relevant to outline the most common methods of tax avoidance and evasion that high-net-worth individuals engage in. The HMRC itself regularly publishes a breakdown of the tax evasion and avoidance strategies which it is aware of. [@HMRC2018b] 
+Knowledge is power - not least when it comes to tax avoidance and evasion. It seems relevant to outline the most common methods of tax avoidance and evasion that high-net-worth individuals engage in. HMRC itself regularly publishes a breakdown of tax evasion and avoidance strategies it knows of. [@HMRC2018b] 
 
 Following this, we can see that these strategies include:
 
-1) Tax Havens
+1) Tax havens
 2) Shell companies
 3) Equity swaps
 4) Avoiding capital gains tax
@@ -135,64 +135,66 @@ Following this, we can see that these strategies include:
 9) Life insurance borrowing
 10) Real estate borrowing
 
-We will not be able to tackle every accounting problem, but have some overarching goals to reform this aspect of the tax system. Our approach is twofold: to create a much simpler system of income tax with fewer marginal rates and fewer taxes (with the aim to eliminate the separate benefits-means-testing system, employers and employees National Insurance, and yet introduce a proper system of tax contribution records); and to build in some new forms of taxation such as a land value tax and an upstream carbon tax.
+We will not be able to tackle every accounting problem, but have some overarching goals for reforming this aspect of the tax system. Our approach is twofold: (i) To create a much simpler system of income tax with fewer marginal rates and fewer taxes -- aiming to eliminate the separate benefits-means-testing system and employers' and employees' National Insurance, and yet introduce a proper system of tax contribution records; and (ii) to build in some new forms of taxation, such as a land value tax and an upstream carbon tax.
 
-In other words we follow Einstein who suggested: 'make it as simple as possible, but no simpler'.
+In other words, we follow Einstein's maxim: 'Make it as simple as possible, but no simpler.'
 
 
 # 6.5 The Mirrlees Review
 
-Our starting point in building our proposals were the recommendations of the Mirrlees review [@Mirrlees2010]. This document suggested a number of key reforms of the UK tax system, so as to create effective incentives for a better functioning society. It also discussed different approaches to the taxation of income invested, with particular reference to whether whether gains or the final consumption are taxed. The review does not cover the benefit system. The recommendations of the summary reportare as follows:
+Our starting point in building our proposals were the recommendations of the Mirrlees review.[@Mirrlees2010] The review's final report  suggested a number of key reforms of the UK tax system, intended to create effective incentives for a better-functioning society. It also discussed different approaches to taxation of income invested, with particular reference to whether and how initial income, capital gains, and/or final consumption are taxed. Unlike the present report, however, the Mirrlees review did not cover the benefit system. 
+
+The recommendations of Mirrlees' summary report are as follows:
 
 1. Replace Business Rates with a Land Value Tax
-2. Reform Council tax (and Stamp Duty) into a single simple tax on property.
-3. Remove exemptions from VAT and refund by increases in benefits and allowances
+2. Reform Council tax (and Stamp Duty) into a single simple tax on property
+3. Remove exemptions from VAT and compensate by increases in benefits and allowances
 4. Extend congestion charging
 5. Rationalise the approach to greenhouse gas (carbon) taxation
-6. Remove transaction taxes (stamp duties) as highly economically distorting.
+6. Remove transaction taxes (stamp duties), as these are highly economically distorting
 7. Introduce a consistent approach for dealing with the VAT exception of financial services (especially when bundled with other services)
-8. Simplify the tax system where possible.
-9. Introduce an allowance for corporate equity (ACE) to eliminate the favouring of debt financing over equity.
+8. Simplify the tax system where possible
+9. Introduce an allowance for corporate equity (ACE) to eliminate the favouring of debt financing over equity financing
 
-We use these proposals to guide our own recommendations for new policies. 
+We use these proposals to inform our own recommendations for new policies. 
 
 # 6.6 Philosophy of Our Proposals
 
-In this section we explain our guiding philosophy and define a simple set of proposals that may help achieve an ideal taxation system. The guiding principles here are that the system will be beneficial, fair, and practical.
+Our guiding principles are that the taxation system should be *beneficial, fair, and practical.* We define a simple set of proposals that may help achieve an optimal taxation system. 
 
 ## Beneficiaries
 
-Our new tax system considers the citizens of the UK to be akin to the 'shareholders' of a company, with a stake in the outcome of the country. These citizens are therefore the intended beneficiaries of the tax system. The 'paying customers' of this system should be the property owners, particularly the owners of UK land and anyone profiting from, or otherwise building wealth by selling goods and services to, UK consumers. This also should apply to those individuals/organisations which are otherwise receiving payments from the UK. The tax system should charge them for this benefit received.
+Our new tax system considers the citizens of the UK to be akin to 'shareholders' of a company, with a stake in the country's development and produce. Citizens are the intended beneficiaries of the tax system. The 'paying customers' of this system should be the property owners, particularly the owners of UK land, and anyone building wealth by selling goods and services to UK consumers. These paying customers of the UK tax system should include individuals and organisations who are resident abroad, yet receiving payment streams from the UK -- for example, the foreign owners of a Coca-Cola bottling plant in the UK. This principle is already reflected in the existing corporation tax system, but we want to make it explicit here. 
 
 ## Changing Incentives
 
-Income, Wealth and Environmental Damage of Consumption should be taxed. Personal Incomes are already adequately taxed, while Wealth and Environmental Damages are not. The main goal of our wealth taxation proposals is to tax the top 1% (and particularly the top 0.1%) by wealth. This can be achieved by taxing all forms of wealth, with allowances/subsidies granted to those who remain resident in the UK. We also propose to properly regulate environmental damage through the application of a Carbon tax, which should help incentivise more sustainable consumer behaviour. 
+Income, Wealth, and Environmental Damage of Consumption should be taxed. Personal Incomes are already adequately taxed, while Wealth and Environmental Damages are not. The main goal of our wealth taxation proposals is to tax the top 1% (and particularly the top 0.1%) by wealth. This can be achieved by taxing all forms of wealth, with allowances/subsidies granted to those who remain resident in the UK. We also propose to properly regulate environmental damage through the application of a Carbon Tax, which should help incentivise more sustainable choices by electricity generators as well as consumers. 
 
 ## Avoiding Avoidance
 
-Under the new system, you would receive *tax benefits* from residing in the UK. Land is an inelastic base of taxation, as it is unable to be moved, and alongside the profits from consumption by UK customers. Non resident foreigners who own UK assets will be treated in an equivalent way to the UK super rich - with high levels of taxation applied to their UK holdings. 
+Under the new system, one would receive *tax benefits* from residing in the UK. Land is an inelastic base of taxation, as it cannot be moved. The profits (net income) on sales of consumer goods and services to UK residents are also an inelastic tax base, as it is expensive for a UK resident to leave the country just to go shopping, and companies are likely to continue to sell to UK consumers so long as they can make some profit. Non-resident foreigners who own UK assets will be treated in an equivalent way to the UK super rich - with high levels of taxation applied to their UK holdings. 
 
 ## Simplicity is key
 
-The tax system should be as simple as possible. Thus we simplify wherever possible. Moreover, where and if there are options for making the tax system automatic, we should take them. This system should not need or involve any 'self assessment', which can often act as an extra barrier to engaging fully with the system.
+The tax system should be as simple as possible. Moreover, where there are options for making the tax system automatic (i.e. for levying taxes automatically), we should take them. The new tax system should not need or involve any 'self assessment,' which can often act as an extra barrier to engaging fully with the system - and an opportunity for tax fraud.
 
 ## Privacy and Transparency
 
-The new tax system should have privacy for ordinary members of the public. That could be achieved by the assignment of secure identities to taxpayers which are independent of their real identity (so that name or address would be separately stored than the 'tax' identity). This would ensure the safety of the citizens of the UK. There may however be a case made for the complete transparency of the very rich (0.1% by wealth or income) and major companies. This would be part of a check-and-balance mechanism is in place to regulate political and financial influence within the UK.
+The new tax system should allow privacy for ordinary members of the public. That could be achieved by the assignment of secure identities to taxpayers, independent of their named identity (so that name or address would be separately stored than the 'tax' identity). There may however be a case made for the complete transparency of the very rich (0.1% by wealth or income) and major companies. This would be part of a checks-and-balances mechanism for regulation of political and financial influence within the UK.
 
 # 6.7 Institutional Reforms
 
 ## Residency Allowance
 
-As mentioned above, the new tax system would shift incentives to ensure that there were strong tax benefits to maintaining UK residency (i.e. a residency allowance). This would replace tax benefits for offshore or non-dom status. The super rich and the offshore resident owners would therefore be treated equivalently, with steep tax rates,  unless the offshore residents reside in a trusted partner country with good disclosure mechanisms on taxable assets (e.g. an EU country).
+The new tax system would shift incentives away from non-residency, by providing strong tax benefits to maintaining UK residency (i.e. a residency allowance). The existing system of tax benefits for offshore interests or people with 'non-domiciled' status would be ended. The super-rich and offshore resident owners would be treated equivalently, with steep tax rates, unless the offshore residents reside in a trusted partner country with good disclosure mechanisms on taxable assets (e.g. an EU country).
 
 ## Local Taxation
 
-Taxes on housing should be transformed over time into a 100% Land Value Tax, plus a wealth allowance. The exact size of this wealth allowance could be decided by local authorities. Local authorities would therefore be funded by a progressive land wealth tax. Any uplift in land rental values should be distributed 50-50 between local authorities and national authorities. This LVT could be adjusted for the effect of any infrastructure investments on land values, where 100% of the uplift would be captured by the authority making the investment. 
+Taxes on housing should be transformed over time into a 100% Land Value Tax, plus a wealth allowance. The exact size of this wealth allowance could be decided by local authorities. Local authorities would be funded by a progressive land wealth tax. Any uplift in land rental values should be distributed 50-50 between local and national authorities. The LVT could be adjusted for the effect of any infrastructure investments on land values, where 100% of the uplift would be captured by the authority making the investment. 
 
 ## Strategic Tax Reform
 
-Instead of having an annual budget, the tax system should be treated strategically. In other words, it would be run much like the strategic spending and defence review - namely a 'strategic tax review'.
+Instead of having an annual budget, the tax system should be treated strategically. In other words, it would be run much like the strategic spending and defence review - namely a 'strategic tax review.'
 
 # 6.8 Conclusions
 
@@ -200,17 +202,17 @@ It is clear from the foregoing that the UK's existing taxation and benefits syst
 
 Accordingly, it’s important to draw out some recommendations for how policy makers should adapt the tax system to fix these implementation issues. Communication, clarity, and enforcement are all aspects of this transition. 
 
-What is taxed should be concrete and objective. It should not depend on the honesty of those declaring the tax, and it should not penalize the honest relative to the dishonest. The tax system should not contain 'tax arbitrages', and should not allow for dishonesty. This would help to combat the issues of public acceptance and administrative complexity. 
+What is taxed should be concrete and objective. It should not depend on the honesty of those declaring the tax, and it should not penalize the honest relative to the dishonest. The tax system should not contain 'tax arbitrages,' and should not allow for dishonesty. This would help to combat the issues of public acceptance and administrative complexity. 
 
-The costs and time-commitment of administering the system should never be excessive. Streamlining the tax code to simplify the number of tax rates, directly tying benefits to the purposes of taxes that are applied, and severely limiting the number of exemptions should be among the steps taken. Above all, the tax and benefit system should be capable of being easily understood by the public.
+The costs and time-commitment of administering the system should never be excessive. Streamlining the tax code to simplify the number of tax rates, directly tying benefits to the purposes of taxes that are applied, and severely limiting the number of exemptions, should be among the steps taken. Above all, the tax and benefit system should be capable of being easily understood by the public.
 
-In terms of public acceptance, the purposes and targets of taxes should be well communicated and clear. As outlined in the previous chapter, following clear principles when taxes are created, so that they are practical, beneficial, and fair, is essential to ensure that they will be successfully launched. Tax should either fall on things that *don't go away* when we tax them (e.g. land) or things that we *want to have go away* when we tax them (e.g. fossil fuel use, or excessive sugar consumption).
+In terms of public acceptance, the purposes and targets of taxes should be well communicated and clear. As outlined in the previous chapter, following clear principles when taxes are created, so that they are practical, beneficial, and fair, is essential to ensure their successfully launch and acceptance. Tax should either fall on things that *don't go away* when we tax them (e.g. land), or things that we *want to have go away* when we tax them (e.g. fossil fuel use, or excessive sugar consumption).
 
-It is important to our everyday lives that the tax and benefit system works well. As we've shown, income tax and consumption tax revenues are the lifeblood of public services like social security, the educational system, and the National Health Service.
+It is important to our everyday lives that the tax and benefit system works well. As we've shown, income tax and consumption tax revenues are the lifeblood of public services like social security, the education system, and the National Health Service.
 
-There is buy-in on the welfare side. Most individuals in this country will benefit from a public payment of some kind, from healthcare to child benefit to the state pension, within their lifetimes. Creating the same level of connection with the taxation system is an essential component of the system's public acceptance and sustainability. 
+There is already buy-in on the welfare side. Most individuals in this country will benefit from a public payment of some kind, from healthcare to child benefit to the state pension, within their lifetimes. Creating the same level of connection with the taxation system is an essential component of the system's public acceptance and fiscal sustainability. 
 
-The key mechanisms by which the UK raises revenue, redistributes income, incentivises corporations and nudges individuals towards choices in the public interest, have been neglected and left to rust, out-of-step with the times we live in. There is no shortage of popular support for reform. Indeed, consensus seems to be on the side of the need for improving and simplifying the current tax and welfare system. 
+The key mechanisms by which the UK raises revenue, redistributes income, incentivises corporations, and nudges individuals towards choices in the public interest, have been neglected and left to rust, out-of-step with the times we live in. There is no shortage of popular support for reform. Indeed, consensus seems to be on the side of improving and simplifying the current tax and welfare system. 
 
 As we will explore in coming chapters in more detail, things are changing, but not enough. Proposals put in place that aim to move towards the Universal Credit system have ignored the need for the changes to be practical, beneficial, and fair. HMRC’s attempts to reduce tax evasion have yet to do much to solve the problem. And destructive behaviours, especially by corporations, have yet to be effectively targeted through the use of taxation. There is still a long way to go to implement our high principles in practice. 
 
