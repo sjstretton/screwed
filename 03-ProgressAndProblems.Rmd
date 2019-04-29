@@ -1,11 +1,17 @@
 ---
-output:
-  pdf_document: default
-  html_document: default
+title: "Chapter 2 of Tax Heaven"
+subtitle: "Revolutionising Tax and Welfare in the Pre-Singularity Era"
+date: "`r Sys.Date()`"
+output: 
+  tufte::tufte_handout: default
+  tufte::tufte_html: default 
+bibliography: Library/PC/library.bib
+link-citations: yes
 ---
+
 # CHAPTER 3: PROGRESS AND PROBLEMS
 
-# 3.1 The Scope and Audience of this Book
+# 3.1  What would an economy fit for our children look like?
 
 This book is addressed to a wide readership: Economists, scientists, politicians, professionals, and the public alike. Everyone, in fact, who cares about two issues not usually understood to be intimately connected: Establishing a fair economy which rewards contributive merit in proportion to contribution (tempered by compassion for the elderly or disabled), and preventing catastrophic climate disruption. 
 
@@ -120,7 +126,7 @@ Let's focus now on corporate lobbying. Companies have the means at their disposa
 
 This is a catch-22 situation. We can't change the companies without changing the tax system. But sometimes, we can't impose the new tax system without changing the company, since they are able to effectively resist policy changes. So instead, we need forms of tax that don't face such resistance, but which lead to the transformation of companies in a positive direction. We describe one option, the feebate, a little later on.
 
-# 3.8 A Four-fold Framework for Public Wealth
+# 3.8 What Improvements Could Such Changes Bring? A Four-fold Framework for Public Wealth
 
 What improvements could such changes make? There are four crucial benefits to wider society of a better taxation system. We call these the four realms of value: households, communities, nations, and the world. We argue that our proposals can enhance genuine wealth at the level of the individual, community, nation-state, and planet. For each of these four realms, we also define a notion of social entrepreneurship. 
 
