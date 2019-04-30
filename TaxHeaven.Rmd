@@ -118,6 +118,12 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 ```{r child = '13-Conclusions.Rmd'}
 ```
+# **APPENDIX**
+
+\newpage
+
+```{r child = 'A1-Cakenomics.Rmd'}
+```
 
 
 # BIBLIOGRAPHY

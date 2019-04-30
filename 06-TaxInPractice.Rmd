@@ -1,18 +1,9 @@
 ---
-title: "The Operating System of Capitalism"
-date: "`r Sys.Date()`"
-link-citations: yes
-output:
-  pdf_document: default
-  tufte::tufte_html: default
-  html_document:
-    df_print: paged
+title: "Tax Heaven"
+output: 
   tufte::tufte_handout: default
-subtitle: Revolutionising Tax and Welfare
-bibliography:
-- Library/Mac/library.bib
-- Library/HeatherPC/library.bib
-typora-root-url: ChapterPictures
+bibliography: Library/Mac/library.bib
+link-citations: yes
 ---
 
 # CHAPTER 6: TAX IN PRACTICE
