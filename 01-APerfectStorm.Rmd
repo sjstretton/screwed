@@ -1,10 +1,7 @@
 ---
-title: "Chapter 1 of Tax Heaven"
-subtitle: "Revolutionising Tax and Welfare in the Pre-Singularity Era"
-date: "`r Sys.Date()`"
+title: "Tax Heaven"
 output: 
   tufte::tufte_handout: default
-  tufte::tufte_html: default 
 bibliography: Library/Mac/library.bib
 link-citations: yes
 ---

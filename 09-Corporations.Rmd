@@ -177,7 +177,7 @@ However, others have argued that it is unclear whether corporation tax falls lar
 
 # 9.4 Loopholes in the Law
 
-As has been demonstrated in the previous sections of this chapter, most governments rely on corporation taxes and income taxes as a substantial source of revenue by which to pay for public services, and they regulate the activities of companies within their borders. However, "recent economic developments, and particularly the increasing globalization of capital markets, has made enforcement of national income taxes increasingly difficult." [@Roin2017] Too often, the author says, existing tax systems result in the domestic income of foreign corporations "ending up taxed nowhere." 
+As has been demonstrated in the previous sections of this chapter, most governments rely on corporation taxes and income taxes as a substantial source of revenue by which to pay for public services, and they regulate the activities of companies within their borders. However, "recent economic developments, and particularly the increasing globalization of capital markets, has made enforcement of national income taxes increasingly difficult." [@Roin2007] Too often, the author says, existing tax systems result in the domestic income of foreign corporations "ending up taxed nowhere." 
 
 ## Concern 1: Tax Avoidance
 

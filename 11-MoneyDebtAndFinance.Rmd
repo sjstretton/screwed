@@ -1,15 +1,12 @@
 ---
-title: "The Operating System of Capitalism"
-subtitle: "Revolutionising Tax and Welfare in the Pre-Singularity Era"
-date: "`r Sys.Date()`"
+title: "Tax Heaven"
 output: 
-  tufte::tufte_handout: default 
-  tufte::tufte_html: default
-bibliography: library.bib
+  tufte::tufte_handout: default
+bibliography: Library/Mac/library.bib
 link-citations: yes
 ---
 
-# CHAPTER 11: MONEY, DEBT AND FINANCIAL REPRESSION
+# CHAPTER 11: MONEY, DEBT, AND FINANCE
 
 ## Summary
 
@@ -25,11 +22,11 @@ This part is split into the following chapters indicating different types of tax
 3. Financial 'Repression': reducing public debt through inflation, growth, monetisation of debt
 4. Demurrage: Taxes on money balances
 
-# 11.1 Taxing Bank Balance Sheets and Profits
+\newpage
 
-## Introduction
+# 11.1 Introduction
 
-`r tufte::newthought('For many people,')` financial services are an opaque and mysterious business.  For many people, banks are places to store hard-earned money or get a loan. However the relationship between these two, the operation of other financial products and the relationship of banks to the wider economy is a puzzle.  A study by ESCP Europe in June 2010 found that the general population is not well informed about the banking system, with little awareness of the status of their deposits and what banks do with them.
+`r tufte::newthought('For many people,')` financial services are an opaque and mysterious business.  For many people, banks are places to store hard-earned money or get a loan. However the relationship between these two, the operation of other financial products and the relationship of banks to the wider economy is a puzzle. A study by ESCP Europe in June 2010 found that the general population is not well informed about the banking system, with little awareness of the status of their deposits and what banks do with them.
 
 The financial crisis of 2007-8, whose interconnected causes are still being teased out and debated by experts, has only exacerbated this sense that understanding 'finance' is not possible for normal people.  Several studies have found a substantial deterioration in public attitudes towards the UK Banking Industry following the crisis. A report by YouGov Cambridge in 2013, found that only 4 percent of those surveyed thought that the banks observe high moral and ethical standards - a joint worst rating with betting shops, casinos and online gambling.
 
@@ -69,7 +66,20 @@ We argue there are additional reasons for taxing finance, money and debt.  These
 
 Financial services pay a variety of taxes in the UK. In addition to the taxes that all companies pay, banks are also subject to a bank levy on their total assets (which is to be replaced by a surcharge on profits made by financial companies). The estimated total contribution of the financial sector was approximately £66.6 billion in the year ending 31 March 2015.  Banks account for about two thirds of this, other financial institutions the remaining third [@PWC2015].
 
-## The Bank Balance Sheet Tax (Bank levy)
+## Options for Taxing Finance
+
+In this chapter we will consider a number of options for taxing finance. These are:
+
+- Bank balance sheet tax
+- Corporation tax surcharge
+- Taxes on financial (or all) transactions
+- Financial repression
+- Demurrage
+
+
+
+# 11.2 The Bank Balance Sheet Tax (Bank levy)
+
 Specific to banks, we have the bank levy or bank balance sheet tax.  It is a levy on the total equity and liabilities on the bank balance sheet.
 
 A bank balance sheet consists of assets such as loans, and liabilities such as deposits. A loan is an asset because it is hopefully paid back to the bank. A deposit is a liability because it may be recalled by the depositor . The assets are equal to the liabilities plus the bank's equity. And so a bank balance sheet tax is a tax on the total size of these assets and liabilities.
@@ -87,14 +97,6 @@ In fact, although banks threatened to leave the country and HSBC did a long revi
 The base of the bank levy was initially twofold: both lending in the UK financial system _and_ the global lending of UK-based banks. One can see a justification in both but they are very different from the point of view of the incentives of banks to be based in the UK. 
 
 The first approach (UK lending) does not discriminate between UK based or non-UK banks - all banks that lend in the UK financial system would be covered. Whereas the second approach discourages large global banks to locate here. Therefore it seems that the first approach could sustain a higher rate without affecting bank location.
-
-## Bank Corporation Tax Surcharge
-
-Whilst reducing the bank levy, in 2011, the government imposed a Bank Corporation Tax surcharge. This is an additional 8% tax on the profits of banking companies above an annual £25 million profit allowance.
-
-There is therefore a key difference in operation between the bank levy and the surcharge. The levy is a tax on the bank's total assets, whereas the surcharge is a tax on profits. The surcharge was projected to raise 6.5 billion pounds between 2016/17 and 2020/21.  Introduced at the same time as the winding down of the bank levy, the surcharge has received mixed reviews from financial institutions.
-
-Some consider that with the removal of the bank levy, and the relatively low Corporation tax rate of 18%, the surcharge is a manageable cost. Others have argued that the surcharge impedes so-called 'Challenger' banks, which are new banks established since the global financial crises.  Many of these formally avoided the bank levy because their liabilities did not exceed the threshold £20 billion.  However, they are now subject to the corporation tax surcharge on their profits.  Some claim that the surcharge will make it difficult for new banks to enter the market and secure investment.
 
 ## Bank Levies in Europe
 
@@ -124,8 +126,20 @@ However a comprehensive study of bank levies across Europe produced by Michael K
 
 The bank levy is a tax which is in existence and which raises some revenue, albeit at a low rate.  Despite threats to move their operations from the UK, no banks have done so for this reason and if the tax was imposed solely on UK lending, they would have no reason for doing so.  The tax also meets our earlier criteria for taxes, namely that 'we want to tax things that either we want to go away or that don't go away when we tax them'.We want to reduce the levels of unproductive debt (such as money to buy existing assets), and direct it to more productive purposes.  Debt is a form of wealth and should be taxed appropriately. ^[Add ways to distinguish productive and unproductive debt taxes]
 
-# 11.2 Taxing Financial Transactions
-## Introduction
+
+
+# 11.3 Bank Corporation Tax Surcharge
+
+Whilst reducing the bank levy, in 2011, the government imposed a Bank Corporation Tax surcharge. This is an additional 8% tax on the profits of banking companies above an annual £25 million profit allowance.
+
+There is therefore a key difference in operation between the bank levy and the surcharge. The levy is a tax on the bank's total assets, whereas the surcharge is a tax on profits. The surcharge was projected to raise 6.5 billion pounds between 2016/17 and 2020/21.  Introduced at the same time as the winding down of the bank levy, the surcharge has received mixed reviews from financial institutions.
+
+Some consider that with the removal of the bank levy, and the relatively low Corporation tax rate of 18%, the surcharge is a manageable cost. Others have argued that the surcharge impedes so-called 'Challenger' banks, which are new banks established since the global financial crises.  Many of these formally avoided the bank levy because their liabilities did not exceed the threshold £20 billion.  However, they are now subject to the corporation tax surcharge on their profits.  Some claim that the surcharge will make it difficult for new banks to enter the market and secure investment.
+
+Another option is to tax not only profits but total income. This would include therefore a levy on total banker renumeration as well as corporate profits.
+
+
+# 11.4 Taxing Financial Transactions
 
 Bank levies are taxes on the balance sheets of banks.  Transaction taxes on the other hand, are (as the name suggests), taxes on either transfers of money (including on ledgers) or transfers of ownership.  This means that the parties to a transaction, pay a tiny percentage of the value of the transaction in tax.  These taxes (and in particular taxes on Foreign exchange trading) are also known as 'Tobin' taxes, after Nobel Laureate James Tobin, who proposed the tax as a means of 'throwing sand in the wheel' and slowing down 'excessive' trading.
 
@@ -190,7 +204,7 @@ There are two general motivations for transaction taxes: to alleviate short term
 Therefore, it seems that the most appropriate way to go is to support an international tax at such a level that it would have a beneficial effect on reducing short-term speculation, and assess the revenue raised. A number of countries could coordinate this approach. We do not propose to introduce a transactions tax unilaterally, except in the sense of making the existing tax system more automatic.
 
 
-# 11.3 Financial Repression
+# 11.5 Financial Repression
 
 Growth in GDP is low in European countries, and the level of government 'debt' and of on-going public deficits are of public concern. In such situations, lower or more negative real interest rates become an important policy tool, because they have the effect both of stimulating economic activity and of reducing the interest burden of public debt.
 
@@ -230,7 +244,7 @@ After 1945, Britain used fiscal repression (low  or negative real interest rates
 
 After 1979, interest rates rose and fiscal repression ceased. After 2008: some elements of fiscal repression returned (e.g. QE, low interest rates), but there was also a culture of 'austerity'.
 
-# 11.4: Demurrage
+# 11.6: Demurrage
 
 Nominal interest rates are currently already at or near zero in most developed countries (the 'zero lower bound'). In this case, cutting real interest rates further requires either negative nominal interest rates or higher inflation.
 
@@ -252,13 +266,14 @@ _As money is an indispensable wheel in the machine of production, an accumulatio
 
 _Our small place cannot liberate the world, but we want at least to give a sign. In the Wörgl area the sluggish, slow-circulating National Bank currency shall be replaced with a medium of exchange with a better circulating performance than ordinary money. 'Certified Compensation Bills' shall be issued in denominations of 1, 5 and 10 Schillings and put into circulation. The council shall issue the Bills and the public shall undertake to accept such Bills at their full nominal value in payment for goods and services. In order to turnaround the economy of the township, public works shall be planned and paid for with the same Bills.'_ [@Shwarz1951]
 
-# 11.5 Conclusion
+# 11.7 Conclusion
 Money, bonds and other forms of debt involve someone who will pay money back (debtor) and someone who will be repaid (creditor). They are therefore forms of private wealth for creditors and fall under our wealth tax. Finance also involves taking care of transactions between individuals and companies. Therefore, in this section we investigate taxes on money, debt, and transactions.
 
 We apply our general principle that we want to tax things that either we want to go away or that don't go away when we tax them. Taxes on debt, especially unproductive debt satisfy this criteria in the sense that we wish to reduce the overall level of debt and to target it towards productive purposes.
 
 It also seems plausible that debt is a tax base that is less likely to move than one on financial transactions, because lending in international markets is difficult, whereas transactions are easily moved both within international financial institutions and offshore. Therefore it seems that a bank balance tax or a tax on unproductive lending (for example mortgage lending) is the right approach. 
-# 11.6 Further Ideas Out of The Scope of This Book
+
+# 11.8 Further Policy Ideas
 
 - Central Monetary Authority (CMA) responsible for the creation of all monetary credits.  Credits are uniquely numbered and traceable.  Credits are constantly analyzed for duplications.  Potentially located in Leeds not London.  Possibly move the financial capital of the UK to Leeds.
 - All financial services companies nationalized without exception.  This should lower the cost of banking and insuring.

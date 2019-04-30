@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output: 
   tufte::tufte_handout: default
   tufte::tufte_html: default 
-bibliography: Library/PC/library.bib
+bibliography: Library/Mac/library.bib
 link-citations: yes
 ---
 
@@ -31,7 +31,7 @@ Why, given two and a half centuries of stunning technological and economic progr
 
 # 3.3 Evolution of Political Economy
 
-Economics is the study of activities that are, at least in part, motivated by financial gain. The term *political economy* comes from Koine Greek, the *lingua franca* of the eastern Roman Empire from the fourth century BCE onward. *Polis* means city-state, the main form of political organisation in ancient Greece. 'Economy' comes from two Greek words: *Oikos*, meaning household, and *Nomos* meaning law. Thus *Oikonomos* means household management and the root of *political economy* is 'household managment of the state'. Classical political economy treatises include the works of Adam Smith, David Ricardo, John Stuart Mill, and Karl Marx. 
+Economics is the study of activities that are, at least in part, motivated by financial gain. Econmomics comes from the older term *political economy*, which itself comes from Koine Greek, the *lingua franca* of the eastern Roman Empire from the fourth century BCE onward. *Polis* means city-state, the main form of political organisation in ancient Greece. 'Economy' comes from two Greek words: *Oikos*, meaning household, and *Nomos* meaning law. Thus *Oikonomos* means household management and the root of *political economy* is 'household managment of the state'. Classical political economy treatises include the works of Adam Smith, David Ricardo, John Stuart Mill, and Karl Marx. 
 
 Classical political economy considered how the economy's production was distributed amongst participants in the system. A question at the very heart of political economy has been that of just distribution. Taxation is a way to pay for public goods, but it is also a means to remedy distribution when it is inefficient or unfair. This makes the study of political economy, or economics, powerful, as economics has implications on the income, wealth, and well-being of all individuals. One can believe an economic theory for 'scientific' reasons, but one might also support a given theory because it furthers his own interests or ideological preconceptions. This makes economic discourse somewhat fraught - indeed political. Self-interested parties with deep pockets can influence (and have influenced) the public to assume the veracity of certain economic theories which are in reality normative ideologies, and lead them to be considered authoritative, by simple expedients such as generously endowing professorships of economics at leading universities, funding think-tanks, and owning newspapers (and hiring their chief editors). 
 
@@ -126,7 +126,20 @@ Let's focus now on corporate lobbying. Companies have the means at their disposa
 
 This is a catch-22 situation. We can't change the companies without changing the tax system. But sometimes, we can't impose the new tax system without changing the company, since they are able to effectively resist policy changes. So instead, we need forms of tax that don't face such resistance, but which lead to the transformation of companies in a positive direction. We describe one option, the feebate, a little later on.
 
-# 3.8 What Improvements Could Such Changes Bring? A Four-fold Framework for Public Wealth
+# 3.8 Ten Proposed Policies
+
+1) Beveridge-2 welfare system that uses contribution records to eliminate disincentives and promote national savings. 
+2) Work-Training Intense BootCamp
+3) Simplified Progressive Consumption Tax System, Based on existing Income Tax System
+4) As Part of that A Corporate Cashflow tax
+5) Corporate Ownership Decay and CSG Rebate
+6) Land Value Nationalise and Compensate with Perpetual Bonds
+7) Bank Balance Sheet Tax and Productive Finance Incentive
+8) 'Magic' Carbon Incentive
+9) Consumption based Carbon Tax
+10) Miscellaneous Environmental and Risk Taxes funding Citizen Dividend
+
+# 3.9 What Improvements Could Such Changes Bring? A Four-fold Framework for Public Wealth
 
 What improvements could such changes make? There are four crucial benefits to wider society of a better taxation system. We call these the four realms of value: households, communities, nations, and the world. We argue that our proposals can enhance genuine wealth at the level of the individual, community, nation-state, and planet. For each of these four realms, we also define a notion of social entrepreneurship. 
 
