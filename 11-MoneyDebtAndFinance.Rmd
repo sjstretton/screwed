@@ -15,13 +15,6 @@ link-citations: yes
  - Economic situations forcing individuals into debt can be mitigated with higher wages and/or higher net income due to a citizen's dividend.
  - Financial instability is socially damaging and unnecessary; it can be mitigated with a financial taxes explained here.
 
-This part is split into the following chapters indicating different types of tax on banks/debt, transactions or money:
-
-1. Taxing Banking: the bank balance sheet levy and other ways to tax financial institutions such as a specific profits tax
-2. Taxing Financial Transactions: both in finance and more generally in the economy
-3. Financial 'Repression': reducing public debt through inflation, growth, monetisation of debt
-4. Demurrage: Taxes on money balances
-
 \newpage
 
 # 11.1 Introduction
@@ -70,12 +63,13 @@ Financial services pay a variety of taxes in the UK. In addition to the taxes th
 
 In this chapter we will consider a number of options for taxing finance. These are:
 
-- Bank balance sheet tax
-- Corporation tax surcharge
-- Taxes on financial (or all) transactions
-- Financial repression
-- Demurrage
+This part is split into the following chapters indicating different types of taxes on debt, bank income, transactions or money:
 
+1. Bank balance sheet levy
+2. Corporation tax or total revenue surcharge
+3. Taxing transactions: both in finance and more generally in the economy
+4. Financial 'Repression': reducing public debt through inflation, growth, monetisation of debt
+5. Demurrage: Taxes on money balances
 
 
 # 11.2 The Bank Balance Sheet Tax (Bank levy)
