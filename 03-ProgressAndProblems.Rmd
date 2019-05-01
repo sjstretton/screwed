@@ -20,7 +20,9 @@ In the next section, we define five major questions that this enquiry seeks to a
 4. How can we effect change?
 5. What improvements would a principled taxation and social security system allow?
 
-# 3.1  What would an economy fit for our children look like?
+\newpage
+
+# 3.1  What Would An Economy Fit For Our Children Look Like?
 
 This book is addressed to a wide readership: Economists, scientists, politicians, professionals, and the public alike. Everyone, in fact, who cares about two issues not usually understood to be intimately connected: Establishing a fair economy which rewards contributive merit in proportion to contribution (tempered by compassion for the elderly or disabled), and preventing catastrophic climate disruption. 
 
@@ -32,7 +34,7 @@ What would an economy fit for our children look like - a society and economy tha
 
 \newpage
 
-# 3.2 What are the Economic Conditions for Sustainable Widespread Prosperity?
+# 3.2 What Are The Economic Conditions For Sustainable Widespread Prosperity?
 
 To define a desirable economy and society, we need first to determine the economic conditions that would be necessary for sustainable and widespread prosperity.  
 
@@ -40,15 +42,17 @@ Adam Smith wrote what is probably one of the two most famous books on economics,
 
 Why, given two and a half centuries of remarkable technological and economic progress, do these issues persist? Why, despite the growth in global wealth, are many people still existing in precarious circumstances? Why is there environmental pollution, even though humanity has the wealth and technological ability to prevent it? The 19th-century reformer Henry George tried to answer these questions in his seminal text *Progress and Poverty* [@George1879]. He argued that it was the exploitation of the private ownership of land that caused poverty. This is not the sole reason for the issues that society currently faces, but we can draw from his analysis a few lessons that shape our recommendations. The very structure of our economic system is at fault: It does not place explicit value on the well-being and happiness of people. Our economic system has not allowed us to take full advantage of the technological progress we have made in ways that serve human happiness, fairness, safety, and environmental sustainability. To come to grips with this reality, we must fight fire with fire - i.e. we must adapt the tools of the current system to combat its weaknesses. What we seek is instruments of economic policy that will re-orient human efforts in desirable and necessary directions. This quest is in the tradition of what used to be called *political economy*.
 
+\newpage
+
 ## Evolution of Political Economy
 
 Economics is the study of activities that are, at least in part, motivated by financial gain. Economics comes from the older term *political economy*, which itself comes from Koine Greek, the *lingua franca* of the Eastern Roman Empire from the fourth century BCE onward. *Polis* means city-state, the main form of political organisation in ancient Greece. 'Economy' comes from two Greek words: *Oikos*, meaning household, and *Nomos* meaning law. Thus *Oikonomos* means household management and the root of *political economy* is 'household management of the state'. Classical political economy treatises include the works of Thomas Malthus, Adam Smith, David Ricardo, John Stuart Mill, and Karl Marx. 
 
-Classical political economy considered how the economy's production was distributed amongst participants in the system. A question at the very heart of political economy has been that of just distribution. Taxation is a way to pay for public goods, but it is also a means to remedy distribution when it is inefficient or unfair. Thus, the study of political economy, or economics, is powerful, as economics has implications on the income, wealth, and well-being of all individuals. One can believe an economic theory for 'scientific' reasons, but one might also support a given theory because it furthers his own interests or ideological preconceptions. This makes economic discourse somewhat fraught - indeed political. Self-interested parties with deep pockets can influence (and have influenced) the public to assume the veracity of certain economic theories which are in reality normative ideologies, and lead them to be considered authoritative, by simple expedients such as generously endowing professorships of economics at leading universities, funding think-tanks, and owning newspapers (and hiring their chief editors). 
+Classical political economy considered how the economy's production was distributed amongst participants in the system. A question at the very heart of political economy has been that of just distribution. Taxation is a way to pay for public goods, but it is also a means to remedy distribution when it is inefficient or unfair. Thus, the study of political economy, or economics, is powerful, as economics has implications on the income, wealth, and well-being of all individuals. One can believe an economic theory for 'scientific' reasons, but one might also support a given theory because it furthers his own interests or ideological preconceptions. This makes economic discourse somewhat fraught - indeed political. Self-interested parties with deep pockets can influence (and have influenced) the public to assume the veracity of certain economic theories which are in reality normative ideologies, and lead them to be considered authoritative, by simple expedients such as generously endowing professorships of economics at leading universities, funding think-tanks, and owning newspapers. 
 
-Theories of political economy often have questions of taxation and property at their heart. The efficacy of a particular taxation regime can be considered on two grounds: The extent to which it incentivises efficiency, and the extent to which it promotes fairness. These questions depend not only to economic processes (regulatory and infrastructural frameworks for production and competition) but also on the structures of taxation and private property ownership. What assets can be owned, who owns them, and how much tax should they pay for doing so? These questions are at the heart of economic management. Desirable economic outcomes depend not only the structure of economic activity but also on the taxation system and the system of property rights. 
+Theories of political economy often have questions of taxation and property at their heart. The efficacy of a particular taxation regime can be considered on two grounds: The extent to which it incentivises efficiency, and the extent to which it promotes fairness. These questions depend not only to economic processes (regulatory and infrastructural frameworks for production and competition) but also on the structures of taxation and private property ownership. What assets can be owned, who owns them, and how much tax should they pay for doing so? These questions are at the heart of economic management. Desirable economic outcomes depend not only the structure of economic activity but also on the taxation system and the system of property rights.  Our starting point is Adam Smith's model, since his work has helped to define the predominant economic view of the two centuries that followed the publication of his seminal work.
 
-Our starting point is Adam Smith's model, since his work has helped to define the predominant economic view of the two centuries that followed the publication of his seminal work.
+\newpage
 
 ## Adam Smith's Model
 
@@ -58,11 +62,13 @@ If an entrepreneur improves the production process, she can lower her cost of pr
 
 This combination of technological progress, the profit motive, and competition can lead to widely spread prosperity. While the initial profit from the improvement accrues to the entrepreneur, the long-term beneficiary from the reduced cost of production is the customer. If this picture is correct, profit is a necessary but temporary phenomenon. It is competed away, and as this occurs, society as a whole becomes richer.
 
-# 3.3 What economic phenomena or issues can taxation address?
+\newpage
+
+# 3.3 What Economic Phenomena Or Issues Can Taxation Address?
 
 ## Phenomenon 1: Rent
 
-However, this simple model relies on certain assumptions. One assumption is that a production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist, or if market entry is prohibitively expensive for entrepreneurs not already established in the particular line of business, then competition will not work as described. If I own a big monopoly with no competition, I can also own a continual flow of profits that competition will not touch. The beneficiary will be the owners of the monopolist incumbent firm. Their earnings, untouched by competition, are termed 'rents.' 
+The simple model just described relies on certain assumptions. One assumption is that a production process, once improved, can be replicated. There must be enough market participants for competition to work. If there is only a single monopolist, or if market entry is prohibitively expensive for entrepreneurs not already established in the particular line of business, then competition will not work as described. If I own a big monopoly with no competition, I can also own a continual flow of profits that competition will not touch. The beneficiary will be the owners of the monopolist incumbent firm. Their earnings, untouched by competition, are termed 'rents.' 
 
 Similarly, if the process relies on some factor of production that cannot be replicated - for example, land - then the beneficiaries of improvements will be the landlords. Imagine I own some land with buildings on it. I can let the buildings, sit back, and enjoy the flow of income, without having to work. This flow of income is also called 'rent.' Now, suppose that for reasons that have nothing to do with me, regional wages increase. I respond by jacking up the rent that I charge my tenants, taking away the improvement in their living standard. I can do this if I am a monopolist property owner, or I collude with other property owners, or even if other property owners and I merely respond to rising demand for better properties by raising our prices. Rent goes up as wages increase. 
 
@@ -82,22 +88,34 @@ Climate change is among the wickedest of externalities. Wicked externalities suc
 
 This discussion of the problems of pollution and precariousness has led us to identify the two fundamental phenomena of rent and negative economic externalities. The issues are coming into focus. This leads on to the grand-challenge question: What should be done? In governance terms: Which policy tools can be employed to effect change?
 
-Taxation is vital in our economic model not just because it alters the distribution of income, but also because it can be used to set finely tunable financial incentives for the private sector. Classical political economists, from Smith to Ricardo to Karl Marx Arthur Cecil Pigou, have argued that the taxation system or redistribution of property are the two basic categories of corrective tools for these issues. 
+Taxation is vital in our economic model not just because it alters the distribution of income, but also because it can be used to set finely tunable financial incentives for the private sector. Classical political economists, from Smith to Ricardo to Karl Marx Arthur Cecil Pigou [@Pigou1924], have argued that the taxation system or redistribution of property are the two basic categories of corrective tools for these issues. In short, economists have argued to tax rent and negative externalities such as pollution.^[Because this book is about taxation and welfare in the context of nthe real economy and the global environment, it inevitably overlaps with other systems, including systems for providing energy, housing, and finance. Our focus is mostly on taxation in relation to the problems seen in these systems. Nevertheless, we do not intend to exclude specific policy changes that are not related to tax. Smart taxation can make enormous contributions toward solving our social and environmental problems, but it is not the only mechanism for so
+doing.]
 
-Later in this book, we make recommendations for the design of a better, more functional tax system, both in principle and in practice. 
 
 Economists have been aware of the phenomena of 'rent' and 'externalities' for many decades, and yet taxes which would correct these economic distortions have only been imposed only occasionally and partially. 
 
+\newpage
 
 # 3.4 How Can We Effect Change?
 
 Political feasibility is, it seems, a crucial barrier to these changes. Prioritisation of strong policy communication and smooth implementation are critical tenets of any successful public policy. A policy that's poorly communicated or implemented, even if well-conceived, will soon be rejected by outraged citizens, and political opponents may persuade voters that the plan was a bad idea in principle even if it was merely badly executed. That can take a good policy idea off the public agenda for a generation. Developing a *theory of change* for successful policy communication and implementation is, therefore, a key priority.
 
-Here, we make a case for a simple 'change equation,' in which the perceived benefits of any policy must overwhelm the perceived costs. We can address this in two ways: Either we can make a sufficiently passionate and positive case for these taxes, and thereby overcome opposition, or we can reduce the costs of the proposed changes, and hence the political resistance to them.
+Here, we make a case for a simple 'change equation,' in which the perceived benefits of any policy must overwhelm the perceived costs. Dannemiller [-@Dannemiller1992] describes a formula created originally by David Gleicher. For change to take place: 
 
-To illustrate this point, let's consider one example of revolutionary change in the UK's social security system. As we noted earlier, a significant milestone in the history of social end economic progress in the UK was the Beveridge report [@Beveridge1942]. Over seventy years ago, in 1943, liberal economist William Beveridge presented a report proposing a comprehensive new welfare state. It laid the basis for greatly expanded public services and benefits in the United Kingdom after the Second World War. Its objectives were to banish 'want, ignorance, squalor, disease and idleness.' Before the Second World War, these social evils ravaged the lives of the poor in Britain. 
+$$D * V * F > D$$
 
-The war itself destroyed many buildings, homes, and businesses, and increased the national debt. And yet, the post-war government managed to create a comprehensive welfare state where none existed before. It included: the National Health Service; a system of social security (welfare benefits); a state education system; public housing; and a policy toolkit for 'Keynesian' macroeconomic management that aimed to achieve full employment. In this book, we'll focus on the social security system.
+- *D: Dissatisfaction with how things are now;*
+- *V: Vision of changes proposed;*
+- *F: First concrete steps that can be taken towards the vision.*
+- According to the model, the change will only happen if the product of these three factors is greater than *R: Resistance*. 
+
+## The Beveridge Example
+
+Dissatisfaction with our taxation and the economic system seems rife, but is there enough of a vision for a better future? Can that vision be implemented by actors motivated to do so and with concrete steps available? Can we make a sufficiently passionate and positive case for these taxes, and therefore overcome opposition? Alternatively, can we reduce the perceived costs of the proposed changes, and hence the political resistance to them?
+
+Let's consider one example of revolutionary change in the UK's social security system. As we noted earlier, a significant milestone in the history of social end economic progress in the UK was the Beveridge report [@Beveridge1942]. Over seventy years ago, in 1943, liberal economist William Beveridge presented a report proposing a whole new welfare state. It laid the basis for greatly expanded public services and benefits in the United Kingdom after the Second World War. Its objectives were to banish 'want, ignorance, squalor, disease and idleness.' Before the Second World War, these social evils ravaged the lives of the poor in Britain. 
+
+The war itself destroyed many buildings, homes, and businesses, and increased the national debt. Moreover, the post-war government managed to create a comprehensive welfare state where none existed before. It included: the National Health Service; a system of social security (welfare benefits); a state education system; public housing; and a policy toolkit for 'Keynesian' macroeconomic management that aimed to achieve full employment. In this book, we'll focus on the social security system.
 
 Three principles guided the Beveridge report [@Beveridge1942].
 
@@ -149,6 +167,7 @@ Taxes could change the nature of these agents (for example, converting an oil co
 
 We have a catch-22 situation. We can't change the companies without changing the tax system. But sometimes, we can't impose the new tax system without changing the company, since they can effectively resist policy changes. So instead, we need forms of tax that don't face such resistance, but which lead to the transformation of companies in a positive direction. We describe one option, the feebate, a little later on.
 
+\newpage
 
 # 3.5 What Improvements Could A Better Taxation and Social Security System Bring?
 
@@ -172,6 +191,8 @@ It would also allow division of labour with minimal taxation between individuals
 
 *Case Study 1, Income and Corporation Tax: the USA in the period 1945-1980:* The United States in the post-war years showed the advantage of redistributive income taxation, including high tax rates on companies. The top rate of income tax was often over 70% in that period, and taxes on companies were also higher than at present. Because everyone's incomes were not as widely different, this not only meant that ordinary people could afford consumer goods; it also meant that everyone had a chance to buy a share of limited positional goods such as land. Since the top rate of tax was high, and since income tax is the largest and most significant tax, this meant that the tax rate paid by people with average earnings was lower. We discuss this is Parts 6 and 7.
 
+\newpage
+
 ## Improvement 2: An Affordable Home in a Prosperous Community
 
 The second priority is an affordable home for all. British governments have massively mismanaged the taxation of housing and business properties. By appropriately taxing the value of the location (land) in a way that is convenient and fair for all, we can make it possible for most people to enjoy the economic benefits of owning their own home. An optimal tax system would encourage community action, so that 'community entrepreneurship' allows communities to develop their value and capture the fruits of development improvements. How could we achieve this, given how expensive homes already are in Southeast England?
@@ -181,6 +202,8 @@ The first priority is to capture location-rent increases that occur as a result 
 Taxing property values rather than property *per se* would stabilise current property values. Where land value increases, this increase would be allocated between the local community, the municipal authority, and the central government. 
 
 *Case Study 2, Land Value Capture in Singapore and Hong Kong since independence*: Singapore has been termed a 'property state' [@Haila2015]. Its example shows what is possible when there is a 'prosperity loop' between investment in public infrastructure and public rent collection. In a nutshell: As the government makes infrastructure improvements, those improvements increase the rental value of the land. Those land value increases then accrue to the government. Hong Kong also shows the advantages of this approach. Before a new metro line is built, land near the new stations is purchased at pre-announcement cost. When the metro station has been established, the property value and rent will increase. In this way, society captures the land value benefit of the new infrastructure [Purves]. We discuss this in Part 8.
+
+\newpage
 
 ## Improvement 3: A Prosperous and Wealthy Country
 
@@ -198,6 +221,8 @@ Moreover, commercial banks should be encouraged to lend to real-economy producti
 
 *Case Study 3, Financial 'Repression' in the UK in the period 1945-1980:* One great anxiety is about *debt*. There are two forms of debt that concern people: public (or government) debt and private debt. High public debt pressures governments to 'cut the deficit' through 'austerity.' Yet in the past, the best way to reduce the burden of public debt has been to not worry much about it - i.e. to use different strategies than cutting expenditures to reduce the debt-to-GDP ratio. In the three decades after the Second World War, the UK reduced its public debt to GDP ratio from over 250% of GDP to 70% of GDP. It did this not through austerity, but rather through growth, inflation, monetisation of some debt, and low interest rates. We consider the fiscal benefits of such strategies later in this book.
 
+\newpage
+
 ## Improvement 4: A Clean and Safe Global Environment
 
 The final priority is the environment. We are facing several significant environmental problems: climate change and ocean acidification, plastics in the ocean, habitat destruction, road congestion, over-fishing, over-hunting, and conventional air, water, and land pollution. Environmental taxes have a few challenges: they can be unpopular, hard to design, encourage 'off-shoring' of dirty forms of industry, and bureaucratic. 
@@ -210,12 +235,12 @@ Since protecting the environment is so essential, the main priority is not to ra
 
 *Case Study 4, Environmental Taxes in Scandinavia, Switzerland and the UK:* Three European countries show that a carbon tax can work as intended. Sweden, Switzerland, and the UK all have a carbon tax of some description. Sweden was one of the first to introduce its carbon tax. The per capita emissions of Sweden are now among the lowest in Europe. Switzerland has also introduced such a tax. The UK introduced its 'carbon price floor' more recently, and it has seen a substantial fall in emissions. Most notably, the UK has seen a drop in the use of coal in electricity generation. Other environmental taxes include charges for plastic bags, urban traffic congestion charges, and deposit return schemes.
 
+\newpage
+
 # 3.6 Conclusions
 
 The central concern of the book is the use of the tax system for public benefit. The challenge addressed is how to pay for public services and social protection in a world characterised by 'wicked externalities,' 'generalised rent,' and (as we will deal with later) international flows of money and assets. We want to solve the critical challenges facing our societies, including climate change, poverty, and the phenomena of complexity, avoidance, and evasion in our taxation and welfare systems.
 
 We aim to propose a system of actively beneficial taxes. Good taxes would shape the profit motive towards the needs of people, communities, and the living planet on which we all depend. We seek a tax and social security system that is not only fair and practical, but also beneficial to ordinary people, our country, and our world. 
-
-Because this book is about taxation and welfare in the context of the real economy and the global environment, it inevitably overlaps with other systems, including systems for providing energy, housing, and finance. Our focus is mostly on taxation in relation to the problems seen in these systems. Nevertheless, we do not intend to exclude specific policy changes that are not related to tax. Smart taxation can make enormous contributions toward solving our social and environmental problems, but it is not the only mechanism for so doing. 
 
 ---
