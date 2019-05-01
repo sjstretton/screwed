@@ -240,7 +240,7 @@ After 1945, Britain used fiscal repression (low  or negative real interest rates
 
 After 1979, interest rates rose and fiscal repression ceased. After 2008: some elements of fiscal repression returned (e.g. QE, low interest rates), but there was also a culture of 'austerity'.
 
-# 11.6: Demurrage
+# 11.6 Demurrage
 
 Nominal interest rates are currently already at or near zero in most developed countries (the 'zero lower bound'). In this case, cutting real interest rates further requires either negative nominal interest rates or higher inflation.
 

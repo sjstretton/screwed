@@ -19,7 +19,9 @@ link-citations: yes
 - LVT is a well-established idea, with multiple benefits. It faces some obstacles, for which there are solutions. The biggest may be political feasibility.
 - Land has been neglected in neoclassical economic theory, and generally is conflated with capital. However, land differs from capital in important ways. Many current economic problems have arisen from a failure to recognise this distinction.
 
-# 10.1 How bad is the housing affordability problem in the UK?
+\newpage
+
+# 10.1 How Bad is the Housing Affordability Problem in the UK?
 
 `r tufte::newthought('The affordability of housing')` is frequently the topic of national debate, but as housing charity Shelter UK warn, we risk becoming so accustomed to the high cost of housing that we end up seeing it simply as a fact of life [@Shelter2010].
 
@@ -359,9 +361,9 @@ Denmark's experience could be seen as a lesson to proponents of Land Value Tax, 
 
 In the final chapter of this part we investigate in more depth the unique nature of land, how it differs from other factors of production and the implications of this for the economy.
 
-# 10.9: Positive Externalities in Land Use
+# 10.9 Positive Externalities in Land Use
 
-Markets allocate land to the highest bidder, which suggests that land ownership will go to where its *private* use value is greatest. Whoever can generate the highest revenue from using the land will be willing to make the highest bid. However, little to no attention is paid to the social use of such a space. Rypkema [@Rypkema1992a] argues that for any commodity to have economic value, it must possess the following four characteristics: 'scarcity, purchasing power, desire, and utility.' Much in the same way that a property value can be increased by the positive externalities flowing from an external investment, like a new transport link or better amenities, so too can the value in a community be increased by a positive use of the land space. The positive value that arises from land stems from the amenities that it provides to the surrounding community, whether that be in beautification, economic and commercial terms, or in facility-provision (like a useful village shop, or an open-access bathroom in a busy high street).
+Markets allocate land to the highest bidder, which suggests that land ownership will go to where its *private* use value is greatest. Whoever can generate the highest revenue from using the land will be willing to make the highest bid. However, little to no attention is paid to the social use of such a space. Rypkema [-@Rypkema1992a] argues that for any commodity to have economic value, it must possess the following four characteristics: 'scarcity, purchasing power, desire, and utility.' Much in the same way that a property value can be increased by the positive externalities flowing from an external investment, like a new transport link or better amenities, so too can the value in a community be increased by a positive use of the land space. The positive value that arises from land stems from the amenities that it provides to the surrounding community, whether that be in beautification, economic and commercial terms, or in facility-provision (like a useful village shop, or an open-access bathroom in a busy high street).
 
 One example of a positive externality could be the conservation of beautiful historical buildings. Tiesdell [@tiesdell1996] says that:
 

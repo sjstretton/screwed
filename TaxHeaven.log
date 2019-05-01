@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.8.30)  1 MAY 2019 16:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.8.30)  1 MAY 2019 17:28
 entering extended mode
 **./TaxHeaven.tex
 (TaxHeaven.tex
@@ -1009,64 +1009,58 @@ LaTeX Font Info:    Try loading font information for TS1+pplj on input line 117
 6.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1pplj.fd"
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-) [25] [26]
-Overfull \hbox (7.17006pt too wide) in paragraph at lines 1266--1266
-|\T1/pplj/m/n/10.95 Principle 3: A So-cial Con-tract Align-ing Re-ward and Con-
-tri-bu-tion| 
- []
-
-[27]
-Overfull \hbox (9.17996pt too wide) in paragraph at lines 1370--1370
+) [25] [26] [27]
+Overfull \hbox (9.17996pt too wide) in paragraph at lines 1369--1369
 |\T1/pplj/m/it/12 3.9 What Im-prove-ments Could Such Changes Bring? A Four-fold
 
  []
 
 [28] [29]
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 1431.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 1430.
 [30] [31] [32] [33] [34]
-Overfull \hbox (2.73973pt too wide) in paragraph at lines 1694--1698
+Overfull \hbox (2.73973pt too wide) in paragraph at lines 1693--1697
 []\T1/pplj/m/n/10 So now, the cost of fish-ing is ex-pected to fall. In these n
 ew, changed 
  []
 
 [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.50006pt on input line 2278.
+(Font)              scaled to size 8.50006pt on input line 2277.
 
-Overfull \hbox (3.40506pt too wide) in paragraph at lines 2284--2284
+Overfull \hbox (3.40506pt too wide) in paragraph at lines 2283--2283
  []\T1/fvm/m/n/10 Finance: Money balances, bank balance sheets, transactions.[]
  
  []
 
 
-Overfull \hbox (264.37384pt too wide) in paragraph at lines 2288--2288
+Overfull \hbox (264.37384pt too wide) in paragraph at lines 2287--2287
  []\T1/fvm/m/n/10 Environmental Health and Social Damage: Fossil fuels, greenho
 use gas emissions, alcohol, tobacco, sugar, salt.[] 
  []
 
 
-Overfull \hbox (39.2243pt too wide) in paragraph at lines 2292--2292
+Overfull \hbox (39.2243pt too wide) in paragraph at lines 2291--2291
  []\T1/fvm/m/n/10 Cash Flow: Income, profit, capital gains, value added (sales 
 tax).[] 
  []
 
 [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
 LaTeX Font Info:    Font shape `T1/pplj/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/pplj/b/it' tried instead on input line 2926.
+(Font)              Font shape `T1/pplj/b/it' tried instead on input line 2925.
 
 [59] [60] [61] [62] [63] [64]
 <ChapterPictures/5-1-taxrev.png, id=1176, 432.86719pt x 322.20375pt>
 File: ChapterPictures/5-1-taxrev.png Graphic file (type png)
 <use ChapterPictures/5-1-taxrev.png>
 Package pdftex.def Info: ChapterPictures/5-1-taxrev.png  used on input line 324
-9.
+8.
 (pdftex.def)             Requested size: 312.01419pt x 232.24709pt.
 <ChapterPictures/5-2-taxage.png, id=1177, 490.08093pt x 455.45157pt>
 File: ChapterPictures/5-2-taxage.png Graphic file (type png)
 <use ChapterPictures/5-2-taxage.png>
 Package pdftex.def Info: ChapterPictures/5-2-taxage.png  used on input line 325
-5.
+4.
 (pdftex.def)             Requested size: 312.00557pt x 289.95909pt.
 [65 <./ChapterPictures/5-1-taxrev.png>] [66 <./ChapterPictures/5-2-taxage.png>]
 [67] [68]
@@ -1074,7 +1068,7 @@ Package pdftex.def Info: ChapterPictures/5-2-taxage.png  used on input line 325
 File: ChapterPictures/5-3-taxtrust.png Graphic file (type png)
 <use ChapterPictures/5-3-taxtrust.png>
 Package pdftex.def Info: ChapterPictures/5-3-taxtrust.png  used on input line 3
-400.
+399.
 (pdftex.def)             Requested size: 311.99786pt x 174.55386pt.
 [69] [70 <./ChapterPictures/5-3-taxtrust.png>] [71] [72] [73] [74] [75] [76] [7
 7] [78] [79] [80] [81] [82]
@@ -1083,10 +1077,10 @@ Package pdftex.def Info: ChapterPictures/5-3-taxtrust.png  used on input line 3
 File: ChapterPictures/7-1-UKUnemploymentRate.png Graphic file (type png)
 <use ChapterPictures/7-1-UKUnemploymentRate.png>
 Package pdftex.def Info: ChapterPictures/7-1-UKUnemploymentRate.png  used on in
-put line 4018.
+put line 4017.
 (pdftex.def)             Requested size: 312.0162pt x 192.93002pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4018--4019
+Underfull \hbox (badness 10000) in paragraph at lines 4017--4018
 
  []
 
@@ -1095,10 +1089,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4018--4019
 File: ChapterPictures/7-2-UpwardMobility.jpg Graphic file (type jpg)
 <use ChapterPictures/7-2-UpwardMobility.jpg>
 Package pdftex.def Info: ChapterPictures/7-2-UpwardMobility.jpg  used on input 
-line 4036.
+line 4035.
 (pdftex.def)             Requested size: 312.00179pt x 242.47963pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4036--4037
+Underfull \hbox (badness 10000) in paragraph at lines 4035--4036
 
  []
 
@@ -1108,10 +1102,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4036--4037
 File: ChapterPictures/7-3-MismatchedEmployment.png Graphic file (type png)
 <use ChapterPictures/7-3-MismatchedEmployment.png>
 Package pdftex.def Info: ChapterPictures/7-3-MismatchedEmployment.png  used on 
-input line 4078.
+input line 4077.
 (pdftex.def)             Requested size: 312.0128pt x 192.7579pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4078--4079
+Underfull \hbox (badness 10000) in paragraph at lines 4077--4078
 
  []
 
@@ -1120,15 +1114,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 4078--4079
 File: ChapterPictures/7-4-BeveridgeEvils.jpg Graphic file (type jpg)
 <use ChapterPictures/7-4-BeveridgeEvils.jpg>
 Package pdftex.def Info: ChapterPictures/7-4-BeveridgeEvils.jpg  used on input 
-line 4243.
+line 4242.
 (pdftex.def)             Requested size: 312.00473pt x 156.00235pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4243--4244
+Underfull \hbox (badness 10000) in paragraph at lines 4242--4243
 
  []
 
 [88 <./ChapterPictures/7-4-BeveridgeEvils.jpg>]
-Overfull \hbox (0.28983pt too wide) in paragraph at lines 4257--4266
+Overfull \hbox (0.28983pt too wide) in paragraph at lines 4256--4265
 []\T1/pplj/m/n/10 The wel-fare state has grown rapidly since its in-cep-tion. I
 n 2015/16, 
  []
@@ -1137,15 +1131,15 @@ n 2015/16,
 File: ChapterPictures/7-5-RealWages2009.png Graphic file (type png)
 <use ChapterPictures/7-5-RealWages2009.png>
 Package pdftex.def Info: ChapterPictures/7-5-RealWages2009.png  used on input l
-ine 4273.
+ine 4272.
 (pdftex.def)             Requested size: 311.99968pt x 201.4605pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4273--4274
+Underfull \hbox (badness 10000) in paragraph at lines 4272--4273
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4273--4274
+Underfull \hbox (badness 10000) in paragraph at lines 4272--4273
 
  []
 
@@ -1154,10 +1148,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4273--4274
 File: ChapterPictures/7-6-ParentingCosts.png Graphic file (type png)
 <use ChapterPictures/7-6-ParentingCosts.png>
 Package pdftex.def Info: ChapterPictures/7-6-ParentingCosts.png  used on input 
-line 4327.
+line 4326.
 (pdftex.def)             Requested size: 312.00471pt x 179.8902pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4327--4328
+Underfull \hbox (badness 10000) in paragraph at lines 4326--4327
 
  []
 
@@ -1165,20 +1159,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 4327--4328
 File: ChapterPictures/7-7-TaxRates.png Graphic file (type png)
 <use ChapterPictures/7-7-TaxRates.png>
 Package pdftex.def Info: ChapterPictures/7-7-TaxRates.png  used on input line 4
-336.
+335.
 (pdftex.def)             Requested size: 312.01161pt x 194.75563pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4337
+Underfull \hbox (badness 10000) in paragraph at lines 4335--4336
 
  []
 
 <ChapterPictures/7-8-MTR.png, id=1427, 585.68813pt x 301.125pt>
 File: ChapterPictures/7-8-MTR.png Graphic file (type png)
 <use ChapterPictures/7-8-MTR.png>
-Package pdftex.def Info: ChapterPictures/7-8-MTR.png  used on input line 4344.
+Package pdftex.def Info: ChapterPictures/7-8-MTR.png  used on input line 4343.
 (pdftex.def)             Requested size: 312.01292pt x 160.41795pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4344--4345
+Underfull \hbox (badness 10000) in paragraph at lines 4343--4344
 
  []
 
@@ -1188,22 +1182,22 @@ ates.png> <./ChapterPictures/7-8-MTR.png>] [92] [93]
 File: ChapterPictures/7-9-MispaidBenefits.png Graphic file (type png)
 <use ChapterPictures/7-9-MispaidBenefits.png>
 Package pdftex.def Info: ChapterPictures/7-9-MispaidBenefits.png  used on input
- line 4498.
+ line 4497.
 (pdftex.def)             Requested size: 312.0128pt x 242.25993pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4498--4499
+Underfull \hbox (badness 10000) in paragraph at lines 4497--4498
 
  []
 
 [94] [95 <./ChapterPictures/7-9-MispaidBenefits.png>] [96] [97] [98] [99] [100]
 [101] [102] [103] [104] [105]
-Overfull \hbox (3.60976pt too wide) in paragraph at lines 5113--5126
+Overfull \hbox (3.60976pt too wide) in paragraph at lines 5112--5125
 \T1/pplj/m/n/10 pare the re-cip-i-ent both for em-ploy-ment and for entrepreneu
 rship/self- 
  []
 
 [106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117]
-Overfull \hbox (12.53973pt too wide) in paragraph at lines 5715--5718
+Overfull \hbox (12.53973pt too wide) in paragraph at lines 5714--5717
 []\T1/pplj/m/n/10 Wealthy peo-ple are able to put money into un-fair pseudo-inv
 estments 
  []
@@ -1213,10 +1207,10 @@ estments
 File: ChapterPictures/8-1-InequalityPic.jpg Graphic file (type jpg)
 <use ChapterPictures/8-1-InequalityPic.jpg>
 Package pdftex.def Info: ChapterPictures/8-1-InequalityPic.jpg  used on input l
-ine 5758.
+ine 5757.
 (pdftex.def)             Requested size: 312.0162pt x 203.85057pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 5758--5759
+Underfull \hbox (badness 10000) in paragraph at lines 5757--5758
 
  []
 
@@ -1227,10 +1221,10 @@ File: ChapterPictures/8-2-DistributionOfHouseholdWealth.png Graphic file (type
 png)
 <use ChapterPictures/8-2-DistributionOfHouseholdWealth.png>
 Package pdftex.def Info: ChapterPictures/8-2-DistributionOfHouseholdWealth.png 
- used on input line 5990.
+ used on input line 5989.
 (pdftex.def)             Requested size: 312.01352pt x 224.2175pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 5990--5991
+Underfull \hbox (badness 10000) in paragraph at lines 5989--5990
 
  []
 
@@ -1241,15 +1235,15 @@ File: ChapterPictures/8-3-HouseholdWealthDistribution.png Graphic file (type pn
 g)
 <use ChapterPictures/8-3-HouseholdWealthDistribution.png>
 Package pdftex.def Info: ChapterPictures/8-3-HouseholdWealthDistribution.png  u
-sed on input line 6015.
+sed on input line 6014.
 (pdftex.def)             Requested size: 311.99623pt x 169.4668pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6015--6016
+Underfull \hbox (badness 10000) in paragraph at lines 6014--6015
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6015--6016
+Underfull \hbox (badness 10000) in paragraph at lines 6014--6015
 
  []
 
@@ -1259,7 +1253,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6015--6016
 File: ChapterPictures/8-4-IncomeAfterTaxes2.png Graphic file (type png)
 <use ChapterPictures/8-4-IncomeAfterTaxes2.png>
 Package pdftex.def Info: ChapterPictures/8-4-IncomeAfterTaxes2.png  used on inp
-ut line 6060.
+ut line 6059.
 (pdftex.def)             Requested size: 144.00162pt x 325.99518pt.
 
 LaTeX Warning: Marginpar on page 126 moved.
@@ -1268,7 +1262,7 @@ LaTeX Warning: Marginpar on page 126 moved.
 File: ChapterPictures/8-5-ShareOfTopIncome.png Graphic file (type png)
 <use ChapterPictures/8-5-ShareOfTopIncome.png>
 Package pdftex.def Info: ChapterPictures/8-5-ShareOfTopIncome.png  used on inpu
-t line 6077.
+t line 6076.
 (pdftex.def)             Requested size: 143.996pt x 55.94269pt.
 
 LaTeX Warning: Marginpar on page 126 moved.
@@ -1283,10 +1277,10 @@ LaTeX Warning: Marginpar on page 128 moved.
 File: ChapterPictures/8-6-Healthandsocialproblems.png Graphic file (type png)
 <use ChapterPictures/8-6-Healthandsocialproblems.png>
 Package pdftex.def Info: ChapterPictures/8-6-Healthandsocialproblems.png  used 
-on input line 6225.
+on input line 6224.
 (pdftex.def)             Requested size: 312.00922pt x 222.00656pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6225--6226
+Underfull \hbox (badness 10000) in paragraph at lines 6224--6225
 
  []
 
@@ -1295,10 +1289,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 6225--6226
 File: ChapterPictures/8-7-IneqLift.jpg Graphic file (type jpg)
 <use ChapterPictures/8-7-IneqLift.jpg>
 Package pdftex.def Info: ChapterPictures/8-7-IneqLift.jpg  used on input line 6
-261.
+260.
 (pdftex.def)             Requested size: 312.00932pt x 213.46637pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6261--6262
+Underfull \hbox (badness 10000) in paragraph at lines 6260--6261
 
  []
 
@@ -1309,10 +1303,10 @@ File: ChapterPictures/8-8-IntergenerationalEarningsElasticity.png Graphic file
 (type png)
 <use ChapterPictures/8-8-IntergenerationalEarningsElasticity.png>
 Package pdftex.def Info: ChapterPictures/8-8-IntergenerationalEarningsElasticit
-y.png  used on input line 6308.
+y.png  used on input line 6307.
 (pdftex.def)             Requested size: 312.01552pt x 226.63503pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6308--6309
+Underfull \hbox (badness 10000) in paragraph at lines 6307--6308
 
  []
 
@@ -1323,10 +1317,10 @@ File: ChapterPictures/8-9-AdvertisementPromotingEducation.png Graphic file (typ
 e png)
 <use ChapterPictures/8-9-AdvertisementPromotingEducation.png>
 Package pdftex.def Info: ChapterPictures/8-9-AdvertisementPromotingEducation.pn
-g  used on input line 6325.
+g  used on input line 6324.
 (pdftex.def)             Requested size: 312.0139pt x 216.06963pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6325--6326
+Underfull \hbox (badness 10000) in paragraph at lines 6324--6325
 
  []
 
@@ -1336,10 +1330,10 @@ pt>
 File: ChapterPictures/8-10-WealthIneqDemocracy.jpg Graphic file (type jpg)
 <use ChapterPictures/8-10-WealthIneqDemocracy.jpg>
 Package pdftex.def Info: ChapterPictures/8-10-WealthIneqDemocracy.jpg  used on 
-input line 6377.
+input line 6376.
 (pdftex.def)             Requested size: 312.0208pt x 197.82117pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6377--6378
+Underfull \hbox (badness 10000) in paragraph at lines 6376--6377
 
  []
 
@@ -1352,10 +1346,10 @@ l.png Graphic file (type png)
 <use ChapterPictures/8-11-UnitedStatesWealthDistributionActualEstimatedandIdeal
 .png>
 Package pdftex.def Info: ChapterPictures/8-11-UnitedStatesWealthDistributionAct
-ualEstimatedandIdeal.png  used on input line 6487.
+ualEstimatedandIdeal.png  used on input line 6486.
 (pdftex.def)             Requested size: 312.01492pt x 237.46266pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6487--6488
+Underfull \hbox (badness 10000) in paragraph at lines 6486--6487
 
  []
 
@@ -1365,20 +1359,20 @@ eal.png>]
 File: ChapterPictures/8-12-InheritanceCartoon.jpg Graphic file (type jpg)
 <use ChapterPictures/8-12-InheritanceCartoon.jpg>
 Package pdftex.def Info: ChapterPictures/8-12-InheritanceCartoon.jpg  used on i
-nput line 6558.
+nput line 6557.
 (pdftex.def)             Requested size: 312.01645pt x 201.25063pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6558--6559
+Underfull \hbox (badness 10000) in paragraph at lines 6557--6558
 
  []
 
 [136]
-Overfull \hbox (218.82982pt too wide) in alignment at lines 6598--6603
+Overfull \hbox (218.82982pt too wide) in alignment at lines 6597--6602
  [] [] [] [] 
  []
 
 
-Overfull \hbox (218.82982pt too wide) in alignment at lines 6603--6612
+Overfull \hbox (218.82982pt too wide) in alignment at lines 6602--6611
  [] [] [] [] 
  []
 
@@ -1387,10 +1381,10 @@ Overfull \hbox (218.82982pt too wide) in alignment at lines 6603--6612
 File: ChapterPictures/8-13-TopIncomeMTR.png Graphic file (type png)
 <use ChapterPictures/8-13-TopIncomeMTR.png>
 Package pdftex.def Info: ChapterPictures/8-13-TopIncomeMTR.png  used on input l
-ine 6621.
+ine 6620.
 (pdftex.def)             Requested size: 312.00931pt x 174.2052pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6621--6622
+Underfull \hbox (badness 10000) in paragraph at lines 6620--6621
 
  []
 
@@ -1401,10 +1395,10 @@ LaTeX Warning: Marginpar on page 138 moved.
 File: ChapterPictures/8-14-ImpactTBIneq.png Graphic file (type png)
 <use ChapterPictures/8-14-ImpactTBIneq.png>
 Package pdftex.def Info: ChapterPictures/8-14-ImpactTBIneq.png  used on input l
-ine 6643.
+ine 6642.
 (pdftex.def)             Requested size: 312.0139pt x 174.72778pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6643--6644
+Underfull \hbox (badness 10000) in paragraph at lines 6642--6643
 
  []
 
@@ -1414,10 +1408,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 6643--6644
 File: ChapterPictures/8-15-IncomeProgressivityTax.png Graphic file (type png)
 <use ChapterPictures/8-15-IncomeProgressivityTax.png>
 Package pdftex.def Info: ChapterPictures/8-15-IncomeProgressivityTax.png  used 
-on input line 6664.
+on input line 6663.
 (pdftex.def)             Requested size: 312.0139pt x 174.72778pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6664--6665
+Underfull \hbox (badness 10000) in paragraph at lines 6663--6664
 
  []
 
@@ -1429,15 +1423,15 @@ File: ChapterPictures/8-16-CorrelationIncomeSharesAndMTR.png Graphic file (type
  png)
 <use ChapterPictures/8-16-CorrelationIncomeSharesAndMTR.png>
 Package pdftex.def Info: ChapterPictures/8-16-CorrelationIncomeSharesAndMTR.png
-  used on input line 6680.
+  used on input line 6679.
 (pdftex.def)             Requested size: 312.00029pt x 197.41335pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6680--6681
+Underfull \hbox (badness 10000) in paragraph at lines 6679--6680
 
  []
 
 
-Overfull \hbox (4.02979pt too wide) in paragraph at lines 6683--6694
+Overfull \hbox (4.02979pt too wide) in paragraph at lines 6682--6693
 []\T1/pplj/m/n/10 Immediately we can see a strong op-po-si-tional re-la-tion-sh
 ip, whereby 
  []
@@ -1446,10 +1440,10 @@ ip, whereby
 File: ChapterPictures/8-17-TopShareTopMTR.jpg Graphic file (type jpg)
 <use ChapterPictures/8-17-TopShareTopMTR.jpg>
 Package pdftex.def Info: ChapterPictures/8-17-TopShareTopMTR.jpg  used on input
- line 6700.
+ line 6699.
 (pdftex.def)             Requested size: 312.00188pt x 206.73294pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6700--6701
+Underfull \hbox (badness 10000) in paragraph at lines 6699--6700
 
  []
 
@@ -1463,27 +1457,27 @@ LaTeX Warning: Marginpar on page 143 moved.
 LaTeX Warning: Marginpar on page 144 moved.
 
 [144] [145]
-Overfull \hbox (39.2899pt too wide) in alignment at lines 7076--7080
+Overfull \hbox (39.2899pt too wide) in alignment at lines 7075--7079
  [] [] 
  []
 
 
-Overfull \hbox (39.2899pt too wide) in alignment at lines 7080--7084
+Overfull \hbox (39.2899pt too wide) in alignment at lines 7079--7083
  [] [] 
  []
 
 [146]
-Overfull \hbox (1.67987pt too wide) in alignment at lines 7144--7156
+Overfull \hbox (1.67987pt too wide) in alignment at lines 7143--7155
  [] [] [] [] 
  []
 
 
-Overfull \hbox (1.67987pt too wide) in alignment at lines 7156--7248
+Overfull \hbox (1.67987pt too wide) in alignment at lines 7155--7247
  [] [] [] [] 
  []
 
 [147]
-Overfull \hbox (51.75981pt too wide) in paragraph at lines 7267--7270
+Overfull \hbox (51.75981pt too wide) in paragraph at lines 7266--7269
 []\T1/pplj/m/n/10 Political prob-lems with grow-ing in-equal-ity -> Oli-garchy.
  Monopoly/Oligarchy 
  []
@@ -1493,7 +1487,7 @@ Overfull \hbox (51.75981pt too wide) in paragraph at lines 7267--7270
 File: ChapterPictures/8-18-richgetricher.png Graphic file (type png)
 <use ChapterPictures/8-18-richgetricher.png>
 Package pdftex.def Info: ChapterPictures/8-18-richgetricher.png  used on input 
-line 7300.
+line 7299.
 (pdftex.def)             Requested size: 143.99983pt x 114.84529pt.
 
 LaTeX Warning: Marginpar on page 149 moved.
@@ -1514,10 +1508,10 @@ File: ChapterPictures/8-19-CapitalIncomeDisplacingLabourIncome.png Graphic file
  (type png)
 <use ChapterPictures/8-19-CapitalIncomeDisplacingLabourIncome.png>
 Package pdftex.def Info: ChapterPictures/8-19-CapitalIncomeDisplacingLabourInco
-me.png  used on input line 7378.
+me.png  used on input line 7377.
 (pdftex.def)             Requested size: 312.0162pt x 290.17508pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 7378--7379
+Underfull \hbox (badness 10000) in paragraph at lines 7377--7378
 
  []
 
@@ -1526,15 +1520,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 7378--7379
 File: ChapterPictures/8-20-Monopoly.png Graphic file (type png)
 <use ChapterPictures/8-20-Monopoly.png>
 Package pdftex.def Info: ChapterPictures/8-20-Monopoly.png  used on input line 
-7446.
+7445.
 (pdftex.def)             Requested size: 311.99825pt x 141.51518pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 7446--7447
+Underfull \hbox (badness 10000) in paragraph at lines 7445--7446
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7446--7447
+Underfull \hbox (badness 10000) in paragraph at lines 7445--7446
 
  []
 
@@ -1545,16 +1539,16 @@ File: ChapterPictures/8-21-FactorsOfIncomeInequality.png Graphic file (type png
 )
 <use ChapterPictures/8-21-FactorsOfIncomeInequality.png>
 Package pdftex.def Info: ChapterPictures/8-21-FactorsOfIncomeInequality.png  us
-ed on input line 7476.
+ed on input line 7475.
 (pdftex.def)             Requested size: 312.00839pt x 81.7489pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 7476--7477
+Underfull \hbox (badness 10000) in paragraph at lines 7475--7476
 
  []
 
 [153 <./ChapterPictures/8-20-Monopoly.png> <./ChapterPictures/8-21-FactorsOfInc
 omeInequality.png>] [154]
-Overfull \hbox (9.65999pt too wide) in paragraph at lines 7554--7554
+Overfull \hbox (9.65999pt too wide) in paragraph at lines 7553--7553
 |\T1/pplj/m/it/12 8.17 Overview of Pos-si-bil-i-ties for Tax-ing Wealth  (UNE
 DITED)| 
  []
@@ -1572,10 +1566,10 @@ LaTeX Warning: Marginpar on page 159 moved.
 File: ChapterPictures/9-1-ReceiptsFromCorpTax.png Graphic file (type png)
 <use ChapterPictures/9-1-ReceiptsFromCorpTax.png>
 Package pdftex.def Info: ChapterPictures/9-1-ReceiptsFromCorpTax.png  used on i
-nput line 7898.
+nput line 7897.
 (pdftex.def)             Requested size: 312.02066pt x 220.722pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 7898--7899
+Underfull \hbox (badness 10000) in paragraph at lines 7897--7898
 
  []
 
@@ -1584,10 +1578,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 7898--7899
 File: ChapterPictures/9-2-IncTaxandCorpTax.png Graphic file (type png)
 <use ChapterPictures/9-2-IncTaxandCorpTax.png>
 Package pdftex.def Info: ChapterPictures/9-2-IncTaxandCorpTax.png  used on inpu
-t line 7963.
+t line 7962.
 (pdftex.def)             Requested size: 312.00285pt x 290.2352pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 7963--7964
+Underfull \hbox (badness 10000) in paragraph at lines 7962--7963
 
  []
 
@@ -1596,7 +1590,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7963--7964
 LaTeX Warning: Marginpar on page 165 moved.
 
 [165] [166] [167]
-Overfull \hbox (8.95978pt too wide) in paragraph at lines 8149--8153
+Overfull \hbox (8.95978pt too wide) in paragraph at lines 8148--8152
 []\T1/pplj/m/n/10 According to the Eu-ro-pean Com-mis-sion, this ar-range-ment 
 amounted 
  []
@@ -1605,10 +1599,10 @@ amounted
 File: ChapterPictures/9-3-EUCorpTaxRates.png Graphic file (type png)
 <use ChapterPictures/9-3-EUCorpTaxRates.png>
 Package pdftex.def Info: ChapterPictures/9-3-EUCorpTaxRates.png  used on input 
-line 8182.
+line 8181.
 (pdftex.def)             Requested size: 312.01613pt x 257.56049pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8182--8183
+Underfull \hbox (badness 10000) in paragraph at lines 8181--8182
 
  []
 
@@ -1616,10 +1610,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 8182--8183
 File: ChapterPictures/9-4-UKCorpTaxCuts.png Graphic file (type png)
 <use ChapterPictures/9-4-UKCorpTaxCuts.png>
 Package pdftex.def Info: ChapterPictures/9-4-UKCorpTaxCuts.png  used on input l
-ine 8197.
+ine 8196.
 (pdftex.def)             Requested size: 312.00914pt x 234.64725pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8197--8198
+Underfull \hbox (badness 10000) in paragraph at lines 8196--8197
 
  []
 
@@ -1629,15 +1623,15 @@ CorpTaxCuts.png>]
 File: ChapterPictures/9-5-OECDVATRates.png Graphic file (type png)
 <use ChapterPictures/9-5-OECDVATRates.png>
 Package pdftex.def Info: ChapterPictures/9-5-OECDVATRates.png  used on input li
-ne 8212.
+ne 8211.
 (pdftex.def)             Requested size: 312.00188pt x 161.16273pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8212--8213
+Underfull \hbox (badness 10000) in paragraph at lines 8211--8212
 
  []
 
 [170 <./ChapterPictures/9-5-OECDVATRates.png>] [171]
-Overfull \hbox (20.25462pt too wide) detected at line 8341
+Overfull \hbox (20.25462pt too wide) detected at line 8340
 \OML/zplm/m/it/10 Weighting[] \OT1/zplm/m/n/10 = [] \OMS/zplm/m/n/10  []
  []
 
@@ -1648,16 +1642,16 @@ File: ChapterPictures/9-6-CorporationTax-unitarytax.png Graphic file (type png)
 
 <use ChapterPictures/9-6-CorporationTax-unitarytax.png>
 Package pdftex.def Info: ChapterPictures/9-6-CorporationTax-unitarytax.png  use
-d on input line 8350.
+d on input line 8349.
 (pdftex.def)             Requested size: 312.02206pt x 139.27628pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8350--8351
+Underfull \hbox (badness 10000) in paragraph at lines 8349--8350
 
  []
 
 [173 <./ChapterPictures/9-6-CorporationTax-unitarytax.png>] [174] [175] [176] [
 177]
-Overfull \hbox (0.99411pt too wide) in paragraph at lines 8594--8594
+Overfull \hbox (0.99411pt too wide) in paragraph at lines 8593--8593
 |\T1/pplj/m/it/10.95 Proposal B: De-cay-ing In-ter-na-tional Prop-erty Rights: 
 A Wealth Tax on
  []
@@ -1672,15 +1666,15 @@ LaTeX Warning: Marginpar on page 179 moved.
 File: ChapterPictures/10-1-RealWagesvsHousePrices.png Graphic file (type png)
 <use ChapterPictures/10-1-RealWagesvsHousePrices.png>
 Package pdftex.def Info: ChapterPictures/10-1-RealWagesvsHousePrices.png  used 
-on input line 8734.
+on input line 8733.
 (pdftex.def)             Requested size: 311.99986pt x 193.21819pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8734--8735
+Underfull \hbox (badness 10000) in paragraph at lines 8733--8734
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8734--8735
+Underfull \hbox (badness 10000) in paragraph at lines 8733--8734
 
  []
 
@@ -1690,10 +1684,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 8734--8735
 File: ChapterPictures/10-3-Housepriceaffordability.png Graphic file (type png)
 <use ChapterPictures/10-3-Housepriceaffordability.png>
 Package pdftex.def Info: ChapterPictures/10-3-Housepriceaffordability.png  used
- on input line 8753.
+ on input line 8752.
 (pdftex.def)             Requested size: 312.00058pt x 193.0173pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8753--8754
+Underfull \hbox (badness 10000) in paragraph at lines 8752--8753
 
  []
 
@@ -1703,15 +1697,15 @@ File: ChapterPictures/10-4-Percentageownershipbyage.png Graphic file (type png)
 
 <use ChapterPictures/10-4-Percentageownershipbyage.png>
 Package pdftex.def Info: ChapterPictures/10-4-Percentageownershipbyage.png  use
-d on input line 8761.
+d on input line 8760.
 (pdftex.def)             Requested size: 311.99847pt x 181.26122pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8761--8762
+Underfull \hbox (badness 10000) in paragraph at lines 8760--8761
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8761--8762
+Underfull \hbox (badness 10000) in paragraph at lines 8760--8761
 
  []
 
@@ -1721,10 +1715,10 @@ File: ChapterPictures/10-5-Householdnetpropertywealth2012.png Graphic file (typ
 e png)
 <use ChapterPictures/10-5-Householdnetpropertywealth2012.png>
 Package pdftex.def Info: ChapterPictures/10-5-Householdnetpropertywealth2012.pn
-g  used on input line 8776.
+g  used on input line 8775.
 (pdftex.def)             Requested size: 312.01552pt x 233.13237pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8776--8777
+Underfull \hbox (badness 10000) in paragraph at lines 8775--8776
 
  []
 
@@ -1738,20 +1732,20 @@ File: ChapterPictures/10-6-Indexofhousingmarketcosts1983-2007.png Graphic file
 (type png)
 <use ChapterPictures/10-6-Indexofhousingmarketcosts1983-2007.png>
 Package pdftex.def Info: ChapterPictures/10-6-Indexofhousingmarketcosts1983-200
-7.png  used on input line 8946.
+7.png  used on input line 8945.
 (pdftex.def)             Requested size: 311.99557pt x 228.39868pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8946--8947
+Underfull \hbox (badness 10000) in paragraph at lines 8945--8946
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8946--8947
+Underfull \hbox (badness 10000) in paragraph at lines 8945--8946
 
  []
 
 [186 <./ChapterPictures/10-6-Indexofhousingmarketcosts1983-2007.png>] [187]
-Overfull \hbox (4.60979pt too wide) in paragraph at lines 9056--9058
+Overfull \hbox (4.60979pt too wide) in paragraph at lines 9055--9057
 []\T1/pplj/m/n/10 Great minds have al-ready con-sid-ered this mat-ter. Win-ston
  Churchill 
  []
@@ -1761,10 +1755,10 @@ Overfull \hbox (4.60979pt too wide) in paragraph at lines 9056--9058
 File: ChapterPictures/10-7-Monopoly.jpg Graphic file (type jpg)
 <use ChapterPictures/10-7-Monopoly.jpg>
 Package pdftex.def Info: ChapterPictures/10-7-Monopoly.jpg  used on input line 
-9120.
+9119.
 (pdftex.def)             Requested size: 312.00565pt x 113.1449pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9120--9121
+Underfull \hbox (badness 10000) in paragraph at lines 9119--9120
 
  []
 
@@ -1776,10 +1770,10 @@ LaTeX Warning: Marginpar on page 189 moved.
 File: ChapterPictures/10-8-GeorgeSign.jpg Graphic file (type jpg)
 <use ChapterPictures/10-8-GeorgeSign.jpg>
 Package pdftex.def Info: ChapterPictures/10-8-GeorgeSign.jpg  used on input lin
-e 9172.
+e 9171.
 (pdftex.def)             Requested size: 312.0208pt x 207.80585pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9172--9173
+Underfull \hbox (badness 10000) in paragraph at lines 9171--9172
 
  []
 
@@ -1793,74 +1787,74 @@ LaTeX Warning: Marginpar on page 193 moved.
 File: ChapterPictures/10-9-DenmarkLVT.png Graphic file (type png)
 <use ChapterPictures/10-9-DenmarkLVT.png>
 Package pdftex.def Info: ChapterPictures/10-9-DenmarkLVT.png  used on input lin
-e 9716.
+e 9715.
 (pdftex.def)             Requested size: 311.99884pt x 163.31189pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9716--9717
+Underfull \hbox (badness 10000) in paragraph at lines 9715--9716
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9716--9717
+Underfull \hbox (badness 10000) in paragraph at lines 9715--9716
 
  []
 
 [201 <./ChapterPictures/10-9-DenmarkLVT.png>] [202] [203]
-Overfull \hbox (0.38982pt too wide) in paragraph at lines 9866--9874
+Overfull \hbox (0.38982pt too wide) in paragraph at lines 9865--9873
 \T1/pplj/m/n/10 pri-mor-dial form which pre-cedes hu-man ex-is-tence. It has be
 en formed 
  []
 
 
-Overfull \hbox (7.56978pt too wide) in paragraph at lines 9875--9892
+Overfull \hbox (7.56978pt too wide) in paragraph at lines 9874--9891
 []\T1/pplj/m/n/10 Land gen-er-ates good things for us `for free' through mind-b
 endingly 
  []
 
 [204]
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <8> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 9945.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 9944.
 
 LaTeX Warning: Marginpar on page 205 moved.
 
 [205] [206] [207]
-Overfull \hbox (0.71976pt too wide) in paragraph at lines 10131--10132
+Overfull \hbox (0.71976pt too wide) in paragraph at lines 10130--10131
 \T1/pplj/m/it/9 con-trol-lable. Mankind can-not ad-vance nor re-tard its ser-vi
 ces at will.''\T1/pplj/m/n/9 (Gaffney 
  []
 
 [208]
-Overfull \hbox (3.1621pt too wide) in paragraph at lines 10169--10169
+Overfull \hbox (3.1621pt too wide) in paragraph at lines 10168--10168
 |\T1/pplj/m/it/10.95 7. Land is sub-ject to mar-ket forces that dif-fer from th
 ose that de-ter-mine
  []
 
 [209]
-Overfull \hbox (10.76132pt too wide) in paragraph at lines 10195--10195
+Overfull \hbox (10.76132pt too wide) in paragraph at lines 10194--10194
 |\T1/pplj/m/it/10.95 8. Land price guides in-vestors and de-ter-mines the char-
 ac-ter of cap-i-tal, as
  []
 
 
-Overfull \hbox (11.276pt too wide) in paragraph at lines 10237--10237
+Overfull \hbox (11.276pt too wide) in paragraph at lines 10236--10236
 |\T1/pplj/m/it/10.95 10. Land value (ba-sic per-ma-nent lo-ca-tion value) is no
 t an eco-nomic fund| 
  []
 
 [210]
-Overfull \hbox (16.6743pt too wide) in paragraph at lines 10258--10258
+Overfull \hbox (16.6743pt too wide) in paragraph at lines 10257--10257
 |\T1/pplj/m/it/10.95 1. The ori-gin of prop-erty in land is po-lit-i-cal, and o
 wn-ing land im-parts su-
  []
 
 [211] [212]
-Overfull \hbox (6.20615pt too wide) in paragraph at lines 10414--10414
+Overfull \hbox (6.20615pt too wide) in paragraph at lines 10413--10413
 |\T1/pplj/m/it/10.95 5. The price of land must be sys-tem-i-cally risky to com-
 pen-sate for su-per-
  []
 
 [213]
-Overfull \hbox (6.41426pt too wide) in paragraph at lines 10430--10430
+Overfull \hbox (6.41426pt too wide) in paragraph at lines 10429--10429
 |\T1/pplj/m/it/10.95 6. A fall in in-ter-est rates makes prop-erty own-ers rich
 er and makes own-
  []
@@ -1870,15 +1864,15 @@ er and makes own-
 File: ChapterPictures/10-10-WealthRentIncreases1.png Graphic file (type png)
 <use ChapterPictures/10-10-WealthRentIncreases1.png>
 Package pdftex.def Info: ChapterPictures/10-10-WealthRentIncreases1.png  used o
-n input line 10456.
+n input line 10455.
 (pdftex.def)             Requested size: 311.99341pt x 263.15514pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10456--10457
+Underfull \hbox (badness 10000) in paragraph at lines 10455--10456
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10456--10457
+Underfull \hbox (badness 10000) in paragraph at lines 10455--10456
 
  []
 
@@ -1888,27 +1882,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 10456--10457
 LaTeX Warning: Marginpar on page 221 moved.
 
 [221] [222]
-Overfull \hbox (1.19722pt too wide) in alignment at lines 10933--10947
+Overfull \hbox (1.19722pt too wide) in alignment at lines 10932--10946
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (18.04048pt too wide) in paragraph at lines 10969--10970
+Overfull \hbox (18.04048pt too wide) in paragraph at lines 10968--10969
 []\T1/pplj/m/n/10 ResolutionFund|  
  []
 
 
-Overfull \hbox (40.59052pt too wide) in paragraph at lines 10974--10975
+Overfull \hbox (40.59052pt too wide) in paragraph at lines 10973--10974
 \T1/pplj/m/n/10 LiabilitiesDerivatives|  
  []
 
 
-Overfull \hbox (1.96053pt too wide) in paragraph at lines 11005--11006
+Overfull \hbox (1.96053pt too wide) in paragraph at lines 11004--11005
 []\T1/pplj/m/n/10 Netherlands 
  []
 
 
-Overfull \hbox (1.19722pt too wide) in alignment at lines 10947--11049
+Overfull \hbox (1.19722pt too wide) in alignment at lines 10946--11048
  [] [] [] [] [] 
  []
 
@@ -1921,7 +1915,7 @@ LaTeX Warning: Marginpar on page 225 moved.
 LaTeX Warning: Marginpar on page 228 moved.
 
 [228] [229] [230] [231] [232] [233] [234]
-Overfull \hbox (18.74394pt too wide) in paragraph at lines 11570--11570
+Overfull \hbox (18.74394pt too wide) in paragraph at lines 11569--11569
 |\T1/pplj/m/it/12 CHAPTER 12: EN-VI-RON-MENT, HEALTH, AND RE-SOURCES| 
  []
 
@@ -1930,7 +1924,7 @@ t>
 File: ChapterPictures/12-1-EnvironmentalIssues.png Graphic file (type png)
 <use ChapterPictures/12-1-EnvironmentalIssues.png>
 Package pdftex.def Info: ChapterPictures/12-1-EnvironmentalIssues.png  used on 
-input line 11606.
+input line 11605.
 (pdftex.def)             Requested size: 144.00569pt x 142.3552pt.
 [235 <./ChapterPictures/12-1-EnvironmentalIssues.png>]
 
@@ -1956,10 +1950,10 @@ LaTeX Warning: Marginpar on page 243 moved.
 File: ChapterPictures/12-2-PigovianTax.png Graphic file (type png)
 <use ChapterPictures/12-2-PigovianTax.png>
 Package pdftex.def Info: ChapterPictures/12-2-PigovianTax.png  used on input li
-ne 12067.
+ne 12066.
 (pdftex.def)             Requested size: 144.00366pt x 91.73186pt.
 
-Overfull \hbox (7.46394pt too wide) in paragraph at lines 12078--12078
+Overfull \hbox (7.46394pt too wide) in paragraph at lines 12077--12077
 |\T1/pplj/m/it/12 12.4 Pol-icy Op-tions for Tack-ling So-cial and En-vi-ron-men
 -tal Dam-
  []
@@ -1971,13 +1965,13 @@ File: ChapterPictures/12-3-EnvironmentalInitiatives.png Graphic file (type png)
 
 <use ChapterPictures/12-3-EnvironmentalInitiatives.png>
 Package pdftex.def Info: ChapterPictures/12-3-EnvironmentalInitiatives.png  use
-d on input line 12111.
+d on input line 12110.
 (pdftex.def)             Requested size: 143.9976pt x 103.07196pt.
 
 LaTeX Warning: Marginpar on page 245 moved.
 
 [245 <./ChapterPictures/12-3-EnvironmentalInitiatives.png>]
-Overfull \hbox (4.81973pt too wide) in paragraph at lines 12190--12193
+Overfull \hbox (4.81973pt too wide) in paragraph at lines 12189--12192
 []\T1/pplj/m/n/10 However, there are fur-ther rea-sons to seek al-ter-na-tives 
 to command- 
  []
@@ -1988,21 +1982,21 @@ to command-
 File: ChapterPictures/12-4-EnvironmentalTaxRevenue.png Graphic file (type png)
 <use ChapterPictures/12-4-EnvironmentalTaxRevenue.png>
 Package pdftex.def Info: ChapterPictures/12-4-EnvironmentalTaxRevenue.png  used
- on input line 12393.
+ on input line 12392.
 (pdftex.def)             Requested size: 312.00009pt x 303.3519pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 12393--12394
+Underfull \hbox (badness 10000) in paragraph at lines 12392--12393
 
  []
 
 [250 <./ChapterPictures/12-4-EnvironmentalTaxRevenue.png>] [251] [252] [253]
-Overfull \hbox (3.1293pt too wide) in paragraph at lines 12600--12600
+Overfull \hbox (3.1293pt too wide) in paragraph at lines 12599--12599
 |\T1/pplj/m/it/10.95 The Per-fect Mar-ket: Should We Re-duce Dead-weight Loss a
 t All Costs?| 
  []
 
 [254] [255] [256] [257]
-Overfull \hbox (7.39981pt too wide) in paragraph at lines 12802--12807
+Overfull \hbox (7.39981pt too wide) in paragraph at lines 12801--12806
 \T1/pplj/m/n/10 Class B, would be charged 50% (i.e., 1 pence per gram sugar swe
 etness- 
  []
@@ -2016,9 +2010,9 @@ LaTeX Warning: Marginpar on page 263 moved.
 
 [263] [264] [265] [266]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 13282.
+(Font)              scaled to size 11.40997pt on input line 13281.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 13282.
+(Font)              scaled to size 11.40997pt on input line 13281.
 
 LaTeX Warning: Marginpar on page 267 moved.
 
@@ -2031,7 +2025,7 @@ LaTeX Warning: Marginpar on page 268 moved.
 LaTeX Warning: Marginpar on page 269 moved.
 
 [269] [270]
-Overfull \hbox (8.364pt too wide) in paragraph at lines 13502--13502
+Overfull \hbox (8.364pt too wide) in paragraph at lines 13501--13501
 |\T1/pplj/m/it/12 12.12 Bor-ders and Com-pe-ti-tion: Mak-ing a National-Level C
 ar-bon
  []
@@ -2040,13 +2034,13 @@ ar-bon
 LaTeX Warning: Marginpar on page 271 moved.
 
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 13517.
+(Font)              scaled to size 9.37807pt on input line 13516.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 13517.
+(Font)              scaled to size 7.29405pt on input line 13516.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 13517.
+(Font)              scaled to size 9.37807pt on input line 13516.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 13517.
+(Font)              scaled to size 7.29405pt on input line 13516.
 
 LaTeX Warning: Marginpar on page 271 moved.
 
@@ -2055,13 +2049,13 @@ LaTeX Warning: Marginpar on page 271 moved.
 LaTeX Warning: Marginpar on page 284 moved.
 
 [284]
-Overfull \hbox (12.56396pt too wide) in paragraph at lines 14183--14183
+Overfull \hbox (12.56396pt too wide) in paragraph at lines 14182--14182
 |\T1/pplj/m/it/12 A1.3 Al-lo-ca-tion: From What Should the Eco-nomic Cake Be Ma
 de?| 
  []
 
 [285] [286] [287] [288]
-Overfull \hbox (5.35982pt too wide) in paragraph at lines 14404--14409
+Overfull \hbox (5.35982pt too wide) in paragraph at lines 14403--14408
 []\T1/pplj/m/n/10 So the price of oil is de-ter-mined by the cost of pro-duc-in
 g a marginal 
  []
@@ -2071,465 +2065,465 @@ g a marginal
 LaTeX Warning: Marginpar on page 291 moved.
 
 [291]
-Overfull \hbox (3.77988pt too wide) in paragraph at lines 14523--14526
+Overfull \hbox (3.77988pt too wide) in paragraph at lines 14522--14525
 []\T1/pplj/m/n/10 Adams, Mar-tin. 2016. ``A New Model of the Econ-omy, Brian Ho
 dgkin- 
  []
 
 
-Overfull \hbox (129.79277pt too wide) in paragraph at lines 14523--14526
+Overfull \hbox (129.79277pt too wide) in paragraph at lines 14522--14525
 \T1/pplj/m/n/10 son,'' []$\T1/fvm/m/n/10 https : / / www . progress . org / art
 icles / a-[]new-[]model-[]of-[]the-[]economy-[]by-[]brian-[]hodgkinson$[]\T1/pp
 lj/m/n/10 .  
  []
 
 
-Overfull \hbox (194.15015pt too wide) in paragraph at lines 14527--14530
+Overfull \hbox (194.15015pt too wide) in paragraph at lines 14526--14529
 \T1/pplj/m/n/10 ture 3.'' []$\T1/fvm/m/n/10 https : / / ocw . mit . edu / cours
 es / economics / 14-[]42-[]environmental-[]policy-[]and-[]economics-[]spring-[]
 2011 / 
  []
 
 
-Overfull \hbox (360.21454pt too wide) in paragraph at lines 14537--14541
+Overfull \hbox (360.21454pt too wide) in paragraph at lines 14536--14540
 \T1/fvm/m/n/10 independent . co . uk / news / business / news / a-[]quarter-[]o
 f-[]uk-[]professionals-[]are-[]unhappy-[]with-[]their-[]work-[]life-[]balance-[
 ]survey-[]finds-[]10071994 . 
  []
 
 
-Overfull \hbox (30.84134pt too wide) in paragraph at lines 14547--14552
+Overfull \hbox (30.84134pt too wide) in paragraph at lines 14546--14551
 \T1/fvm/m/n/10 williams . edu / Economics / wp / BakijaColeHeimJobsIncomeGrowth
 TopEarners . 
  []
 
 
-Overfull \hbox (267.86949pt too wide) in paragraph at lines 14561--14566
+Overfull \hbox (267.86949pt too wide) in paragraph at lines 14560--14565
 \T1/pplj/m/n/10 Yard-ley. 2012. ``Ben-e-fits Stigma in Britain.'' []http://www.
 nhslothian.scot.nhs.uk/YourRights/WelfareReform/Documents/Benefits 
  []
 
 [292]
-Overfull \hbox (41.6158pt too wide) in paragraph at lines 14576--14580
+Overfull \hbox (41.6158pt too wide) in paragraph at lines 14575--14579
 \T1/pplj/m/n/10 vices.'' Macmil-lan. []$\T1/fvm/m/n/10 https : / / www . sochea
 lth . co . uk / national-[]health-[]service / 
  []
 
 
-Overfull \hbox (74.54314pt too wide) in paragraph at lines 14586--14590
+Overfull \hbox (74.54314pt too wide) in paragraph at lines 14585--14589
 \T1/pplj/m/n/10 ver-sity Press. []$\T1/fvm/m/n/10 https : / / www . amazon . co
  . uk / Economic-[]Theory-[]Retrospect-[]Mark-[]Blaug / 
  []
 
 
-Overfull \hbox (62.15318pt too wide) in paragraph at lines 14597--14601
+Overfull \hbox (62.15318pt too wide) in paragraph at lines 14596--14600
 \T1/pplj/m/n/10 land tax.'' []$\T1/fvm/m/n/10 https : / / www . ft . com / cont
 ent / 29bf998e-[]e61c-[]11e0-[]960c-[]00144feabdc0$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (89.55975pt too wide) in paragraph at lines 14625--14628
+Overfull \hbox (89.55975pt too wide) in paragraph at lines 14624--14627
 [][]\T1/pplj/m/n/10 Carers UK. 2014. ``Car-ers at Break-ing Point.'' \T1/pplj/m
 /it/10 Car-ers UK\T1/pplj/m/n/10 . []http://www.carersuk.org/for- 
  []
 
 
-Overfull \hbox (22.98973pt too wide) in paragraph at lines 14625--14628
+Overfull \hbox (22.98973pt too wide) in paragraph at lines 14624--14627
 \T1/pplj/m/n/10 https://www.carersuk.org/for-professionals/policy/policy-librar
 y/carers- 
  []
 
 
-Overfull \hbox (432.48946pt too wide) in paragraph at lines 14632--14637
+Overfull \hbox (432.48946pt too wide) in paragraph at lines 14631--14636
 \T1/pplj/m/n/10 Royal Com-mis-sion on Tax-a-tion.'' []http://publications.gc.ca
 /site/eng/search/search.html?st=1&ssti=&e=0&f=0&adoof=0&ast=Royal+Commission+on
 +Taxation&cnst= 
  []
 
 
-Overfull \hbox (7.70981pt too wide) in paragraph at lines 14632--14637
+Overfull \hbox (7.70981pt too wide) in paragraph at lines 14631--14636
 \T1/pplj/m/n/10 http://worthwhile.typepad.com/files/carter1966-taxation_familie
 s.pdf[].  
  []
 
 
-Overfull \hbox (138.68204pt too wide) in paragraph at lines 14638--14641
+Overfull \hbox (138.68204pt too wide) in paragraph at lines 14637--14640
 []$\T1/fvm/m/n/10 https : / / www . centreforpublicimpact . org / case-[]study 
 / demand-[]management-[]for-[]roads-[]in-[]london/$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (81.39465pt too wide) in paragraph at lines 14642--14646
+Overfull \hbox (81.39465pt too wide) in paragraph at lines 14641--14645
 \T1/fvm/m/n/10 centreforsocialjustice . org . uk / library / dynamic-[]benefits
 -[]towards-[]welfare-[]works$[]\T1/pplj/m/n/10 .  
  []
 
 [293]
-Overfull \hbox (54.80948pt too wide) in paragraph at lines 14658--14661
+Overfull \hbox (54.80948pt too wide) in paragraph at lines 14657--14660
 []$\T1/fvm/m/n/10 https : / / www . cipd . co . uk / knowledge / work / skills 
 / industrial-[]strategy-[]report$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (22.10727pt too wide) in paragraph at lines 14662--14665
+Overfull \hbox (22.10727pt too wide) in paragraph at lines 14661--14664
 \T1/fvm/m/n/10 / / www . cipd . co . uk / Images / employee-[]outlook _ 2016-[]
 autumn _ tcm18-[]16797 . 
  []
 
 
-Overfull \hbox (27.60727pt too wide) in paragraph at lines 14666--14670
+Overfull \hbox (27.60727pt too wide) in paragraph at lines 14665--14669
 \T1/fvm/m/n/10 read / 117783028 / a-[]farewell-[]to-[]alms-[]a-[]brief-[]econom
 ic-[]history-[]of-[]the$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (144.29907pt too wide) in paragraph at lines 14692--14695
+Overfull \hbox (144.29907pt too wide) in paragraph at lines 14691--14694
 []$\T1/fvm/m/n/10 https : / / www . gov . uk / government / publications / carr
 ier-[]bag-[]charge-[]summary-[]of-[]data-[]in-[]england$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (136.18204pt too wide) in paragraph at lines 14696--14700
+Overfull \hbox (136.18204pt too wide) in paragraph at lines 14695--14699
 \T1/fvm/m/n/10 nao . org . uk / wp-[]content / uploads / 2016 / 01 / Contracted
 -[]out-[]health-[]and-[]disability-[]assessments . 
  []
 
 
-Overfull \hbox (3.06981pt too wide) in paragraph at lines 14710--14714
+Overfull \hbox (3.06981pt too wide) in paragraph at lines 14709--14713
 \T1/pplj/m/n/10 Britains.'' March. []http://policy-practice.oxfam.org.uk/public
 ations/a- 
  []
 
 
-Overfull \hbox (93.25977pt too wide) in paragraph at lines 14710--14714
+Overfull \hbox (93.25977pt too wide) in paragraph at lines 14709--14713
 \T1/pplj/m/n/10 tale-of-two-britains-inequality-in-the-uk-314152 https://paperp
 ile.com/c/XD9ymG/Ct6m[].  
  []
 
 [294]
-Overfull \hbox (117.7139pt too wide) in paragraph at lines 14724--14728
+Overfull \hbox (117.7139pt too wide) in paragraph at lines 14723--14727
 \T1/fvm/m/n/10 personalfinance / tax / 11544301 / The-[]chart-[]that-[]shows-[]
 there-[]are-[]12-[]rates-[]of-[]income-[]tax . 
  []
 
 
-Overfull \hbox (8.37952pt too wide) in paragraph at lines 14734--14737
+Overfull \hbox (8.37952pt too wide) in paragraph at lines 14733--14736
 [][]\T1/pplj/m/n/10 fact, Full. 2015. ``The wel-fare bud-get - Full Fact.'' []$
 \T1/fvm/m/n/10 https : / / fullfact . 
  []
 
 
-Overfull \hbox (95.71024pt too wide) in paragraph at lines 14738--14741
+Overfull \hbox (95.71024pt too wide) in paragraph at lines 14737--14740
 [][]\T1/pplj/m/n/10 ---------. 2019. []$\T1/fvm/m/n/10 https : / / fullfact . o
 rg / economy / do-[]top-[]1-[]earners-[]pay-[]28-[]tax-[]burden/$[]\T1/pplj/m/n
 /10 .  
  []
 
 
-Overfull \hbox (53.30948pt too wide) in paragraph at lines 14746--14750
+Overfull \hbox (53.30948pt too wide) in paragraph at lines 14745--14749
 \T1/fvm/m/n/10 theguardian . com / news / blog / 2013 / apr / 04 / living-[]on-
 []benefits-[]readers-[]panel # 
  []
 
 
-Overfull \hbox (394.15082pt too wide) in paragraph at lines 14757--14761
+Overfull \hbox (394.15082pt too wide) in paragraph at lines 14756--14760
 \T1/fvm/m/n/10 peopleinwork / employmentandemployeetypes / articles / analysiso
 ftheuklabourmarketestimatesofskillsmismatchusingmeasuresofoverandundereducation
  / 
  []
 
 [295]
-Overfull \hbox (12.70976pt too wide) in paragraph at lines 14795--14799
+Overfull \hbox (12.70976pt too wide) in paragraph at lines 14794--14798
 \T1/pplj/m/n/10 land. []http://www.dovescotland.org/socialproblems/socialProble
 ms.pdf 
  []
 
 
-Overfull \hbox (111.8697pt too wide) in paragraph at lines 14795--14799
+Overfull \hbox (111.8697pt too wide) in paragraph at lines 14794--14798
 \T1/pplj/m/n/10 https://ia800306.us.archive.org/4/items/socialproblems83geor/so
 cialproblems83geor_bw.pdf[].  
  []
 
 
-Overfull \hbox (4.06056pt too wide) in paragraph at lines 14800--14803
+Overfull \hbox (4.06056pt too wide) in paragraph at lines 14799--14802
 [][]\T1/pplj/m/n/10 Gilens, Mar-tin. 2012. ``Un-der the In-flu-ence.'' []$\T1/f
 vm/m/n/10 http : / / bostonreview . 
  []
 
 
-Overfull \hbox (57.22319pt too wide) in paragraph at lines 14810--14814
+Overfull \hbox (57.22319pt too wide) in paragraph at lines 14809--14813
 \T1/pplj/m/n/10 decade.'' []$\T1/fvm/m/n/10 https : / / www . ft . com / conten
 t / 1ad5c43a-[]a593-[]11e5-[]a91e-[]162b86790c58$[]\T1/pplj/m/n/10 .  
  []
 
 [296]
-Overfull \hbox (222.0546pt too wide) in paragraph at lines 14873--14877
+Overfull \hbox (222.0546pt too wide) in paragraph at lines 14872--14876
 \T1/fvm/m/n/10 business / anthony-[]hilton-[]has-[]britain-[]ever-[]really-[]be
 en-[]successful-[]when-[]it-[]comes-[]to-[]global-[]trade-[]a3529396 . 
  []
 
 
-Overfull \hbox (27.7243pt too wide) in paragraph at lines 14883--14886
+Overfull \hbox (27.7243pt too wide) in paragraph at lines 14882--14885
 \T1/fvm/m/n/10 uk / government / publications / social-[]investment-[]tax-[]rel
 ief-[]factsheet / 
  []
 
 
-Overfull \hbox (58.42651pt too wide) in paragraph at lines 14901--14904
+Overfull \hbox (58.42651pt too wide) in paragraph at lines 14900--14903
 \T1/fvm/m/n/10 www . gov . uk / government / publications / rates-[]and-[]allow
 ances-[]corporation-[]tax / 
  []
 
 
-Overfull \hbox (14.8732pt too wide) in paragraph at lines 14910--14913
+Overfull \hbox (14.8732pt too wide) in paragraph at lines 14909--14912
 []$\T1/fvm/m/n/10 https : / / www . ft . com / content / bb8a6fa2-[]e651-[]11e6
 -[]893c-[]082c54a7f539$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (131.4331pt too wide) in paragraph at lines 14925--14929
+Overfull \hbox (131.4331pt too wide) in paragraph at lines 14924--14928
 \T1/pplj/m/n/10 cor-po-ra-tion tax re-ceipts.'' []$\T1/fvm/m/n/10 https : / / w
 ww . ft . com / content / ca3e5bd2-[]2a7e-[]11e7-[]9ec8-[]168383da43b7$[]\T1/pp
 lj/m/n/10 .  
  []
 
 [297]
-Overfull \hbox (110.25313pt too wide) in paragraph at lines 14945--14949
+Overfull \hbox (110.25313pt too wide) in paragraph at lines 14944--14948
 \T1/pplj/m/n/10 charts from the IFS.'' []$\T1/fvm/m/n/10 https : / / www . ft .
  com / content / 16662297-[]2067-[]3289-[]81bf-[]95da91628fbc$[]\T1/pplj/m/n/10
  .  
  []
 
 
-Overfull \hbox (51.69907pt too wide) in paragraph at lines 14954--14958
+Overfull \hbox (51.69907pt too wide) in paragraph at lines 14953--14957
 \T1/pplj/m/n/10 Ser-vices.'' []$\T1/fvm/m/n/10 http : / / www . landstewardship
  . org / ecological-[]goods-[]and-[]services/$[]\T1/pplj/m/n/10 .  
  []
 
 [298]
-Overfull \hbox (182.23535pt too wide) in paragraph at lines 15005--15008
+Overfull \hbox (182.23535pt too wide) in paragraph at lines 15004--15007
 []$\T1/fvm/m/n/10 https : / / lvtfan . typepad . com / lvtfans _ blog / 2011 / 
 01 / lizzie-[]magie-[]1902-[]commentary-[]the-[]landlords-[]game . 
  []
 
 
-Overfull \hbox (92.74576pt too wide) in paragraph at lines 15023--15027
+Overfull \hbox (92.74576pt too wide) in paragraph at lines 15022--15026
 \T1/fvm/m/n/10 files / reports / original / 160304113651-[]ANewSimpleRevenueNeu
 tralTaxCodeforBusiness . 
  []
 
 
-Overfull \hbox (55.72462pt too wide) in paragraph at lines 15033--15037
+Overfull \hbox (55.72462pt too wide) in paragraph at lines 15032--15036
 \T1/pplj/m/n/10 a con-nec-tion | For-tune.'' []$\T1/fvm/m/n/10 http : / / fortu
 ne . com / 2015 / 04 / 06 / inequality-[]piketty/$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (18.09576pt too wide) in paragraph at lines 15049--15053
+Overfull \hbox (18.09576pt too wide) in paragraph at lines 15048--15052
 \T1/pplj/m/n/10 of Com-mons Brief-ing Pa-per. UK Par-lia-ment. []$\T1/fvm/m/n/1
 0 http : / / researchbriefings . 
  []
 
 
-Overfull \hbox (127.84573pt too wide) in paragraph at lines 15054--15058
+Overfull \hbox (127.84573pt too wide) in paragraph at lines 15053--15057
 \T1/pplj/m/n/10 pass.'' []$\T1/fvm/m/n/10 https : / / www . compassonline . org
  . uk / publications / the-[]case-[]for-[]land-[]value-[]taxation/$[]\T1/pplj/m
 /n/10 .  
  []
 
 
-Overfull \hbox (66.45973pt too wide) in paragraph at lines 15067--15071
+Overfull \hbox (66.45973pt too wide) in paragraph at lines 15066--15070
 \T1/pplj/m/n/10 state-free-money-alaska https://motherboard.vice.com/en_us/arti
 cle/jp5wdb/only- 
  []
 
 [299]
-Overfull \hbox (94.1197pt too wide) in paragraph at lines 15076--15080
+Overfull \hbox (94.1197pt too wide) in paragraph at lines 15075--15079
 \T1/pplj/m/n/10 ture re-turns warns TUC.'' \T1/pplj/m/it/10 In-ter-na-tional Bu
 si-ness Times\T1/pplj/m/n/10 . []http://www.ibtimes.co.uk/burnout- 
  []
 
 
-Overfull \hbox (122.9496pt too wide) in paragraph at lines 15076--15080
+Overfull \hbox (122.9496pt too wide) in paragraph at lines 15075--15079
 \T1/pplj/m/n/10 britain-long-work-hours-culture-returns-warns-tuc-1519158 https
 ://www.ibtimes.co.uk/burnout- 
  []
 
 
-Overfull \hbox (93.86966pt too wide) in paragraph at lines 15101--15106
+Overfull \hbox (93.86966pt too wide) in paragraph at lines 15100--15105
 []\T1/pplj/m/n/10 http://www.ifs.org.uk/publications/5353 http://www.ifs.org.uk
 /mirrleesReview/design[].  
  []
 
 
-Overfull \hbox (70.04355pt too wide) in paragraph at lines 15121--15126
+Overfull \hbox (70.04355pt too wide) in paragraph at lines 15120--15125
 \T1/fvm/m/n/10 fixing-[]the-[]great-[]distortion-[]how-[]to-[]undo-[]the-[]tax-
 []bias-[]toward-[]debt-[]finance/$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (19.99023pt too wide) in paragraph at lines 15127--15131
+Overfull \hbox (19.99023pt too wide) in paragraph at lines 15126--15130
 \T1/fvm/m/n/10 leading-[]article-[]how-[]to-[]make-[]paying-[]taxes-[]more-[]pa
 latable-[]1491568 . 
  []
 
 
-Overfull \hbox (252.2568pt too wide) in paragraph at lines 15132--15136
+Overfull \hbox (252.2568pt too wide) in paragraph at lines 15131--15135
 \T1/fvm/m/n/10 wp-[]content / uploads / 2017 / 07 / HM-[]Revenue-[]Customs-[]20
 16-[]17-[]Accounts-[]Report-[]by-[]the-[]Comptroller-[]and-[]Auditor-[]General 
 . 
  []
 
 
-Overfull \hbox (135.68204pt too wide) in paragraph at lines 15137--15140
+Overfull \hbox (135.68204pt too wide) in paragraph at lines 15136--15139
 []$\T1/fvm/m/n/10 https : / / www . nao . org . uk / wp-[]content / uploads / 2
 018 / 06 / Rolling-[]out-[]Universal-[]Credit-[]Summary . 
  []
 
 
-Overfull \hbox (24.10062pt too wide) in paragraph at lines 15141--15144
+Overfull \hbox (24.10062pt too wide) in paragraph at lines 15140--15143
 [][]\T1/pplj/m/n/10 New Eco-nomic Foun-da-tion. 2009. ``A bit rich |.'' []$\T1/
 fvm/m/n/10 http : / / neweconomics . 
  []
 
 [300]
-Overfull \hbox (2.13913pt too wide) in paragraph at lines 15159--15162
+Overfull \hbox (2.13913pt too wide) in paragraph at lines 15158--15161
 []$\T1/fvm/m/n/10 https : / / www . oecd . org / social / Focus-[]Inequality-[]
 and-[]Growth-[]2014 . 
  []
 
 
-Overfull \hbox (56.01909pt too wide) in paragraph at lines 15167--15171
+Overfull \hbox (56.01909pt too wide) in paragraph at lines 15166--15170
 \T1/pplj/m/n/10 Spend-ing.'' []$\T1/fvm/m/n/10 http : / / obr . uk / forecasts-
 []in-[]depth / brief-[]guides-[]and-[]explainers / 
  []
 
 
-Overfull \hbox (260.88087pt too wide) in paragraph at lines 15172--15176
+Overfull \hbox (260.88087pt too wide) in paragraph at lines 15171--15175
 \T1/pplj/m/n/10 Smith by Half a Mil-len-nium.'' []$\T1/fvm/m/n/10 https : / / e
 vonomics . com / amazing-[]north-[]african-[]scholar-[]beat-[]adam-[]smith-[]ha
 lf-[]millennium/$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (54.21727pt too wide) in paragraph at lines 15181--15185
+Overfull \hbox (54.21727pt too wide) in paragraph at lines 15180--15184
 \T1/pplj/m/n/10 2014.'' []$\T1/fvm/m/n/10 http : / / www . ons . gov . uk / ons
  / rel / was / wealth-[]in-[]great-[]britain-[]wave-[]4 / 
  []
 
 
-Overfull \hbox (45.54576pt too wide) in paragraph at lines 15186--15190
+Overfull \hbox (45.54576pt too wide) in paragraph at lines 15185--15189
 \T1/pplj/m/n/10 Na-tional Statis-tics.'' []$\T1/fvm/m/n/10 https : / / www . on
 s . gov . uk / peoplepopulationandcommunity / 
  []
 
 
-Overfull \hbox (121.83093pt too wide) in paragraph at lines 15186--15190
+Overfull \hbox (121.83093pt too wide) in paragraph at lines 15185--15189
 \T1/fvm/m/n/10 housing / articles / housingsummarymeasuresanalysis / 2015 # aff
 ordability-[]of-[]home-[]ownership$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (80.39465pt too wide) in paragraph at lines 15191--15195
+Overfull \hbox (80.39465pt too wide) in paragraph at lines 15190--15194
 \T1/fvm/m/n/10 uploads / attachment _ data / file / 535362 / ir-[]benefits-[]ta
 ke-[]up-[]main-[]report-[]2014-[]15 . 
  []
 
 
-Overfull \hbox (109.45018pt too wide) in paragraph at lines 15196--15200
+Overfull \hbox (109.45018pt too wide) in paragraph at lines 15195--15199
 \T1/pplj/m/n/10 Na-tional Statis-tics.'' []$\T1/fvm/m/n/10 https : / / www . on
 s . gov . uk / releases / uklabourmarketstatisticsjuly2016$[]\T1/pplj/m/n/10 . 
  
  []
 
 [301]
-Overfull \hbox (31.84134pt too wide) in paragraph at lines 15219--15223
+Overfull \hbox (31.84134pt too wide) in paragraph at lines 15218--15222
 \T1/fvm/m/n/10 org / INTEEI / 214574-[]1112740068165 / 22251637 / CostaRica09-[
 ]LandUseChange . 
  []
 
 
-Overfull \hbox (56.28429pt too wide) in paragraph at lines 15277--15280
+Overfull \hbox (56.28429pt too wide) in paragraph at lines 15276--15279
 \T1/pplj/m/n/10 tion.'' []$\T1/fvm/m/n/10 http : / / www . grputland . com / 20
 13 / 10 / ramsey-[]taxation-[]means-[]land-[]value . 
  []
 
 [302]
-Overfull \hbox (116.3598pt too wide) in paragraph at lines 15310--15313
+Overfull \hbox (116.3598pt too wide) in paragraph at lines 15309--15312
 [][]\T1/pplj/m/n/10 Richard Clegg. 2016. ``UK Labour Mar-ket July 2016.'' []fil
 e:///C:/Users/dell/Downloads/UK 
  []
 
 
-Overfull \hbox (75.16058pt too wide) in paragraph at lines 15335--15339
+Overfull \hbox (75.16058pt too wide) in paragraph at lines 15334--15338
 \T1/fvm/m/n/10 the-[]principled-[]and-[]pragmatic-[]case-[]for-[]a-[]universal-
 []basic-[]income-[]-[]new-[]report$[]\T1/pplj/m/n/10 .  
  []
 
 [303]
-Overfull \hbox (3.03171pt too wide) in paragraph at lines 15370--15373
+Overfull \hbox (3.03171pt too wide) in paragraph at lines 15369--15372
 [][]\T1/pplj/m/n/10 Shaxson, Nicholas. 2011. \T1/pplj/m/it/10 Trea-sure Is-land
 s\T1/pplj/m/n/10 . []$\T1/fvm/m/n/10 http : / / treasureislands . 
  []
 
 
-Overfull \hbox (27.10727pt too wide) in paragraph at lines 15391--15395
+Overfull \hbox (27.10727pt too wide) in paragraph at lines 15390--15394
 \T1/fvm/m/n/10 publication / unitary-[]taxation-[]tax-[]base-[]and-[]the-[]role
 -[]of-[]accounting/$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (337.85274pt too wide) in paragraph at lines 15409--15413
+Overfull \hbox (337.85274pt too wide) in paragraph at lines 15408--15412
 \T1/pplj/m/it/10 Global Di-a-logue \T1/pplj/m/n/10 7 (4). []$\T1/fvm/m/n/10 htt
 p : / / isa-[]global-[]dialogue . net / indias-[]great-[]experiment-[]the-[]tra
 nsformative-[]potential-[]of-[]basic-[]income-[]grants/$[]\T1/pplj/m/n/10 .  
  []
 
 [304]
-Overfull \hbox (94.74576pt too wide) in paragraph at lines 15445--15449
+Overfull \hbox (94.74576pt too wide) in paragraph at lines 15444--15448
 \T1/fvm/m/n/10 org . uk / sites / default / files / research-[]update-[]income-
 []inequality-[]and-[]participation . 
  []
 
 
-Overfull \hbox (81.39465pt too wide) in paragraph at lines 15450--15453
+Overfull \hbox (81.39465pt too wide) in paragraph at lines 15449--15452
 []$\T1/fvm/m/n/10 https : / / www . equalitytrust . org . uk / trust-[]particip
 ation-[]attitudes-[]and-[]happiness$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (363.21454pt too wide) in paragraph at lines 15469--15474
+Overfull \hbox (363.21454pt too wide) in paragraph at lines 15468--15473
 \T1/fvm/m/n/10 press-[]releases / 2004 / july / jubilee-[]line-[]raises-[]land-
 []value-[]by-[]estimated-[]andpound28billion-[]at-[]canary-[]wharf-[]and-[]sout
 hwark-[]tube-[]stations$[]\T1/pplj/m/n/10 .  
  []
 
 [305]
-Overfull \hbox (41.07541pt too wide) in paragraph at lines 15520--15524
+Overfull \hbox (41.07541pt too wide) in paragraph at lines 15519--15523
 \T1/fvm/m/n/10 ons . gov . uk / peoplepopulationandcommunity / personalandhouse
 holdfinances / 
  []
 
 
-Overfull \hbox (20.60727pt too wide) in paragraph at lines 15520--15524
+Overfull \hbox (20.60727pt too wide) in paragraph at lines 15519--15523
 \T1/fvm/m/n/10 incomeandwealth / bulletins / householddisposableincomeandinequa
 lity / 
  []
 
 
-Overfull \hbox (139.68204pt too wide) in paragraph at lines 15520--15524
+Overfull \hbox (139.68204pt too wide) in paragraph at lines 15519--15523
 \T1/fvm/m/n/10 financialyearending2015 # redistribution-[]of-[]income-[]through
 -[]cash-[]benefits-[]and-[]direct-[]taxes$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (51.19244pt too wide) in paragraph at lines 15533--15537
+Overfull \hbox (51.19244pt too wide) in paragraph at lines 15532--15536
 []$\T1/fvm/m/n/10 https : / / evonomics . com / wilkinson-[]pickett-[]income-[]
 inequality-[]fix-[]economy/$[]\T1/pplj/m/n/10 .  
  []
 
 
-Overfull \hbox (113.31317pt too wide) in paragraph at lines 15544--15548
+Overfull \hbox (113.31317pt too wide) in paragraph at lines 15543--15547
 \T1/pplj/m/n/10 classical eco-nomics?'' []$\T1/fvm/m/n/10 https : / / www . ft 
 . com / content / e8a23b18-[]3118-[]39a9-[]95cc-[]ef28c0f1e8e6$[]\T1/pplj/m/n/1
 0 .  
@@ -2540,22 +2534,22 @@ Package bibentry Warning: You have used \nobibliography*
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15555.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15554.
 [306]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 15555.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 15554.
 (TaxHeaven.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 15555.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 15554.
 
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15555
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15554
 .
 Package rerunfilecheck Info: File `TaxHeaven.out' has not changed.
 (rerunfilecheck)             Checksum: 1C0BA256D136F3D59E2E439A5F4877A6;33496.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 15555.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 15554.
  ) 
 Here is how much of TeX's memory you used:
  15980 strings out of 492973
  241003 string characters out of 3135932
- 348159 words of memory out of 3000000
+ 347997 words of memory out of 3000000
  17988 multiletter control sequences out of 15000+200000
  94061 words of font info for 163 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2580,7 +2574,7 @@ type1/bera/fvmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/upl
 b8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on TaxHeaven.pdf (306 pages, 5494517 bytes).
+Output written on TaxHeaven.pdf (306 pages, 5494550 bytes).
 PDF statistics:
  4060 PDF objects out of 4296 (max. 8388607)
  1475 named destinations out of 1728 (max. 500000)
