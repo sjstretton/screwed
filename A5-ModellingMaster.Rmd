@@ -1,0 +1,46 @@
+---
+title: "Tax Heaven: Revolutionising Taxation and Welfare"
+author: "Gordon Styles and Stephen Stretton (Editors)"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_handout: default
+toc: false
+toc_depth: 1
+bibliography: Library/PC/library.bib
+link-citations: yes
+---
+ 
+\newpage
+
+```{r setup, include=FALSE}
+setwd("~/Google Drive/Tax Heaven Book/Model")
+
+options(htmltools.dir.version = FALSE)
+options(scipen=999)
+
+library("tufte")
+library("bookdown")
+library("knitr")
+library("scales")
+library("ineq")
+library("MASS")
+library("formattable")
+library("VGAM")
+
+source("Model/Calc_1SimplifiedTaxFunctions.R")
+source("Model/Calc_2DefineTaxSystems.R")
+source("Model/Calc_3ConstructPopulation.R")
+source("Model/Calc_4DoAnalysis.R")
+
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+knitr::opts_chunk$set(echo = TRUE)
+setwd("C:/Users/sjstr/Google Drive/Tax Heaven Book/Model")
+
+```
+
+\newpage
+
+```{r child = '~/Google Drive/Tax Heaven Book/Model/15-ModellingAppendix.Rmd'}
+```
+
