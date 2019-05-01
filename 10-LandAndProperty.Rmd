@@ -2,7 +2,9 @@
 title: "Tax Heaven"
 output: 
   tufte::tufte_handout: default
-bibliography: Library/Mac/library.bib
+bibliography: 
+- Library/PC/library.bib
+- Library/Mac/library.bib
 link-citations: yes
 ---
 

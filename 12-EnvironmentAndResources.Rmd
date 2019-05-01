@@ -1,14 +1,12 @@
 ---
-title: "The Operating System of Capitalism"
-subtitle: "Revolutionising Tax and Welfare in the Pre-Singularity Era"
-date: "`r Sys.Date()`"
+title: "Tax Heaven"
 output: 
-  tufte::tufte_handout: default 
-  tufte::tufte_html: default
-bibliography: Library/libraryCopy.bib
+  tufte::tufte_handout: default
+bibliography: 
+- Library/PC/library.bib
+- Library/Mac/library.bib
 link-citations: yes
 ---
-
 # CHAPTER 12: ENVIRONMENT, HEALTH, AND RESOURCES
 
 # 12.1 Introduction
@@ -564,4 +562,6 @@ A central tenet of the GATT agreements is that there must be no policy discrimin
 
 # 12.13 Conclusions to the Chapter
 
-We've argued here for a suite of environmental taxes to tackle climate change and a host of other issues faced by humanity. A carbon tax can initially be rebated on electricity production, thus allowing a higher rate and encouraging a more rapid switch to clean energy sources. Taxes on other greenhouse gases, congestion charging, and other environmental problems are crucial.
+We've argued here for a suite of environmental taxes to tackle climate change and a host of other issues faced by humanity. A carbon tax can initially be rebated on electricity production, thus allowing a higher rate and encouraging a more rapid switch to clean energy sources. Taxes on other greenhouse gases, congestion charging, and other environmental problems are also crucial.
+
+---
