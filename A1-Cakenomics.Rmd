@@ -7,7 +7,7 @@ link-citations: yes
 ---
 
 
-# APPENDIX 1: CAKEONOMICS
+# APPENDIX 1: CAKENOMICS
 
 In Chapter 4 we introduced an archipelago of islands and showed the different economic issues that come about. In this section we formalise these arguments in another way, in relation to the analogy of making a cake.
 
@@ -24,7 +24,7 @@ We can generally classify the big economic problems into the following ten quest
 7. Do you want a slice of cake? *Rationality and its limits*
 8. Does the cake keep? *Time*
 9. Where's the cake shop? *Space*
-10. The planetary cake *Energy and Living System*
+10. The living planetary cake: *Energy and Living System*
 
 Tax policy intersects all six of these issues. We want to design tax and welfare policy that leads to a successful economy in the long and in the short term, that allocates resources appropriately, and that leads to a just and appropriate distribution of income.
 
