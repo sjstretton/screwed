@@ -2,7 +2,9 @@
 title: "Tax Heaven"
 output: 
   tufte::tufte_handout: default
-bibliography: Library/PC/library.bib
+bibliography: 
+- Library/PC/library.bib
+- Library/Mac/library.bib
 link-citations: yes
 ---
 
@@ -81,19 +83,19 @@ There is no clear correlation between pay and the kinds of work which are social
 
 With those broader considerations in mind, we can consider the status quo for work here in the UK. In the three months leading up to May 2016, the UK unemployment rate fell to its lowest figure since October 2005.  The graph below shows the unemployment rate from March 2011 to March 2016 [@RichardClegg2016].
 
-|![Image](ChapterPictures/11-1-UKUnemploymentRate.png)|
-|:--:|
-|*Figure 7.1 - UK Unemployment Rate*|
-
+```{r fig-7-1, echo=FALSE, fig.margin=FALSE, fig.cap='UK Unemployment Rate. Source: ???'}
+knitr::include_graphics('ChapterPictures/7-1-UKUnemploymentRate.png', dpi = NA)
+```
 
 
 The number of employed people reached a record high of 74.4%. On the surface, this seems to be great news, but just like the concept of 'work,' the 'employment rate' hides a myriad of experiences.  
 
 Firstly, employment often does not provide sufficient income to cover an individual's essential outgoings. According to research by the CIPD Institute in 2014, in-work poverty in the UK has grown by 20% in the past decade [@CIPD2014]. According to the New Policy Institute, in 2012, 4.3 million working families were receiving some form of welfare benefit, with the vast majority receiving support in the form of tax credits. While the level of employment is at a high not seen since the early 1970s, the annual rate of growth in wage earnings is slowing. 
 
-|![Image](ChapterPictures/11-2-UpwardMobility.jpg)
-|:--:|
-|*Figure 7.2 - Cartoon showing the folies of upward mobility and the working poor*|
+```{r fig-7-2, echo=FALSE, fig.margin=FALSE, fig.cap='Cartoon showing the folies of upward mobility and the working poor. Source????'}
+knitr::include_graphics('ChapterPictures/7-2-UpwardMobility.jpg', dpi = NA)
+```
+
 
 The Guardian economics editor Larry Elliot [@LarryElliott2016] suggests three reasons why this might be occurring. Firstly, the UK is attracting people from other EU countries, so employers can comfortably find workers without increasing wages (Brexit may well put a dent in the number of EU citizens wanting to come to the UK). He believes that restrictions on public sector pay have been a second factor. Finally, the jobs being created tend to be low-paid, such as those in hospitality. The CIPD Institute suggests that the government has taken a 'low road' approach to industrial policy, whereby the workforce are relatively disposable, providing relatively standardized goods and services at a low price, and firms come to the UK because of the country's low corporate tax rates. They argue:
 
@@ -103,9 +105,9 @@ The Guardian economics editor Larry Elliot [@LarryElliott2016] suggests three re
 
 A related phenomenon is underemployment and under-utilization of skills. The Spring 2016 Employee Outlook report from CIPD found that a third of employees believe that they are overqualified for their jobs [@CIPD2016]. As well as contributing to low wages, this is likely to lead to dissatisfaction at work. The ONS compared the educational distribution in the UK labour market against average educational attainment per occupation.  Their findings, shown below, were that the percentage of employees who were overqualified for their jobs had steadily increased since 2010 [@FredFoxton2016].
 
-|![Image](ChapterPictures/11-3-MismatchedEmployment.png)
-|:--:|
-|*Figure 7.3 - Mismatched Employment *|
+```{r fig-7-3, echo=FALSE, fig.margin=FALSE, fig.cap='Mismatched Employment. Source: ???'}
+knitr::include_graphics('ChapterPictures/7-3-MismatchedEmployment.png', dpi = NA)
+```
 
 The CIPD report found that a third of employees thought that their organization did not provide them with the opportunity to learn and grow. Over a quarter felt dissatisfied with opportunities to improve and extend their skills. Our earlier discussion introduced the concepts of work as inherently meaningful and work as toil. It seems probable that when people feel as though their abilities are being underutilized, they are more likely to experience their work as toil.  
 
@@ -141,20 +143,19 @@ People who are unable to find work, are too ill to work, are retired from work, 
 
 The origin of the welfare state may be traced back to late Victorian Britain, during which liberal policymakers responded to the widespread squalor, poverty, and criminality prevalent during industrial revolution. The modern welfare state was formed amidst the idealism of the post-WWII period, and it was set up to tackle the 'Five Giant Evils': Want (Poverty), Disease, Ignorance, Squalor (Homelessness), and Idleness(Unemployment) as described by William Beveridge [@Beveridge1942]. The Labour Party sought to eliminate these evils in their pledge to provide for the people of the United Kingdom "from the cradle to the grave" through their victory in the 1945 general election. The plan for the welfare state was visionary, in the sense that it was motivated by a vision of the future which could be much better than the present and the past.  
 
-|![Image](ChapterPictures/11-4-BeveridgeEvils.jpg)
-|:--:|
-|*Figure 7.4 - Beveridge and society's five evils*|
-
+```{r fig-7-4, echo=FALSE, fig.margin=FALSE, fig.cap='Beveridge five evils. Source'}
+knitr::include_graphics('ChapterPictures/7-4-BeveridgeEvils.jpg', dpi = NA)
+```
 
 Philosophically, it had two moral underpinnings.  Firstly, it was based on reciprocity. This is the idea that if you've paid in, you're entitled to take out. Secondly, it had an absolute moral position, which said that whether a person had contributed or not, it would be wrong to allow them to become destitute. Thus, a multifaceted welfare system emerged in the United Kingdom, built from a raft of different policies to protect the citizens from destitution. These include social insurance for the unemployed and sick and those injured at work, a national health service, free education, council housing, and increased employment through public spending.  
 
 The welfare state has grown rapidly since its inception. In 2015/16, the total benefit pay out, (including the state pension) by the Department for Work and Pensions is expected to amount to about £171 billion (23% of public spending).[@Fullfact2015] This does not include the costs of administering the benefits. £116 billion is projected to be spent on benefits for pensioners (including state pension) and £53 billion on working age people. Benefits and tax credits together are projected to amount to £210 billion in 2015 [@Fullfact2015].
 
-There is, of course, a sympathetic relationship between the issues with work outlined above, and demand for the welfare system. With increasing numbers of people in low-wage jobs, there is a parallel increase in the need for supplementary income from the state insurance mechanisms. 
+There is, of course, a sympathetic relationship between the issues with work outlined above, and demand for the welfare system. With increasing numbers of people in low-wage jobs, there is a parallel increase in the need for supplementary income from the state insurance mechanisms.
 
-|![Image](ChapterPictures/11-5-RealWages2009.png)
-|:--:|
-|*Figure 7.5 - Drop in real wages growth since 2009*|
+```{r fig-7-5, echo=FALSE, fig.margin=FALSE, fig.cap='Drop in real wages growth since 2009. Source: ???'}
+knitr::include_graphics('ChapterPictures/7-5-RealWages2009.png', dpi = NA)
+```
 
 With an increase in precarious and short-term jobs comes an increased need for unemployment benefit to fill in the gaps in employment. Overwork and unhealthy work habits can lead to illness, which then require the payment of Employment and Support Allowance. Built around the model of long-term employment with a single employer, the current welfare state is unsuited to the demands of today's working environments.
 
@@ -175,21 +176,22 @@ One of the problems with means-tested benefits is that they can create a disince
 
 The diagram below shows how benefits taper off as take home pay increases, for a lone parent with two children. We can see that the parent could hold a job which makes £175 per week, and along with benefits, will receive a net income of around £570 per week. If the lone parent decides to increase her income from paid work (usually by increasing working hours), to '£400 per week, she will be barely making any more in net income than she was before - around £590 per week. 
 
-|![Image](ChapterPictures/11-6-ParentingCosts.png)
-|:--:|
-|*Figure 7.6 - Lone Parent with 2 children and childcare costs*|
+```{r fig-7-6, echo=FALSE, fig.margin=FALSE, fig.cap='Distribution of Household Wealth. Source: ONS (2015)'}
+knitr::include_graphics('ChapterPictures/7-6-ParentingCosts.png', dpi = NA)
+```
 
 Similarly the below chart shows how increases in household incomes can provide 'disincentives' for some when income reaches beyond certain thresholds, creating a jagged transition for income progressivity [@Dyson2015].
 
-|![Image](ChapterPictures/11-7-TaxRates.png)
-|:--:|
-|*Figure 7.7 - How tax rates rise and fall*|
+```{r fig-7-7, echo=FALSE, fig.margin=FALSE, fig.cap='How tax rates rise and fall'}
+knitr::include_graphics('ChapterPictures/7-7-TaxRates.png', dpi = NA)
+```
 
 When we add the means-testing of benefits, the situation is even worse. For every £1 earned, 70p or more of benefits are withdrawn. This is clearly a disincentive against work, a 'welfare trap'.
 
-|![Image](ChapterPictures/11-8-MTR.png)|
-|:--:|
-|*Figure 7.8 - Benefit Withdrawal and Marginal Tax Rates, with RSA Proposals*|
+```{r fig-7-8, echo=FALSE, fig.margin=FALSE, fig.cap='Benefit Withdrawal and Marginal Tax Rates, with RSA Proposals. Source: RSA'}
+knitr::include_graphics('ChapterPictures/7-8-MTR.png', dpi = NA)
+```
+
 
 ## Administration 
 
@@ -238,10 +240,9 @@ There is, however, a serious problem of people not taking up their benefit entit
 According to a 2014governmental report, "Take-up may be affected by factors such as the attractiveness of the benefit, lack of awareness of the benefit or application procedure, lack of awareness of entitlement, the perceived stigma of receiving a benefit or other factors." [@ONS2016c]
 
 The chart below shows the proportion of unclaimed benefits to overpaid benefits. 
-
-|![Image](ChapterPictures/11-9-MispaidBenefits.png)|
-|:--:|
-|*Figure 7.9 - Mis-paid Benefits *|
+```{r fig-7-9, echo=FALSE, fig.margin=FALSE, fig.cap='Mis-paid Benefits. Source: ???'}
+knitr::include_graphics('ChapterPictures/7-9-MispaidBenefits.png', dpi = NA)
+```
 
 
 # 7.5 Criteria for a New Welfare Model

@@ -7,6 +7,7 @@ bibliography:
 - Library/Mac/library.bib
 link-citations: yes
 ---
+
 # CHAPTER 12: ENVIRONMENT, HEALTH, AND RESOURCES
 
 # 12.1 Introduction
@@ -21,9 +22,9 @@ link-citations: yes
 
 This chapter is devoted to reducing the harm caused to the environment and human health by economic activity such as burning fossil fuels or excessive production and consumption of red meat. We also investigate the distributional effects of resource extraction and consumption -- in particular, the financial surpluses that accrue to whoever controls the land from which rents are extracted.
 
-|![image](OtherPictures/EnvironmentalIssues.png)|
-|:--:|
-|*Figure 12.1 Key Environmental Issues*|
+```{r fig-12-1, echo=FALSE, fig.margin=TRUE, fig.cap='Key Environmental Issues. Source: Author design'}
+knitr::include_graphics('ChapterPictures/12-1-EnvironmentalIssues.png', dpi = NA)
+```
 
 Economic activity often causes damage that's not suffered or accounted for by the polluting parties themselves, but rather borne by those who have neither benefited from the activity nor caused the damage. Manufacturing businesses pumping out CO~2~ into the atmosphere have little or no obligation to pay for the damage that climate change causes around the world. Resulting 'damage costs' often can be ignored because they affect third parties and may be difficult to quantify and difficult to locate the direct source for. Such costs are called 'negative externalities.'
 
@@ -127,9 +128,10 @@ The difference between the private and the social cost, i.e. the costs that are 
 
 The concept of 'externalities' was first put forward by aforementioned British economist Arthur Cecil Pigou. 'Externalities' are a very elegant contribution to economic theory. Pigou realised the tremendous implications of the discrepancy between social and private costs and prices. All kinds of activities that appear at first to be profitable might not really be profitable at all, once their full costs are included. We are allowing private profit literally at the expense of others who are damaged by such activity. This, he thought, is simply unacceptable. Pigou then devised a relatively simple solution. All we have to do is calculate the value of the 'negative externality' and levy a tax of that amount so that the private cost is equivalent to the social cost. This is known as a Pigouvian tax [@Pigou1932].
 
-|![image](ChapterPictures/9-1-PigovianTax.png)|
-|:--:|
-|*Figure 12.2 Pigouvian tax -- depicting social and private costs, and a corrective tax*|
+```{r fig-12-2, echo=FALSE, fig.margin=TRUE, fig.cap='Pigouvian tax -- depicting social and private costs, and a corrective tax. Source: REPLACE THIS GRAPHIC'}
+knitr::include_graphics('ChapterPictures/12-2-PigovianTax.png', dpi = NA)
+```
+
 
 In practice, things are more complicated than simply pricing everything correctly to reflect the money impact of 'externalities,' but, even so, Pigou certainly pointed in the right direction, i.e. towards recognising and rectifying damages to the environment and society caused by economic activity.
 
@@ -144,9 +146,9 @@ The issue of externalities is of particular relevance to the conservation of nat
 Successful Pigouvian policies have been put in place to manage a variety of environmental and social issues -- from the 5 pence bag 'tax' to congestion charging in busy metropolitan centres. However, these existing policy initiatives are not nearly sufficient to tackle the large environmental problems or to ensure our economies are developing in a sustainable and regenerative manner. 
 The figure below illustrates what has worked well to date, and notes some areas for future development. 
 
-|![image](OtherPictures/EnvironmentalInitiatives.png)|
-|:--:|
-|*Figure 12.3 Successful Environmental Initiatives*|
+```{r fig-12-3, echo=FALSE, fig.margin=TRUE, fig.cap='12.3 Successful Environmental Initiatives. Source: Author design'}
+knitr::include_graphics('ChapterPictures/12-3-EnvironmentalInitiatives.png', dpi = NA)
+```
 
 
 Sustainable development as defined by the Brundtland report is 'development that meets the needs of the present without compromising the ability of future generations to meet their own needs.' [@CommissiononEnvironment] Unless we act now to create policy tools to properly account for and manage environmental damage, our actions will definitely continue to be grossly unfair to future generations.
@@ -220,8 +222,10 @@ According to these IMF economists, therefore, the measure of damage doesn't have
 
 In the UK, environmental taxes raised £48.0 billion in revenue in 2017, which as a percentage of GDP has remained fairly stable since the 1990s -- sitting at around 2.2% to 2.8% of national GDP. Forty percent of these taxes fall on households, rather than companies, with 66% of household expenditure on environmental taxes relating to energy taxes and fuel duty. As for the corporations and services to which these taxes apply, those with high energy usage and transport fuel needs faced the next biggest tax burden. Such data indicates that clever and appropriate targeting of tax bases, alongside appropriate use of revenue to mitigate the regressive impacts of such taxes, is needed to ensure that these are sustainable. 
 
-![Environmental Tax Revenue, ONS 2018](ChapterPictures/11-EnvironmentalTaxRevenue.PNG)
 
+```{r fig-12-4, echo=FALSE, fig.cap='Environmental Tax Revenue. Source: ONS (2018)'}
+knitr::include_graphics('ChapterPictures/12-4-EnvironmentalTaxRevenue.PNG', dpi = NA)
+```
 However, taxes on fossil fuels and carbon content remain a significant proportion of these environmental taxes. Of the £48.0 billion raised, around three-fourths were sourced from energy taxes. These encompass taxes on the production and use of energy products like petrol, gas, and diesel. The largest single element of the revenue raised was from fuel duty, which applies to fossil fuels such as petrol and diesel. These taxes raised 57% of total revenue from environmental taxes in 2017. 
 
 Conceptions of environmental taxes are closely linked to creation of disincentives against air pollution and greenhouse gases. Yet Pigouvian taxes can be applied much more widely to other externality targets beyond air pollution.
@@ -491,7 +495,7 @@ There is considerable future promise for establishing sequestration services whi
 We should also consider greenhouse gases from sources other than the two mentioned so far (carbon dioxide emissions from fuel combustion and methane from red meat production). Cement production is an important example. In addition, industrial processes sometimes produce non-CO~2~ greenhouse gases such as SF6, N~2~O and HFCs. The general rule is that we need a greenhouse gas tax at a consistent rate, in proportion to the greenhouse forcing effect of each gas.
 
 
-# 12.11 The Urgency of Climate Change and the Transition ^^
+# 12.11 The Urgency of Climate Change and the Transition
 
 So how should we transition to an effective, behaviour-driving carbon tax? The design of our carbon tax is of crucial importance to how fast we can decarbonise.
 

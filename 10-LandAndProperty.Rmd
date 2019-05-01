@@ -27,38 +27,38 @@ The most recent review into this topic was conducted by Lloyds Bank, who found t
 
 The below chart shows how the ratio of UK house price to real earnings has changed over time. 
 
-|![image](ChapterPictures/10-1-RealWagesvsHousePrices.png) |
-|:--:|
-|*Figure 10.1 - Real Wages vs House Prices*|
+```{r fig-10-1, echo=FALSE, fig.margin=FALSE, fig.cap='Real Wages vs House Prices. Source: ???'}
+knitr::include_graphics('ChapterPictures/10-1-RealWagesvsHousePrices.png', dpi = NA)
+```
 
 
 The ratio is the highest it has been since April 2008, at the beginning of the great recession. We can see below that it is particularly hard for first-time buyers to afford a house in London.
 
-|![image](ChapterPictures/10-2-Firsttimebuyer.png)|
-|:--:|
-|Figure 10.2 - First time buyer earnings to house price ratio across the UK*|
+``{r fig-10-2, echo=FALSE, fig.margin=FALSE, fig.cap='First time buyer earnings to house price ratio across the UK. Source: ???'}
+knitr::include_graphics('ChapterPictures/10-2-Firsttimebuyer.png', dpi = NA)
+```
 
 The below chart shows that the gap between the most and the least affordable local authorities has increased since 2002, and this is due to the least affordable areas moving further away from the overall affordability ratio [@ONS2016a].
 
-|![image](ChapterPictures/10-3-Housepriceaffordability.png)|
-|:--:|
-Figure 10.3 - House price affordability compared between Burnley and London*|
+```{r fig-10-3, echo=FALSE, fig.margin=FALSE, fig.cap='House price affordability compared between Burnley and London. Source: ???'}
+knitr::include_graphics('ChapterPictures/10-3-Housepriceaffordability.png', dpi = NA)
+```
+
 
 There have also been many demographic changes in housing ownership. The chart below shows the percentage of each age group that are home owners, from 1981 to 2014  [@Ough2016].
 
-|![image](ChapterPictures/10-4-Percentageownershipbyage.png)|
-|:--:|
-|*Figure 10.4 - Percentage of each age group that are home owners in England, 1981-2014*|
+```{r fig-10-4, echo=FALSE, fig.margin=FALSE, fig.cap='Percentage of each age group that are home owners in England, 1981-2014. Source: Ough (2016)'}
+knitr::include_graphics('ChapterPictures/10-4-Percentageownershipbyage.png', dpi = NA)
+```
 
 We can see a dramatic reduction in the percentage of people between the ages of 34-44 owning homes, and an increase in the percentage of over 65s owning homes.
 
 ##  The Human Impact
 
 The rising cost of housing is also contributing to growing inequality of wealth. The chart below shows the upper bounds of household net property wealth for each 1% of the net property wealth distribution in 2012. 
-
-|![image](ChapterPictures/10-5-Householdnetpropertywealth2012.png)|
-|:--:|
-|Figure 10..5 - Upper bounds of household net property wealth in 2012*|
+```{r fig-10-5, echo=FALSE, fig.margin=FALSE, fig.cap='Upper bounds of household net property wealth in 2012. Source: ???'}
+knitr::include_graphics('ChapterPictures/10-5-Householdnetpropertywealth2012.png', dpi = NA)
+```
 
 The graph above shows dramatic inequality in property wealth, but it still does not capture the devastating personal effect that unaffordable housing is having on British people. Shelter UK warns that: 
 
@@ -106,8 +106,10 @@ If you're not convinced, consideFigure 10.8.6 below [@Wightman2013]. This graph 
 
 We see that while the cost of building houses has remained largely stable between 1986 and 2007, land prices have oscillated dramatically through a boom and bust cycle. The 'House Price' line is most revealing because, while the costs of building houses has stayed the same, the cost of buying them has oscillated - mirroring the 'Land Price' line [@Lloyd2009].
 
-|![image](ChapterPictures/10-6-Indexofhousingmarketcosts1983-2007.png)|
-|:--:|Figure 10. 8.6 - Index of housing market costs 1983-2007*|
+```{r fig-10-6, echo=FALSE, fig.margin=FALSE, fig.cap='Index of housing market costs 1983-2007. Source: ???'}
+knitr::include_graphics('ChapterPictures/10-6-Indexofhousingmarketcosts1983-2007.png', dpi = NA)
+```
+
 
 ## Why then the boom and bust cycle?
 
@@ -164,9 +166,9 @@ Monopoly is a fun game to play, but not necessarily one that leads to familial h
 
 Rather less commonly known is the fact that Monopoly was preceded by and evolved from another game, called 'The Landlord's Game,' invented and patented by Elizabeth Magie. 
 
-|          ![image](ChapterPictures/10-7-Monopoly.jpg)          |
-| :----------------------------------------------------------: |
-| *Figure 10.7 - The Original Monopoly was first called The Landlord's Game and invented by Elizabeth Magie* |
+```{r fig-10-7, echo=FALSE, fig.margin=FALSE, fig.cap='The Landlord\'s Game, precursor to \'Monopoly\', was invented by Elizabeth Magie*. Source: ???'}
+knitr::include_graphics('ChapterPictures/10-7-Monopoly.jpg', dpi = NA)
+```
 
 
 This state of affairs is also present when oligopolies exist. ^[A state of limited competition, in which a market is shared by a small number of producers or sellers.]
@@ -187,9 +189,9 @@ Elizabeth Magie intended her game to demonstrate that a single tax on land value
 
 Magie was not the originator of this concept. She was espousing the ideas of a 19th Century self-taught economist named Henry George, who argued that a single tax on land values would be both efficient and fair. It would be *fair* because it taxed unearned increases in land values which occur not as a result of individual effort or ingenuity, but because of development of infrastructure and the wider economy. It would be *efficient* because the quantity of land does not change. He suggested that when we tax labour (via income tax) or tax economic activity via sales tax and corporate taxes, we discourage these activities and thereby make the economy less productive. Taxing land values instead might discourage people from speculating on land, and this would be a good thing, as it would free up funds for more productive investment and free up land for more beneficial purposes.
 
-|    ![image](ChapterPictures/10-8-GeorgeSign.jpg)    |
-| :------------------------------------------------: |
-| *Figure 10.8 - Everybody works but the vacant lot* |
+```{r fig-10-8, echo=FALSE, fig.margin=FALSE, fig.cap='Everybody works but the vacant lot. Source: ???'}
+knitr::include_graphics('ChapterPictures/10-8-GeorgeSign.jpg', dpi = NA)
+```
 
 
 George presented his ideas in a bestselling book, 'Progress and Poverty,' and the case for a land value tax was taken up by great thinkers and politicians, including the Russian novelist Leo Tolstoy and British politicians Winston Churchill and David Lloyd George. It was only the intervention of the first World War that prevented the tax being implemented in the UK. The "people's budget" was passed by the pre-war government, but had not yet been implemented by the outbreak of World War I. After the war, the new government had different priorities, and the tax was never implemented.
@@ -333,9 +335,9 @@ He also offers an test for proponents of LVT to assess the policy's political fe
 
 Land Value Tax has been applied in some form in several countries, including Denmark and Estonia, and some parts of Australia, New Zealand, and the USA. [@Conservative2016]. The chart below illustrates the widespread nature of land tax policies [@Dye2009].
 
-|         ![image](ChapterPictures/10-9-DenmarkLVT.png)         |
-| :----------------------------------------------------------: |
-| *Figure 10.9 - Land Value Taxation: Theory Evidence and Practice - Countries with Land Value Taxation by Year of Adoption* |
+```{r fig-10-9, echo=FALSE, fig.margin=FALSE, fig.cap='Land Value Taxation: Theory Evidence and Practice - Countries with Land Value Taxation by Year of Adoption. Source: Dye (2009)'}
+knitr::include_graphics('ChapterPictures/10-9-DenmarkLVT.png', dpi = NA)
+```
 
 Since 1922, Denmark has levied a land value tax based on the market price of land, revalued every two years. The tax is payable to the local authority and county based on a per-thousandth share of the value of the land. The share varies according to different types of land use; however each share is a minimum of six and a maximum of 24 thousandths of the value of the land, giving an effective tax rate between 0.6% and 2.4% of the land's estimated market value. 
 
@@ -567,10 +569,10 @@ Generally, since the 1980s, interest rates have been falling, leading to very la
 
 As we can see from this discussion, the ownership of land confers a great deal of power to owners. Limited land supply means that the owner is able to benefit from the need for housing (rent), from increases in demand for housing in the area (rent increases), and from decreases in interest rate (asset value increases). These increases in property wealth contribute to the impact outlined by Piketty [@Piketty2014a], whereby the rate of increase in wealth derived from asset ownership outstrips that of wealth derived from saving a portion of wage income, which further compounds inequality between the have-nots and the have-lots. 
 
+```{r fig-10-10, echo=FALSE, fig.margin=FALSE, fig.cap='Land, Rent, and Income Inequality. Source: ???'}
+knitr::include_graphics('ChapterPictures/10-10-WealthRentIncreases1.png', dpi = NA)
+```
 
-|![image](ChapterPictures/10-10-WealthRentIncreases1.png)|
-|:--:|
-|*Figure 10.10 Land, Rent, and Income Inequality*|
 
 # 10.12 The Treatment of Land in Economics Education
 

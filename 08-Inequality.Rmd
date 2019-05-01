@@ -2,7 +2,9 @@
 title: "Tax Heaven"
 output: 
   tufte::tufte_handout: default
-bibliography: Library/Mac/library.bib
+bibliography: 
+- Library/PC/library.bib
+- Library/Mac/library.bib
 link-citations: yes
 ---
 
@@ -25,7 +27,7 @@ link-citations: yes
 
 # 8.1 Why does Inequality Matter?
 
-`r tufte::newthought('Have you ever walked')` through Knightsbridge in London, and watched as expensive cars parked outside designer shops - even as homeless people begged for spare change on the sidewalk nearby? That's a clichéd image of inequality. The homelessness of some isn't caused by the great wealth of others. However, stagnant working-class and middle-class wages may well be. The greater problem in Britain is that a propertied ownership class is taking a rising share of national income, extracting rents from everyone else, and getting increasingly wealthy whilst the majority are squeezed by higher monthly outlays on everything from rents or mortgage payments to tuition fees for kids in college. 
+`r tufte::newthought('Have you ever walked')` through Knightsbridge in London, and watched as expensive cars parked outside designemar shops - even as homeless people begged for spare change on the sidewalk nearby? That's a clichéd image of inequality. The homelessness of some isn't caused by the great wealth of others. However, stagnant working-class and middle-class wages may well be. The greater problem in Britain is that a propertied ownership class is taking a rising share of national income, extracting rents from everyone else, and getting increasingly wealthy whilst the majority are squeezed by higher monthly outlays on everything from rents or mortgage payments to tuition fees for kids in college. 
 
 In this chapter, we will look at how wealth and income are distributed in Britain. As we will see, the distribution is very unequal. We will ask: Is it a problem that some have so much, while others have little? What relationship is there between high incomes and wealth and contributive merit? Do people really get what they deserve?   
 

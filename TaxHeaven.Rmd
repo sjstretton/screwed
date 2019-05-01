@@ -38,7 +38,7 @@ knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](OtherPictures/RTW.png) 
+![](ChapterPictures/0-1-RTW.png) 
 
 # Acknowledgments
 

@@ -1,11 +1,10 @@
 ---
-title: "Chapter 2 of Tax Heaven"
-subtitle: "Revolutionising Tax and Welfare in the Pre-Singularity Era"
-date: "`r Sys.Date()`"
+title: "Tax Heaven"
 output: 
   tufte::tufte_handout: default
-  tufte::tufte_html: default 
-bibliography: Library/PC/library.bib
+bibliography: 
+- Library/PC/library.bib
+- Library/Mac/library.bib
 link-citations: yes
 ---
 
@@ -22,7 +21,7 @@ Under starry skies, distant in time and space from our present-day fishermen, si
 On this cool and starlit night, Smith was writing the fifth and final book of the 'Wealth of Nations', entitled 'On the Revenue of the Sovereign or Commonwealth'. Smith asked a series of questions, such as how should the activity of the government be funded, and which taxes a state should impose.
 
 ```{r fig-2-1, echo=FALSE, fig.margin=TRUE, fig.cap='Plaque marking the site in Kirkcaldy where Smith lived. Source: Wikipedia'}
-knitr::include_graphics('ChapterPictures/AdamSmithSmall.png', dpi = NA)
+knitr::include_graphics('ChapterPictures/2-1-AdamSmith.png', dpi = NA)
 ```
 
 While Smith worked by candlelight, far across the oceans, in Boston Harbour in what was then the British colony of North America, some demonstrators had boarded ships of the British East India Company and were throwing chests of tea into the sea. The demonstrators' objection: The British state was collecting taxes from them, yet had refused to give them representation in the British parliament. From this dispute, the American Revolution was born.  Adam Smith himself agreed with the American revolutionaries that the North American colonies should be represented in the British parliament in proportion to the taxes they paid.
