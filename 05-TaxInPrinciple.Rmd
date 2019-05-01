@@ -1,14 +1,10 @@
 ---
-title: "Tax Heaven: Revolutionising Taxation and Welfare"
-author: "Gordon Styles and Stephen Stretton (Editors)"
-date: "`r Sys.Date()`"
-output:
+title: "Tax Heaven"
+output: 
   tufte::tufte_handout: default
-toc: false
-toc_depth: 1
-bibliography:
+bibliography: 
+- Library/PC/library.bib
 - Library/Mac/library.bib
-- Library/HeatherPC/library.bib
 link-citations: yes
 ---
 

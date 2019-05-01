@@ -1,11 +1,8 @@
 ---
 title: "Tax Heaven"
-subtitle: "Revolutionising Tax and Welfare in the Pre-Singularity Era"
-date: "`r Sys.Date()`"
 output: 
-  tufte::tufte_handout: default 
-  tufte::tufte_html: default
-bibliography: Library/Mac/library.bib
+  tufte::tufte_handout: default
+bibliography: Library/PC/library.bib
 link-citations: yes
 ---
 
@@ -110,13 +107,11 @@ At the time of writing, receipts from Corporation Tax are surprisingly high, wit
 
 The current level of receipts from Corporation Tax have been attributed to several factors, including a general growth in the UK economy, increases in the profitability of UK corporations, a fall in investment spending (because companies can offset some investment against profits), and increased government focus on combatting tax avoidance [@JacksonHoulder]. 
 
-| ![Receipts From Corporation Tax](ChapterPictures/7-2-ReceiptsFromCorpTax.png) |
-| :----------------------------------------------------------: |
-|           *Figure 9.1 - Corporation Tax Avoidance*           |
+```{r fig-9-1, echo=FALSE, fig.margin=FALSE, fig.cap='Receipts From Corporation Tax. Source: ???'}
+knitr::include_graphics('ChapterPictures/9-1-ReceiptsFromCorpTax.png', dpi = NA)
+```
 
-*Private Companies Rely on Public Services Too*
-
-Corporate profits are not totally independent of public investment. Corporations require a number of public goods to run their companies successfully - among other things, educated and healthy employees, smooth roads and public transport systems, and power grids and telecommunications systems. They thus rely on tax-financed public goods, including social investment in the education and health of employees, public infrastructure, legal contracts and property rights. 
+*Private Companies Rely on Public Services Too:* Corporate profits are not totally independent of public investment. Corporations require a number of public goods to run their companies successfully - among other things, educated and healthy employees, smooth roads and public transport systems, and power grids and telecommunications systems. They thus rely on tax-financed public goods, including social investment in the education and health of employees, public infrastructure, legal contracts and property rights. 
 
 ## Reason 2: Tackling Rent
 
@@ -136,9 +131,10 @@ Individuals can have income from employment and from owning assets. The tax on t
 
 Income tax is levied not only employment income, it is also levied on distributed profits (dividends). Profits distributed as dividends are taxed twice: Once under the corporation tax and once under the income tax system. The rate of income tax paid on dividends is lower to account for the corporation tax already deducted.
 
-| ![Corporation Tax and Income Tax](ChapterPictures/7-1-IncTaxandCorpTax.png) |
-| :----------------------------------------------------------: |
-|        *Figure 9.2 - Corporation Tax and Income Tax*         |
+```{r fig-9-2, echo=FALSE, fig.margin=FALSE, fig.cap='Corporation Tax and Income Tax*. Source: Author'}
+knitr::include_graphics('ChapterPictures/9-2-IncTaxandCorpTax.png', dpi = NA)
+```
+
 
 The country where a company actually does business and the country of residence of the company's owner are sometimes different. This means that profits could be made in one country and then distributed to an owner resident in another country.
 
@@ -195,23 +191,24 @@ According to the European Commission, this arrangement amounted to a form of sta
 
 The foregoing discussion illustrates the underlying tensions between governments and corporations, and the growing difficulty facing governments who attempt to tax corporate profits in a globalised world. Multinational companies which wish to minimise their tax bill are willing to move around and create complex tax structures to achieve this goal. Countries seek to attract investment and gain income from corporation tax. In the case of Ireland, the government has positioned itself as a low tax country in order to attract investment and create jobs. This dynamic between corporations and governments creates a *race to the bottom* in which governments compete to attract companies by lowering their corporation tax rates. The below chart compares the rates of Corporation Tax around the world. [@Miller2017]
 
-| ![Corporation Tax Around The World](ChapterPictures/7-3-EUCorpTaxRates.png) |
-| :----------------------------------------------------------: |
-|    *Figure 9.3 - Corporation Tax Rates Around the World*     |
+```{r fig-9-3, echo=FALSE, fig.margin=FALSE, fig.cap='Corporation Tax Rates Around the World. Source: Miller (2013)'}
+knitr::include_graphics('ChapterPictures/9-3-EUCorpTaxRates.png', dpi = NA)
+```
 
-As can be seen in the chart, the UK's main rate of corporation tax will decrease to 17% in 2020. The stated objective of this reduction is to create a more competitive corporate tax system to provide the right conditions for business investment and growth. Government analysis suggests that the change will reduce income to the Exchequer of £120 million in 2019-20 and £945 million in 2020-21 [@HMRC2015]. The chart below, from the Institute of Fiscal Studies, shows the revenue cost of past Corporate tax rate reductions, and the projected cost of future cuts [@Miller2017]. 
 
-| ![UK Corporation Tax Cuts](ChapterPictures/7-4-UKCorpTaxCuts.png) |
-| :----------------------------------------------------------: |
-|         *Figure 9.4 - UK Corporation Tax Rate Cuts*          |
+As can be seen in the chart, the UK's main rate of corporation tax will decrease to 17% in 2020. The stated objective of this reduction is to create a more competitive corporate tax system to provide the right conditions for business investment and growth. Government analysis suggests that the change will reduce income to the Exchequer of £120 million in 2019-20 and £945 million in 2020-21 [@HMRC2015]. The chart below, from the Institute of Fiscal Studies, shows the revenue cost of past Corporate tax rate reductions, and the projected cost of future cuts [@Miller2017].
+
+```{r fig-9-4, echo=FALSE, fig.margin=FALSE, fig.cap='UK Corporation Tax Rate Cuts. Source: Miller (2017)'}
+knitr::include_graphics('ChapterPictures/9-4-UKCorpTaxCuts.png', dpi = NA)
+```
 
 The picture is similar elsewhere. In 2015, Japan, Spain, Israel, Norway and Estonia decreased their corporation tax rates, and Italy, France, Japan and the UK had announced plans to do so. 
 
 These trends in corporate tax rate have a bearing on issues concerning wealth and income inequality. Tax Justice campaigners have warned that as governments have reduced taxes on corporate profits, they have increased the rates of VAT, fuel, and car taxes. The chart below shows the increase in the OECD average rate of VAT from 2000-2015. We can see a steady increase in the VAT average after 2009.
 
-| ![OECD VAT Rates](ChapterPictures/7-5-OECDVATRates.png) |
-| :-----------------------------------------------------: |
-|     *Figure 9.5 - OECD Average standard VAT rates*      |
+```{r fig-9-5, echo=FALSE, fig.margin=FALSE, fig.cap='OECD Average standard VAT rates*. Source: ???'}
+knitr::include_graphics('ChapterPictures/9-5-OECDVATRates.png', dpi = NA)
+```
 
 VAT and fuel taxes disproportionately affect lower income earners. According to the Tax Justice Network, after lowering corporation taxes, "Governments make up the shortfall by levying higher taxes on other, less wealthy sections of society, or by cutting back on essential public services." A concern on the other side of the argument is that if higher corporation tax reduces the return to company shareholders, this will not only affect wealthy people with directly held shares, but also older people with private pensions. 
 
@@ -261,9 +258,9 @@ $$  Weighting_{UK} = \left( \frac{1}{3} \right)* \left( \frac{Sales_{UK}}{Global
 
 This picture from the Tax Justice group illustrates the change in a slightly more reader-friendly format. As it demonstrates, the change to unitary taxation would fairly apportion tax liabilities according to the percentage of actual business operations that occur in different regions. [@TaxJustice2019]
 
-![9-CorporationTax-unitarytax](ChapterPictures\9-CorporationTax-unitarytax.PNG)
-
-				*Figure 9.6 - Corporation Tax and Income Tax*
+```{r fig-9-6, echo=FALSE, fig.margin=FALSE, fig.cap='Corporation Tax and Income Tax. Source: ???'}
+knitr::include_graphics('ChapterPictures/9-6-CorporationTax-unitarytax.PNG', dpi = NA)
+```
 
 The benefits of such a system are clear, and public support for the system would likely be broad. However, the simplified nature of the calculation does not incorporate the difficulty of enforcing such a policy, nor the problem of incentives for countries to relocate to cheaper countries and export their goods and services from there to the UK market. 
 

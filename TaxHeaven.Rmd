@@ -16,7 +16,7 @@ link-citations: yes
 \newpage
 
 ```{r setup, include=FALSE}
-Platform <- "Mac" #"PC" "Mac" "HeatherPC" 
+Platform <- "PC" #"PC" "Mac" "HeatherPC" 
 if(Platform=="PC") { 
  setwd("~/Book") 
 } else if(Platform=="Mac") { 
@@ -38,7 +38,7 @@ knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](OtherPictures/RTW.png) 
+![](ChapterPictures/0-1-RTW.png) 
 
 # Acknowledgments
 
