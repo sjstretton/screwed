@@ -44,7 +44,7 @@ Thus, in the economics of environment and resources, we distinguish between two 
 
 In the next section, we will deal with resource rents: i.e., the distributional consequences of the production side of resources. The rest of the chapter deals with the topic of negative externalities from the perpective of consumption.
 
-# 12.2  Resource Rents ^^
+# 12.2  Resource Rents
 
 Future resource rents represent unearned income in the form of natural resources yet to be extracted. Tax revenues gathered from charges on resource extractions are different to general government revenues in two key ways. First, resource revenues are volatile because they are driven largely by volatile commodity prices, and the revenues are, in principle, temporary. Secondly, natural resources are part of the commons: In principle, all citizens have an equal claim on them, and unlike income-based government revenues, resource rents have not been appropriated from anyone, and so represent 'distributions' as opposed to 'redistributions' [@Segal2012].
 
@@ -311,7 +311,7 @@ If we consider a progressive tax that disproportionately affects the better-off 
 These points serve to demonstrate that some economic 'distortions,' including the 'deadweight loss' of taxation (insofar as such a thing can even reasonably be said to exist), is desirable insofar as this 'distortion' generates welfare gains to society as a whole, both by paying for the delivery of essential civilisational infrastructure and through redistribution benefits.
 
 
-# 12.7 Health and Food Taxes ^^
+# 12.7 Health and Food Taxes
 
 Taxes on items that are harmful to individuals that consume those items are not the focus of this book -- but such taxes do exist. They are often called 'sin taxes.' There are high taxes on cigarettes and alcohol, for example. A case can easily be made for taxing unhealthy but cheap products such as sugar and salt in manufactured food, as well.  
 

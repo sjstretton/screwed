@@ -23,7 +23,6 @@ if(Platform=="PC") {
   setwd("~/Documents/Book")
 } else if(Platform=="HeatherPC") {  
   setwd("~/Github/TaxHeaven/taxheaven")
-  #Add something for your WD if this doesn't work# 
 }
 
 options(htmltools.dir.version = FALSE)
@@ -54,18 +53,26 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '02-Revolutions.Rmd'}
+```{r child = '02-QuestionsOfThisBook.Rmd'}
 ```
 
 \newpage
 
-```{r child = '03-ProgressAndProblems.Rmd'}
+# **PART II: ECONOMICS**
+
+\newpage
+
+```{r child = '03-RevolutionsInTheMindsOfMen.Rmd'}
 ```
 
 \newpage
 
 ```{r child = '04-DesertIslandEconomics.Rmd'}
 ```
+
+\newpage
+
+# **PART III: TAXATION**
 
 \newpage
 
@@ -79,7 +86,7 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-# **PART II: SECTORS AND PROPOSALS**
+# **PART IV: SECTORS AND PROPOSALS**
 
 \newpage
 
@@ -112,7 +119,7 @@ The editors would like to extend their gratitude to the authors and to all who h
 ```
 \newpage
 
-# **PART III: CONCLUSIONS**
+# **PART V: CONCLUSIONS**
 
 \newpage
 

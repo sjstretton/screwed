@@ -650,7 +650,7 @@ The figure below summarises how these factors can contribute to increased income
 knitr::include_graphics('ChapterPictures/8-21-FactorsOfIncomeInequality.png', dpi = NA)
 ```
 
-# 8.16 Options for Taxes on Personal Income ^^ (UNEDITED)
+# 8.16 Options for Taxes on Personal Income
 
 Income Tax and National Insurance together account for around half of all revenue raised. These taxes are likely to be important for the foreseeable future. Income tax is important as a tax on wage income and on income from investments.  It is also the primary means of affecting the distribution of income using the tax system. However the existing approach is, like the rest of the tax system, unnecessary complex. Income tax, and its close cousin National Insurance (which we combine into a single tax) are also extremely efficient ways of raising revenue.
 
@@ -676,7 +676,7 @@ The disadvantage of a flat tax system is that it is less progressive than the ot
 
 We propose to combine the current National Insurance and Income Tax systems so that there is a single tax on income. We also propose to simplify the rate structure so that there is only one rate above the allowance. Having a single rate allows the tax system to be made considerably simpler, and permits taxes to be deducted at source.
 
-# 8.17 Overview of Possibilities for Taxing Wealth ^^ (UNEDITED)
+# 8.17 Overview of Possibilities for Taxing Wealth
 
 ## Source-based Private Wealth Taxes
 

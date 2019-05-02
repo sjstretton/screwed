@@ -12,7 +12,7 @@ link-citations: yes
 
 # 5.1 Why Tax?
 
-It seems obvious that the authors of this book - **Tax Heaven** - would be in favour of taxation. Taxes are, as we have argued in previous chapters, a valuable method to pursue a variety of social objectives. In fact, they are probably among the most important tools at the disposal of governments, despite the negative press that surrounds their levy and use. 
+It seems obvious that the authors of this book, *Tax Heaven*, would be in favour of taxation. Taxes are, as we have argued in previous chapters, a valuable method to pursue a variety of social objectives. In fact, they are probably among the most important tools at the disposal of governments, despite the negative press that surrounds their levy and use. 
 
 It’s time for a PR campaign. Death and taxes may be inevitable, but taxes do not have to be seen as inevitably negative. The careful design of tax regimes can minimise negative impacts, such as regressive levies, poor behavioural incentives, or sophisticated evasion of taxes by those who can afford specialist accountants. The importance of the tax regime implementation and planning process can scarcely  be overstated. Nor can the importance of effectively communicating the intended purpose of tax policy. The optics of policy design and implementation are key to minimizing resistance and maximising success. 
 
@@ -55,14 +55,10 @@ Taxes can be applied to a range of goods and services. We will, going forward, t
 Deciding which tax base to use can often be determined by the objective of the policy. In the current system, raising revenue is predominantly achieved through income taxes. This helps redistribute aggregate economic income from those with high incomes to those with low incomes. Taxes can also be applied to the unearned increment on scarce resources that are limited in supply or monopolised - for example, land, fossil fuels, or endangered fish. And taxes can help disincentivise environmental and health bads - activities that damage our common resources or our health. 
 
 Overall, we could tax four different types of activities:
-
-1.     Rents: Land, property, resources.
-
-2.     Finance: Money balances, bank balance sheets, transactions.
-
-3.     Environmental Health and Social Damage: Fossil fuels, greenhouse gas emissions, alcohol, tobacco, sugar, salt.
-
-4.     Cash Flow: Income, profit, capital gains, value added (sales tax).
+1. Cash Flow: Income, profit, capital gains, value added (sales tax).
+2. Rents: Land, property, resources.
+3. Finance: Money balances, bank balance sheets, transactions.
+4. Environmental Health and Social Damage: Fossil fuels, greenhouse gas emissions, alcohol, tobacco, sugar, salt.
 
 But how do we decide which tax base to use? One solution is to create a decision framework based on selected principles of justice and benefit. We define these as the preconditions of practicality, benefit, and fairness. The questions we can ask ourselves to build this decision framework will help shape the ultimate design of the tax policy and the schedule of assets that we decide to tax. 
 
@@ -97,7 +93,7 @@ Arthur Cecil Pigou [-@Pigou1924] developed the idea of taxing negative externali
 
 On wealth and inequality, there is a substantial body of work on the impact that taxation can have. Keynes' Polish contemporary, Kalecki, argued that taxation of wealth would increase effective demand and therefore economic growth without stifling incentives [@Kalecki1937]. And more recently Piketty [-@Piketty2014a] has shown the consequences for continual growth in inequality if wealth and high income are *not* sufficiently taxed.
 
-There have also been several contemporary reports into taxation in practice. The postwar UK was among the pioneers of what was to become the basis of the modern welfare state. Beveridge’s comprehensive plan for a ‘cradle-to-grave’ tax and welfare system was ground-breaking in its day, with its proposal to use progressive income taxation to pay for the amelioration of the five great evils he identified. More recent tax policy proposal updates in the UK have included the Meade Review on direct taxation [@Meade1977] and the Mirrlees Review into taxation [@Mirrlees2010d], [@Mirrlees2011]. The former recommended a cash-flow taxation system of taxing consumption, findings which were echoed by the Mirrlees study. This study found that applying a deduction for the normal cost of capital could achieve comparable results, alongside a raft of other land-based taxes (such as a land value tax or proportional property tax) to replace business rates and/or council tax. There have been similar reviews in Canada [@Carter1966], the United States, [@Bradford1977] and, more recently, in Australia [@Henry2010] and New Zealand [@evans2011reflections]. 
+There have also been several contemporary reports into taxation in practice. The postwar UK was among the pioneers of what was to become the basis of the modern welfare state. Beveridge’s comprehensive plan for a ‘cradle-to-grave’ tax and welfare system was ground-breaking in its day, with its proposal to use progressive income taxation to pay for the amelioration of the five great evils he identified. More recent tax policy proposal updates in the UK have included the Meade Review on direct taxation [@Meade1977] and the Mirrlees Review into taxation [@Mirrlees2010d; @Mirrlees2011]. The former recommended a cash-flow taxation system of taxing consumption, findings which were echoed by the Mirrlees study. This study found that applying a deduction for the normal cost of capital could achieve comparable results, alongside a raft of other land-based taxes (such as a land value tax or proportional property tax) to replace business rates and/or council tax. There have been similar reviews in Canada [@Carter1966], the United States, [@Bradford1977] and, more recently, in Australia [@Henry2010] and New Zealand [@evans2011reflections]. 
 
 Standing on the shoulders of these giants, we can derive two general principles. First, the allocation of capital needs to account for the total costs and benefits to society, rather than just to the private profit of an individual. This involves a rethink of what property rights actually entail, and will enable taxes to be used to enact broader social aims. Using taxation to internalise the *externalities* that result from economic action will therefore ensure that assessements of an action's total benefits and costs are incorporated into economic decision making, which in turn will combat the inefficiencies and market failures associated with allowing these to persist. 
 
@@ -185,9 +181,9 @@ In simple terms, three major functions of the tax and welfare system can be iden
 
 Similarly, we can identify three main non-functional requirements:
 
-1. Useable:      (Simple, with clear justification, objectives and low compliance and collection costs)
-2. Economically      Efficient:  (Non-distortive, applied to a secure tax base, and with low capacity to evade/avoid)
-3. Equitable:      (Transparent, fair, and internationally cooperative)
+1. Useable: (Simple, with clear justification, objectives and low compliance and collection costs)
+2. Economically Efficient: (Non-distortive, applied to a secure tax base, and with low capacity to evade/avoid)
+3. Equitable: (Transparent, fair, and internationally cooperative)
 
 ## Qualitative Requirements of Welfare System
 
@@ -195,9 +191,9 @@ We can also apply a similar mindset to the use of tax revenue in the case of the
 
 A welfare system should be:
 
-1. Useable:      (Simple, integrated, value for money, with the use of modern technology)
-2. Efficient:      (Providing incentives for going to work, and for skills development)
-3. Equitable:      (Fair, without stigma)
+1. Useable: (Simple, integrated, value for money, with the use of modern technology)
+2. Efficient: (Providing incentives for going to work, and for skills development)
+3. Equitable: (Fair, without stigma)
 
 ## Theory Of Change
 

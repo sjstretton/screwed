@@ -612,7 +612,7 @@ Whilst the institutions of the Singapore property state model have evolved over 
 
 Singapore shows that public land ownership can be combined with high rates of owner occupation. Low cost and high-quality public housing can be both affordable and beneficial to all parts of the community, including the business sector. Given the realities of Brexit Britain, where parts of the public sector, such as Railtrack, are still selling off land to the private sector, where public housing provision has declined relative to the private sector, and where property taxation is outdated and arbitrary, the Singapore property state model deserves a closer look by British policy-makers.
 
-# 10.14 Taxes on Land and Property ^^ NOT YET EDITED
+# 10.14 Taxes on Land and Property
 
 Because land is fixed in supply, it can be taxed without causing significant economic distortion. A land tax subtracts the value of the premises from the tax on the land itself. It can be imposed progressively, reducing the return to landownership (capital gain plus rent) to around a zero nominal return.
 

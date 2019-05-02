@@ -54,11 +54,17 @@ Of the money allocated to the welfare state, some £217 billion was spent on soc
 
 In fact, the UK welfare system is so comprehensive that at some point in an individual’s life, they will most likely receive some form of payments from the state. These are most commonly in the form of child tax credits or child benefit, and state pension payments during retirement age. Over half of families in the UK receive income from one or more welfare payments in the system, with the majority of these payments (59%) going towards pension obligations. Together with personal tax credits, mainly targeting families with dependents, and housing benefit, these three areas combine to make around two-thirds of total welfare spending. Job seekers' allowance, despite its infamous status, made up only 1% of the total spend on social security provisions in total. The figure below expands on this spending.
 
-![5-1-taxrev](ChapterPictures/5-1-taxrev.png)
+
+```{r fig-5-1, echo=FALSE, fig.margin=FALSE, fig.cap='Breakdown of Welfare Spending in the UK (2016-17). Source: DWP/HMRC/OBR'}
+knitr::include_graphics('ChapterPictures/5-1-taxrev.png', dpi = NA)
+```
 
 
+```{r fig-5-2, echo=FALSE, fig.margin=FALSE, fig.cap='Average spending on benefits and tax credits at different ages in 2010-11. Source: DWP/ONS/OBR'}
+knitr::include_graphics('ChapterPictures/5-2-taxage.png', dpi = NA)
+```
 
-![5-2-taxage](ChapterPictures/5-2-taxage.png)
+
 
 As the figure above shows, the largest single slice of the expenditure on welfare is directed towards people in retirement, sitting at 40% of total revenue. Despite recent policy changes to raise the retirement age in light of an aging population, this portion of welfare is set to increase. The rest is divided amongst those on disability and incapacity benefit, families, and low-income people. These benefits are either on a contributory basis, i.e. pension payments that are dependent on National Insurance contributions, or non-contributory, such as the basic state pension. These benefits can be awarded on a means-tested basis, i.e. housing benefit, or be universally applicable, like universal credit.
 
@@ -96,7 +102,9 @@ Firstly, taxes should be 'hypothecated,' i.e. taxes can be clearly linked to the
 
 'Regressive' means that the burden of the tax falls proportionately harder on the poor than on the prosperous. With consumption taxes, even though the latter may be paying more in absolute terms, as a percentage of disposable income, the poor pay more. Taxes like VAT, National Insurance, Vehicle Excise Duty, and council tax fall under this category. British Columbia is an example of success in this respect, having directly rebated households with the proceeds from their nascent carbon taxation scheme. Public acceptance rates of this scheme have thus been maintained. Compare this to the poorly communicated fuel levy placed in France towards the end of 2018 and the resultant ‘Gilet Jaune’ protests, and the importance of clear communication about the purposes to which a tax policy is put become clear. 
 
-![5-3-taxtrust](ChapterPictures/5-3-taxtrust.png)
+```{r fig-5-3, echo=FALSE, fig.margin=FALSE, fig.cap='Carbon price versus trust in politicians ansd corruption perception'}
+knitr::include_graphics('ChapterPictures/5-3-taxtrust.png', dpi = NA)
+```
 
 
 The figure above correlates the height, or price, of carbon prices in governments with public trust in government and politicians. Carbon tax rates are positively correlated with trust in politicians, and negatively correlated with perceptions of corruption [@OurWorldinData2018]. 
