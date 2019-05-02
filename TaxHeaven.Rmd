@@ -117,14 +117,21 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 ```{r child = '12-EnvironmentAndResources.Rmd'}
 ```
+
+\newpage
+
+```{r child = '13-InternationalAspects'}
+```
+
 \newpage
 
 # **PART V: CONCLUSIONS**
 
 \newpage
 
-```{r child = '13-Conclusions.Rmd'}
+```{r child = '14-Conclusions.Rmd'}
 ```
+
 # **APPENDIX**
 
 \newpage
