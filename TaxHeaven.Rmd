@@ -1,5 +1,5 @@
 ---
-title: "Tax Heaven: Revolutionising Taxation and Welfare"
+title: "Screwed? How Tax Heaven Can Fix Our Economy and Planet"
 author: "Gordon Styles and Stephen Stretton (Editors)"
 date: "`r Sys.Date()`"
 output:
@@ -118,10 +118,6 @@ The editors would like to extend their gratitude to the authors and to all who h
 ```{r child = '12-EnvironmentAndResources.Rmd'}
 ```
 
-\newpage
-
-```{r child = '13-InternationalAspects'}
-```
 
 \newpage
 
