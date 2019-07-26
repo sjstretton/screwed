@@ -1,6 +1,8 @@
 # Readme
 
-This document contains the overarching material for 'Tax Heaven'. It contains:
+##  Contents
+
+This document contains the **overarching material** for *'Tax Heaven'*. It contains:
 - Quick Start Guide
 - Overview of Book 
 - Presentation of Book
@@ -14,7 +16,7 @@ This document contains the overarching material for 'Tax Heaven'. It contains:
 
 # Quick Start Guide
 
-- To read the intro (Work in Progress) go to: [0-Introduction](00-Introduction.md)
+- To read the intro go to: [0-Introduction](00-Introduction.md)
 - To read the chapter after that go to: [01-Revolutions](01-Revolutions.md)
 - Further chapters can be referenced logically from the file list on Github.
 - To read the latest version of the whole book go to: [Book (PDF)](https://github.com/sjstretton/taxheaven/blob/master/000-TaxHeaven.pdf)
