@@ -1,5 +1,5 @@
 ---
-title: "Tax Heaven"
+title: "Screwed?"
 output: 
   tufte::tufte_handout: default
 bibliography: 

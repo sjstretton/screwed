@@ -1,5 +1,5 @@
 ---
-title: "Screwed? How Tax Heaven Can Fix Our Economy and Planet"
+title: "Screwed? Principles of Political Economy and Taxation."
 author: "Gordon Styles and Stephen Stretton (Editors)"
 date: "`r Sys.Date()`"
 output:
@@ -17,7 +17,7 @@ link-citations: yes
 
 ```{r setup, include=FALSE}
 Platform <- "PC" #"PC" "Mac" "HeatherPC" 
-if(Platform=="PC") { 
+if(Platform=="Mac") { 
  setwd("~/Book") 
 } else if(Platform=="Mac") { 
   setwd("~/Documents/Book")
@@ -44,7 +44,9 @@ knitr::opts_chunk$set(echo = TRUE)
 The editors would like to extend their gratitude to the authors and to all who have helped in the writing of this draft book, in particular to Heather McKay, Angela Dennis, Chris Crompton, Jiama, Selvin Kwong, Neale Upstone, John McCone, Jasper Sky, Thibault Laurentjoye, Mike Reiss, Sacha Anthony, Mat Sayer, Mark Wadsworth, Tom Ward, Dirk Heine, Drew Jackson, Sarah Hafner, Ian Cook, Jo Wheeler, Raj Ashok, and Christopher Downing for assistance, comments, conversations, support and work. Remembering Adrian Wrigley for introducing Stephen to many of the ideas herein.
 \newpage
 
-# **PART I: OVERVIEW**
+# **PART I: IDEAS**
+
+The first part of the book is a three-scene drama in time and space. The first scene is set in the mid atlantic in the present day exploring collective risk; the second takes us through history of ideas exploring economic justice; the third is on some imagined island exploring ideas of how our economies work.
 
 \newpage
 
@@ -53,26 +55,24 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-```{r child = '02-QuestionsOfThisBook.Rmd'}
+```{r child = '02-RevolutionsInTheMindsOfMen.Rmd'}
 ```
 
 \newpage
 
-# **PART II: ECONOMICS**
-
-\newpage
-
-```{r child = '03-RevolutionsInTheMindsOfMen.Rmd'}
+```{r child = '03-DesertIslandEconomics.Rmd'}
 ```
 
 \newpage
 
-```{r child = '04-DesertIslandEconomics.Rmd'}
-```
+# **PART II: PRINCIPLES**
+
+The part act defines the questions of this book, tries to answer what might be the principles of a good economy and therefore a good taxation system.
 
 \newpage
 
-# **PART III: TAXATION**
+```{r child = '04-QuestionsPosedByThisBook.Rmd'}
+```
 
 \newpage
 
@@ -86,7 +86,7 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-# **PART IV: SECTORS AND PROPOSALS**
+# **PART III: INDIVIDUALS AND COMPANIES**
 
 \newpage
 
@@ -102,6 +102,9 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 ```{r child = '09-Corporations.Rmd'}
 ```
+
+
+# **PART IV: LAND, FINANCE AND ENVIRONMENT**
 
 \newpage
 
@@ -121,19 +124,13 @@ The editors would like to extend their gratitude to the authors and to all who h
 
 \newpage
 
-# **PART V: CONCLUSIONS**
+# **PART V: PROPOSALS**
 
 \newpage
 
 ```{r child = '14-Conclusions.Rmd'}
 ```
 
-# **APPENDIX**
-
-\newpage
-
-```{r child = 'A1-Cakenomics.Rmd'}
-```
 
 
 # BIBLIOGRAPHY
