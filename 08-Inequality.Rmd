@@ -334,14 +334,7 @@ Income taxation is one of the main ways in which the government affects income d
 
 Most people, when they think of tax, immediately think of income tax. It is possibly the most noticeably intrusive tax in every individual's life, requiring, as it does, the keeping of records, the filling in of forms, and possible sanctions from the 'tax man.' Unlike VAT, which is added to goods and services we purchase, income tax comes out of our earnings. There is often an added feeling of grievance associated with the sense that the government is taking money for which we have worked very hard.
 
-Income tax is progressive, with different rates of tax payable according to income. These rates are called 'Bands.' As of 2016, each individual is entitled to a'personal allowance' of £11,000 of non-taxable income. Above this, their income is taxable. Taxable income (i.e. income above the personal allowance) is subject to different tax rates depending upon the band within which it falls. The table below summarises the income tax bands and rates.
-
-| Band                                                     | Rate             | Income after allowances   2016/17 | Income after allowances  2015/16 |
-| ------------------------------------------------------------ | -------------------- | ----------------------------------------- | ---------------------------------------- |
-| [Starting rate for savings](http://www.gov.uk/apply-tax-free-interest-on-savings/10-savings-rate) | 10% (0% for 2015/16) | Up to £5,000                              | Up to £5,000                             |
-| Basic rate                                                   | 20%                  | Up to £32,000                             | Up to £31,785                            |
-| Higher rate                                                  | 40%                  | £32,001 to £150,000                       | £31,786 to £150,000                      |
-| Additional rate                                              | 45%                  | Over £150000                              | Over £150000                             |
+Income tax is progressive, with different rates of tax payable according to income. These rates are called 'Bands.' As of 2016, each individual is entitled to a'personal allowance' of £11,000 of non-taxable income. Above this, their income is taxable. Taxable income (i.e. income above the personal allowance) is subject to different tax rates depending upon the band within which it falls. 
 
 The current top marginal tax rate is 45%. The below chart shows how top marginal tax rates have changed over time for different countries. We can see that the top tax rate for the UK was very high during the Second World War and in the late 1970s. The top rate dropped sharply during the prime ministership of Margaret Thatcher in the 1980s.
 

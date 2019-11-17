@@ -55,7 +55,7 @@ World War II had almost bankrupted Britain. Britain had financed the war through
 ```{r fig-1-2, results='hide', message=FALSE, warning=FALSE, echo=FALSE,  fig.cap='Evolution of the UK National Debt. Source: Mitchell (2011)', out.width='100%'}
 library(readr, quietly = TRUE, warn.conflicts = FALSE)
 library(ggplot2, quietly = TRUE, warn.conflicts = FALSE)
-netdebttogdp_uk <- read_csv("Data/netdebttogdp_uk.csv", col_types=list(col_integer(),col_double()))
+netdebttogdp_uk <- read_csv("Model/Data/netdebttogdp_uk.csv", col_types=list(col_integer(),col_double()))
 netdebttogdp_uk <-netdebttogdp_uk[netdebttogdp_uk$Year>=1900,]
 ggplot(netdebttogdp_uk, aes(Year, PublicNetDebtPercentOfGDP)) + geom_line() + xlab("") + ylab("Public Debt as Percent of GDP")
 
