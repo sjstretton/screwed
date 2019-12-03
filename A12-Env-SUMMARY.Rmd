@@ -1,9 +1,0 @@
-This chapter considers five major issues: resource rent, climate change, transport externalities including congestion, food/health taxes, and other environmental issues that could be tackled by fiscal means. For space reasons we focus on the first two issues
-
-Discussion of environment up to now have ignored an important feature of fossil fuels: rent. We use the term 'resource rent' to mean the difference between the cost of production and the open market sale price. Because rent is ignored, the fiscal benefit of coordinated fossil fuel taxes to the countries imposing them, have been underestimated. An oil shock is a transfer of hard currency to oil producers for nothing in exchange - macroeconomically like war reparations and with similar results. Discussion of resource rent is important because of the 'rebound' effects associated with redcucing emissions, and necessary condition for climate stability - we keep the fossil fuels in the ground. The only way to ensure this happens is to reduce the pre-tax price to below the cost of production. Thus a carbon tax is a 'wedge' that increases the post-tax price in order to reduce the pre-tax price. 
-
-Climate change also involves important issues of policy design. If a carbon tax could potentially solve the problem, how high should the tax rate be? Is an optimally high tax rate politically feasible? We suggest a transitional policy, called a Carbon Incentive, for application in the electricity sector, and then discuss how a more general carbon tax can be imposed that does not discourage energy-intensive industry to move abroad.
-
-Discussions of climate change largely miss the need to consider resource rent and the difficulties of accurately measuring externalities when long time lines and existential risks are involved.
-
-We discuss road transport externalities briefly, focussing on the need for congestion charging. We also discuss food and health taxes. Finally we also discuss other externalities.

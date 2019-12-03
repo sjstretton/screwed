@@ -55,7 +55,7 @@ We argue there are additional reasons for taxing finance, money and debt.  These
 3. Taxing finance can increase incentives to invest productively
 4. Debt does not share in economic downturns, and therefore makes the system more fragile. Taxing debt could reduce incentives to create debt, reducing risk and increasing resilience of the system
 5. Helping debtors as opposed to creditors is associated with productive economic situations and peaceful futures
-6. The history of public debt management suggests that the government's policy towards interest rates, growth and inflation is highly significant in terms of the evolution of public debt^[Between the two world wars, the UK government adopted a system of fiscal austerity and high interest rates to return to the gold standard at pre-war parity. The results were disastrous: mass unemployment and an increase in the public debt-to-GDP ratio. On the other hand, after WW2, growth, moderate inflation and low interest rates were the norm. The debt came down from over 200% of GDP in the late 1940s to around 70% by the 1970s. We might say that the best way to reduce the public debt is not to worry about it].
+6. The history of public debt management suggests that the government's policy towards interest rates, growth and inflation is highly significant in terms of the evolution of public debt
 
 ## Taxing Finance in the UK
 
