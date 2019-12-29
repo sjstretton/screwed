@@ -1,11 +1,11 @@
 ---
-title: "Screwed? How our children can get their future back."
+title: "Screwed? Getting our future back with tax and benefit reform"
 author: "Stephen Stretton and Gordon Styles"
 date: "`r Sys.Date()`"
 output:
-  tufte::tufte_handout: default
-toc: false
-toc_depth: 1
+  tufte::tufte_handout: 
+    toc: true
+    toc_depth: 1
 bibliography:
 - Library/Mac/library.bib
 - Library/HeatherPC/library.bib
@@ -16,13 +16,15 @@ link-citations: yes
 \newpage
 
 ```{r setup, include=FALSE}
-Platform <- "PC" #"PC" "Mac" "HeatherPC" 
-if(Platform=="PC") { 
+Platform <- "MacAir" #"PC" "Mac" "HeatherPC" 
+if(Platform=="Mac") { 
  setwd("~/Book") 
 } else if(Platform=="Mac") { 
   setwd("~/Documents/Book")
 } else if(Platform=="HeatherPC") {  
   setwd("~/Github/TaxHeaven/taxheaven")
+}  else if(Platform=="MacAir") {  
+  setwd("~/screwed")
 }
 
 options(htmltools.dir.version = FALSE)
@@ -37,7 +39,6 @@ knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](ChapterPictures/0-1-RTW.png) 
 
 # Acknowledgments
 
