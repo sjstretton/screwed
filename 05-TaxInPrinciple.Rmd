@@ -1,5 +1,5 @@
 ---
-title: "Tax Heaven"
+title: "Screwed?!"
 output: 
   tufte::tufte_handout: default
 bibliography: 
@@ -12,7 +12,7 @@ link-citations: yes
 
 # 5.1 Why Tax?
 
-It seems obvious that the authors of this book, *Tax Heaven*, would be in favour of taxation. Taxes are, as we have argued in previous chapters, a valuable method to pursue a variety of social objectives. In fact, they are probably among the most important tools at the disposal of governments, despite the negative press that surrounds their levy and use. 
+Taxes are, as we have argued in previous chapters, a valuable method to pursue a variety of social objectives. In fact, they are probably among the most important tools at the disposal of governments, despite the negative press that surrounds their levy and use. 
 
 It’s time for a PR campaign. Death and taxes may be inevitable, but taxes do not have to be seen as inevitably negative. The careful design of tax regimes can minimise negative impacts, such as regressive levies, poor behavioural incentives, or sophisticated evasion of taxes by those who can afford specialist accountants. The importance of the tax regime implementation and planning process can scarcely  be overstated. Nor can the importance of effectively communicating the intended purpose of tax policy. The optics of policy design and implementation are key to minimizing resistance and maximising success. 
 
@@ -199,7 +199,7 @@ A welfare system should be:
 
 How do we change the tax system? We need to maximise the effect whilst minimising resistance to changes. This is true in two areas in particular: Environmental/energy policy and housing policy. If we want to have a big effect, we need a big incentive. We must use financial incentives to promote forms of entrepreneurship which will provide public benefit. But big changes tend to have big losers, and therefore suffer strong political resistance. 
 
-What can individuals and groups do to promote a better tax and welfare system? Economic justice campaigners seek to eliminate the evident unfairness of the current taxation and benefits system. Environmental and housing tax campaigners seek to use the tax system to make the private sector work for greater public good. Simplicity campaigners seek a simpler, more usable system. Tax Heaven proposes to combine these motivations to propose a fair, beneficial, and simple tax and social security system. It provides a rallying point for key ideas that could be implemented immediately. 
+What can individuals and groups do to promote a better tax and welfare system? Economic justice campaigners seek to eliminate the evident unfairness of the current taxation and benefits system. Environmental and housing tax campaigners seek to use the tax system to make the private sector work for greater public good. Simplicity campaigners seek a simpler, more usable system. We propose to combine these motivations to propose a fair, beneficial, and simple tax and social security system. It provides a rallying point for key ideas that could be implemented immediately. 
 
 ## Tax Theories of Change
 

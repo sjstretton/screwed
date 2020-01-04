@@ -1,5 +1,5 @@
 ---
-title: "Tax Heaven"
+title: "Screwed?!"
 output: 
   tufte::tufte_handout: default
 bibliography: 
@@ -26,7 +26,6 @@ Carbon taxes are a useful target for transnational incentives. Why? Because a ca
 Given these collective action design issues, there is a clear need to adopt a policy frame that is more conducive to action. One option that has been proposed (e.g. by Nordhaus) is a harmonized carbon tax framework. 
 
 # Prioritizing Carbon Taxes in Real Political Contexts
-
 
 A carbon tax is considered an optimal policy at least in part because it is reasonably full: it covers all sectors. From the perspective of optimal policy, the carbon tax should be as full and complete as possible. 
 Another perspective is that we don’t live in the optimal situation. For a start, there are international collective action problems, and it is hard to know the exact best carbon tax rate.

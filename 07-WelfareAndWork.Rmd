@@ -1,8 +1,9 @@
 ---
-title: "Tax Heaven"
+title: "Screwed?!"
 output: 
   tufte::tufte_handout: default
 bibliography: 
+- Library/PC/library.bib
 - Library/Mac/library.bib
 link-citations: yes
 ---
@@ -298,7 +299,7 @@ We therefore argue that a Citizens Dividend could be the next step forward in co
 
 In June 2016, a landmark referendum was held in Switzerland. The Swiss went to the polls to vote on whether the Swiss government should pay each citizen a monthly sum sufficient to allow them to live in a dignified manner and participate in public life. In Switzerland, referendums are commonplace - but what made this one remarkable is that it was the first time that the citizen's dividend idea was put to a referendum for serious consideration by the populace. Even more significantly, though, the referendum launched the idea into the mainstream media, bringing it widespread attention, both within Switzerland and internationally.
 
-So what is a citizens dividend? We use the term here as synonomous with Basic Income, but with the idea that a citizen's dividend is a 'top up' and is not intended to be enoough to live on. 
+So what is a citizens dividend? We use the term here as synonomous with Basic Income, but with the understanding that a citizen's dividend is a 'top up' and is not intended to be enough to live on. 
 
 There are many different models of a citizens dividend, but the core principle is the same.  The Basic Income Earth Network describes it as follows: 
 
@@ -352,7 +353,7 @@ The basic income concept avoids this trap because it is not means-tested. It pro
 
 Means-testing adds to the cost of administering benefits. The finances of each claimant is individually assessed, which is time-consuming and labour-intensive. For example, the cost of administering claims for housing benefit and council tax benefit is almost 16 times higher than the cost of administering child benefit, which is non means-tested.  
 
-Also, the Department of Work and Pensions makes individualised disability assessments to determine claimants' eligibility for the Employment and Support allowance and the Personal Independence Payment. These assessments are performed by private contractors and are costly and time-consuming. A report by the National Audit Office in January 2016 found that the over the period 2015 to 2018, the Department of Work and Pensions expected to spend £1.6 billion on contracted out health and disability assessments. The cost of ESA assessments was found to have increased from £115 per assessment to £190 per assessment after a change in contractors in 2015. The process of assessment for Employment as Support Allowance can be painful for claimants. The report found that ESA claims take on average 23 weeks to administer,bduring which period the claimants are not entitled to full payments [@DeptForWorkAndPensions2015].
+Also, the Department of Work and Pensions makes individualised disability assessments to determine claimants' eligibility for the Employment and Support allowance and the Personal Independence Payment. These assessments are performed by private contractors and are costly and time-consuming. A report by the National Audit Office in January 2016 found that the over the period 2015 to 2018, the Department of Work and Pensions expected to spend £1.6 billion on contracted out health and disability assessments. The cost of ESA assessments was found to have increased from £115 per assessment to £190 per assessment after a change in contractors in 2015. The process of assessment for Employment as Support Allowance can be painful for claimants. The report found that ESA claims take on average 23 weeks to administer, during which period the claimants are not entitled to full payments [@DeptForWorkAndPensions2015].
 
 A citizens dividend model would require no individualised means-testing of benefits. Most models of citizens dividend still require some benefit for those with particular disabilities or long-term illness, who have higher living costs as a result. Therefore, even with a citizens dividend, some individualised assessment would be necessary.  However, many people who currently receive Employment and Support Allowance do not have extra costs due to their illness, but are merely unable to work. That is, many are on ESA because JSA would require them to look for work, not because they have extra health costs. With a Citizens Income of a sufficient amount, it is reasonable to believe that many of those people would be satisfied with the basic amount, and will not require assessment for additional benefits.
 
@@ -427,7 +428,7 @@ There are variations of a redistributive Citizens Dividend Scheme that can be ta
 
 ## A Wealth Fund paying a Citizens Dividend: Basic Property
 
-Whereas the previous three example would be funded by increased taxes and/or reduced other benefits, a wealth fund basic income would be funded by a sovereign wealth fund. Wealth funds already exist, for example the Norwegian sovereign wealth fund. In this case the wealth fund would buy assets such as equities, bonds, land, or property. The wealth fund would pay out dividends according to the return (dividends, interest, rent) on the underlying assets.
+Whereas the previous three example would be funded by increased taxes and/or reduced other benefits, a wealth-fund basic income would be funded by a sovereign wealth fund. Wealth funds already exist, for example the Norwegian sovereign wealth fund. In this case the wealth fund would buy assets such as equities, bonds, land, or property. The wealth fund would pay out dividends according to the return (dividends, interest, rent) on the underlying assets.
 
 But how would the assets themselves be financed? From which source? There are a number of options: Taxation, Financial Surpluses from some other activity, Government Borrowing, and Quantitative Easing.
 
@@ -456,10 +457,9 @@ So for example if £2000 saving would be put into securities yielding 5% per yea
 
 There would be two methods for saving this £1000. First, for every £ you pay in income tax, you might get £1 of securities set aside for you. Second, the local authority or national government could pay you for doing various community actions.
 
-Communities need maintenance. Public goods need to be paid for. This creates a basic income scheme very much like the sort of scheme Beveridge intended, and also the welfare schemes that many countries have, which have a 'contributory' component. In other words, if you don't work,
+Communities need maintenance. Public goods need to be paid for. This creates a basic income scheme very much like the sort of scheme Beveridge intended, and also the welfare schemes that many countries have, which have a 'contributory' component. In other words, if you don't pay work and pay taxes, your right to benefits declines.
 
-It is intended to be the sort of scheme that represent the and financial
-interests of 99% of the population and the value set of 80% of the population, that build a broader coalition than egalitarianism alone to include community, the work ethic, as well as simiplification and the national interest. Over time, the scheme would move to being 'funded' perhaps by taxing multinational's shares apportioned by sales so that ownership over time moves to the fund(s) paying the basic income - a sovereign wealth fund in other words.
+It is intended to be the sort of scheme that represent the and financial interests of 99% of the population and the value set of 80% of the population, that build a broader coalition than egalitarianism alone to include community, the work ethic, as well as simplification and the national interest. Over time, the scheme would move to being 'funded' perhaps by taxing multinational's shares apportioned by sales so that ownership over time moves to the fund(s) paying the basic income - a sovereign wealth fund in other words.
 
 In summary, the scheme encourages community involvement, eliminates the disincentive effects and deadweight cost of income tax for everyone earning less than £50K per annum, and makes BI more palatable to people that subscribe to ideas that our communities, public physical infrastructure and public goods need maintenance and that work should be rewarded. All at no additional cost.
 
@@ -490,7 +490,7 @@ movement. The UK, and particularly London, are attractive places for people acro
 - If you are are getting help with housing: you get a payment
 of X per year, not including housing costs. - If you are not getting help with housing: you get a payment of Y per year.
 
-For those people in the universal credit system, replace it with a universal payment and a standard benefits withdrawal rate of 40%. Now, a benefits recipient would receive a universal benefit of ?4000 per year , and pay a standard tax of 40% on all income coming in.
+For those people in the universal credit system, replace it with a universal payment and a standard benefits withdrawal rate of 40%. Now, a benefits recipient would receive a universal benefit of £4000 per year, and pay a standard tax of 40% on all income coming in.
 
 *Step 3: Simplifying Income Tax.* For people working, replace it with a basic income and the elimination of the personal threshold. Simultaneously simplify the income tax, employees and employers system to a standard rate of 40% and a higher rate of 60% for the first percentile only. If you are in the PAYE system you get the basic income.
 
@@ -531,7 +531,7 @@ The guaranteed job is not likely to be taken up by everyone. The purpose of the 
 
 The system can be tailored to different types of people. For example, prisoners, homeless people, young people and older people whose work no longer exists have different requirements from a social welfare system.  Implementation would involve trialled schemes and schemes operating in parallel. Local authorities can also be encouraged to set up their own schemes.  Best practice could be developed to ensure individual needs are met. We would need a specific scheme for homeless people and disabled or chronically ill people. 
 
-We propose that prisoners get the full amount. Whilst in prison they would have access to the money to spend on provisions, then when they leave they will have a lump sum to restart their lives and not be a burden upon society. (If they die in prison the money cannot be passed on to relatives). Young people up to16 years get half the adult amount and those over 65 get 50% more than the adult amount.
+We propose that prisoners get the full amount. Whilst in prison they would have access to the money to spend on provisions, then when they leave they will have a lump sum to restart their lives and not be a burden upon society. (If they die in prison the money cannot be passed on to relatives). Young people up to 16 years get half the adult amount, and those over 65 get 50% more than the adult amount.
 
 ## Compulsion
 

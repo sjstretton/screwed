@@ -1,5 +1,5 @@
 ---
-title: "Tax Heaven"
+title: "Screwed?!"
 output: 
   tufte::tufte_handout: default
 bibliography: 
@@ -36,7 +36,7 @@ knitr::include_graphics('ChapterPictures/10-1-RealWagesvsHousePrices.png', dpi =
 
 The ratio is the highest it has been since April 2008, at the beginning of the great recession. We can see below that it is particularly hard for first-time buyers to afford a house in London.
 
-``{r fig-10-2, echo=FALSE, fig.margin=FALSE, fig.cap='First time buyer earnings to house price ratio across the UK. Source: ???'}
+```{r fig-10-2, echo=FALSE, fig.margin=FALSE, fig.cap='First time buyer earnings to house price ratio across the UK. Source: ???'}
 knitr::include_graphics('ChapterPictures/10-2-Firsttimebuyer.png', dpi = NA)
 ```
 
@@ -104,7 +104,7 @@ As campaigner Edward J. Dodson states,
 
 >*"One need look no farther than land acquisition costs for an explanation of why a residential property is an impossible acquisition for a growing segment of the population."* [@Shaxson2016]
 
-If you're not convinced, consideFigure 10.8.6 below [@Wightman2013]. This graph compares four important costs relating to housing, and shows how they have changed over time. The lowest line on the graph, 'Build Costs,' is the cost of actually constructing a house. 'House Price' is the value of the house only, and 'Land Price' is the value of the underlying land only. 'Earnings' show the population's average earnings.
+If you're not convinced, conside Figure 46 below [@Wightman2013]. This graph compares four important costs relating to housing, and shows how they have changed over time. The lowest line on the graph, 'Build Costs,' is the cost of actually constructing a house. 'House Price' is the value of the house only, and 'Land Price' is the value of the underlying land only. 'Earnings' show the population's average earnings.
 
 We see that while the cost of building houses has remained largely stable between 1986 and 2007, land prices have oscillated dramatically through a boom and bust cycle. The 'House Price' line is most revealing because, while the costs of building houses has stayed the same, the cost of buying them has oscillated - mirroring the 'Land Price' line [@Lloyd2009].
 
@@ -431,9 +431,9 @@ Neoclassical economic orthodoxy tends to conflate land (including natural resour
 
 According to writer Martin Adams, this failure to effectively distinguish between land and capital in economic models leads to "incorrect forecasts and faulty economic applications in addressing social issues such as wealth inequality or ecocide."[@Adams2016] This occurs partly because by seeing land as capital, we fail to recognise that *the factors which influence the price (land rents) of land are not the same factors which influence the price (interest rates) of capital.*
 
-This erroneous conflation of land with capital also leads to the treatment of land as an investible product, though it is not. Because land generally increases in value, people talk about buying land 'as an investment.' The buy-to-let landlords in the UK who see themselves as investors in property, are not truly investing in the economic sense. Rather, they are parking their money somewhere - thez are making a *'placement,'* not an investment. This is the case because to be an *investment,* by definition, something which is both new and of value must be created - something that did not previously already exist. Land is not investible in the sense that anything new of value is created by the input of money. Acquiring land involves a mere transfer of ownership - not a creation of new value. 
+This erroneous conflation of land with capital also leads to the treatment of land as an investible product, though it is not. Because land generally increases in value, people talk about buying land 'as an investment.' The buy-to-let landlords in the UK who see themselves as investors in property, are not truly investing in the economic sense. Rather, they are parking their money somewhere - they are making a *'placement,'* not an investment. This is the case because to be an *investment,* by definition, something which is both new and of value must be created - something that did not previously already exist. Land is not investible in the sense that anything new of value is created by the input of money. Acquiring land involves a mere transfer of ownership - not a creation of new value. 
 
-When money is put into start-up businesses producing food, shelving, toys, medical devices, or ultracapacitors, for example, these are productive investments. They may, in tandem with the efforts of people labouring in these businesses, create something new which is of value. The mere purchase of land in the hope that its value will go up later as a city gets generally more expensive, by contrast, is not a productive investment, as it adds no new goods or services of value to the economy. Neo-classical economic theory fails to recognise this important distinction. The results of this are policies which allow or encourage people to park their money in property rather than incentivising them to invest it in truly productive endeaviours, such as factories or new infrastructure. This misallocation of finances leads to less creation of new products and services than would be the case if money were invested, rather than merely 'placed.'
+When money is put into start-up businesses producing food, shelving, toys, medical devices, or ultracapacitors, for example, these are productive investments. They may, in tandem with the efforts of people labouring in these businesses, create something new which is of value. The mere purchase of land in the hope that its value will go up later as a city gets generally more expensive, by contrast, is not a productive investment, as it adds no new goods or services of value to the economy. Neo-classical economic theory fails to recognise this important distinction. The results of this are policies which allow or encourage people to park their money in property rather than incentivising them to invest it in truly productive endeavours, such as factories or new infrastructure. This misallocation of finance leads to less creation of new products and services than would be the case if money were invested, rather than merely 'placed'.
 
 # 10.11 Ways in which land differs from capital
 
@@ -463,7 +463,7 @@ The fact that land is 'uncontrollable in time' means that the benefits which flo
 
 > *"Nature's services per se...come in a flow like time itself, unbidden and uncontrollable. Mankind cannot advance nor retard its services at will."*[@Gaffney1994]
 
-Another effect of the immobile or fixed location of land is that is suffers externalities - both positive and negative - from activities on surrounding land. That is, the economic value of a piece of land is affected directly by what is going on by the land surrounding it. So for example, land's economic value can be affected by negative externalities such as pollution or crime in the surrounding area. The value of land can also be increased by 'positive externalities,' such as improvements to local infrastructure and the creation of public amenities.
+Another effect of the immobile or fixed location of land is that it suffers externalities - both positive and negative - from activities on surrounding land. That is, the economic value of a piece of land is affected directly by what is going on by the land surrounding it. So for example, land's economic value can be affected by negative externalities such as pollution or crime in the surrounding area. The value of land can also be increased by 'positive externalities,' such as improvements to local infrastructure and the creation of public amenities.
 
 ## 5. Land does not turn over. It is recycled and versatile
 
@@ -604,7 +604,7 @@ Ownership of land really has two components: It allows the landlord to collect r
 
 The first component, capturing land rent for public purposes, is in tune with the ideas of advocates for a land value tax (LVT). Proponents of an LVT argue for taxing land value (principally urban land, as agricultural land is of much lower value). An LVT separates the value of a property into two components: the value of the physical building (the bricks and mortar) and that of the underlying location (land value). As we've noted, many of the world's most famous economists, from Adam Smith and David Ricardo to Milton Friedman and Britain's Mirrlees Review of taxation have argued in favour of an LVT, and American journalist Henry George popularised these ideas with his masterpiece *Progress and Poverty*. Recently the Economist [has promoted the idea](https://www.economist.com/briefing/2018/08/09/the-time-may-be-right-for-land-value-taxes). In Singapore, public ownership of land allows the charging of ground rent, but this idea is implemented sensitively, with a view to reducing the cost of housing to low-paid workers.
 
-Singapore has also shown the advantages of the second component: The public sector having a decisive role in developing land. Providing public housing is of course crucial in a rapidly-developing high=wage city with limited space. Furthermore, the state development of infrastructure increases those very same land values. The public sector housing fund achieves a positive net income, and a replenishment of its funds, which can be used to provide further investment, in a beneficial cycle. Contrast this to Britain, where public infrastructure such as the HS2 high-speed rail line is paid from public funds, whereas the landowners near the stations, who benefit thanks to increased land values, pay nothing. 
+Singapore has also shown the advantages of the second component: The public sector having a decisive role in developing land. Providing public housing is, of course, crucial in a rapidly-developing high wage city with limited space. Furthermore, the state development of infrastructure increases those very same land values. The public sector housing fund achieves a positive net income, and a replenishment of its funds, which can be used to provide further investment, in a beneficial cycle. Contrast this to Britain, where public infrastructure such as the HS2 high-speed rail line is paid from public funds, whereas the landowners near the stations, who benefit thanks to increased land values, pay nothing. 
 
 The whole tenor of the Singapore approach is pragmatic, putting the public interest first, being sensitive to the interests of individuals, and avoiding concentration of power in any one institution.
 
@@ -616,7 +616,7 @@ Singapore shows that public land ownership can be combined with high rates of ow
 
 Because land is fixed in supply, it can be taxed without causing significant economic distortion. A land tax subtracts the value of the premises from the tax on the land itself. It can be imposed progressively, reducing the return to landownership (capital gain plus rent) to around a zero nominal return.
 
-The implementation of land value captitr can be achieved in two main ways. Firstly, a simple tax on land values and secondly, the public ownership of land combined with short-term lease sales. The successful city states of East Asia: Hong Kong and Singapore, adopt one or both of these two options. Hong Kong, due to the new territories being originally leased from China to Britain, never had private land ownership simply because the land was to be returned to China eventually. So the government of Hong Kong receives a large part of its revenue in the sale of leases of 20 or 30 years term. 
+The implementation of land value capture can be achieved in two main ways. Firstly, a simple tax on land values and secondly, the public ownership of land combined with short-term lease sales. The successful city states of East Asia: Hong Kong and Singapore, adopt one or both of these two options. Hong Kong, due to the new territories being originally leased from China to Britain, never had private land ownership simply because the land was to be returned to China eventually. So the government of Hong Kong receives a large part of its revenue in the sale of leases of 20 or 30 years term. 
 
 This tax is best introduced in 3 separate ways:
 
@@ -625,5 +625,5 @@ This tax is best introduced in 3 separate ways:
 3. Introduction of 'land value covenants', similar to 'government mortgages' but with the interest paid proportional to local land values. Those who have difficulty paying the tax(for example because they are asset rich or income poor) would have the option to roll up the tax into an indefinite 'interest payment' index to the value of the land.
 4. Some time threshold for any residual freehold ownership (e.g. 99 years).
 
-A land value tax on built up land would take the total value of the property and subtract the value of the building. Both values are easily assessed: for example there are multiple websites accessing overall property value. The advantage of subtracting property value is also that beautiful and historic buildings, and those that contribute to the character of areas can be recognize as such. This subsidy on building size would work well as a way to mitigate the increase of fossil fuel taxes on household energy bills.
+A land value tax on built up land would take the total value of the property and subtract the value of the building. Both values are easily assessed: for example there are multiple websites accessing overall property value. The advantage of subtracting property value is also that beautiful and historic buildings, and those that contribute to the character of areas, can be recognize as such. This subsidy on building size would work well as a way to mitigate the increase of fossil fuel taxes on household energy bills.
 

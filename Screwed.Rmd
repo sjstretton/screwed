@@ -1,5 +1,5 @@
 ---
-title: "Screwed? Getting our future back with tax and benefit reform"
+title: "Screwed?! Getting our future back with tax and benefit reform"
 author: "Stephen Stretton and Gordon Styles"
 date: "`r Sys.Date()`"
 output:
@@ -12,7 +12,7 @@ bibliography:
 - Library/PC/library.bib
 link-citations: yes
 ---
- 
+
 \newpage
 
 ```{r setup, include=FALSE}
@@ -39,10 +39,14 @@ knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 # Acknowledgments
 
-The authors would like to extend their gratitude to all who have helped in the writing of this draft book, in particular to Heather McKay, Angela Dennis, Chris Crompton, Jiama, Selvin Kwong, Neale Upstone, John McCone, Jasper Sky, Thibault Laurentjoye, Mike Reiss, Sacha Anthony, Mat Sayer, Mark Wadsworth, Tom Ward, Dirk Heine, Drew Jackson, Sarah Hafner, Ian Cook, Jo Wheeler, Raj Ashok, Dave Wetzel, Andrew Purves, and Christopher Downing for assistance, comments, conversations, support and work. Remembering Adrian Wrigley for introducing Stephen to many of the ideas herein. 
+The authors would like to extend their gratitude to all who have helped in the writing of this draft book, in particular to Heather McKay, Angela Dennis, Chris Crompton, Jiama, Selvin Kwong, Neale Upstone, John McCone, Jasper Sky, Thibault Laurentjoye, Mike Reiss, Sacha Anthony, Mat Sayer, Mark Wadsworth, Tom Ward, Dirk Heine, Drew Jackson, Sarah Hafner, Ian Cook, Jo Wheeler, Raj Ashok, Dave Wetzel, Andrew Purves, and Christopher Downing for assistance, comments, conversations, support and work. Remembering Adrian Wrigley for introducing Stephen to many of the ideas herein.
+
+# About this book
+
+This book, and the associated project, was conceived originally by Gordon Styles, Stephen Stretton and Ben Dyson. It was funded by Gordon Styles, and written by Stephen Stretton and Gordon Styles. Versions of different chapters were contributed, edited, written, or rewritten by other authors, including Angela Dennis (Inequality, Land, Welfare and Work, and parts of others), Heather McKay (Tax in Principle, Tax in Practice, Corporations, and others), Chris Crompton (Environment amd Resources). The book was edited by Jasper Sky, in collaboration with the authors. Previous iterations of the project or book title include 'Revolutionising Taxation and Welfare', 'Tax Heaven', and 'The Operating System of Capitalism'. The content was directed by Stephen Stretton and overseen by Gordon Styles. Final responsibility for the content rests with Stephen Stretton and Gordon Styles.
+
 \newpage
 
 # **PART I: IDEAS**
@@ -100,6 +104,7 @@ The authors would like to extend their gratitude to all who have helped in the w
 ```{r child = '09-Corporations.Rmd'}
 ```
 
+\newpage
 
 # **PART IV: LAND, FINANCE AND ENVIRONMENT**
 
@@ -118,7 +123,6 @@ The authors would like to extend their gratitude to all who have helped in the w
 ```{r child = '12-EnvironmentAndResources.Rmd'}
 ```
 
-
 \newpage
 
 # **PART V: PROPOSALS**
@@ -127,7 +131,5 @@ The authors would like to extend their gratitude to all who have helped in the w
 
 ```{r child = '14-Conclusions.Rmd'}
 ```
-
-
 
 # BIBLIOGRAPHY

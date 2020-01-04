@@ -1,9 +1,8 @@
 ---
-title: "Screwed?"
+title: "Screwed?!"
 output: 
   tufte::tufte_handout: default
 bibliography: 
-- Library/PC/library.bib
 - Library/Mac/library.bib
 link-citations: yes
 ---
@@ -103,11 +102,15 @@ Political feasibility is, it seems, a crucial barrier to these changes. Prioriti
 Here, we make a case for a simple 'change equation,' in which the perceived benefits of any policy must overwhelm the perceived costs. Dannemiller [-@Dannemiller1992] describes a formula created originally by David Gleicher. For change to take place: 
 
 $$D * V * F > D$$
+Where:
 
-- *D: Dissatisfaction with how things are now;*
-- *V: Vision of changes proposed;*
-- *F: First concrete steps that can be taken towards the vision.*
-- According to the model, the change will only happen if the product of these three factors is greater than *R: Resistance*. 
+- *D = Dissatisfaction with how things are now;*
+- *V = Vision of changes proposed;*
+- *F = First concrete steps that can be taken towards the vision.*
+
+According to the model, the change will only happen if the product of these three factors is greater than: 
+
+- *R = Resistance*. 
 
 ## The Beveridge Example
 

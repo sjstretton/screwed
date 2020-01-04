@@ -1,8 +1,10 @@
 ---
-title: "Tax Heaven"
+title: "Screwed?!"
 output: 
   tufte::tufte_handout: default
-bibliography: Library/PC/library.bib
+bibliography: 
+- Library/PC/library.bib
+- Library/Mac/library.bib
 link-citations: yes
 ---
 

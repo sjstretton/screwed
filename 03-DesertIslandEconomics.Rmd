@@ -1,5 +1,5 @@
 ---
-title: "Screwed?"
+title: "Screwed?!"
 output: 
   tufte::tufte_handout: default
 bibliography: 
@@ -152,4 +152,4 @@ What about over-hunting? A limited number of permits could be issued by the cent
 
 In this chapter we dealt with *economics*. We worked out how economies can fail to have widely spread prosperity, and the reasons why they fail. In the real world we live in today is not merely an economy but a political *and* economic system. Rather than purely a theory of economics, we need a theory of politico-economic systems. In this book we do not have space to consider what such a theory would involve in great detail. Rather we suggest two guiding ideas: the win-win change, and the social contract. The win-win change ensures that the new policies *work for the pre-existing people and companies*, on the whole; the social contract gives a shared moral basis for what we are proposing.
 
-We have seen a set of ideas concerning monopoly, land, external costs and the possibilities of progress in three different contexts: in the challenge of a real boat's captain, in history, and in an imaghined set of islands. In the next section we set out the central questions of this book in a bit more detail.
+We have seen a set of ideas concerning monopoly, land, external costs and the possibilities of progress in three different contexts: in the decision-making of a boat's captain, in the history of economic ideas, and in an imagined set of islands. In the next section we set out the central questions of this book in a bit more detail.

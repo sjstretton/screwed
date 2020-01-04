@@ -1,5 +1,5 @@
 ---
-title: "Screwed?"
+title: "Screwed?!"
 output: 
   tufte::tufte_handout: default
 bibliography: 
@@ -96,7 +96,7 @@ This book is about the prices of things, and how these are influenced by the tax
 
 This book does not argue for environmental taxes primarily to change the behaviour of consumers. Instead, it seeks to shift the economy to provide goods in ways that do not damage the living planet. Sometimes, this will be difficult. It's hard to design aeroplanes that do not burn oil products (although it is possible, albeit financially and energetically expensive, to produce low-carbon synthetic kerosene). But technologies change and adapt to market demands. And if zero-carbon planes cannot be designed, then perhaps those who fly should pay for the capture of carbon dioxide from the air and its permanent safe storage. The tax on flying, and on other activities that produce greenhouse gases, should be enough to encourage people to capture those gases from the air if they cannot be eliminated directly.
 
-The prices of things should be just. A just price requires a just tax system. A just tax system will cause people to pay for the damage they cause to the environment. A just system will also ensure that nobody gets rich *merely by owning* some of the things in life that are in limited supply, such as land. In short, in a just economy, justice and social benefit go hand-in-hand; fairness and efficiency are two sides of the same coin. That is the essence of Tax Heaven, and the aim of the reforms we propose in what follows.  
+The prices of things should be just. A just price requires a just tax system. A just tax system will cause people to pay for the damage they cause to the environment. A just system will also ensure that nobody gets rich *merely by owning* some of the things in life that are in limited supply, such as land. In short, in a just economy, justice and social benefit go hand-in-hand; fairness and efficiency are two sides of the same coin. That is the aim of the reforms we propose.  
 
 There's an old joke about a man who asks for directions and gets the response: "Well, if I were going there, I wouldn't start from here." It's not just the final state of affairs that must be just, but also the pathway for getting from here to there. Later on, we will try to show how to transition in a fair way to a just tax system.
 
@@ -104,10 +104,8 @@ There's an old joke about a man who asks for directions and gets the response: "
 
 Further down the street from Peter and Lucy lives Fred. Fred is on benefits. He took a job at one point a couple of years ago, but he found that once this happened, his benefits were cut off. There was a gap between his new wage and the benefits coming in. As a result, he didn't have the money for the rent. 
 
-The UK has rolled out a reform known as 'Universal Credit,' which integrates four income-related benefits into one. The 'benefits withdrawal' rate (in effect the income tax on additional income) on Universal Credit is 63%^[@HMG2019UC]. This means that you lose two-thirds of the extra income you get from working (rather than merely staying on benefits and not working). Does that seem like a deal likely to motivate the long-term unemployed to get back into work? Some of the problems with the new system also relate to administration and design issues. The Universal Credit system has also seen delays in payments, which has caused problems for recipients, like Fred, many of whom have no savings to see them through short-term cash flow bottlenecks. 
+The UK has rolled out a reform known as 'Universal Credit,' which integrates four income-related benefits into one. The 'benefits withdrawal' rate (in effect the income tax on additional income) on Universal Credit is 63%^[@HMG2019UC]. This means that you lose two-thirds of the extra income you get from working (rather than merely staying on benefits and not working). Does that seem like a deal likely to motivate the long-term unemployed to get back into work? Some of the problems with the new system also relate to administration and design issues. The Universal Credit system has also seen delays in payments, which has caused problems for recipients, like Fred, many of whom have no savings to see them through short-term cash flow bottlenecks.
 
 It does not have to be this way.
-
-In the next chapter we imagine a series of 
 
 ---
