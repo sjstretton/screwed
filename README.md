@@ -2,7 +2,7 @@
 
 ##  Contents
 
-This document contains the **overarching material** for *'Tax Heaven'*. It contains:
+This document contains the **overarching material** for *'Screwed?!'*. It contains:
 - Quick Start Guide
 - Overview of Book 
 - Presentation of Book
