@@ -31,7 +31,7 @@ link-citations: yes
 
 In this chapter, we will look at how wealth and income are distributed in Britain. As we will see, the distribution is very unequal. We will ask: Is it a problem that some have so much, while others have little? What relationship is there between high incomes and wealth and contributive merit? Do people really get what they deserve?   
 
-```{r fig-8-1, echo=FALSE, fig.cap='A Street Scene In The UK'}
+```{r fig-8-1, echo=FALSE, fig.cap='A Street Scene In The UK. Source: Unknown.'}
 knitr::include_graphics('ChapterPictures/8-1-InequalityPic.jpg', dpi = NA)
 ```
 
