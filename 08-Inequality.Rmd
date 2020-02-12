@@ -41,7 +41,7 @@ Aside from fairness, we also have to consider whether there may be serious socia
 
 In evaluating the status quo, we must take a two-pronged approach:
 
--  Benefit or Harm: Consider whether there are benefits or social ills associated with disparities in wealth and income, aside from whether or not those disparities are fair and just.
+- Benefit or Harm: Consider whether there are benefits or social ills associated with disparities in wealth and income, aside from whether or not those disparities are fair and just.
 - Fairness: Consider how income is received and how wealth accumulates in private ownership in Britain. Then we can assess whether this wealth accumulation occurs via fair or unfair means, and in fair or unfair amounts.
 
 Before making this assessment, we should take a step back. We have talked about 'wealth' and 'riches' on the assumption that we all take these words to mean the same things. In fact, the word 'wealth' in its common usage can refer to very different things. We break down our interpretation of this in the next section. 
